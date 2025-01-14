@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4767** proxies at the latest update. Usable proxies are below.
+> Scraper found **4815** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|122|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|470|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|121|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|519|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|347|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2902|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|115.77.129.11|10002|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|115.77.135.188|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|152.26.229.46|9443|United States|Charlotte|MCNC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|190.61.44.132|999|Colombia|Arjona|Ufinet Panama S.A.|
-|16|67.43.227.226|30373|Canada|Montreal|GloboTech Communications|
-|17|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
-|19|103.39.247.205|8080|India|Mumbai|Zess Networks Private Limited|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|115.77.135.188|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|12.165.234.253|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|95.111.199.248|2738|Singapore|Singapore|UpCloud Ltd|
+|7|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|8|115.72.36.57|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|103.167.170.196|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
 
 
 
