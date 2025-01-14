@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|14|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
+|6|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|7|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|46.209.199.145|8090|Iran|Tehran|Respina|
+|18|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
+|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
