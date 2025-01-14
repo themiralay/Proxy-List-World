@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|27.79.214.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.146.185.93|8080|Indonesia|Ponorogo|YAMNET|
-|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|124.121.2.153|8080|Thailand|Bangkok|TRUEBB|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|72.10.160.170|15623|Canada|Montreal|GloboTech Communications|
-|19|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
-|20|152.26.229.46|9443|United States|Charlotte|MCNC|
+|2|103.63.26.231|8080|Indonesia|Kresek|PT Global Media Data Prima|
+|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|12|173.212.244.38|3128|France|Lauterbourg|Contabo GmbH|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|18|27.79.214.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|51.89.25.53|3128|United Kingdom|London|OVH SAS|
+|20|200.37.187.58|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
 
 
 
