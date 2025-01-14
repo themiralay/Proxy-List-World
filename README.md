@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|110.77.171.157|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|5|171.254.76.2|8080|Vietnam|Biên Hòa|Viettel Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.187.114.100|8082|Indonesia|Teluknaga|PT Victory Network Indonesia|
-|11|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
-|13|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|14|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|15|103.155.168.89|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|16|177.240.4.125|999|Mexico|Ciudad General Terán|Mega Cable, S.A. de C.V.|
-|17|103.250.130.138|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|4|103.187.114.100|8082|Indonesia|Teluknaga|PT Victory Network Indonesia|
+|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
+|7|61.19.145.66|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|171.254.76.2|8080|Vietnam|Biên Hòa|Viettel Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
 |20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
