@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|4|171.224.188.183|10003|Vietnam|Hanoi|Viettel Corporation|
-|5|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|6|116.108.250.136|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|8|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|27.70.236.68|10002|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|103.75.85.102|8080|Indonesia|Central Java|MEGADATA|
-|15|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|116.105.30.109|2330|Vietnam|Da Nang|Viettel Corporation|
-|17|103.156.86.85|7777|Indonesia|Palopo|PT Chacha Networking System|
-|18|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|19|45.163.66.247|8088|Brazil|Aparecida de Goiânia|CDM TELECOM|
-|20|210.79.146.107|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|7|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|186.148.182.82|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|195.26.243.31|80|United States|St Louis|Nubes, LLC|
+|14|195.26.243.31|80|United States|St Louis|Nubes, LLC|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|19|121.101.131.128|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
