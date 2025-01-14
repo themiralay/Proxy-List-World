@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|5|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|6|4.228.227.167|3128|Brazil|São Paulo|Microsoft Corporation|
-|7|149.86.146.45|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|152.26.231.93|9443|United States|Charlotte|MCNC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|15|197.250.7.153|8080|Tanzania|Dar es Salaam|Vodacom Tanzania Ltd|
-|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|103.82.39.42|14001|Vietnam|Sông Thao|Cloudfly Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|103.36.8.37|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|202.162.213.178|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|8|61.19.145.66|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|9|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|190.121.4.157|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|14|38.7.1.198|8080|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
