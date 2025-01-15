@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|41.220.131.56|8080|Tanzania|Arusha|Habari Node Ltd|
-|6|204.157.251.234|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|147.45.49.234|3128|Japan|Tokyo|Global Connectivity Solutions LLP|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|38.156.72.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|202.154.19.165|8080|Indonesia|Jombang|DIGITNET|
-|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|16|157.173.195.52|3128|United States|St Louis|Nubes, LLC|
-|17|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|18|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|19|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|20|202.137.31.186|8080|Indonesia|Tangerang|LINKNET|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|4|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|5|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|6|103.148.44.99|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|7|27.65.61.112|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|41.220.131.56|8080|Tanzania|Arusha|Habari Node Ltd|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|16|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|17|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|207.230.8.10|999|Colombia|Bogotá|Cogent Communications|
 
 
 
