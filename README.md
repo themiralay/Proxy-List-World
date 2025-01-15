@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|185.53.35.160|8080|Ireland|Cashel|Digiweb ltd|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.40.120.85|50000|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|13|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|16|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|17|103.189.254.57|1111|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|18|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|19|72.10.160.91|6391|Canada|Montreal|GloboTech Communications|
-|20|45.182.177.81|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|119.11.205.96|8080|Indonesia|Jakarta|PT. NTT Indonesia|
+|5|190.60.34.94|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
+|6|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
+|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|10|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|13|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|14|103.82.126.202|8080|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
+|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|16|185.53.35.160|8080|Ireland|Cashel|Digiweb ltd|
+|17|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|20|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
 
 
 
