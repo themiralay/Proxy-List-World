@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|6|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
-|7|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|58.187.174.114|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|10|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|38.45.44.106|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|13|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|43.130.15.168|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|38.177.156.133|28080|United States|Los Angeles|PEG TECH INC|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|5|58.187.175.251|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|118.69.26.252|10028|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|103.180.122.81|7777|Indonesia|Kroya|PT Indo Telemedia Solusi|
+|8|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
+|9|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|13|103.189.223.58|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
+|14|58.187.174.114|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|115.178.49.119|8080|Indonesia|Bandung|NOC SIMAYA|
+|16|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
