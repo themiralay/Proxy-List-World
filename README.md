@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|103.165.222.190|8080|Indonesia|Malang|PT iForte Global Internet|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|194.150.69.56|8888|Iran|Isfahan|Gostaresh Ertebat Azin Kia Company PJSC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.203.173.134|84|India|Hyderabad|Softgaurd Powertronics|
-|7|138.0.141.46|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|8|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
-|9|188.132.222.17|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|103.99.136.38|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|11|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
-|12|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
-|13|45.179.71.90|3180|Brazil|Salvador|Marktec Telecom|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|1.2.217.102|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
+|6|213.159.195.47|3128|Russia|Yekaterinburg|LLC "KomTehCentr"|
+|7|202.93.244.194|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.203.173.134|84|India|Hyderabad|Softgaurd Powertronics|
+|17|72.10.160.94|20437|Canada|Montreal|GloboTech Communications|
+|18|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
