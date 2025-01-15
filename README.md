@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|178.128.61.238|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|4|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|7|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.255.23.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
-|15|160.20.165.13|6735|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|19|67.43.227.226|18323|Canada|Montreal|GloboTech Communications|
-|20|103.234.31.79|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|190.140.63.34|55916|Panama|Panama City|Cable Onda|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|210.79.30.157|8080|Australia|Sydney|Australia Power Control Systems|
+|9|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
+|10|23.143.160.193|999|Puerto Rico|Santo Domingo|Unonet Corp|
+|11|116.105.31.97|2340|Vietnam|Da Nang|Viettel Corporation|
+|12|103.180.122.60|8091|Indonesia|Kroya|PT Indo Telemedia Solusi|
+|13|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
+|14|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|192.81.213.42|10004|United States|North Bergen|DigitalOcean, LLC|
+|18|187.190.0.247|999|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
+|19|103.167.87.67|39064|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
