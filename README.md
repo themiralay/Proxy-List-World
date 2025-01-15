@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
-|4|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|58.187.174.218|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|36.73.181.20|8181|Indonesia|Banyuwangi|PT. TELKOM INDONESIA|
-|8|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|27.79.233.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|58.187.175.251|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|27.79.206.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|103.148.131.110|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|27.79.233.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|11|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|12|27.79.206.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.166.11.198|2024|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|16|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
