@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|5|103.124.139.197|2024|Indonesia|Bandung|Global Media Data Prima|
-|6|190.60.36.25|999|Colombia|San Cristóbal|IFX NETWORKS COLOMBIA|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.191.196.34|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|10|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|11|177.72.156.75|8080|Brazil|Santa Isabel do Ivaí|Torres e Anselmi Ltda|
-|12|103.227.186.131|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|13|116.100.72.80|8080|Vietnam|Cái Răng|Viettel Corporation|
-|14|38.255.23.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
-|15|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|203.115.124.75|8080|India|Mumbai|PRIMENET|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|197.248.75.221|8105|Kenya|Nairobi|Safaricom Limited|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|27.79.251.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|103.191.196.34|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|7|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.147.247.124|8080|Indonesia|Tangerang|PLBNET|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|103.171.255.58|8080|Indonesia|Sleman|ZKI|
+|17|27.79.251.249|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|35.77.214.208|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|49.48.45.203|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 
 
 
