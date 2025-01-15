@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|43.252.107.50|9020|Indonesia|Blitar|PT Lintas Data Prima|
-|13|119.18.154.201|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|14|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|15|95.169.203.245|9090|The Netherlands|Almere Stad|Alexhost SRL|
-|16|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
-|17|103.161.17.194|8888|Vietnam|Phúc Lai|BKSI|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.189.151.242|8080|Mexico|Comalcalco|Javier Tamayo Garcia|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.249.19.73|9699|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
+|8|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|67.43.236.22|25225|Canada|Montreal|GloboTech Communications|
 |18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|67.43.228.250|31653|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|22687|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
