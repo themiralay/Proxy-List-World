@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|118.69.26.252|10028|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|103.240.7.32|1046|Vietnam|Quận Hai|Giza Network Limited|
-|8|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
-|9|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|13|103.189.223.58|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|43.130.15.168|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|118.69.26.252|10028|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
+|6|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|7|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|10|103.189.223.58|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|27.79.233.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|43.130.15.168|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|16|103.240.7.32|1046|Vietnam|Quận Hai|Giza Network Limited|
+|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|18|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|124.158.146.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
