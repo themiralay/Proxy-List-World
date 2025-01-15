@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|58.187.174.114|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|58.187.175.219|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|58.187.175.251|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.206.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.203.69|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
-|16|103.126.87.112|3030|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|17|42.113.62.46|10009|Vietnam|Hanoi|FPT Telecom Company|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|58.187.175.219|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|58.187.174.114|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|7|58.187.175.251|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|27.79.206.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|27.79.203.69|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
