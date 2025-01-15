@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|203.150.113.95|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|103.143.168.58|82|India|Hyderabad|Aspt Networks Pvt Ltd|
-|6|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|149.86.146.197|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|19|72.10.160.170|3887|Canada|Montreal|GloboTech Communications|
-|20|84.214.150.146|8080|Norway|Oslo|Get AS|
+|3|113.255.59.226|8080|Hong Kong|Tsing Yi|HGC Global Communications Limited|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|203.150.113.95|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|72.10.160.170|9987|Canada|Montreal|GloboTech Communications|
+|16|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|17|91.236.156.30|8282|Ukraine|Lokhvytsya|Limited Liability Company AVATOR ISP|
+|18|67.43.227.227|5997|Canada|Montreal|GloboTech Communications|
+|19|103.48.71.62|83|India|Pargi|Country Online Services PVT LTD|
+|20|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
