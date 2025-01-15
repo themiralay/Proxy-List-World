@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|103.82.134.38|14001|Vietnam|Thanh Khê|Cloudfly Corporation|
-|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|1.2.252.65|8080|Thailand|Khlong Luang|TOT Public Company Limited|
-|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
-|11|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|45.249.122.198|8080|India|Kāramadai|Airconnect Services|
+|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|7|5.189.194.137|10808|Russia|Krasnoyarsk|KrasPromStroy, LLC|
+|8|101.128.83.167|8090|Indonesia|Jakarta|CBN|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|212.111.193.254|8080|Ukraine|Dnipro|User Association of Ukrainian Research and Academic Network URAN|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|36.91.48.131|8088|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|13|103.172.70.27|1111|Indonesia|Bandung|AZNET|
+|14|186.96.96.131|999|Colombia|Planadas|TV AZTECA SUCURSAL COLOMBIA|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
