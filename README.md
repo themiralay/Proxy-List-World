@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.83.18.149|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|103.143.168.58|82|India|Hyderabad|Aspt Networks Pvt Ltd|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|11|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|103.115.20.114|8182|Indonesia|Subang|PMYNET|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|188.132.222.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|6|219.93.111.125|9412|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
+|7|154.73.111.153|1976|Libya|Tripoli|Trans-Sahara IT & Communication|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.83.18.149|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|14|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
+|15|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|67.43.228.250|3223|Canada|Montreal|GloboTech Communications|
+|19|119.95.165.236|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|20|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
 
 
 
