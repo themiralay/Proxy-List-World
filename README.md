@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|223.205.21.132|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|5|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|27.79.194.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|27.79.201.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
-|11|58.187.174.114|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|14|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.35.193.118|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.134.118|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|4|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|5|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|8|103.154.77.204|89|Indonesia|Sleman|T2NET|
+|9|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|12|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|13|159.89.239.166|18097|United States|North Bergen|DigitalOcean, LLC|
+|14|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|15|159.89.239.166|18097|United States|North Bergen|DigitalOcean, LLC|
+|16|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|17|27.79.146.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|27.79.251.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
