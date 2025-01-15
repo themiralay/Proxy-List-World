@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.82.134.38|14001|Vietnam|Thanh Khê|Cloudfly Corporation|
-|6|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|103.82.134.38|14001|Vietnam|Thanh Khê|Cloudfly Corporation|
+|5|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|217.52.247.83|1976|Egypt|Cairo|Etisalat Misr|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|9|103.146.185.95|8080|Indonesia|Ponorogo|YAMNET|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|180.180.17.67|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|18|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|67.43.228.252|28759|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21331|Canada|Montreal|GloboTech Communications|
+|12|102.66.108.167|8865|South Africa|Hoedspruit|HERO TELECOMS (PTY) LTD|
+|13|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|14|217.52.247.83|1976|Egypt|Cairo|Etisalat Misr|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|101.108.16.131|8080|Thailand|Kanchanaburi|TOT Public Company Limited|
+|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|18|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|19|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
