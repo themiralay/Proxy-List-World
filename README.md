@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
-|4|103.88.90.18|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|5|115.241.225.42|80|India|Thrissur|Reliance Jio Infocomm Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|45.179.71.90|3180|Brazil|Salvador|Marktec Telecom|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|177.154.37.197|9090|Brazil|Promissão|America-NET Ltda.|
+|7|45.189.151.242|8080|Mexico|Comalcalco|Javier Tamayo Garcia|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|67.43.227.226|15425|Canada|Montreal|GloboTech Communications|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
 |14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.236.18|25619|Canada|Montreal|GloboTech Communications|
-|16|117.102.66.201|80|Indonesia|Jakarta|BIZNET|
-|17|67.43.227.228|23501|Canada|Montreal|GloboTech Communications|
-|18|177.93.45.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|31.214.171.217|8060|Iran|Tehran|Parsonline|
-|20|67.43.228.253|19563|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.227.228|11017|Canada|Montreal|GloboTech Communications|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
