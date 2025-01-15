@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|103.78.25.42|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|7|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
+|6|103.249.19.73|9699|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
+|7|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
 |8|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|9|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
-|10|103.19.79.245|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
-|11|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
-|12|118.69.26.252|10028|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|2.185.142.57|6565|Iran|Tehran|hamedan|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|120.28.216.166|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|20|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|9|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|10|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|11|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|15|103.78.25.42|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|168.243.89.65|999|El Salvador|San Salvador|Telenetwork de El Salvador|
+|18|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
 
 
 
