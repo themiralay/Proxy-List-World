@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|7|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
-|12|125.27.20.127|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.164.178|26317|Canada|Montreal|GloboTech Communications|
-|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|3|101.108.205.139|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|4|14.243.47.83|7007|Vietnam|Da Nang|VNPT|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|8|129.153.197.111|3128|United States|Phoenix|Oracle Corporation|
+|9|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|14|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|15|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|16|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|103.242.104.145|1080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|20|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
