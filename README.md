@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|167.86.106.97|3128|France|Lauterbourg|Contabo GmbH|
-|5|27.79.194.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|58.187.174.218|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
 |7|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|8|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|185.44.65.171|9595|United States|New York|Massivegrid LTD|
+|8|58.187.175.251|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|27.79.252.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.201.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|103.189.116.133|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|117.239.177.119|80|India|Kochi|BSNL Internet|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|27.79.134.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|167.86.106.97|3128|France|Lauterbourg|Contabo GmbH|
+|18|27.79.251.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
