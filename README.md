@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4773** proxies at the latest update. Usable proxies are below.
+> Scraper found **4810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|119|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|500|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2824|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|178.128.61.238|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|103.174.238.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|6|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|64.233.212.194|8080|United States|Albion|WideOpenWest Finance LLC|
-|8|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
-|16|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
-|17|192.81.213.42|10008|United States|North Bergen|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|20|67.43.227.226|14973|Canada|Montreal|GloboTech Communications|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.186.193.135|8084|Indonesia|Ploso|PT Lentera Digital Nusantara|
+|5|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|16|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|17|161.49.116.131|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|18|45.189.151.242|8080|Mexico|Comalcalco|Javier Tamayo Garcia|
+|19|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|24.152.55.15|999|Guatemala|Guatemala City|TV CABLE UNIVERSAL S.A|
 
 
 
