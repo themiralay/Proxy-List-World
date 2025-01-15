@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|124.217.97.35|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|103.194.46.34|8082|Indonesia|Nagara Tengah|JABNET|
-|13|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|14|67.43.236.20|28839|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.172|2733|Canada|Montreal|GloboTech Communications|
-|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.93|4915|Canada|Montreal|GloboTech Communications|
-|19|103.154.77.47|89|Indonesia|Sleman|T2NET|
-|20|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|193.122.144.51|3128|United States|Ashburn|Oracle Corporation|
+|4|193.122.144.51|3128|United States|Ashburn|Oracle Corporation|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|16|177.244.34.58|999|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
+|17|115.77.134.1|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|103.48.69.173|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|115.77.132.151|10003|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
