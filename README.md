@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4928** proxies at the latest update. Usable proxies are below.
+> Scraper found **4793** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|123|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|435|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2868|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
-|6|103.249.19.73|9699|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
-|7|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|8|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|9|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|10|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|11|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|103.78.25.42|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|168.243.89.65|999|El Salvador|San Salvador|Telenetwork de El Salvador|
-|18|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|181.78.13.203|999|Colombia|Morroa|IFX Networks Argentina S.R.L|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|9|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
+|10|128.199.44.243|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|209.14.115.101|999|Colombia|Neiva|AGIS|
+|12|103.78.25.42|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|13|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|14|103.126.173.47|8080|Indonesia|Bandar Lampung|MEGARAP|
+|15|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|171.232.182.178|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|171.232.182.178|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
 
 
 
