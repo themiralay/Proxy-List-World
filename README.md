@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|103.249.19.73|9699|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
-|6|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|7|103.126.86.17|3127|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|10|103.146.185.94|8080|Indonesia|Ponorogo|YAMNET|
-|11|198.11.182.231|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|117.239.177.119|80|India|Kochi|BSNL Internet|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.154.230.190|8080|Indonesia|Lamongan|DIGITNET|
+|2|36.95.173.90|8899|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.189.231.210|8181|Indonesia|Ciamis|PT Media Access Telematika|
+|8|202.58.206.15|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|11|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|41.254.63.14|8080|Libya|Tripoli|LTT Network Backbone and POPs|
+|14|217.168.76.83|3128|Russia|Kaliningrad|BALTNET|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
+|18|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|103.175.238.106|8082|Indonesia|Subang|PT Uliz Netmedia Solusindo|
 
 
 
