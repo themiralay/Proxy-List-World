@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|3|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
-|4|103.199.214.48|1007|India|Nainital|RailTel Corporation|
-|5|103.85.12.165|1234|Indonesia|Ciputat|PT. Hesta Media Sinergi|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|110.44.126.27|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|5|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|105.113.51.172|8080|Nigeria|Lagos|Airtel Networks Limited|
-|11|89.26.83.25|8080|Austria|Saalfelden am Steinernen Meer|SALZBURG AG fur Energie, Verkehr und Telekommunikation|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|8|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|103.199.214.48|1007|India|Nainital|RailTel Corporation|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|160.20.165.230|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
