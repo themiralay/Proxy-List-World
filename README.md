@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|114.9.25.182|8080|Indonesia|Sangatta|PT. INDOSAT Tbk|
-|5|103.169.255.169|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|6|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
-|7|124.217.97.89|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|202.138.243.42|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|11|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
-|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|114.9.25.182|8080|Indonesia|Sangatta|PT. INDOSAT Tbk|
+|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|7|115.127.126.185|8080|Bangladesh|Dhaka|BRACNet Limited|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.235.34.30|57413|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|27.79.233.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.146.191|16000|Vietnam|Hanoi|Viettel Corporation|
 |13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|15|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|16|178.124.77.98|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|17|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|177.70.72.103|20183|Brazil|Ijuí|RazaoInfo Internet Ltda|
+|14|113.192.30.123|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|15|24.106.221.230|53281|United States|Leland|Spectrum|
+|16|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|201.157.61.166|999|Mexico|Puebla City|Transtelco Inc|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 |20|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
