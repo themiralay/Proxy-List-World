@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |5|118.69.26.252|10028|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|27.79.251.61|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
-|10|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|11|202.179.16.2|443|Mongolia|Ulan Bator|Mongolia Telecom|
-|12|27.79.196.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|202.57.25.90|8080|Indonesia|Semarang|announced of WINET|
+|8|115.77.130.94|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|61.7.183.26|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|10|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
+|11|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|12|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.79.203.69|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|149.86.146.44|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|157.15.80.32|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|18|103.173.138.190|8080|Indonesia|Baturaja|PT Serayu Multi Connection|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|186.0.144.141|9595|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
 
 
 
