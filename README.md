@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
-|3|45.189.151.242|8080|Mexico|Comalcalco|Javier Tamayo Garcia|
-|4|200.94.96.174|999|Mexico|Chichimequillas|Alestra, S. de R.L. de C.V.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|103.203.173.134|84|India|Hyderabad|Softgaurd Powertronics|
 |5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|114.9.53.222|3125|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|7|103.169.133.46|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|8|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|11|117.239.177.119|80|India|Kochi|BSNL Internet|
-|12|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
-|13|178.212.53.26|41258|Poland|Wawrów|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|14|103.155.196.109|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|15|200.59.10.50|999|Argentina|Belén de Escobar|COTELCAM|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.88.90.18|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|9|202.93.244.194|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
+|10|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|11|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|12|45.32.244.63|80|Australia|Sydney|Choopa|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|15|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|16|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|115.77.130.94|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
 
 
 
