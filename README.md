@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|13|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
-|20|177.93.45.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|5|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|103.175.46.218|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|8|138.97.37.16|9393|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|89.169.55.200|3128|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|15|202.148.14.196|8050|Indonesia|Surabaya|DNET-SBY|
+|16|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|17|171.5.142.46|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
