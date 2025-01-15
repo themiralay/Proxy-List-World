@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|5|27.72.237.136|10008|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.11.152.158|8085|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|27.79.252.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|49.147.48.15|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|16|58.187.175.251|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|18|219.92.221.108|8080|Malaysia|Kuala Lumpur|TMnet|
-|19|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
-|20|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|5|58.187.174.218|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|8|27.79.251.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|117.239.177.119|80|India|Kochi|BSNL Internet|
+|11|159.89.239.166|18097|United States|North Bergen|DigitalOcean, LLC|
+|12|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.233.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.134.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
+|18|103.186.90.18|8080|Indonesia|Guyangan|PT Akses Data Internusa|
+|19|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
