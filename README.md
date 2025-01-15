@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|164.92.148.68|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|58.245.110.7|8011|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|1|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
+|2|103.88.90.18|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|3|103.155.196.109|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|4|103.203.173.134|84|India|Hyderabad|Softgaurd Powertronics|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|200.94.96.174|999|Mexico|Chichimequillas|Alestra, S. de R.L. de C.V.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
+|12|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |16|178.48.68.61|18080|Hungary|Budapest|UPC|
 |17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|20|58.136.169.255|8080|Thailand|Bangkok|AIS-Fibre|
+|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|67.43.227.230|3013|Canada|Montreal|GloboTech Communications|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
