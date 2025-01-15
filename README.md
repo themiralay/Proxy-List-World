@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.95|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|37.191.78.178|7050|Iran|Tehran|Ariana Gostar Spadana's|
-|3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|67.43.228.250|30063|Canada|Montreal|GloboTech Communications|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|38.172.130.119|999|Peru|Lima|Conex TV E.I.R.L.|
-|13|67.43.228.253|30583|Canada|Montreal|GloboTech Communications|
-|14|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|67.43.228.253|30583|Canada|Montreal|GloboTech Communications|
-|17|103.155.198.105|7777|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|18|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
-|19|67.43.227.226|28135|Canada|Montreal|GloboTech Communications|
-|20|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.150.113.95|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|17|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|18|72.10.164.178|25559|Canada|Montreal|GloboTech Communications|
+|19|45.163.66.247|8088|Brazil|Aparecida de Goiânia|CDM TELECOM|
+|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
