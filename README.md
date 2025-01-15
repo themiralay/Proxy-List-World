@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|5|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
-|7|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|8|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|11|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|119.95.179.136|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|17|122.3.77.27|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|18|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
-|19|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|27.189.131.201|8089|China|Langfang|Chinanet|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
+|3|103.19.79.245|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|7|43.247.38.57|8680|Indonesia|Bekasi|Maxindo|
+|8|27.79.203.69|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
+|10|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|11|181.78.13.203|999|Colombia|Morroa|IFX Networks Argentina S.R.L|
+|12|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|13|168.243.89.65|999|El Salvador|San Salvador|Telenetwork de El Salvador|
+|14|45.7.64.143|999|Mexico|Zacualtipán|Maysnet SA De CV|
+|15|200.24.228.194|3128|Chile|Viña del Mar|Servicios Internet Ltda|
+|16|103.173.139.22|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|17|27.79.201.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|45.239.51.169|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
