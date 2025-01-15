@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|43.247.38.57|8680|Indonesia|Bekasi|Maxindo|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|43.247.38.57|8680|Indonesia|Bekasi|Maxindo|
 |5|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
 |6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |7|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|8|103.189.249.138|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
-|12|49.145.53.171|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.124.97.12|8080|Nepal|Pokhara|Pokhara Internet Pvt. Ltd|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|103.169.255.195|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|17|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|16|191.102.107.237|999|Colombia|Málaga|TV AZTECA SUCURSAL COLOMBIA|
+|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|18|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
 
 
 
