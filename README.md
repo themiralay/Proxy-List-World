@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.16.239.242|1013|Japan|Tokyo|SAKURA Internet Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|5|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
 |6|109.120.184.51|1081|Finland|Helsinki|Aeza International LTD|
-|7|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|8|217.15.175.162|3128|United States|Boston|HOSTINGER US|
+|7|160.19.17.5|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |9|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|10|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|217.15.175.162|3128|United States|Boston|HOSTINGER US|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
-|16|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|11|45.7.64.143|999|Mexico|Zacualtipán|Maysnet SA De CV|
+|12|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|13|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|14|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|16|51.79.104.16|8484|Canada|Beauharnois|OVH Hosting|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
