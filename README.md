@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
-|4|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|5|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|8|188.132.221.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|10|217.197.100.249|8000|Italy|Poppi|WISP.ONE S.R.L.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.227.230|5711|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|20051|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|28135|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|33193|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|128.140.113.110|5678|Germany|Falkenstein|Hetzner Online GmbH|
+|5|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|19|5.187.9.10|8080|Georgia|Tbilisi|LLC Skytel|
+|20|200.61.16.80|8080|Argentina|Bahía Blanca|Silica Networks Argentina S.A.|
 
 
 
