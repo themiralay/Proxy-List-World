@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|4|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|5|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|188.245.219.15|443|Germany|Nuremberg|Hetzner Online GmbH|
-|9|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|45.4.194.230|8080|Brazil|Brasília|Orbitel Telecomunicações e Informática Ltda|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|9|186.83.28.190|999|Colombia|Medellín|Telmex Colombia S.A.|
+|10|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
+|18|27.147.142.17|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.160.91|4619|Canada|Montreal|GloboTech Communications|
 
 
 
