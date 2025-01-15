@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
 |6|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|13|103.171.182.107|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|203.150.113.143|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|16|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|103.249.19.73|9699|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.163.102.70|8181|Indonesia|Wonogiri Regency|PT Mamura Inter Media|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|27.79.194.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|103.155.198.161|8037|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|14|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|223.204.55.240|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|27.79.235.69|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|223.206.54.34|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|20|27.79.233.107|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
