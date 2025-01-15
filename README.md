@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|174.138.30.199|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|5|115.77.134.1|10003|Vietnam|Ho Chi Minh City|Viettel Group|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|11|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|11|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
 |12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|116.107.124.98|10081|Vietnam|Hanoi|Viettel Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|27.189.131.192|8089|China|Langfang|Chinanet|
-|17|72.10.164.178|2737|Canada|Montreal|GloboTech Communications|
-|18|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|19|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
-|20|103.48.71.46|83|India|Pargi|Country Online Services PVT LTD|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|17|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|18|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
