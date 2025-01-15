@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|3|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|67.43.236.20|16039|Canada|Montreal|GloboTech Communications|
-|10|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
-|11|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.180.119.99|7777|Indonesia|Raci Kulon|PT Persada Data Multimedia|
-|14|72.10.160.171|6815|Canada|Montreal|GloboTech Communications|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
-|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
-|19|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|58.136.169.255|8080|Thailand|Bangkok|AIS-Fibre|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|16|177.93.45.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|67.43.227.230|18621|Canada|Montreal|GloboTech Communications|
+|18|103.39.247.205|8080|India|Mumbai|Zess Networks Private Limited|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
 
 
 
