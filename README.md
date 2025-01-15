@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|178.128.61.238|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|101.255.166.185|8080|Indonesia|Jakarta|PT Remala Abadi|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|9|202.154.19.165|8080|Indonesia|Jombang|DIGITNET|
-|10|72.10.164.178|26767|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|103.172.252.229|8080|India|Noida|Cityline Networks Pvt Ltd|
-|13|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|14|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
-|15|67.43.227.226|22705|Canada|Montreal|GloboTech Communications|
-|16|103.162.63.164|8080|Indonesia|Argasari|PT Ring Media Nusantara|
-|17|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|18|103.220.23.215|8181|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|19|103.125.174.17|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|20|67.43.236.19|1669|Canada|Montreal|GloboTech Communications|
+|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|103.242.105.241|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|7|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.224.153.55|999|Ecuador|Jama|Ufinet Panama S.A.|
+|10|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|11|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
+|14|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
