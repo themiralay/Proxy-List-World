@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|5|117.239.177.119|80|India|Kochi|BSNL Internet|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|58.147.186.31|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|8|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|10|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|11|124.217.39.83|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|12|181.209.82.195|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|103.158.96.244|8033|Indonesia|Bandung|PT Dinar Wahana Gemilang|
-|14|103.126.86.17|3127|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|117.239.177.119|80|India|Kochi|BSNL Internet|
+|3|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|4|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|36.95.173.90|8899|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|8|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|109.201.13.186|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|11|190.52.97.30|999|Venezuela|Caracas|Gold Data USA Inc|
+|12|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.156.16.243|8080|Indonesia|Jatibarang|RSTNET|
+|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.220.23.211|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
