@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5296** proxies at the latest update. Usable proxies are below.
+> Scraper found **5255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|731|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2877|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2836|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|49.151.104.158|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|4|103.154.230.84|8080|Indonesia|Lamongan|DIGITNET|
-|5|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|6|58.187.174.114|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|9|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|182.253.162.182|3128|Indonesia|Gubengairlangga|BIZNET|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|58.187.174.218|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|27.79.252.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.203.69|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|58.187.162.154|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.201.104|16000|Vietnam|Hanoi|Viettel Corporation|
 |11|27.79.160.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.134.118|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|86.98.215.116|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|14|27.79.196.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|16|49.49.61.242|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|17|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|27.79.251.249|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|209.38.225.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|27.79.194.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|190.97.233.36|999|Venezuela|San Felipe|Viginet C.A|
+|15|27.79.196.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.134.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|167.86.106.97|3128|France|Lauterbourg|Contabo GmbH|
+|18|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
+|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|27.79.251.249|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
