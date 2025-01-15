@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|217.28.132.206|8080|Russia|Moscow|NetOne Rus JSC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|103.40.121.33|1081|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|6|27.79.252.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.239.48.66|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|9|103.48.71.150|83|India|Pargi|Country Online Services PVT LTD|
 |10|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.214.9.98|3128|Vietnam|Thanh Xuân|MEGACORE|
-|12|103.82.126.202|8080|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|27.79.251.249|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|195.26.243.31|80|United States|St Louis|Nubes, LLC|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|103.230.81.124|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|12|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|15|181.115.185.50|8080|Bolivia|Cochabamba|Entel S.A. - EntelNet|
+|16|109.127.82.18|8080|Iraq|Erbil|Newroz Telecom|
+|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|18|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
