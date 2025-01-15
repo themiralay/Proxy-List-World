@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|20.83.26.240|3128|United States|Des Moines|Microsoft Corporation|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|7|20.83.26.240|3128|United States|Des Moines|Microsoft Corporation|
+|8|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
 |9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|103.220.23.177|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.227.227|6751|Canada|Montreal|GloboTech Communications|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.191.47.3|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|192.81.213.42|10008|United States|North Bergen|DigitalOcean, LLC|
+|10|103.220.23.177|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|11|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
+|13|45.224.153.55|999|Ecuador|Jama|Ufinet Panama S.A.|
+|14|103.190.94.46|8080|Indonesia|Tolitoli|PT Triple Zhi Network|
+|15|188.132.222.39|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|17|41.33.203.228|1976|Egypt|Cairo|TE Data|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|5.189.194.137|10808|Russia|Krasnoyarsk|KrasPromStroy, LLC|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
