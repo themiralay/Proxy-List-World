@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|203.150.128.74|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|10|114.141.51.141|8010|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|16|103.75.84.32|8045|Indonesia|Central Java|MEGADATA|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|72.10.160.170|20517|Canada|Montreal|GloboTech Communications|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|203.150.128.74|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.247.23.213|1111|Indonesia|Baturaden|PT wifian Solution|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|9|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|203.150.113.143|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
