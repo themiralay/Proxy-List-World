@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|192.121.102.105|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|7|115.77.130.57|10007|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|74.208.75.233|3128|United States|Chicago|IONOS SE|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.157.116.213|8088|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|15|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
-|16|27.65.61.112|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|185.128.153.10|8080|Iran|Tehran|Shabakeh Gostar Shahriyar Co. (Ltd.)|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|101.255.158.41|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|74.208.75.233|3128|United States|Chicago|IONOS SE|
 |17|67.43.228.250|27125|Canada|Montreal|GloboTech Communications|
-|18|103.133.27.237|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|19|72.10.160.171|32409|Canada|Montreal|GloboTech Communications|
-|20|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|18|118.173.59.122|8080|Thailand|Hat Yai|TOT Public Company Limited|
+|19|192.81.213.42|10012|United States|North Bergen|DigitalOcean, LLC|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
