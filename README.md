@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|101.255.208.246|7888|Indonesia|Bekasi|PT Remala Abadi|
-|10|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
-|11|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|65.20.205.85|1971|Iraq|Tikrit|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|13|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
-|14|103.75.96.142|1111|Indonesia|Jakarta|MORATELINDO|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|45.64.96.205|7777|Indonesia|Jakarta|ARGON|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|165.22.50.45|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|5|27.79.163.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|171.232.178.165|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|10|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|27.79.251.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
