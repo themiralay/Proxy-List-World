@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|101.109.101.64|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|4|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|5|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|6|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|7|103.166.8.238|1080|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|8|115.77.134.1|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|1.20.169.90|8080|Thailand|Pattaya|TOT Public Company Limited|
-|10|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|157.100.52.178|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|165.255.94.92|8080|South Africa|Pretoria|Afrihost (Pty) Ltd|
-|18|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|19|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|9|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|12|66.218.61.195|8118|United States|Rancho Santa Fe|Race Tech, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|109.74.38.108|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
