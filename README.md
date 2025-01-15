@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|4|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|8|27.79.234.142|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|36.91.220.131|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|116.105.31.61|2345|Vietnam|Da Nang|Viettel Corporation|
-|14|24.152.50.130|8080|Dominican Republic|Concepción de la Vega|Lightwave S.R.L|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|185.35.130.16|55520|Russia|Moscow|Plazmatelekom LLC|
-|19|122.54.193.69|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|157.10.182.229|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|6|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|9|45.114.144.73|32650|India|Jaipur|Tejays Dynamic Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|8.218.71.197|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|62.146.176.25|8080|United States|St Louis|Nubes, LLC|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|35.77.214.208|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|62.146.176.25|8080|United States|St Louis|Nubes, LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
