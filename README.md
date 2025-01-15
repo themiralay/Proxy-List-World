@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|58.187.175.134|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|58.187.174.218|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|9|36.73.181.20|8181|Indonesia|Banyuwangi|PT. TELKOM INDONESIA|
-|10|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|27.79.251.249|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|58.187.163.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|5.35.81.51|8080|Kazakhstan|Astana|BEGET|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|103.227.186.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|5|27.79.252.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.147.250.198|83|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|12|41.204.43.30|3128|Ghana|Accra|Vodafone Ghana|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
