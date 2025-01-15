@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|10|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|11|185.128.153.10|8080|Iran|Tehran|Shabakeh Gostar Shahriyar Co. (Ltd.)|
-|12|74.208.75.233|3128|United States|Chicago|IONOS SE|
-|13|202.75.28.73|8080|Indonesia|Tegal|PT. Trans Indonesia Superkoridor|
-|14|177.130.104.118|33333|Brazil|Presidente Prudente|America-NET Ltda.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|180.191.36.128|8181|Philippines|Cabanatuan City|Globe Telecom|
-|18|67.43.228.253|31233|Canada|Montreal|GloboTech Communications|
-|19|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
-|20|67.43.227.226|28335|Canada|Montreal|GloboTech Communications|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|190.60.44.237|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.44.19.218|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|9|180.191.36.128|8181|Philippines|Cabanatuan City|Globe Telecom|
+|10|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|14|36.67.99.31|7023|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|15|102.210.25.30|8080|Kenya|Maseno|Dansted Tech Suppliers Limited|
+|16|27.147.175.115|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
+|18|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|19|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|20|203.177.237.138|8080|Philippines|Iloilo City|Globe Telecom|
 
 
 
