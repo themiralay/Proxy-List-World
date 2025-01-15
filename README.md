@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|203.150.128.74|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|27.189.134.151|8089|China|Langfang|Chinanet|
-|13|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
-|15|103.172.71.140|8080|Indonesia|Bandung|AZNET|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|119.95.165.236|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.94|23871|Canada|Montreal|GloboTech Communications|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|182.52.66.65|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|190.60.45.79|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
+|14|12.165.234.129|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
 
 
 
