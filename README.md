@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|182.253.232.218|8080|Indonesia|Jakarta|BIZNET|
-|3|3.133.146.163|8090|United States|Dublin|Amazon.com, Inc.|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|103.155.196.109|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|6|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|202.154.19.165|8080|Indonesia|Jombang|DIGITNET|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|27.189.135.78|8089|China|Langfang|Chinanet|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|103.82.126.202|8080|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
-|15|27.189.130.147|8089|China|Langfang|Chinanet|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|195.174.248.40|8080|Turkey|Bursa|Uydunet|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|103.88.90.18|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|5|194.150.69.56|8888|Iran|Isfahan|Gostaresh Ertebat Azin Kia Company PJSC|
+|6|1.2.217.102|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|27.70.236.68|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|38.183.146.183|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
 |18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|67.43.236.18|29517|Canada|Montreal|GloboTech Communications|
-|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.26.109.62|84|India|Kadayanallur|Niss Networks|
+|20|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
 
 
 
