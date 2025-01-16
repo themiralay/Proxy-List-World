@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.153.247.220|8080|Indonesia|Jakarta|PRIMAHOME|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|178.214.80.28|1976|Palestine|Ramallah|Gemzo information technology Private Joint-Stock company|
-|5|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|6|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|7|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|11|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.94|12753|Canada|Montreal|GloboTech Communications|
-|15|110.136.61.7|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|67.43.236.18|27591|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|7623|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|13707|Canada|Montreal|GloboTech Communications|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|103.182.184.123|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.82.126.38|1993|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|103.20.108.189|5758|Indonesia|Malang|PT Akses Data Internusa|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|12|178.214.80.28|1976|Palestine|Ramallah|Gemzo information technology Private Joint-Stock company|
+|13|103.182.184.123|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|190.60.32.146|999|Colombia|Pamplona|IFX NETWORKS COLOMBIA|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|202.47.188.193|7777|Indonesia|Madiun|Lintas Data Prima, PT|
+|18|125.25.199.10|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
 
 
 
