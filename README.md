@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|103.39.51.73|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|6|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
-|7|36.88.13.186|3129|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|103.156.16.227|8080|Indonesia|Jatibarang|RSTNET|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.227.187.234|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|67.43.228.250|24287|Canada|Montreal|GloboTech Communications|
-|14|103.155.198.141|1080|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|15|72.10.160.90|30843|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|6869|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|18149|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|27.147.219.198|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|46.249.122.1|8080|Iran|Kerman|Didehban Net Company|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|177.54.229.164|9292|Brazil|Parauapebas|Aranet Play|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|103.115.20.114|8182|Indonesia|Subang|PMYNET|
+|17|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|5.160.57.36|8080|Iran|Tehran|RSPN|
 
 
 
