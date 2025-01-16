@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|9|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|7|115.77.173.99|10002|Vietnam|Vũng Tàu|Viettel Group|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|10|49.51.244.112|8888|United States|Santa Clara|OPHL|
 |11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|101.109.217.222|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|103.176.227.197|8009|Indonesia|Bandung|PT Pass Internet Indonesia|
-|15|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.160.91|16385|Canada|Montreal|GloboTech Communications|
-|20|49.48.68.166|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|188.132.222.34|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
+|18|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
+|19|103.161.31.249|83|India|Hyderabad|Venkata Sai Internet Pvt. Ltd|
+|20|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
 
 
 
