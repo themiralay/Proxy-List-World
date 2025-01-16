@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|80.78.21.226|8118|Sweden|Malmo|ab stract|
-|6|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|7|103.178.171.37|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|8|103.127.220.190|8181|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|9|103.76.109.138|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.156.17.93|8080|Indonesia|Jatiwangi|RSTNET|
-|12|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|13|67.43.227.226|6117|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|17|202.58.77.228|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|18|67.43.228.250|13451|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|16051|Canada|Montreal|GloboTech Communications|
-|20|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|116.105.18.96|2348|Vietnam|Da Nang|Viettel Corporation|
+|7|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|8|103.122.66.231|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|14|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
+|17|72.10.160.91|25199|Canada|Montreal|GloboTech Communications|
+|18|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|72.10.160.170|16051|Canada|Montreal|GloboTech Communications|
 
 
 
