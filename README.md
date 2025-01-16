@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|36.67.223.231|8090|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|8|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|9|38.183.146.125|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|10|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|11|72.10.160.170|4103|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|21219|Canada|Montreal|GloboTech Communications|
-|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|72.10.160.170|4103|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|25349|Canada|Montreal|GloboTech Communications|
-|19|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|72.10.160.173|8529|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.239.51.179|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|192.81.213.42|10008|United States|North Bergen|DigitalOcean, LLC|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|192.81.213.42|10008|United States|North Bergen|DigitalOcean, LLC|
+|14|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|67.43.236.20|25481|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|7155|Canada|Montreal|GloboTech Communications|
+|17|192.81.213.42|10008|United States|North Bergen|DigitalOcean, LLC|
+|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|19|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|20|67.43.228.250|25349|Canada|Montreal|GloboTech Communications|
 
 
 
