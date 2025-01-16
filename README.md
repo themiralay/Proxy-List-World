@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|3|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.6.8.5|8080|United States|Macomb|MTC Communications|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|9|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|10|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.154.230.117|8080|Indonesia|Lamongan|DIGITNET|
-|13|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.10.164.178|23167|Canada|Montreal|GloboTech Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|18|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|20|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|45.114.144.87|32650|India|Jaipur|Tejays Dynamic Limited|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|157.100.63.128|80|Ecuador|Cuenca|Ufinet Panama S.A.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|15|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|16|36.92.52.98|8042|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.170|31169|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|30363|Canada|Montreal|GloboTech Communications|
+|20|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
 
 
 
