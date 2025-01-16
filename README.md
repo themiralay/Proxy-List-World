@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.77.248.71|45613|Singapore|Singapore|The Constant Company|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|72.10.164.178|31153|Canada|Montreal|GloboTech Communications|
-|12|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|14|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|15|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.160.170|27083|Canada|Montreal|GloboTech Communications|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|103.181.255.143|3128|Indonesia|Tuban|PT Giga Digital Nusantara|
-|20|61.160.247.69|9999|China|Nanjing|China Telecom|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.125.160.178|83|India|Hyderabad|CtrlS|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|9|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|72.10.164.178|31153|Canada|Montreal|GloboTech Communications|
+|15|190.52.100.188|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|17|103.167.87.48|39045|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|175.143.193.201|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
+|20|103.106.231.188|42061|Australia|Sydney|BrainStorm Network|
 
 
 
