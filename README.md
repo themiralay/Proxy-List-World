@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|128.90.145.180|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|11|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|103.245.159.52|8080|Indonesia|Jakarta|PDWNet|
-|14|103.148.44.105|8085|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|15|38.230.165.25|9090|Ivory Coast|Yamoussoukro|ORANGE COTE D'IVOIRE|
-|16|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|18|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|19|103.234.26.113|8080|Bangladesh|Kāfrul|BTS Communications (BD) Ltd|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|8|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|18|72.10.160.170|30103|Canada|Montreal|GloboTech Communications|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|146.196.40.86|8080|Indonesia|Karawang|UNINA|
 
 
 
