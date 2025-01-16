@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
-|8|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|38.97.215.97|8080|United States|Conifer|Cogent Communications|
-|11|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|12|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|36.64.181.82|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|18|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|177.93.37.35|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|4|103.35.109.205|58080|Bangladesh|Kāfrul|Ranks ITT|
+|5|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|7|103.75.85.115|1111|Indonesia|Central Java|MEGADATA|
+|8|81.90.149.186|3128|Iran|Tehran|Afranet|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|11|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|12|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|113.203.238.82|8080|Pakistan|Islamabad|SHARP TELECOM (PRIVATE) LIMITED|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|190.60.51.19|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
 
 
 
