@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|4|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|5|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|8|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|121.227.180.146|8089|China|Nanjing|China Telecom|
-|10|183.88.212.184|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|115.77.170.236|10003|Vietnam|Vũng Tàu|Viettel Group|
+|10|27.147.217.102|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|67.43.227.227|15197|Canada|Montreal|GloboTech Communications|
+|13|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.91|3023|Canada|Montreal|GloboTech Communications|
-|18|45.188.125.49|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.A De C.V.|
-|19|72.10.164.178|3159|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|223.204.55.240|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|117.239.177.119|80|India|Kochi|BSNL Internet|
 
 
 
