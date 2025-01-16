@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|134.35.179.1|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|3|134.35.179.1|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.154.77.40|89|Indonesia|Sleman|T2NET|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
 |8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|103.163.231.106|3127|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|11|223.204.48.121|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|67.43.227.229|25171|Canada|Montreal|GloboTech Communications|
-|13|134.35.217.166|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|67.43.228.250|24179|Canada|Montreal|GloboTech Communications|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|200.116.198.222|9812|Colombia|Santiago de Cali|UNE EPM TELECOMUNICACIONES S.A|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |15|72.10.160.170|32505|Canada|Montreal|GloboTech Communications|
-|16|45.144.164.212|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|103.169.39.66|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|67.43.236.18|21765|Canada|Montreal|GloboTech Communications|
+|19|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|134.35.217.166|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
