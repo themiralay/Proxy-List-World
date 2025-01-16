@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|119.157.83.34|8080|Pakistan|Faisalabad|Pakistan Telecommuication company limited|
-|10|157.20.218.28|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|111.95.176.247|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|81.90.149.186|3128|Iran|Tehran|Afranet|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|11|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|12|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|38.183.146.125|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
