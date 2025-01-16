@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|200.24.146.93|999|Ecuador|Huaquillas|Ufinet Panama S.A.|
-|6|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|67.43.228.250|8277|Canada|Montreal|GloboTech Communications|
-|13|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|67.43.236.22|6793|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|103.156.248.27|8085|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|18|103.21.68.12|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|67.43.227.230|27481|Canada|Montreal|GloboTech Communications|
-|20|189.193.225.10|999|Mexico|San Lorenzo Axocomanitla|Mega Cable, S.A. de C.V.|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|12|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|13|72.10.160.93|22469|Canada|Montreal|GloboTech Communications|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|16|37.211.87.104|8080|Qatar|Doha|Ooredoo Q.S.C|
+|17|67.43.228.250|14473|Canada|Montreal|GloboTech Communications|
+|18|103.152.238.178|1080|Indonesia|Bekasi|APRIN|
+|19|67.43.228.253|5445|Canada|Montreal|GloboTech Communications|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
