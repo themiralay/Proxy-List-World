@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|103.19.59.218|2134|Indonesia|Ngawi|BITSNET|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|190.120.252.81|999|Venezuela|Valencia|Internet Numbers Authority|
-|9|67.43.227.226|23815|Canada|Montreal|GloboTech Communications|
-|10|36.94.114.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
-|16|15.204.240.177|3128|United States|Reston|OVH SAS|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|20|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
+|3|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|4|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|192.81.213.42|10004|United States|North Bergen|DigitalOcean, LLC|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|14|181.78.79.97|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|17|103.156.248.45|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.10.160.172|6043|Canada|Montreal|GloboTech Communications|
+|20|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
 
 
 
