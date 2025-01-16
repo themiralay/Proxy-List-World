@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|4|41.216.186.146|8080|Indonesia|Kuningan Barat|FASTHOSTING|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|125.25.6.227|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|181.78.21.74|999|Colombia|San Marcos|IFX Networks Argentina S.R.L|
+|9|103.76.201.246|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|10|115.74.5.92|10009|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|11|47.247.141.78|8080|India|Chennai|Reliance Jio Infocomm Limited|
 |12|103.171.163.66|8080|Indonesia|Pagedangan|MYREPUBLIC|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|103.154.179.52|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|103.146.185.140|1111|Indonesia|Ponorogo|YAMNET|
+|16|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
+|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|197.250.7.153|8080|Tanzania|Dar es Salaam|Vodacom Tanzania Ltd|
 
 
 
