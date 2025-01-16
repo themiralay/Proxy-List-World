@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|3|115.72.36.65|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|45.173.228.148|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|5|103.160.40.251|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.228.253|28811|Canada|Montreal|GloboTech Communications|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|157.66.84.62|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|19|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|7|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|8|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|103.189.254.20|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|45.169.178.37|8081|Brazil|Manaus|Clickip Provedores De Acesso Ltda|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|5.160.57.36|8080|Iran|Tehran|RSPN|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|203.128.71.92|8080|Indonesia|Jakarta|Neuviz|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
