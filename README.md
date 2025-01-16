@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|41.216.186.146|8080|Indonesia|Kuningan Barat|FASTHOSTING|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|12|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|14|45.227.195.121|8082|Brazil|Passo Fundo|Mhnet Telecom|
-|15|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|27.70.236.68|10000|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.239.254.72|58080|Bangladesh|Bhātāra|Carnival Internet|
+|9|101.255.208.110|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|67.43.227.226|3875|Canada|Montreal|GloboTech Communications|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|187.190.0.247|999|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
+|19|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|20|84.51.15.251|32650|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
