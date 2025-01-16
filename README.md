@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |4|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|5|35.200.0.214|80|Japan|Tokyo|Google LLC|
-|6|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.124.137.99|8080|Indonesia|Tamanan|Global Media Data Prima|
-|10|182.253.177.0|8090|Indonesia|Jakarta|BIZNET|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|200.106.124.52|999|Peru|Tacna|Telefonica del Peru|
+|7|103.174.236.88|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.200.0.214|80|Japan|Tokyo|Google LLC|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|11|134.35.199.193|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|72.10.160.174|15249|Canada|Montreal|GloboTech Communications|
-|15|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|16|67.43.228.250|29319|Canada|Montreal|GloboTech Communications|
-|17|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
-|18|72.10.160.171|14975|Canada|Montreal|GloboTech Communications|
-|19|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|67.43.236.19|10921|Canada|Montreal|GloboTech Communications|
+|14|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|15|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|16|72.10.164.178|8267|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|7457|Canada|Montreal|GloboTech Communications|
+|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.236.19|10921|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
