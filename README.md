@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|91.107.180.116|8443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|45.114.144.114|32650|India|Jaipur|Tejays Dynamic Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|190.97.252.18|999|Venezuela|Trujillo|Viginet C.A|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|41.216.186.200|8080|Indonesia|Kuningan Barat|FASTHOSTING|
-|11|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|12|72.10.160.170|25263|Canada|Montreal|GloboTech Communications|
-|13|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|14|67.43.227.226|1239|Canada|Montreal|GloboTech Communications|
-|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|67.43.228.250|11759|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|1239|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|12561|Canada|Montreal|GloboTech Communications|
-|19|182.253.217.198|8008|Indonesia|Jakarta|BIZNET|
-|20|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|72.10.160.170|25263|Canada|Montreal|GloboTech Communications|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|94.131.3.222|1080|Switzerland|Bern|Stark Industries Solutions LTD|
+|13|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|14|103.190.171.41|8090|Indonesia|Jakarta|WMS|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|103.125.174.17|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|17|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|20|67.43.236.18|7169|Canada|Montreal|GloboTech Communications|
 
 
 
