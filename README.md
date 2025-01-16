@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|103.80.230.26|8090|Indonesia|Limapuluh|PT Dream Network Solusindo|
-|14|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|103.144.161.10|8088|Bangladesh|Dhaka|Bismillah Telecom|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.80.230.26|8090|Indonesia|Limapuluh|PT Dream Network Solusindo|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|5|41.57.7.190|6060|South Africa|Buffelspoort|Rust Scr|
+|6|89.104.102.209|58080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|190.211.172.182|999|Chile|San Fernando|InterNexa Global Network|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|115.77.143.126|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|115.77.143.126|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|16|49.48.96.46|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|72.10.160.92|15023|Canada|Montreal|GloboTech Communications|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|202.47.188.25|5566|Indonesia|Madiun|Lintas Data Prima, PT|
 
 
 
