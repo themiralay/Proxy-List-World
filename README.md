@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|172.96.171.76|8080|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|103.166.11.198|2024|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|8|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|72.10.160.170|16009|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|8173|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|30527|Canada|Montreal|GloboTech Communications|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|18|67.43.236.18|19265|Canada|Montreal|GloboTech Communications|
-|19|200.107.234.172|3128|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|20|72.10.160.90|30527|Canada|Montreal|GloboTech Communications|
+|3|103.85.53.54|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|176.32.39.4|443|Russia|St Petersburg|LLC Baxet|
+|17|103.55.253.12|8080|Indonesia|Surabaya|Lintas Daya|
+|18|72.10.164.178|19107|Canada|Montreal|GloboTech Communications|
+|19|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|67.43.236.18|7591|Canada|Montreal|GloboTech Communications|
 
 
 
