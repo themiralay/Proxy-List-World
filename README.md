@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|181.129.1.228|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|165.16.55.19|44444|Libya|Şabrātah|Aljeel Aljadeed For Technology|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|9|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
-|10|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|14|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|15|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|45.114.144.114|32650|India|Jaipur|Tejays Dynamic Limited|
+|5|179.57.170.143|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|6|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|10|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|13|203.170.66.154|8080|Pakistan|Lahore|Netsol CONNECT LHE Core|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|200.106.124.52|999|Peru|Tacna|Telefonica del Peru|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|146.196.40.146|8080|Indonesia|Karawang|UNINA|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
