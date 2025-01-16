@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.20.88.122|8080|Indonesia|Trucuk|PT Indo Teknologi Konstruksi|
-|5|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|6|103.227.107.5|8080|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|171.4.116.113|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|67.43.236.20|25095|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|8393|Canada|Montreal|GloboTech Communications|
-|14|202.51.98.229|7000|Indonesia|Depok|PT iForte Global Internet|
-|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|16|177.240.4.125|999|Mexico|Ciudad General Terán|Mega Cable, S.A. de C.V.|
-|17|211.225.214.241|80|South Korea|Cheongju-si|Korea Telecom|
-|18|190.16.199.142|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|159.192.139.178|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|149.28.181.248|80|Australia|Sydney|The Constant Company|
+|7|103.247.14.51|9285|Indonesia|Klaten|TERABIT|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|15|103.126.86.29|9090|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|16|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|17|202.51.98.229|7000|Indonesia|Depok|PT iForte Global Internet|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|20|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
 
 
 
