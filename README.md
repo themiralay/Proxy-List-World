@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|101.109.187.156|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|3|113.11.179.85|8181|Indonesia|Bandung|Biznet Networks|
+|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.67.84.146|8080|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|7|213.148.22.66|3128|Uzbekistan|Tashkent|Servercore UZ|
-|8|115.74.5.92|10009|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|9|45.174.248.11|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|10|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.167.170.237|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|13|180.180.109.88|8080|Thailand|Ban Chang|TOT Public Company Limited|
-|14|125.24.134.32|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|24.49.117.86|8888|United States|Cambridge|Midcontinent Communications|
-|19|67.43.236.18|31503|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27893|Canada|Montreal|GloboTech Communications|
+|6|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
+|7|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|8|186.148.195.70|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|12|24.49.117.86|8888|United States|Cambridge|Midcontinent Communications|
+|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|113.192.31.161|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|18|103.59.213.29|8080|India|Navi Mumbai|India Gaming Center|
+|19|67.43.227.226|25079|Canada|Montreal|GloboTech Communications|
+|20|101.109.98.161|8080|Thailand|Chon Buri|TOT Public Company Limited|
 
 
 
