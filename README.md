@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|103.168.254.222|1111|Indonesia|Jepara|PT Fahasa Tri Data|
+|2|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|35.212.131.189|8118|United States|The Dalles|Google LLC|
-|9|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|177.244.34.58|999|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
-|18|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|19|72.10.160.94|16973|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|9535|Canada|Montreal|GloboTech Communications|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|115.77.172.5|10007|Vietnam|Vũng Tàu|Viettel Group|
+|7|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
+|8|43.252.238.166|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|9|115.77.173.99|10002|Vietnam|Vũng Tàu|Viettel Group|
+|10|35.200.0.214|80|Japan|Tokyo|Google LLC|
+|11|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|12|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
