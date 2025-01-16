@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|203.150.128.242|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|171.249.211.166|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|72.10.164.178|8715|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|10895|Canada|Montreal|GloboTech Communications|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.171.83.49|80|Indonesia|Karawang|PT Multi Network Indonesia|
-|17|67.43.227.230|33203|Canada|Montreal|GloboTech Communications|
-|18|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.164.178|8715|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|181.78.94.23|9991|Paraguay|Asunción|Ufinet Paraguay S.A|
+|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|103.180.122.81|7777|Indonesia|Kroya|PT Indo Telemedia Solusi|
+|13|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|67.43.227.227|7281|Canada|Montreal|GloboTech Communications|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|92.115.107.19|8080|Moldova|Chisinau|JSC MOLDTELECOM SA|
+|18|177.23.156.1|18800|Brazil|Anápolis|netstore tecnologia ltda|
+|19|103.174.237.71|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|20|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 
 
 
