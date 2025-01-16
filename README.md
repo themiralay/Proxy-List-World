@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
-|5|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|38.97.215.97|8080|United States|Conifer|Cogent Communications|
-|8|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|27.189.135.133|8089|China|Langfang|Chinanet|
-|13|67.43.227.230|4953|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|67.43.236.20|19807|Canada|Montreal|GloboTech Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|64.6.8.5|8080|United States|Macomb|MTC Communications|
-|18|27.189.134.145|8089|China|Langfang|Chinanet|
-|19|27.189.128.237|8089|China|Langfang|Chinanet|
-|20|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.159.96.178|8055|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|13|103.154.77.48|89|Indonesia|Sleman|T2NET|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|116.212.110.18|58080|Bangladesh|Kāfrul|TelNET Communication Ltd|
+|16|103.44.19.218|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|17|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|72.10.160.91|25801|Canada|Montreal|GloboTech Communications|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
