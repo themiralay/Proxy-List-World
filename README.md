@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|49.49.22.169|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|7|103.156.15.23|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|13|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|14|103.148.45.184|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|117.102.66.201|80|Indonesia|Jakarta|BIZNET|
-|18|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|19|146.196.40.146|8080|Indonesia|Karawang|UNINA|
-|20|72.10.160.90|23407|Canada|Montreal|GloboTech Communications|
+|2|202.137.8.150|8080|Indonesia|Bekasi|LINKNET|
+|3|103.127.220.190|8181|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|17|103.171.245.32|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
