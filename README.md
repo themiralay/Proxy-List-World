@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|3|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|4|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|72.10.160.174|3795|Canada|Montreal|GloboTech Communications|
-|12|190.60.41.70|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
-|13|72.10.164.178|27461|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|10323|Canada|Montreal|GloboTech Communications|
-|15|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
-|16|72.10.160.170|8429|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|10323|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
+|2|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|8|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|12|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|13|103.159.92.147|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|66.218.61.195|8118|United States|Rancho Santa Fe|Race Tech, LLC|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
