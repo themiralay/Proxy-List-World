@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|103.190.171.197|8080|Indonesia|Jakarta|WMS|
-|7|103.147.118.142|7777|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|8|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|9|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|77.37.132.129|8080|Russia|Moscow|NCNET|
-|13|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|144.126.142.70|3128|United States|St Louis|Nubes, LLC|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|144.126.142.70|3128|United States|St Louis|Nubes, LLC|
-|17|38.43.123.133|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
-|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|19|27.189.131.1|8089|China|Langfang|Chinanet|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|27.189.131.1|8089|China|Langfang|Chinanet|
+|18|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|19|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
