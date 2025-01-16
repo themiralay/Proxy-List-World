@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|178.128.51.244|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.243.47.83|7007|Vietnam|Da Nang|VNPT|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|36.76.103.9|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|103.143.169.121|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|37.26.86.206|47464|Albania|Librazhd|ATU|
-|12|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|13|103.125.174.17|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|15|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|16|27.70.236.68|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|45.224.149.15|999|Ecuador|Borbón|Ufinet Panama S.A.|
-|18|27.70.236.68|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|7|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|124.121.2.202|8080|Thailand|Bangkok|TRUEBB|
+|11|65.20.165.70|8081|Iraq|Najaf|Hulum|
+|12|200.32.51.179|8080|Argentina|Mendoza|Telefonica de Argentina|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|194.44.36.114|6868|Ukraine|Chernivtsi|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 
 
 
