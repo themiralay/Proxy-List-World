@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|4|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|115.77.130.57|10007|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|41.217.220.214|32650|Kenya|Nairobi|MyISP Ltd|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|45.174.249.8|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
-|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|67.43.228.250|29309|Canada|Montreal|GloboTech Communications|
+|3|103.39.51.113|8099|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|41.216.186.146|8080|Indonesia|Kuningan Barat|FASTHOSTING|
+|6|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|13|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|18|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
