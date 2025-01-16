@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|103.253.72.220|8080|Thailand|Tha Kham|Readyidc Company Limited|
-|5|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|6|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|9|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|134.35.179.1|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|13|67.43.227.226|8537|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|11777|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|31.163.204.156|8080|Russia|Perm|OJSC Rostelecom|
-|19|67.43.227.229|25171|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|32655|Canada|Montreal|GloboTech Communications|
+|1|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|67.43.227.227|24233|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|67.43.228.251|32655|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|11777|Canada|Montreal|GloboTech Communications|
+|12|103.124.137.230|8080|Indonesia|Tamanan|Global Media Data Prima|
+|13|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|14|67.43.227.226|8537|Canada|Montreal|GloboTech Communications|
+|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|20|203.190.46.27|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
 
 
 
