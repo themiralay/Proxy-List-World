@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
 |5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|72.10.160.170|2833|Canada|Montreal|GloboTech Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|11|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.228.250|14473|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|3927|Canada|Montreal|GloboTech Communications|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|18|150.107.244.109|8088|Indonesia|Bandung|Infrastruktur STARNET|
-|19|103.106.231.188|42009|Australia|Sydney|BrainStorm Network|
-|20|67.43.227.226|3927|Canada|Montreal|GloboTech Communications|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|144.126.157.79|3128|United States|St Louis|Nubes, LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|45.91.134.231|8080|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|10|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|171.7.26.245|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
+|15|67.43.228.250|5523|Canada|Montreal|GloboTech Communications|
+|16|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
