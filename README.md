@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|45.5.116.144|999|Guatemala|Guatemala City|Infinitum S.A.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|8|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|9|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|103.35.108.250|2024|Bangladesh|Dhaka|Ranks ITT|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|19|42.119.33.175|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|4.247.152.147|3128|India|Pune|Microsoft Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|4|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|5|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|6|41.33.203.227|1976|Egypt|Cairo|TE Data|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|36.91.68.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|45.77.248.71|45613|Singapore|Singapore|The Constant Company|
+|14|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|15|171.228.130.95|17083|Vietnam|Vĩnh Tường|Viettel Corporation|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|27.25.133.19|808|China|Shizishan|China Telecom|
+|20|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
