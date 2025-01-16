@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|49.48.89.35|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|3|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|4|157.20.209.105|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
-|5|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|5|157.66.84.57|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|6|103.175.46.13|8080|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.153.62.246|8181|Indonesia|Bekasi|IMEDIANET|
 |10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|14.243.47.83|7008|Vietnam|Da Nang|VNPT|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|176.241.143.197|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|15|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|16|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|103.87.171.253|32650|India|Jaipur|Tejays|
-|20|85.15.21.102|8080|Iran|Tehran|SHATEL Network|
+|11|103.189.123.223|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|12|103.164.235.18|8085|Indonesia|Serang|PT Bantani Media Utama|
+|13|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|14|101.255.166.185|8080|Indonesia|Jakarta|PT Remala Abadi|
+|15|188.132.150.91|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
+|17|103.180.196.113|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|27.70.236.68|10011|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
