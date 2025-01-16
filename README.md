@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3855** proxies at the latest update. Usable proxies are below.
+> Scraper found **3992** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|361|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|299|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2269|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
 |3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|5|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|12|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|13|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
-|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|67.43.236.19|25461|Canada|Montreal|GloboTech Communications|
-|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|17|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|19|80.194.38.106|3333|United Kingdom|Newham|Virgin Media Limited|
-|20|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|4|103.190.171.41|8090|Indonesia|Jakarta|WMS|
+|5|181.129.1.228|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|49.0.34.194|80|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|116.105.30.109|2330|Vietnam|Da Nang|Viettel Corporation|
+|13|27.131.250.222|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|194.5.207.120|8000|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|1.0.170.50|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|171.7.26.245|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|20|177.93.40.179|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
