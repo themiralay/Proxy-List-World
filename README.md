@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|115.112.231.148|443|India|Ghaziabad|Tata Communications Limited|
-|5|72.10.164.178|7505|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.91|19621|Canada|Montreal|GloboTech Communications|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|27.189.134.148|8089|China|Langfang|Chinanet|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|67.43.228.253|23573|Canada|Montreal|GloboTech Communications|
-|11|131.100.51.247|999|Colombia|Neiva|Fibernet TV SAS|
-|12|67.43.227.229|18645|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|21479|Canada|Montreal|GloboTech Communications|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|72.10.160.174|29429|Canada|Montreal|GloboTech Communications|
+|10|103.126.86.29|9090|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|11|157.66.37.52|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|12|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|13|157.20.209.62|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
 |14|72.10.160.91|19621|Canada|Montreal|GloboTech Communications|
-|15|38.52.161.118|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|16|67.43.236.22|2227|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|17219|Canada|Montreal|GloboTech Communications|
-|18|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|19|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|180.112.180.161|8089|China|Nanjing|Chinanet|
+|15|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|45.235.16.121|27234|Brazil|Agudos do Sul|Acessoline Telecom|
+|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|181.209.82.203|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|103.138.71.38|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
 
 
 
