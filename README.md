@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.144.146.40|34343|Indonesia|Tulungagung|Lexxa Data|
-|5|45.4.148.70|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|223.206.121.130|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|43.247.38.57|8680|Indonesia|Bekasi|Maxindo|
-|12|67.43.236.18|27575|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|139.84.208.93|3129|India|Bengaluru|The Constant Company, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
-|17|193.31.41.19|8080|France|Paris|Regxa Company for Information Technology Ltd|
-|18|95.154.20.113|34248|Denmark|Rødding|SYD ENERGI|
-|19|72.10.164.178|26189|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|13867|Canada|Montreal|GloboTech Communications|
+|1|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.189.123.223|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|103.176.227.197|8009|Indonesia|Bandung|PT Pass Internet Indonesia|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|14|72.10.160.90|13867|Canada|Montreal|GloboTech Communications|
+|15|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|16|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|17|72.10.160.172|8085|Canada|Montreal|GloboTech Communications|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|38.255.23.131|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
 
 
 
