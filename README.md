@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|3|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
-|6|41.57.7.190|6060|South Africa|Buffelspoort|Rust Scr|
-|7|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|8|190.211.172.182|999|Chile|San Fernando|InterNexa Global Network|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|72.10.160.90|31103|Canada|Montreal|GloboTech Communications|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|103.153.191.209|8080|Indonesia|Malang|WANET|
+|12|115.77.143.126|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|67.43.236.20|3145|Canada|Montreal|GloboTech Communications|
+|15|103.172.252.229|8080|India|Noida|Cityline Networks Pvt Ltd|
+|16|67.43.236.20|3145|Canada|Montreal|GloboTech Communications|
+|17|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
+|18|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
