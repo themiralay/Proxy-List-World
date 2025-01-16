@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|4|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|10|67.43.228.250|29137|Canada|Montreal|GloboTech Communications|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|13|72.10.160.90|3623|Canada|Montreal|GloboTech Communications|
-|14|103.227.187.234|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|15|67.43.227.226|8537|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|19265|Canada|Montreal|GloboTech Communications|
-|17|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|18|190.60.41.70|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
+|1|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|2|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|6|103.168.254.62|8080|Indonesia|Jepara|PT Fahasa Tri Data|
+|7|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|67.43.228.251|3463|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|15447|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|116.105.18.96|2348|Vietnam|Da Nang|Viettel Corporation|
+|17|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
+|18|1.179.148.9|55636|Thailand|Bangkok|TOT Public Company Limited|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
