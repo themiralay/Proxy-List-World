@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|66.218.61.195|8118|United States|Rancho Santa Fe|Race Tech, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|176.32.39.4|443|Russia|St Petersburg|LLC Baxet|
-|5|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
-|6|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|103.85.53.54|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
-|9|103.159.195.193|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|10|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|11|101.255.209.242|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|14.177.134.185|5102|Vietnam|Hanoi|VNPT|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|72.10.160.170|31039|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|26675|Canada|Montreal|GloboTech Communications|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|72.10.160.171|14663|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|16495|Canada|Montreal|GloboTech Communications|
-|20|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|7|62.183.96.197|8080|Russia|Maykop|Southen Telecommunication Maintainer|
+|8|91.228.51.26|3128|Russia|Bor|PJSC Rostelecom|
+|9|35.212.74.86|80|United States|Washington|Google LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|152.67.8.148|443|India|Mumbai|Oracle Corporation|
+|12|35.212.74.86|80|United States|Washington|Google LLC|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
