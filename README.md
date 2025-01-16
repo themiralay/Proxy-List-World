@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|184.82.57.9|8080|Thailand|Khon Kaen|AIS-Fibre|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|7|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|9|103.153.134.22|8089|Indonesia|Cikupa|WMINET|
-|10|154.73.29.201|8080|Libya|Tripoli|Rawafed|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|15|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|6|45.177.16.132|999|Paraguay|Ciudad del Este|MSW S.A.|
+|7|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
+|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.176.97.229|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|11|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|117.5.56.157|19987|Vietnam|Hanoi|VIETTEL|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.153.149.207|8080|Indonesia|Semarang|JARINGANKU|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|103.126.173.47|8080|Indonesia|Bandar Lampung|MEGARAP|
 
 
 
