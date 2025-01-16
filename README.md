@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|4|115.245.46.170|8080|India|Hyderabad|Reliance Jio Infocomm Limited|
-|5|103.130.116.39|8090|Indonesia|Sembung|Lintas Data Prima, PT|
-|6|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|9|190.140.63.34|55916|Panama|Panama City|Cable Onda|
-|10|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|11|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|15|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|16|102.0.12.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|19|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|3|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|7|103.19.59.218|2134|Indonesia|Ngawi|BITSNET|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|113.23.157.45|1231|Malaysia|Kuala Lumpur|Extreme Broadband|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|12|188.168.24.38|81|Russia|Irkutsk|TTK-Retail|
+|13|187.217.197.236|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|67.43.227.226|17219|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
 
 
 
