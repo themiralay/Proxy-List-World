@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|184.82.17.71|8080|Thailand|Chiang Mai|AIS-Fibre|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|7|118.173.59.122|8080|Thailand|Hat Yai|TOT Public Company Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
-|12|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|17|203.150.113.107|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|18|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|19|49.73.4.65|8089|China|Nanjing|China Telecom|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|3|223.205.185.65|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|7|103.173.138.252|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|8|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|78.187.2.189|1451|Turkey|Diyarbakır|TurkTelecom|
+|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|102.210.25.30|8080|Kenya|Maseno|Dansted Tech Suppliers Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|36.95.55.207|3128|Indonesia|Galur|PT. Telekomunikasi Indonesia|
+|18|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|19|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
