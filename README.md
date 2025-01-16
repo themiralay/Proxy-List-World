@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|2|103.159.195.29|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|171.249.211.166|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|103.159.195.29|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|67.43.227.226|31039|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|24551|Canada|Montreal|GloboTech Communications|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
+|10|113.192.31.51|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 |11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|72.10.160.172|27973|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|9523|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11341|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|31039|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|19|67.43.228.251|30119|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|30119|Canada|Montreal|GloboTech Communications|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.7.65.253|999|Mexico|Zacualtipán|Maysnet SA De CV|
+|17|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.164.178|8267|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|4749|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|9217|Canada|Montreal|GloboTech Communications|
 
 
 
