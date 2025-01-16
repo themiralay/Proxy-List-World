@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|8|200.39.120.84|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|181.78.94.23|9991|Paraguay|Asunción|Ufinet Paraguay S.A|
-|11|103.147.118.142|7777|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|72.10.160.91|3239|Canada|Montreal|GloboTech Communications|
-|14|171.232.180.71|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|67.43.227.226|28493|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|18|67.43.227.226|28493|Canada|Montreal|GloboTech Communications|
-|19|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.122.66.82|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|9|185.157.160.159|8118|Sweden|Stockholm|OVPN|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|36.91.155.42|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|167.249.29.215|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|19|67.43.227.226|12941|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
