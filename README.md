@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|3|45.170.102.225|999|Chile|Santiago|Fibernet SPA|
-|4|103.80.98.16|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
+|6|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
 |9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|10|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|61.160.247.69|9999|China|Nanjing|China Telecom|
-|13|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
-|14|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
-|16|103.133.26.7|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
+|10|103.93.93.220|3127|Indonesia|Wedoro|MYRISE|
+|11|129.18.210.10|8080|Nigeria|Lagos|Swift Networks Limited|
+|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
+|14|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|15|185.88.154.247|8585|Iran|Tehran|Parsian High Tech Company PJSC|
+|16|122.54.119.79|8080|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
 
 
 
