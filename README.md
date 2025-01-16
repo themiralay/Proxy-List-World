@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|185.172.214.59|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|185.172.214.59|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
-|7|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|103.167.86.58|39055|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
-|19|67.43.228.250|17015|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|24765|Canada|Montreal|GloboTech Communications|
+|6|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|36.91.48.131|8088|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.227.226|24765|Canada|Montreal|GloboTech Communications|
+|19|43.252.107.50|9020|Indonesia|Blitar|PT Lintas Data Prima|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
