@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|41.216.186.146|8080|Indonesia|Kuningan Barat|FASTHOSTING|
-|4|95.211.126.178|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.239.254.72|58080|Bangladesh|Bhātāra|Carnival Internet|
-|7|190.94.213.211|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|182.53.150.142|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
-|11|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|178.128.51.244|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.70.236.68|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|190.94.213.211|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|15|181.78.13.205|999|Colombia|Morroa|IFX Networks Argentina S.R.L|
-|16|78.187.2.189|1451|Turkey|Diyarbakır|TurkTelecom|
-|17|103.189.123.110|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|61.145.214.107|65533|China|Guangzhou|Chinanet|
 
 
 
