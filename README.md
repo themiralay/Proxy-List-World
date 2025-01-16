@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|6|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|7|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|102.0.9.138|32650|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|12|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|103.76.151.90|8090|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|24.152.49.250|999|Dominican Republic|Concepción de la Vega|Lightwave S.R.L|
-|17|72.10.160.170|11093|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|18819|Canada|Montreal|GloboTech Communications|
-|19|58.208.159.212|8089|China|Nanjing|China Telecom|
-|20|67.43.227.229|19407|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|171.228.130.133|18589|Vietnam|Vĩnh Tường|Viettel Corporation|
+|5|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|183.88.212.184|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|10|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|11|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|13|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
