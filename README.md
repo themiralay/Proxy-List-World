@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
 |6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|204.157.251.234|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|8|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|9|72.10.160.171|25749|Canada|Montreal|GloboTech Communications|
-|10|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.160.40.251|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|12|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|13|103.115.242.194|8080|Bangladesh|Nawābganj|Md. Rashed Mollah|
-|14|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
-|15|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|16|67.43.227.229|1511|Canada|Montreal|GloboTech Communications|
-|17|103.138.70.42|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|18|180.254.147.105|8080|Indonesia|Sungaigerong|PT. TELKOM INDONESIA|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|67.43.228.253|7509|Canada|Montreal|GloboTech Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|9|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|10|103.159.194.33|1111|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|11|72.10.164.178|1479|Canada|Montreal|GloboTech Communications|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|67.43.236.18|31537|Canada|Montreal|GloboTech Communications|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|17|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|43.230.129.54|3333|Indonesia|Banjar Sandinggianyar|Internet Ini Saja|
+|20|115.77.143.126|10003|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
