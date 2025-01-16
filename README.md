@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3984** proxies at the latest update. Usable proxies are below.
+> Scraper found **3840** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|321|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|313|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2280|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|184.82.57.9|8080|Thailand|Khon Kaen|AIS-Fibre|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.10.160.171|13329|Canada|Montreal|GloboTech Communications|
-|16|103.155.198.105|7777|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
-|20|188.132.150.91|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|103.19.59.218|2134|Indonesia|Ngawi|BITSNET|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|190.120.252.81|999|Venezuela|Valencia|Internet Numbers Authority|
+|9|67.43.227.226|23815|Canada|Montreal|GloboTech Communications|
+|10|36.94.114.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
+|16|15.204.240.177|3128|United States|Reston|OVH SAS|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|20|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
 
 
 
