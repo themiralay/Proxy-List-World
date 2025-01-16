@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|103.82.126.38|1993|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|181.129.1.228|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|4|45.114.144.114|32650|India|Jaipur|Tejays Dynamic Limited|
-|5|187.204.88.129|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.97.252.18|999|Venezuela|Trujillo|Viginet C.A|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|87.249.58.156|1080|Russia|St Petersburg|JSC Selectel|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|103.125.50.234|8080|Indonesia|Pemalang|PT. Eka Mas Republik|
+|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|38.52.155.146|999|Colombia|Soacha|Giga Fibra SAS|
-|16|180.105.38.91|1080|China|Nanjing|Chinanet|
-|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|18|119.95.238.173|8082|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|182.176.164.41|8080|Pakistan|Karachi|Pakistan Telecommuication company limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|72.10.160.94|15635|Canada|Montreal|GloboTech Communications|
+|19|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|20|72.10.160.174|6055|Canada|Montreal|GloboTech Communications|
 
 
 
