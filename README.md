@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|8|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|9|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|10|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|11|103.158.96.198|8080|Indonesia|Bandung|PT Dinar Wahana Gemilang|
-|12|157.15.66.95|8282|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|13|103.154.77.47|89|Indonesia|Sleman|T2NET|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|16|72.10.164.178|23543|Canada|Montreal|GloboTech Communications|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|72.10.160.173|26629|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|30587|Canada|Montreal|GloboTech Communications|
-|20|103.159.195.29|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|1|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|2|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|7|66.218.61.195|8118|United States|Rancho Santa Fe|Race Tech, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|134.35.179.1|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|14|72.10.160.173|26629|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|16495|Canada|Montreal|GloboTech Communications|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
