@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|103.41.32.182|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|7|44.204.165.196|3128|United States|Ashburn|Amazon.com|
-|8|44.204.165.196|3128|United States|Ashburn|Amazon.com|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|187.204.88.129|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|13|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
-|14|45.225.69.99|8080|Argentina|Empalme Villa Constitución|FABIANI MATIAS NICOLAS (AIRWEB - BANDA ANCHA)|
-|15|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
-|16|103.161.195.27|1080|Indonesia|Malang|PT Java Media Grup|
-|17|72.10.164.178|2931|Canada|Montreal|GloboTech Communications|
-|18|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|125.25.199.10|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|38.255.23.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|8|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|67.43.227.227|12721|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|15|146.196.41.31|8085|Indonesia|Karawang|UNINA|
+|16|12.165.234.249|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|17|169.159.128.116|8082|South Africa|Pretoria|Herotel|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|181.209.122.114|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
