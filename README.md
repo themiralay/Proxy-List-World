@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.126.87.181|7777|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|49.48.69.144|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|9|176.37.139.137|41890|Ukraine|Kyiv|Lanet Network|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|171.7.56.215|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|14|202.58.77.228|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.126.87.181|7777|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|15|208.67.28.27|58090|United States|Eagle River|SonicNet Inc.|
+|16|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|103.235.181.130|8080|Indonesia|Jakarta|PT Top Class Universal|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
