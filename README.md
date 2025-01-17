@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|184.82.17.71|8080|Thailand|Chiang Mai|AIS-Fibre|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|67.43.228.250|18831|Canada|Montreal|GloboTech Communications|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|67.43.236.19|3195|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|21489|Canada|Montreal|GloboTech Communications|
-|16|45.224.153.55|999|Ecuador|Jama|Ufinet Panama S.A.|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|203.177.237.138|8080|Philippines|Iloilo City|Globe Telecom|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|36.88.249.106|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.181.255.143|3128|Indonesia|Tuban|PT Giga Digital Nusantara|
+|16|27.71.228.47|3128|Vietnam|Hanoi|VIETTEL|
+|17|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
+|18|170.78.61.26|8080|Brazil|Jacinto|Maiqvox Telecom|
+|19|192.145.205.97|8080|Brazil|Montes Claros|Vianet Guaraciama Eireli ME|
+|20|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
 
 
 
