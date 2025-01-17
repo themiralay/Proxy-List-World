@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|103.156.15.99|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|112.198.178.35|8080|Philippines|Nasugbu|Globe Telecom|
-|9|223.204.160.231|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|14|72.10.164.178|18773|Canada|Montreal|GloboTech Communications|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|20|67.43.228.254|32571|Canada|Montreal|GloboTech Communications|
+|1|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|2|125.27.11.8|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|203.190.46.131|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|8|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.228.250|21893|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|113.192.30.183|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|117.239.177.119|80|India|Kochi|BSNL Internet|
+|18|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|19|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
