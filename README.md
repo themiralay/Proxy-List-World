@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.98.151.201|8080|India|Alwar|BSNL Internet|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|58.136.4.71|8080|Thailand|Ratchathewi|AIS-Fibre|
+|1|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|4|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
 |5|125.25.199.44|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|58.136.4.71|8080|Thailand|Ratchathewi|AIS-Fibre|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.160.170|17909|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|13933|Canada|Montreal|GloboTech Communications|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|67.43.227.230|32885|Canada|Montreal|GloboTech Communications|
-|14|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|15|103.167.114.208|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
-|16|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|17|72.10.160.93|26541|Canada|Montreal|GloboTech Communications|
-|18|171.6.72.209|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|67.43.236.19|8395|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|8|67.43.236.19|21383|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|11|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|116.105.30.109|2339|Vietnam|Da Nang|Viettel Corporation|
+|15|67.43.227.230|32885|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|13933|Canada|Montreal|GloboTech Communications|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|19|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|20|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
