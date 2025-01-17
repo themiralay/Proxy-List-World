@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|182.253.216.8|8080|Indonesia|Jakarta|BIZNET|
+|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|223.205.79.131|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|157.10.97.189|3125|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|9|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|16|84.17.37.160|62222|Hong Kong|Hong Kong|Datacamp Limited|
-|17|115.133.131.11|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|194.124.36.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|186.65.107.2|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|17|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|18|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|202.137.31.186|8080|Indonesia|Tangerang|LINKNET|
 
 
 
