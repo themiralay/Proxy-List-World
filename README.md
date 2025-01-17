@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|157.66.36.13|8181|Indonesia|Ciruas|PT Trik Media Data|
-|5|113.192.3.42|8050|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|10|114.223.79.174|8089|China|Nanjing|Chinanet|
-|11|27.189.131.247|8089|China|Langfang|Chinanet|
-|12|180.112.180.151|8089|China|Nanjing|Chinanet|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|125.27.43.194|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|113.192.3.42|8050|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.159.96.178|8055|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|157.66.85.76|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|13|121.227.146.88|8089|China|Nanjing|China Telecom|
+|14|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |16|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|72.10.160.171|17413|Canada|Montreal|GloboTech Communications|
-|18|183.240.196.54|18080|China|Guangzhou|China Mobile Communications Corporation|
-|19|72.10.160.171|17413|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|121.227.146.122|8089|China|Nanjing|China Telecom|
+|20|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
 
 
 
