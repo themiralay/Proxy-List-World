@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
-|9|117.5.53.16|10080|Vietnam|Hanoi|VIETTEL|
-|10|1.2.176.225|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|8.242.126.181|11201|Colombia|Medellín|CTL Colombia|
-|12|36.92.28.34|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|113.186.110.234|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|14|180.191.42.241|8082|Philippines|Caloocan City|Globe Telecom|
-|15|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|18|72.10.160.90|18341|Canada|Montreal|GloboTech Communications|
-|19|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.126.173.47|8080|Indonesia|Bandar Lampung|MEGARAP|
+|10|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|36.92.52.98|8042|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|160.22.206.83|8181|Indonesia|Bekasi|PT Teradata Bintang Selaras|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|1.2.176.225|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.48.71.50|84|India|Pargi|Country Online Services PVT LTD|
+|20|177.154.37.197|9090|Brazil|Promissão|America-NET Ltda.|
 
 
 
