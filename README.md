@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
 |3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|13|124.217.97.35|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|4|190.60.39.71|8080|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|177.93.37.36|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|43.250.147.180|29008|China|Shanghai|China Unicom CHINA169 Shanghai Network|
+|14|129.151.233.36|3128|France|Marseille|Oracle Corporation|
+|15|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
 |16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|19|177.93.40.56|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
