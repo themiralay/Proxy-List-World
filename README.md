@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.98.161|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|1|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
 |2|171.224.19.187|10003|Vietnam|Hanoi|Viettel Corporation|
-|3|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|179.99.114.7|8080|Brazil|São Paulo|Vivo|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|171.224.28.148|8080|Vietnam|Hanoi|Viettel Corporation|
+|5|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
 |6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|49.49.196.9|8080|Thailand|Krathum Baen|Triple T Broadband Public Company Limited|
-|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|103.162.16.113|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|12|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|177.73.97.163|80|Brazil|Foz do Iguaçu|Telecom FOZ|
-|14|103.57.39.109|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|15|203.150.128.198|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|17|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|190.121.138.210|8080|Colombia|Buenaventura|Media Commerce Partners S.A|
-|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.165.205.156|8089|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|13|36.88.137.114|443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|27.71.228.47|3128|Vietnam|Hanoi|VIETTEL|
+|15|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|16|41.254.63.14|8080|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|139.177.190.161|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|18|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|19|185.206.83.246|8080|Iraq|Erbil|DIL Technology Limited|
+|20|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
 
 
 
