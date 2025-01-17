@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|177.244.34.58|999|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|45.123.142.69|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.170|21953|Canada|Montreal|GloboTech Communications|
-|15|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|16|72.10.164.178|18561|Canada|Montreal|GloboTech Communications|
-|17|180.112.180.125|8089|China|Nanjing|Chinanet|
-|18|72.10.160.173|6817|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|19695|Canada|Montreal|GloboTech Communications|
-|20|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|5|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|103.189.254.28|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|7|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|10|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|101.108.16.131|8080|Thailand|Kanchanaburi|TOT Public Company Limited|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
