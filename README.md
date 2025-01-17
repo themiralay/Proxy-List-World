@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|124.217.39.83|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|4|36.95.173.90|8899|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|36.92.28.34|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|9|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|188.125.169.71|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|49.48.41.68|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|3|103.228.246.146|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|157.20.253.76|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|103.162.62.43|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|14|154.64.211.145|999|United States|Jacksonville|OSNET Wireless|
+|15|157.15.80.32|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|16|45.184.103.116|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|49.48.41.68|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|19|157.66.85.65|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
