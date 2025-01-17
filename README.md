@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|2|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|182.253.123.245|8080|Indonesia|Bandung|BIZNET|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|5|193.181.35.230|8118|Sweden|Stockholm|PVDataNet AB|
+|6|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|12|103.210.120.58|8080|Indonesia|Palu|JNETWORK|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
-|16|118.179.50.70|80|Bangladesh|Azimpur|Dhakacom Limited|
-|17|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|49.73.4.165|8089|China|Nanjing|China Telecom|
+|9|38.183.146.173|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|15|103.144.147.18|8080|Indonesia|Tulungagung|Lexxa Data|
+|16|103.210.120.58|8080|Indonesia|Palu|JNETWORK|
+|17|103.155.65.65|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|187.251.222.69|8080|Mexico|Santa Ana Chichicuautla|Total Play Telecomunicaciones SA De CV|
+|20|103.181.255.233|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
 
 
 
