@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.164.26.90|10003|Vietnam|Long An|VNPT-VNNIC|
+|2|103.110.34.144|8089|Indonesia|Jagong|PT RECONET SEMESTA INDONESIA|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
-|13|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|185.82.98.73|99|Lebanon|Beirut|Protected|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|103.44.19.218|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|190.110.35.110|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|113.160.204.229|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
