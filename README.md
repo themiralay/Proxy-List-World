@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|103.48.71.130|84|India|Pargi|Country Online Services PVT LTD|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|190.52.165.120|8080|Paraguay|Mariano Roque Alonso|CO.PA.CO.|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|41.59.112.250|3030|Tanzania|Dar es Salaam|TTCL|
-|15|121.227.201.198|8089|China|Nanjing|China Telecom|
-|16|121.227.201.194|8089|China|Nanjing|China Telecom|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|121.227.201.202|8089|China|Nanjing|China Telecom|
-|19|113.192.31.19|8800|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|20|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|1|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.48.70.57|84|India|Hyderabad|Country Online Services PVT LTD|
+|7|67.255.60.240|8888|United States|Bridgton|Charter Communications Inc|
+|8|67.255.60.240|8888|United States|Bridgton|Charter Communications Inc|
+|9|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|10|139.255.94.123|39635|Indonesia|Jakarta|PT. LINKNET|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|27.66.124.164|5106|Vietnam|Hanoi|Viettel Group|
+|16|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|113.192.31.89|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
