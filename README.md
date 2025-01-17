@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|103.179.182.217|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|171.6.88.79|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|167.86.106.97|3128|France|Lauterbourg|Contabo GmbH|
-|11|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|13|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|16|80.78.65.230|8080|Albania|Tirana|ABCom|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|103.57.39.109|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|15|178.212.48.80|8080|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|16|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|17|167.86.106.97|3128|France|Lauterbourg|Contabo GmbH|
+|18|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|19|223.206.51.172|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
