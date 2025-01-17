@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|121.227.201.231|8089|China|Nanjing|China Telecom|
-|5|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|6|72.10.164.178|15815|Canada|Montreal|GloboTech Communications|
-|7|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|45.189.118.214|999|Peru|San Juan de Lurigancho|Fiber Digital S.R.L|
-|10|121.236.239.189|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|11|121.227.146.112|8089|China|Nanjing|China Telecom|
-|12|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|13|67.43.227.226|29045|Canada|Montreal|GloboTech Communications|
-|14|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
-|15|67.43.228.253|1651|Canada|Montreal|GloboTech Communications|
-|16|103.156.74.154|8080|Indonesia|Gianyar|PT Trika Global Media|
-|17|72.10.160.93|2263|Canada|Montreal|GloboTech Communications|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|188.132.150.69|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|49.146.51.131|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|6|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|183.240.196.54|18080|China|Guangzhou|China Mobile Communications Corporation|
+|10|103.148.130.42|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|11|121.227.146.122|8089|China|Nanjing|China Telecom|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|103.67.84.146|8080|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|16|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|17|86.98.24.117|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|18|67.43.228.254|27755|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|18995|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|11853|Canada|Montreal|GloboTech Communications|
 
 
 
