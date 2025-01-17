@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|72.10.160.90|23669|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.228|19789|Canada|Montreal|GloboTech Communications|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|67.43.228.250|24405|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|14|67.43.227.227|8523|Canada|Montreal|GloboTech Communications|
-|15|103.155.54.26|82|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
-|16|67.43.228.251|6963|Canada|Montreal|GloboTech Communications|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
+|1|182.253.39.242|8080|Indonesia|Jakarta|BIZNET|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|36.88.249.106|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.11.183.59|8082|Indonesia|Bandung|Biznet Networks|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|18|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|19|36.95.82.69|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|134.35.128.215|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
