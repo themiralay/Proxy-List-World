@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.27.11.8|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|203.190.46.131|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|5|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|6|103.156.15.99|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|37.187.149.223|8081|France|Roubaix|OVH SAS|
-|13|72.10.164.178|4923|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|22629|Canada|Montreal|GloboTech Communications|
-|15|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|16|67.43.228.250|26139|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|11943|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|5901|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.229|12031|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|12421|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|101.128.83.167|8090|Indonesia|Jakarta|CBN|
+|3|125.27.11.8|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|103.231.236.122|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|8|180.180.19.55|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|203.190.46.131|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|103.247.23.53|4317|Indonesia|Baturaden|PT wifian Solution|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
+|18|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
+|19|119.11.205.129|8080|Indonesia|Jakarta|PT. NTT Indonesia|
+|20|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
 
 
 
