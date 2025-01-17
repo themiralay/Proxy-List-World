@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.122.66.83|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|125.27.11.8|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|202.57.26.150|7777|Indonesia|Bandung|WANET|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.165.155.243|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|157.66.50.105|2323|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|14|194.150.71.39|7060|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
-|15|45.4.203.115|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|180.180.19.55|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|125.27.11.8|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|157.66.50.105|2323|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|7|203.190.46.131|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|103.247.23.53|4317|Indonesia|Baturaden|PT wifian Solution|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|157.20.253.167|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|202.58.77.18|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|181.10.160.155|8080|Argentina|Buenos Aires|Telecom Argentina S.A|
+|17|101.109.98.175|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|203.189.154.190|32650|Cambodia|Phnom Penh|ONLINE|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
