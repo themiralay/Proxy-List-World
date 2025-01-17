@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.67.88.77|8081|Indonesia|Pati|PT Clara Network Engineer|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
-|11|103.153.134.150|8080|Indonesia|Cikupa|WMINET|
-|12|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|13|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|103.91.62.193|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|103.48.71.150|82|India|Pargi|Country Online Services PVT LTD|
+|4|84.17.37.160|62222|Hong Kong|Hong Kong|Datacamp Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|121.227.109.49|8089|China|Nanjing|China Telecom|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|12|72.10.160.173|17433|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|84.17.37.160|62222|Hong Kong|Hong Kong|Datacamp Limited|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|121.101.133.81|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|19|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
