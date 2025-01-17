@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|59.98.151.201|8080|India|Alwar|BSNL Internet|
-|3|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|49.145.185.122|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|7|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|125.25.199.44|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|103.106.231.188|42000|Australia|Sydney|BrainStorm Network|
-|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
-|14|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|15|103.171.245.165|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|16|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|17|45.174.79.65|999|Mexico|Delicias|Raul Duarte Urita|
-|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.236.20|1809|Canada|Montreal|GloboTech Communications|
+|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|115.178.48.138|8080|Indonesia|Bandung|NOC SIMAYA|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|160.22.90.90|8181|Indonesia|Cirebon|PT Lintas Data Kita|
 
 
 
