@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|2|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|3|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|4|38.7.20.138|999|Mexico|La Piedad|Internet Telefonia Y TV De Michoacan SA De CV|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|181.115.65.196|999|Honduras|Tegucigalpa|Telgua|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|189.124.85.77|33333|Brazil|Presidente Prudente|America-NET Ltda.|
-|11|203.170.66.154|8080|Pakistan|Lahore|Netsol CONNECT LHE Core|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|203.175.103.77|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|103.158.250.118|8788|Indonesia|Ngrance|VCDNET|
-|18|103.133.61.230|8080|Indonesia|Pekalongan|TLINK|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|190.122.185.170|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|157.20.238.247|8080|Indonesia|Buduran|PT Era Network Indonesia|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|190.186.19.68|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|7|129.0.65.132|8080|Cameroon|Douala|Public Douala II|
+|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|9|177.154.37.197|9090|Brazil|Promissão|America-NET Ltda.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|12|103.227.186.131|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|72.10.160.171|19595|Canada|Montreal|GloboTech Communications|
+|16|103.169.255.169|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|185.44.65.187|3128|United States|New York|Massivegrid LTD|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
