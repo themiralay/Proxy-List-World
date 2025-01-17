@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
-|10|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|58.69.123.64|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|6|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|23.138.88.65|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|202.58.77.18|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
 |14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|27.189.132.221|8089|China|Langfang|Chinanet|
-|16|27.189.128.159|8089|China|Langfang|Chinanet|
-|17|190.110.98.203|999|Chile|Temuco|Silica Networks Argentina S.A.|
-|18|86.98.24.117|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|19|49.48.68.166|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|212.123.230.250|8181|The Netherlands|Amsterdam|COLT Technology Services Group Limited|
 
 
 
