@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
-|2|103.144.18.86|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|41.216.186.183|8181|Indonesia|Kuningan Barat|FASTHOSTING|
-|6|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|7|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.41.32.185|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|67.43.236.19|28557|Canada|Montreal|GloboTech Communications|
-|14|223.205.34.134|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|15|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|16|171.6.72.209|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|17|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.160.90|12433|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|161.49.116.131|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|38.43.123.133|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
+|8|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|9|186.96.160.202|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|27.25.133.19|808|China|Shizishan|China Telecom|
+|14|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|223.205.34.134|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|16|38.9.136.99|80|Indonesia|Medan|PT. Media Antar Nusa|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
+|20|189.124.91.145|7171|Brazil|Presidente Prudente|America-NET Ltda.|
 
 
 
