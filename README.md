@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.126.87.112|3030|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|193.37.70.209|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.163.135.56|7777|Indonesia|Banyuwangi|PROVITEL|
-|8|49.49.196.9|8080|Thailand|Krathum Baen|Triple T Broadband Public Company Limited|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|103.154.77.64|89|Indonesia|Sleman|T2NET|
-|14|72.10.160.90|32097|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|4885|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|32279|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|4059|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|67.43.227.226|31709|Canada|Montreal|GloboTech Communications|
-|20|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|2|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|179.1.13.67|8080|Colombia|Convención|InterNexa Global Network|
+|5|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|6|122.53.247.189|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|190.120.251.9|8989|Venezuela|Barinas|CORPORACION FIBEX TELECOM, C.A.|
+|8|38.255.85.157|999|Venezuela|Barquisimeto|Galanet Solution C.A.|
+|9|1.2.221.60|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.98.30.134|1289|Indonesia|Slawi|Pemerintah Kabupaten Tegal|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|18|103.154.77.64|89|Indonesia|Sleman|T2NET|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|171.248.203.51|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
