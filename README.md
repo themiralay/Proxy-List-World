@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.180.123.225|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|7|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|176.88.175.216|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|103.39.51.113|8099|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|11|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|181.13.53.38|8081|Argentina|San Miguel de Tucumán|Noanet S.A|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|17|118.172.23.31|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|1|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|180.191.42.241|8082|Philippines|Caloocan City|Globe Telecom|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.242.104.145|1080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|103.227.186.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|17|103.105.55.170|8085|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|113.192.31.51|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|72.10.164.178|9595|Canada|Montreal|GloboTech Communications|
 
 
 
