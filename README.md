@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|202.58.77.18|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|15|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
-|16|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|19|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|1|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|41.216.186.183|8181|Indonesia|Kuningan Barat|FASTHOSTING|
+|6|103.191.196.34|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|7|157.66.37.52|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|8|146.196.40.86|8080|Indonesia|Karawang|UNINA|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
+|12|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|223.205.33.122|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|16|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
