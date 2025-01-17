@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.20.102.51|10000|Vietnam|Quận Bình Thạnh|ODS ONLINE DATA SOLUTION JOINT STOCK COMPANY|
-|2|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|202.93.245.18|8080|Indonesia|Jagirsidosermo|DWPNAP|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|103.159.96.146|3128|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|114.141.51.141|8010|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|7|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
+|8|161.22.42.104|3128|Spain|Barcelona|CLOUDING-VM|
+|9|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|10|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|11|180.254.147.105|8080|Indonesia|Sungaigerong|PT. TELKOM INDONESIA|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|16|124.104.149.53|8081|Philippines|Naic|Philippine Long Distance Telephone Co.|
 |17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|67.43.227.230|8559|Canada|Montreal|GloboTech Communications|
+|18|49.73.4.189|8089|China|Nanjing|China Telecom|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|41.79.16.154|8085|South Africa|Kroonstad|WSINET Pool2|
 
 
 
