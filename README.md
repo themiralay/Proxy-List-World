@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|10|116.105.17.174|2327|Vietnam|Da Nang|Viettel Corporation|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|49.73.4.182|8089|China|Nanjing|China Telecom|
-|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|49.73.4.187|8089|China|Nanjing|China Telecom|
-|15|180.107.218.0|8089|China|Nanjing|China Telecom|
-|16|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
-|17|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|18|5.160.57.36|8080|Iran|Tehran|RSPN|
-|19|27.66.124.164|5102|Vietnam|Hanoi|Viettel Group|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|103.172.249.234|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|203.150.128.72|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.9.134.234|100|Bangladesh|Gazipur|Information Services Network Ltd|
+|15|103.167.170.196|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|20|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
