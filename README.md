@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|8|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
-|9|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|12|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
-|13|181.209.125.195|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|67.43.227.226|18339|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|103.184.62.10|8099|Indonesia|Bajo|PT NKNET Data Media|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.75.96.142|1111|Indonesia|Jakarta|MORATELINDO|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|5|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.169.187.35|6080|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|201.77.98.131|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|102.135.157.33|12354|South Africa|Johannesburg|Session Telecoms(PTY) Ltd|
 
 
 
