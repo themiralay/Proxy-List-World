@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.159.96.146|3128|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|12|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|17|101.128.78.202|32650|Indonesia|Jakarta|CBN|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|67.43.236.19|1967|Canada|Montreal|GloboTech Communications|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|103.169.255.169|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|13|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|186.97.138.66|999|Colombia|Medellín|Colombia Móvil|
+|15|179.109.156.19|8080|Brazil|Alegre|Digital NET RJ Telecom Eireli|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|18|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|19|72.10.160.170|15273|Canada|Montreal|GloboTech Communications|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
