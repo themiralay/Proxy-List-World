@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.81.158.130|8080|India|Zira|Digitax India Communications Pvt Ltd.|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|139.255.33.242|3128|Indonesia|South Tangerang|PT. LINKNET|
-|10|103.138.26.97|8080|Bangladesh|Comilla|HelloTech Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|157.66.85.37|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|14|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
-|18|67.43.228.250|12337|Canada|Montreal|GloboTech Communications|
-|19|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|20|103.176.96.104|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|14.248.118.112|8080|Vietnam|Hanoi|VNPT|
+|7|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|8|210.79.146.106|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
+|10|139.255.33.242|3128|Indonesia|South Tangerang|PT. LINKNET|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|190.60.44.237|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|14|222.127.153.184|8082|Philippines|Carmona|Globe Telecom|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|17|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|190.121.207.161|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
 
 
 
