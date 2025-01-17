@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|203.175.102.80|8080|Indonesia|Sukasari|PT. Mitra Kita Brilian|
-|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|115.72.47.244|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
+|7|45.5.2.246|8084|Argentina|Bariloche|Altec S.e. Alta Tecnologia Sociedad Del Estado|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|45.32.244.63|80|Australia|Sydney|Choopa|
+|10|202.154.18.10|8080|Indonesia|Jombang|DIGITNET|
 |11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|157.66.84.14|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|14|103.199.214.48|1007|India|Nainital|RailTel Corporation|
-|15|181.119.67.134|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |16|103.154.77.10|89|Indonesia|Sleman|T2NET|
-|17|38.194.250.170|999|Mexico|Jerécuaro|Ientc S De RL De CV|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|178.251.45.38|8080|Türkiye|Ankara|3c1b Telekom|
 
 
 
