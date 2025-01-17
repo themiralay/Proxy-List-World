@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4187** proxies at the latest update. Usable proxies are below.
+> Scraper found **4174** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|511|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2353|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|3|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|4|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|6|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
-|7|67.43.236.18|8089|Canada|Montreal|GloboTech Communications|
-|8|103.159.96.146|3128|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|103.227.186.59|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|18|45.114.144.195|32650|India|Jaipur|Tejays Dynamic Limited|
-|19|185.44.65.187|3128|United States|New York|Massivegrid LTD|
-|20|67.43.228.250|33267|Canada|Montreal|GloboTech Communications|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|6|116.90.97.32|8080|Pakistan|Karachi|FIBERISH (PVT) LTD|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|10|103.178.194.199|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|12|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
+|13|118.175.206.51|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|67.43.236.20|30449|Canada|Montreal|GloboTech Communications|
+|16|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|129.151.233.36|3128|France|Marseille|Oracle Corporation|
+|20|24.152.58.132|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
