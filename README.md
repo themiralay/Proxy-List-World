@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
-|9|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|1.2.221.60|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
 |10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|171.228.130.95|27418|Vietnam|Vĩnh Tường|Viettel Corporation|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|67.43.228.253|1251|Canada|Montreal|GloboTech Communications|
 |14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|180.107.218.33|8089|China|Nanjing|China Telecom|
-|16|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|17|123.24.63.106|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|187.188.169.169|8080|Mexico|Acatzingo|Total Play Telecomunicaciones SA De CV|
-|20|67.43.228.250|7663|Canada|Montreal|GloboTech Communications|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
