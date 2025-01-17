@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|178.255.148.211|8118|Norway|Oslo|Blix Solutions|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|16|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|72.10.160.90|17809|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|12863|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|7|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|103.250.130.159|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|103.105.126.26|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|12|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|19|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|20|219.92.221.108|8080|Malaysia|Kuala Lumpur|TMnet|
 
 
 
