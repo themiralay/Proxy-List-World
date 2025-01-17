@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.169.186.151|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|3|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|4|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
-|7|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|8|41.216.186.183|8181|Indonesia|Kuningan Barat|FASTHOSTING|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|159.223.174.128|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|45.177.16.137|999|Paraguay|Ciudad del Este|MSW S.A.|
-|13|217.168.76.83|3128|Russia|Kaliningrad|BALTNET|
-|14|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.236.18|26683|Canada|Montreal|GloboTech Communications|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|41.216.186.183|8181|Indonesia|Kuningan Barat|FASTHOSTING|
+|7|66.54.106.56|8102|United States|Itta Bena|Mobile Communications, LLC|
+|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|9|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
+|13|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|124.217.8.251|8081|Philippines|Argao|Philippine Long Distance Telephone Co.|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|36.70.149.216|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|18|72.10.160.173|30403|Canada|Montreal|GloboTech Communications|
+|19|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
