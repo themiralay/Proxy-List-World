@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|157.66.50.99|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|5|49.151.104.158|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|6|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|7|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|8|190.122.88.144|8080|Argentina|Buenos Aires|Servicios y Telecomunicaciones S.A|
+|9|167.250.22.239|9090|Brazil|Monte Carmelo|OnNet Telecomunicações LTDA|
+|10|49.48.146.68|8080|Thailand|Maha Sarakham|Triple T Broadband Public Company Limited|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|14|203.177.237.138|8080|Philippines|Iloilo City|Globe Telecom|
-|15|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|16|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|45.4.194.230|8080|Brazil|Brasília|Orbitel Telecomunicações e Informática Ltda|
+|12|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|13|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|14|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
