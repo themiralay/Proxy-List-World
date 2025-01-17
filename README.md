@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|11|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|12|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.227.226|3925|Canada|Montreal|GloboTech Communications|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|41.209.10.205|8080|Kenya|Nairobi|MTN Business Kenya|
-|18|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|67.43.228.253|8547|Canada|Montreal|GloboTech Communications|
-|20|132.255.223.1|9500|Brazil|Camaçari|LCD Serviços de Telecomunicações Multimidia|
+|1|172.104.185.74|8041|Singapore|Singapore|Akamai Technologies|
+|2|172.104.185.38|8041|Singapore|Singapore|Akamai Technologies|
+|3|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
+|5|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|172.104.33.62|3215|Singapore|Singapore|Akamai Technologies|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|11|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|12|193.151.138.198|8085|Iran|Tehran|Asre Dadeha Asiatech|
+|13|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|14|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
+|17|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|20|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
 
 
 
