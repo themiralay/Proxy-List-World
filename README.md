@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.33.62|3215|Singapore|Singapore|Akamai Technologies|
-|2|172.104.185.74|8041|Singapore|Singapore|Akamai Technologies|
-|3|172.104.185.38|8041|Singapore|Singapore|Akamai Technologies|
-|4|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
+|1|172.104.185.74|8041|Singapore|Singapore|Akamai Technologies|
+|2|172.104.185.38|8041|Singapore|Singapore|Akamai Technologies|
+|3|172.104.33.62|3215|Singapore|Singapore|Akamai Technologies|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|84.17.37.160|62222|Hong Kong|Hong Kong|Datacamp Limited|
 |6|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|7|84.17.37.160|62222|Hong Kong|Hong Kong|Datacamp Limited|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|7|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
 |10|193.151.138.198|8085|Iran|Tehran|Asre Dadeha Asiatech|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|13|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|12|103.199.214.48|1007|India|Nainital|RailTel Corporation|
+|13|186.121.214.210|32650|Bolivia|Cochabamba|AXS Bolivia S. A.|
+|14|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
 |15|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|18|38.255.21.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
-|19|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|103.177.235.133|83|India|Bengaluru|Coastal Live Channel|
+|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.133.61.251|8181|Indonesia|Pekalongan|TLINK|
 
 
 
