@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.121.2.152|8080|Thailand|Bangkok|TRUEBB|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|58.136.94.39|8080|Thailand|Bangkok|AIS-Fibre|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|45.174.248.11|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|49.146.58.17|8080|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|63.220.196.123|8080|United States|Chicago|Gateway Communications|
-|14|172.236.0.171|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|15|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
-|16|62.60.219.123|443|Iran|Tehran|Mizban Dadeh Iranian Co. (Ltd)|
-|17|63.220.196.123|8080|United States|Chicago|Gateway Communications|
-|18|116.105.30.109|2308|Vietnam|Da Nang|Viettel Corporation|
-|19|41.33.219.131|1981|Egypt|Cairo|TE Data|
-|20|103.152.238.178|1080|Indonesia|Bekasi|APRIN|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.174.248.11|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|101.109.187.156|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|11|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
+|12|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|13|41.33.219.131|1981|Egypt|Cairo|TE Data|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|16|103.160.202.180|8080|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
