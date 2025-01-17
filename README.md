@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.27.11.8|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|202.57.26.150|7777|Indonesia|Bandung|WANET|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.10.164.178|23699|Canada|Montreal|GloboTech Communications|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|65.20.189.104|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.227.226|19169|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.21|8089|China|Langfang|Chinanet|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|103.177.235.133|83|India|Bengaluru|Coastal Live Channel|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|103.247.23.201|8080|Indonesia|Baturaden|PT wifian Solution|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|209.14.118.114|999|Colombia|Quinchía|AGIS|
+|17|103.151.31.21|6969|Bangladesh|Tongi|Bright Star Network|
+|18|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|197.248.37.177|8080|Kenya|Nairobi|Safaricom Limited|
 
 
 
