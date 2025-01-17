@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.171.240.130|3131|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|4|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
-|5|38.183.214.50|8080|Venezuela|Villa de Cura|WISP TECNOGER, C.A.|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|11|72.10.164.178|2357|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|27979|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|7059|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|72.10.160.90|7059|Canada|Montreal|GloboTech Communications|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|72.10.164.178|2357|Canada|Montreal|GloboTech Communications|
-|18|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|19|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|20|38.172.130.56|999|Peru|Lima|Conex TV E.I.R.L.|
+|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|38.183.214.50|8080|Venezuela|Villa de Cura|WISP TECNOGER, C.A.|
+|8|1.2.221.60|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
+|13|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|14|72.10.160.170|20067|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|24485|Canada|Montreal|GloboTech Communications|
+|16|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|17|72.10.160.90|1915|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|11005|Canada|Montreal|GloboTech Communications|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|67.43.227.230|9937|Canada|Montreal|GloboTech Communications|
 
 
 
