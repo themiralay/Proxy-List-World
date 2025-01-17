@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.165.205.156|8089|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|102.214.104.56|8080|Libya|Qaşr Khiyār|Rawafed|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|177.23.156.0|18800|Brazil|Anápolis|netstore tecnologia ltda|
-|11|202.179.69.216|58080|India|Pune|Ankhnet|
-|12|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|16|203.115.124.75|8080|India|Mumbai|PRIMENET|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
+|1|171.224.19.187|10003|Vietnam|Hanoi|Viettel Corporation|
+|2|125.25.198.137|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|222.165.205.156|8089|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|12|49.49.196.9|8080|Thailand|Krathum Baen|Triple T Broadband Public Company Limited|
+|13|103.104.142.165|8080|Bangladesh|Chittagong|Brosis Communication|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|223.205.205.229|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|18|101.109.98.161|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|101.108.160.191|8080|Thailand|Sam Phran|TOT Public Company Limited|
 
 
 
