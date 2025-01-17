@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4236** proxies at the latest update. Usable proxies are below.
+> Scraper found **4290** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|505|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|395|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2410|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 |3|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|4|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
 |6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|103.25.195.242|65300|Indonesia|Karawang|UNINA|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|72.10.160.91|3023|Canada|Montreal|GloboTech Communications|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|18|103.148.45.184|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|19|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|20|182.253.39.203|8080|Indonesia|Jakarta|BIZNET|
+|7|103.105.55.170|8085|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|8|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|13|180.107.218.63|8089|China|Nanjing|China Telecom|
+|14|189.193.254.98|8080|Mexico|San Pedro de los Metates|Mega Cable, S.A. de C.V.|
+|15|121.227.201.240|8089|China|Nanjing|China Telecom|
+|16|177.200.80.6|11221|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|18|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|19|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
 
 
 
