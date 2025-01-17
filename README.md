@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.150.113.200|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|38.156.75.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|27.112.67.1|8181|Indonesia|Jakarta|GRAHANET|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|177.93.40.179|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
-|12|36.67.194.162|8042|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|14|103.154.77.75|89|Indonesia|Sleman|T2NET|
-|15|72.10.160.170|11307|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|11115|Canada|Montreal|GloboTech Communications|
-|17|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
-|18|121.227.183.135|8089|China|Nanjing|China Telecom|
-|19|94.237.82.148|80|Germany|Frankfurt am Main|UpCloud Ltd|
-|20|157.20.238.247|8080|Indonesia|Buduran|PT Era Network Indonesia|
+|2|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|103.156.16.243|8080|Indonesia|Jatibarang|RSTNET|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.78.25.42|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.154.77.75|89|Indonesia|Sleman|T2NET|
+|14|205.164.220.5|8080|Brazil|Cravinhos|Nicnet Telecom Ltda|
+|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|17|103.175.240.67|8080|Indonesia|Banyumas|LDP|
+|18|202.43.117.26|8080|Indonesia|Teluknaga|PRIMELINK|
+|19|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|102.164.218.55|8080|South Africa|Newcastle|Jenny Internet cc|
 
 
 
