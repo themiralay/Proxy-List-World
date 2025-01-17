@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.188.136.44|32650|Bangladesh|Dhaka|Sajid Trading Limited|
-|5|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|190.60.39.71|8080|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|10|103.54.36.90|8674|Bangladesh|Bhātāra|Earth Telecommunication (Pvt.) Ltd|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|41.59.112.250|3030|Tanzania|Dar es Salaam|TTCL|
-|15|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.236.20|9133|Canada|Montreal|GloboTech Communications|
-|20|103.191.218.211|1111|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.84.176.100|8083|Philippines|Pavia|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|182.253.123.245|8080|Indonesia|Bandung|BIZNET|
+|10|187.251.222.69|8080|Mexico|Santa Ana Chichicuautla|Total Play Telecomunicaciones SA De CV|
+|11|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|12|103.48.71.130|84|India|Pargi|Country Online Services PVT LTD|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|103.35.108.244|2024|Bangladesh|Dhaka|Ranks ITT|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
