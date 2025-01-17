@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
-|4|1.179.231.130|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|203.150.128.72|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|186.211.157.19|8080|Brazil|Campo Grande|BR.Digital Provider|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|72.10.160.90|4059|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|13363|Canada|Montreal|GloboTech Communications|
-|11|180.107.218.19|8089|China|Nanjing|China Telecom|
-|12|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|67.43.236.21|29975|Canada|Montreal|GloboTech Communications|
-|14|103.80.98.16|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|103.67.84.146|8080|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|18|72.10.164.178|8335|Canada|Montreal|GloboTech Communications|
-|19|101.255.166.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|67.43.228.250|4537|Canada|Montreal|GloboTech Communications|
+|13|49.73.4.187|8089|China|Nanjing|China Telecom|
+|14|72.10.160.90|30155|Canada|Montreal|GloboTech Communications|
+|15|103.247.23.213|8080|Indonesia|Baturaden|PT wifian Solution|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|38.52.221.186|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|19|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
