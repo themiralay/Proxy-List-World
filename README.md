@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|157.66.84.17|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|67.43.227.226|19169|Canada|Montreal|GloboTech Communications|
-|15|103.189.116.133|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|16|67.43.228.250|5597|Canada|Montreal|GloboTech Communications|
-|17|49.48.89.35|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|18|180.104.208.110|8081|China|Xuzhou|Chinanet|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|72.10.160.90|23551|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|67.43.228.250|12529|Canada|Montreal|GloboTech Communications|
+|8|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|72.10.160.174|18197|Canada|Montreal|GloboTech Communications|
+|11|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|15|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|16|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|18|67.43.228.250|12529|Canada|Montreal|GloboTech Communications|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
