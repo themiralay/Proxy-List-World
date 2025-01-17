@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|160.19.185.19|8181|Indonesia|Sekadau|PT Borneo Teknologi Edukasi|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|101.109.98.161|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|8|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|12|125.25.198.137|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|171.224.28.148|8080|Vietnam|Hanoi|Viettel Corporation|
-|14|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|15|152.200.179.6|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|16|27.71.228.47|3128|Vietnam|Hanoi|VIETTEL|
-|17|203.150.128.198|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|18|177.73.97.163|80|Brazil|Foz do Iguaçu|Telecom FOZ|
-|19|179.99.114.7|8080|Brazil|São Paulo|Vivo|
-|20|119.95.165.236|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|1|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|41.254.63.14|8080|Libya|Tripoli|LTT Network Backbone and POPs|
+|8|103.210.206.26|8080|India|Karur|Blue Net It Solutions Pvt Ltd|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|61.7.183.26|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|12|171.224.19.187|10003|Vietnam|Hanoi|Viettel Corporation|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|203.115.124.75|8080|India|Mumbai|PRIMENET|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|177.73.97.163|80|Brazil|Foz do Iguaçu|Telecom FOZ|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
 
 
 
