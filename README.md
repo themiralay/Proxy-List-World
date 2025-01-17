@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
-|5|178.255.148.211|8118|Norway|Oslo|Blix Solutions|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|8|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|9|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|121.227.201.240|8089|China|Nanjing|China Telecom|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|121.227.201.253|8089|China|Nanjing|China Telecom|
-|16|31.56.78.171|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|103.156.141.172|8081|Indonesia|Langsepan|PT Tekling Media Telematika|
-|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|20|103.155.199.111|7080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
+|3|103.154.77.40|89|Indonesia|Sleman|T2NET|
+|4|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|9|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|11|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|103.179.182.217|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|157.20.218.28|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
 
 
 
