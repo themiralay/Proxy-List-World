@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|9|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|5.160.57.36|8080|Iran|Tehran|RSPN|
-|13|72.10.160.173|13469|Canada|Montreal|GloboTech Communications|
-|14|103.189.254.2|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|15|188.165.37.2|8080|France|Roubaix|OVH SAS|
-|16|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
-|17|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|19|175.143.193.201|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|20|38.159.229.90|999|Ecuador|Vinces|Turbonet S.A.|
+|4|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|6|190.60.44.237|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|7|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.88.239.197|84|India|Hyderabad|Mana Communications|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|12|103.154.77.204|89|Indonesia|Sleman|T2NET|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|91.107.255.137|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|18|92.124.99.130|8080|Russia|Krasnoyarsk|OJSC "Sibirtelecom"|
+|19|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
+|20|167.250.22.239|9090|Brazil|Monte Carmelo|OnNet Telecomunicações LTDA|
 
 
 
