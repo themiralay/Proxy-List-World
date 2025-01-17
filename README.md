@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|2|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|3|103.98.30.134|1289|Indonesia|Slawi|Pemerintah Kabupaten Tegal|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
-|7|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|8|101.255.166.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|113.160.204.229|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|67.43.236.20|32087|Canada|Montreal|GloboTech Communications|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
-|16|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
-|17|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|18|171.4.195.37|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|19|182.253.37.83|443|Indonesia|Jakarta|BIZNET|
-|20|67.43.227.228|8069|Canada|Montreal|GloboTech Communications|
+|13|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|103.98.30.134|1289|Indonesia|Slawi|Pemerintah Kabupaten Tegal|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|103.133.26.100|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|18|67.43.227.228|8069|Canada|Montreal|GloboTech Communications|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|119.11.205.129|8080|Indonesia|Jakarta|PT. NTT Indonesia|
 
 
 
