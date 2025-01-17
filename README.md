@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.67.62.81|8080|Bangladesh|Tongi|T G Network|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|171.248.203.51|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|12|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|195.250.92.58|8080|Armenia|Yerevan|GNC-Alfa CJSC|
-|15|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|5|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.174|10489|Canada|Montreal|GloboTech Communications|
+|10|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|126.209.17.206|8082|Philippines|Koronadal|Infinivan Incorporated|
+|13|72.10.160.173|8103|Canada|Montreal|GloboTech Communications|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.164.178|21535|Canada|Montreal|GloboTech Communications|
+|17|187.190.0.247|999|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|36.67.105.109|8581|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|20|72.10.160.170|22415|Canada|Montreal|GloboTech Communications|
 
 
 
