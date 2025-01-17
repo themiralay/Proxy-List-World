@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|182.52.26.109|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|67.43.228.250|20543|Canada|Montreal|GloboTech Communications|
-|19|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|20|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|66.218.61.195|8118|United States|Rancho Santa Fe|Race Tech, LLC|
+|5|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|113.186.110.234|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|183.240.196.54|18080|China|Guangzhou|China Mobile Communications Corporation|
+|14|217.28.132.206|8080|Russia|Moscow|NetOne Rus JSC|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|103.98.30.134|1289|Indonesia|Slawi|Pemerintah Kabupaten Tegal|
+|18|177.93.40.179|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
+|19|41.65.174.46|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
+|20|103.217.210.15|8080|Indonesia|Sleman|PT Media Sarana Akses|
 
 
 
