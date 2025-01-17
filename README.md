@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|103.156.17.93|8080|Indonesia|Jatiwangi|RSTNET|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.22.99.137|8080|Indonesia|Magetan|KHALISTAGROUP|
-|13|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|14|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|15|181.209.82.202|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|60.53.115.29|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|17|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|162.239.194.73|8080|United States|Bardstown|AT&T Services, Inc.|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|67.43.228.252|4555|Canada|Montreal|GloboTech Communications|
+|14|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|103.132.53.54|8080|Indonesia|Semarang|PT Adeaksa Indo Jayatama|
+|17|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|18|103.84.177.28|8083|Philippines|Pavia|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|67.43.236.18|4387|Canada|Montreal|GloboTech Communications|
+|20|103.48.71.50|83|India|Pargi|Country Online Services PVT LTD|
 
 
 
