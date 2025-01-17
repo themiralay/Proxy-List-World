@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|193.151.138.198|8085|Iran|Tehran|Asre Dadeha Asiatech|
-|6|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|119.95.179.136|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.193.144.203|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|67.43.236.18|21347|Canada|Montreal|GloboTech Communications|
+|3|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.126.173.47|8080|Indonesia|Bandar Lampung|MEGARAP|
 
 
 
