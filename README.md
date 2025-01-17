@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4184** proxies at the latest update. Usable proxies are below.
+> Scraper found **4121** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|439|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|376|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|494|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2325|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|4|176.37.139.137|41890|Ukraine|Kyiv|Lanet Network|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|7|27.189.130.215|8089|China|Langfang|Chinanet|
+|8|27.189.133.89|8089|China|Langfang|Chinanet|
+|9|67.43.236.18|10555|Canada|Montreal|GloboTech Communications|
+|10|103.125.39.99|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
 |12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|67.43.236.19|13229|Canada|Montreal|GloboTech Communications|
-|15|200.71.237.243|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
-|16|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|72.10.160.90|24793|Canada|Montreal|GloboTech Communications|
-|18|58.209.137.101|8089|China|Nanjing|China Telecom|
-|19|72.10.160.90|24793|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|12825|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|3013|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|6817|Canada|Montreal|GloboTech Communications|
+|15|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|72.10.160.91|28607|Canada|Montreal|GloboTech Communications|
+|17|103.159.195.193|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|67.43.227.226|24255|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|5179|Canada|Montreal|GloboTech Communications|
 
 
 
