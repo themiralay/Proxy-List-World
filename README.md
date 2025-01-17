@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|171.6.17.70|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|103.189.223.58|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|10|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
-|11|125.25.199.44|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|14.248.118.112|8080|Vietnam|Hanoi|VNPT|
-|15|202.137.8.147|8080|Indonesia|Bekasi|LINKNET|
-|16|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
-|17|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
-|18|157.66.50.84|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|187.49.83.162|8286|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|1|103.40.8.69|8888|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.178.171.34|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|213.159.195.47|3128|Russia|Yekaterinburg|LLC "KomTehCentr"|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|168.126.74.132|80|South Korea|Yongin-si|Korea Telecom|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|67.43.236.20|26123|Canada|Montreal|GloboTech Communications|
 
 
 
