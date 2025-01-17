@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|125.24.134.32|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|45.174.248.11|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|4|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|58.136.94.39|8080|Thailand|Bangkok|AIS-Fibre|
-|9|101.109.187.156|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|103.152.116.82|8080|Pakistan|Shekhupura|TAIZTEL (PRIVATE) LIMITED|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|15|185.44.65.171|3128|United States|New York|Massivegrid LTD|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|113.11.179.85|8181|Indonesia|Bandung|Biznet Networks|
-|18|118.172.23.197|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
-|20|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|2|137.184.163.173|8888|Canada|Toronto|DigitalOcean, LLC|
+|3|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
+|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|45.174.248.11|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|116.105.31.97|2343|Vietnam|Da Nang|Viettel Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|43.130.15.168|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|176.208.101.50|8080|Russia|Taman'|PJSC Rostelecom|
+|17|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|18|101.109.5.157|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|118.172.23.197|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|67.43.228.250|16807|Canada|Montreal|GloboTech Communications|
 
 
 
