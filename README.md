@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|10|202.179.95.174|58080|India|Mumbai|Ankhnet|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|102.0.13.20|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|11|103.154.230.94|8080|Indonesia|Lamongan|DIGITNET|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
 |14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|67.43.228.250|3527|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|45.7.64.142|999|Mexico|Zacualtipán|Maysnet SA De CV|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|157.66.251.226|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
 
 
 
