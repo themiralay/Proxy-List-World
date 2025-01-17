@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|103.162.54.152|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|4|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|67.43.236.18|22187|Canada|Montreal|GloboTech Communications|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|67.43.236.18|22187|Canada|Montreal|GloboTech Communications|
-|11|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|67.43.228.250|20347|Canada|Montreal|GloboTech Communications|
-|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|72.10.160.170|20943|Canada|Montreal|GloboTech Communications|
-|17|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|18|67.43.236.19|1967|Canada|Montreal|GloboTech Communications|
-|19|103.169.255.169|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|20|72.10.164.178|11783|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.170|20943|Canada|Montreal|GloboTech Communications|
+|10|103.25.81.116|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|11|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|67.43.236.18|22187|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|67.43.227.228|5721|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|31295|Canada|Montreal|GloboTech Communications|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
