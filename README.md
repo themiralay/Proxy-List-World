@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|2|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|80.149.142.142|80|Germany|Bastheim|Deutsche Telekom AG|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.164.178|10373|Canada|Montreal|GloboTech Communications|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|202.148.14.196|8050|Indonesia|Surabaya|DNET-SBY|
-|13|67.43.236.18|20841|Canada|Montreal|GloboTech Communications|
-|14|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|15|72.10.164.178|10373|Canada|Montreal|GloboTech Communications|
-|16|92.124.99.130|8080|Russia|Krasnoyarsk|OJSC "Sibirtelecom"|
-|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|67.43.236.18|20841|Canada|Montreal|GloboTech Communications|
-|19|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|20|139.84.216.83|3129|India|Bengaluru|The Constant Company, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|124.217.97.35|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|80.78.75.80|8080|Albania|Tirana|ABCom|
+|10|62.201.219.122|1973|Iraq|Sulaymaniyah|Suly|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
