@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.228.253|1955|Canada|Montreal|GloboTech Communications|
-|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|72.10.160.170|26349|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|19693|Canada|Montreal|GloboTech Communications|
-|16|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|118.70.16.27|6868|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|47.84.42.132|3128|Singapore|Singapore|Alibaba.com LLC|
+|3|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|179.189.120.146|3128|Brazil|Teresina|IP CARRIER BRASIL|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|15|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|171.6.88.79|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
