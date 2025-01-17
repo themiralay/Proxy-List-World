@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.105.55.170|8085|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|8|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|13|180.107.218.63|8089|China|Nanjing|China Telecom|
-|14|189.193.254.98|8080|Mexico|San Pedro de los Metates|Mega Cable, S.A. de C.V.|
-|15|121.227.201.240|8089|China|Nanjing|China Telecom|
-|16|177.200.80.6|11221|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|18|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|19|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
+|4|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|103.180.119.99|7777|Indonesia|Raci Kulon|PT Persada Data Multimedia|
+|9|103.160.202.138|8070|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|72.10.160.173|30779|Canada|Montreal|GloboTech Communications|
+|16|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|110.136.61.7|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|31.58.58.201|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|19|103.172.71.222|8081|Indonesia|Bandung|AZNET|
+|20|118.172.23.197|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
