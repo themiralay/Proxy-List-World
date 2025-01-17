@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.96.109.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|4|190.2.212.94|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|5|213.168.221.155|8080|Germany|Wathlingen|EWE TEL GmbH|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|38.183.214.50|8080|Venezuela|Villa de Cura|WISP TECNOGER, C.A.|
-|13|67.43.236.18|8089|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|5065|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|10373|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|1685|Canada|Montreal|GloboTech Communications|
-|17|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
-|18|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|19|103.208.102.6|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|3|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|4|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|139.84.155.98|3129|India|Bengaluru|The Constant Company, LLC|
+|6|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|7|67.43.236.18|8089|Canada|Montreal|GloboTech Communications|
+|8|103.159.96.146|3128|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|103.227.186.59|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|45.114.144.195|32650|India|Jaipur|Tejays Dynamic Limited|
+|19|185.44.65.187|3128|United States|New York|Massivegrid LTD|
+|20|67.43.228.250|33267|Canada|Montreal|GloboTech Communications|
 
 
 
