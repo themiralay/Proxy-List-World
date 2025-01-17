@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|1.4.168.152|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|5|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|72.10.164.178|6293|Canada|Montreal|GloboTech Communications|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|27.189.129.211|8089|China|Langfang|Chinanet|
-|12|27.189.132.184|8089|China|Langfang|Chinanet|
-|13|27.189.133.188|8089|China|Langfang|Chinanet|
-|14|72.10.160.170|17319|Canada|Montreal|GloboTech Communications|
-|15|103.227.186.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|16|86.98.24.117|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|17|72.10.164.178|6293|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6293|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.236.19|4503|Canada|Montreal|GloboTech Communications|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|195.250.92.58|8080|Armenia|Yerevan|GNC-Alfa CJSC|
+|12|103.189.111.11|3125|Indonesia|Bandung|Morizt ID|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|103.138.26.97|8080|Bangladesh|Comilla|HelloTech Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|72.10.164.178|6213|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
