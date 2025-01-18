@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3774** proxies at the latest update. Usable proxies are below.
+> Scraper found **3725** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|402|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|353|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|253|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2193|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|103.158.250.118|8788|Indonesia|Ngrance|VCDNET|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|72.10.164.178|5155|Canada|Montreal|GloboTech Communications|
-|17|185.153.181.97|41603|Finland|Helsinki|Stark Industries Solutions LTD|
-|18|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|118.173.88.104|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|7|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
+|12|103.186.204.42|8085|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|13|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
+|16|27.147.128.25|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.125.154.233|8080|India|Tirupur|Live Fibernet|
+|20|103.127.220.222|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
 
 
 
