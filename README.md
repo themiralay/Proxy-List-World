@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|177.93.48.234|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|9|72.10.160.170|9099|Canada|Montreal|GloboTech Communications|
-|10|121.227.201.203|8089|China|Nanjing|China Telecom|
-|11|121.227.201.202|8089|China|Nanjing|China Telecom|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|13|72.10.164.178|8887|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|103.189.123.223|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|9|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|10|200.107.234.172|3128|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|103.172.197.235|8080|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
+|13|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
 |14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|157.66.84.62|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|16|103.172.197.235|8080|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|19|72.10.160.90|23137|Canada|Montreal|GloboTech Communications|
-|20|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|116.206.242.110|3888|Indonesia|Jakarta|CBN|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|18|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|19|37.210.174.113|8080|Qatar|Doha|Ooredoo-MBB|
+|20|67.43.236.20|31831|Canada|Montreal|GloboTech Communications|
 
 
 
