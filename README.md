@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|118.173.88.104|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
 |4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|7|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|8|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
-|12|103.186.204.42|8085|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|13|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
-|16|27.147.128.25|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|103.125.154.233|8080|India|Tirupur|Live Fibernet|
-|20|103.127.220.222|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|36.70.146.115|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|12|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|13|61.160.247.69|9999|China|Nanjing|China Telecom|
+|14|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|26299|Canada|Montreal|GloboTech Communications|
+|20|103.199.117.126|8080|Indonesia|Banyumas|PT Hepra Teknologi Indonesia|
 
 
 
