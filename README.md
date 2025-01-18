@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.194.46.34|8082|Indonesia|Nagara Tengah|JABNET|
-|5|38.183.146.43|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|6|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|179.57.172.24|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.227.226|33163|Canada|Montreal|GloboTech Communications|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|24.152.55.14|999|Guatemala|Guatemala City|TV CABLE UNIVERSAL S.A|
-|18|72.10.160.92|18823|Canada|Montreal|GloboTech Communications|
-|19|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|183.88.223.211|8080|Thailand|Bang Pa-in|Triple T Broadband Public Company Limited|
+|5|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|8|101.109.176.32|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|13|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|14|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|72.10.160.90|27617|Canada|Montreal|GloboTech Communications|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
