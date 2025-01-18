@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|103.227.187.233|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|9|114.223.54.6|8089|China|Wuxi|Chinanet|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|116.107.127.164|10086|Vietnam|Hanoi|Viettel Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|180.112.180.185|8089|China|Nanjing|Chinanet|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|114.223.79.190|8089|China|Nanjing|Chinanet|
-|18|49.48.44.3|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|72.10.160.170|19473|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|19669|Canada|Montreal|GloboTech Communications|
+|1|103.171.244.133|8008|Indonesia|Madiun|PT Data Arta Sedaya|
+|2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.154.230.94|8080|Indonesia|Lamongan|DIGITNET|
+|11|72.10.160.172|26549|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|103.178.170.254|8090|Indonesia|Madiun|PT Trisari Data Indonusa|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|27.25.133.19|808|China|Shizishan|China Telecom|
+|20|72.10.160.90|15717|Canada|Montreal|GloboTech Communications|
 
 
 
