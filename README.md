@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
-|2|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|38.188.178.6|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|5|103.80.230.26|8090|Indonesia|Limapuluh|PT Dream Network Solusindo|
-|6|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|149.34.210.58|9090|Türkiye|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|103.170.96.64|8090|Indonesia|Keputih|PT. Global Data Akses Persada|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|165.189.255.50|80|United States|Madison|State of WI Dept. of Administration|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|67.43.236.18|3919|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|16835|Canada|Montreal|GloboTech Communications|
-|19|103.76.151.90|8090|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|20|170.4.169.153|80|United States|Ashburn|Macys Systems and Technology|
+|13|165.189.255.50|80|United States|Madison|State of WI Dept. of Administration|
+|14|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|170.4.169.153|80|United States|Ashburn|Macys Systems and Technology|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|67.43.236.18|8575|Canada|Montreal|GloboTech Communications|
 
 
 
