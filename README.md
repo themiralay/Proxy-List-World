@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.250.128.4|8082|Indonesia|Utan|PT Asri Global Investama|
-|8|124.121.2.203|8080|Thailand|Bangkok|TRUEBB|
-|9|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|72.10.160.171|18401|Canada|Montreal|GloboTech Communications|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|72.10.160.171|18401|Canada|Montreal|GloboTech Communications|
+|9|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|14|67.43.228.250|5077|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|13033|Canada|Montreal|GloboTech Communications|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|67.43.228.253|28723|Canada|Montreal|GloboTech Communications|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|72.10.160.90|16801|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|17331|Canada|Montreal|GloboTech Communications|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
