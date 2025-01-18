@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|7|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|78.108.108.9|8080|Czechia|Kněžmost|Neutral Free eXchange members - FreeTel alternate|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|14|202.180.21.210|80|Indonesia|Depok|PT. HIPERNET INDODATA|
-|15|103.153.62.155|8080|Indonesia|Bekasi|IMEDIANET|
-|16|1.2.176.225|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|1|101.108.113.61|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.39.51.156|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
+|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|19|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
