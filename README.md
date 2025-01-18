@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|49.48.96.46|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.236.18|29899|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|12869|Canada|Montreal|GloboTech Communications|
-|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|67.43.228.251|11405|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|11405|Canada|Montreal|GloboTech Communications|
+|3|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|6|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|7|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|72.10.160.174|31933|Canada|Montreal|GloboTech Communications|
+|15|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|72.10.164.178|7761|Canada|Montreal|GloboTech Communications|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|62.210.37.74|8012|France|Villecresnes|Online S.A.S.|
 
 
 
