@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|5|149.86.146.197|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.75.84.32|8045|Indonesia|Central Java|MEGADATA|
-|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|12|103.159.96.178|8055|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|38.52.155.146|999|Colombia|Soacha|Giga Fibra SAS|
-|15|115.245.46.170|8080|India|Hyderabad|Reliance Jio Infocomm Limited|
-|16|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|124.105.48.232|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|27.124.93.197|8080|Indonesia|Wonogiri|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|2|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|109.230.82.172|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|124.107.144.249|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|72.10.160.91|13605|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|13269|Canada|Montreal|GloboTech Communications|
+|12|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|13|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|118.172.23.197|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|20|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
 
 
 
