@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|2|180.180.151.135|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|10|54.210.223.246|8888|United States|Ashburn|Amazon.com, Inc.|
-|11|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|201.77.98.131|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|14|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|17|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|45.237.75.6|8080|Brazil|Maricá|Westlink Tecnologia E Comunicacao Ltda. - ME|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|180.180.151.135|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.67.84.146|8080|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|179.228.241.22|8080|Brazil|São Paulo|Vivo|
+|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|12|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|45.237.75.6|8080|Brazil|Maricá|Westlink Tecnologia E Comunicacao Ltda. - ME|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|19|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
