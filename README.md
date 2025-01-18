@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3942** proxies at the latest update. Usable proxies are below.
+> Scraper found **3906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|422|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|386|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|302|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2292|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|177.93.48.70|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|6|121.101.134.202|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|7|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|67.43.236.18|28081|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|17679|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|17679|Canada|Montreal|GloboTech Communications|
-|16|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|67.43.236.18|28081|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12371|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|4815|Canada|Montreal|GloboTech Communications|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|200.76.28.203|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|4|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|103.138.26.97|8080|Bangladesh|Comilla|HelloTech Limited|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|8|38.52.161.118|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
+|9|72.10.160.90|1181|Canada|Montreal|GloboTech Communications|
+|10|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|11|72.10.160.91|13653|Canada|Montreal|GloboTech Communications|
+|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|13|67.43.236.18|1175|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|4325|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|4325|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.133.61.187|3127|Indonesia|Menggala|TLINK|
+|19|124.105.24.80|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|157.20.253.167|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
 
 
 
