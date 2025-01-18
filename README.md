@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|183.88.223.211|8080|Thailand|Bang Pa-in|Triple T Broadband Public Company Limited|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
-|12|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|190.60.34.94|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
-|19|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
-|20|67.43.236.20|29021|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
+|3|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|200.61.16.80|8080|Argentina|Bahía Blanca|Silica Networks Argentina S.A.|
+|5|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|6|45.116.230.79|8080|India|Kochi|DWANIRINN|
+|7|36.88.129.142|7777|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|103.182.184.123|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|9|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|10|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|197.157.138.206|8080|Rwanda|Kigali|Airtel Rwanda Ltd|
+|12|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
