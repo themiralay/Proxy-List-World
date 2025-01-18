@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.198.178.194|8082|Philippines|Nasugbu|Globe Telecom|
-|2|139.99.9.231|26001|Singapore|Singapore|OVH SAS|
-|3|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|4|186.121.234.93|80|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|139.99.9.231|26001|Singapore|Singapore|OVH SAS|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|7|45.70.201.186|999|Ecuador|Quito|Ufinet Panama S.A.|
-|8|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.181.255.219|7777|Indonesia|Tuban|PT Giga Digital Nusantara|
-|13|27.189.133.73|8089|China|Langfang|Chinanet|
-|14|103.175.224.93|8080|Indonesia|Jakarta|MYREPUBLIC|
-|15|72.10.160.173|29203|Canada|Montreal|GloboTech Communications|
-|16|121.227.118.136|8089|China|Nanjing|China Telecom|
-|17|67.43.228.250|2623|Canada|Montreal|GloboTech Communications|
-|18|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|106.58.220.54|8008|China|Kunming|Chinanet|
+|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|10|168.181.196.76|8080|Brazil|Itapemirim|Windx Telecomunicações|
+|11|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|45.167.126.105|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|17|41.60.26.210|32650|Mauritius|Ebene CyberCity|Maintainer Liquid Telecommunications Operations Limited|
+|18|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
+|19|115.187.31.93|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
