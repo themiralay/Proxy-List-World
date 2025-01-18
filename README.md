@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.148.44.125|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|112.78.161.200|8080|Indonesia|Jakarta|Biznet Networks|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|67.43.236.19|22089|Canada|Montreal|GloboTech Communications|
-|14|103.134.220.145|8080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|15|67.43.228.251|9493|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|1551|Canada|Montreal|GloboTech Communications|
-|17|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|103.228.243.175|8080|Indonesia|Jakarta|SpaceX Starlink|
-|19|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|20|67.43.236.18|16225|Canada|Montreal|GloboTech Communications|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.133.61.186|3030|Indonesia|Menggala|TLINK|
+|4|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|124.105.17.195|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|7|117.239.177.119|80|India|Kochi|BSNL Internet|
+|8|223.206.121.130|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|9|1.32.48.69|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|67.43.228.253|11249|Canada|Montreal|GloboTech Communications|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|188.125.167.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
