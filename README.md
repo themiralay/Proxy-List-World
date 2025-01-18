@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|185.153.181.97|41603|Finland|Helsinki|Stark Industries Solutions LTD|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|8|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|182.253.40.149|8080|Indonesia|Jakarta|BIZNET|
-|11|103.35.108.250|2024|Bangladesh|Dhaka|Ranks ITT|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|16|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|17|67.43.228.251|19559|Canada|Montreal|GloboTech Communications|
-|18|103.141.105.74|55|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|20.2.210.248|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|185.153.181.97|41603|Finland|Helsinki|Stark Industries Solutions LTD|
+|3|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|11|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|180.149.232.165|8080|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|103.189.123.110|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|51.89.25.53|3128|United Kingdom|London|OVH SAS|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
