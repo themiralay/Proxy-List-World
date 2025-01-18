@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.146.185.140|1111|Indonesia|Ponorogo|YAMNET|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.164.213.78|8088|Indonesia|Surabaya|PT iForte Global Internet|
-|8|118.173.88.104|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|126.209.13.230|8082|Philippines|Manila|Infinivan Incorporated|
-|10|103.53.44.90|8080|Pakistan|Karachi|E Bone Network (Pvt.) Limited|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|67.43.236.18|32469|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|22609|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3373|Canada|Montreal|GloboTech Communications|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|67.43.227.228|8629|Canada|Montreal|GloboTech Communications|
+|1|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|202.51.98.229|7000|Indonesia|Depok|PT iForte Global Internet|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|101.255.166.134|1111|Indonesia|Jakarta|PT Remala Abadi|
+|16|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|17|72.10.160.174|17239|Canada|Montreal|GloboTech Communications|
+|18|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
