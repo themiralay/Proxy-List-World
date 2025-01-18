@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|6|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|103.250.128.4|8082|Indonesia|Utan|PT Asri Global Investama|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|149.28.181.248|80|Australia|Sydney|The Constant Company|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|121.227.179.139|8089|China|Nanjing|China Telecom|
-|13|27.189.135.74|8089|China|Langfang|Chinanet|
-|14|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|5|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
+|6|101.109.10.139|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|103.173.139.22|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|10|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
 |15|67.43.228.250|17811|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|14193|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|27457|Canada|Montreal|GloboTech Communications|
-|18|49.73.4.167|8089|China|Nanjing|China Telecom|
-|19|27.189.129.88|8089|China|Langfang|Chinanet|
-|20|103.227.187.233|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|17|72.10.160.90|10293|Canada|Montreal|GloboTech Communications|
+|18|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
