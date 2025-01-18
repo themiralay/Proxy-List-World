@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|192.121.102.39|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|11|203.175.103.77|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
-|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|171.6.101.38|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 |14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|17|72.10.164.178|31267|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|23043|Canada|Montreal|GloboTech Communications|
-|19|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
-|20|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|103.122.66.82|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|17|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
+|18|67.43.228.250|11121|Canada|Montreal|GloboTech Communications|
+|19|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|67.43.228.250|11121|Canada|Montreal|GloboTech Communications|
 
 
 
