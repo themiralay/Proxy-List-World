@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|103.176.96.82|8085|Indonesia|Karawang|PT Global Sarana Elektronika|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|10|177.234.210.7|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|38.50.166.179|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
-|12|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|13|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|202.180.21.210|80|Indonesia|Depok|PT. HIPERNET INDODATA|
-|15|88.119.139.237|53281|Lithuania|Vilnius|Telia Lietuva|
-|16|117.5.53.16|10080|Vietnam|Hanoi|VIETTEL|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
+|3|101.108.113.61|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.176.96.82|8085|Indonesia|Karawang|PT Global Sarana Elektronika|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|13|200.195.98.42|8080|Brazil|Fortaleza|V tal|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|37.60.232.250|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|103.175.224.93|8080|Indonesia|Jakarta|MYREPUBLIC|
+|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
