@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.115.164.71|8080|Indonesia|Prapen|CV. NATANETWORK SOLUTION|
-|9|45.177.176.129|999|Mexico|Vista Hermosa de Negrete|Jorge Luis Torres Fernandez|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|95.169.203.245|9090|The Netherlands|Almere Stad|Alexhost SRL|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|18|45.178.55.2|999|Argentina|Posadas|Globalweb S.R.L.|
-|19|121.227.203.154|8089|China|Nanjing|China Telecom|
-|20|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|147.45.152.140|3777|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|11|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|186.113.232.105|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP BIC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|110.136.112.36|8080|Indonesia|Banyuwangi|PT. TELKOM INDONESIA|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
 
 
 
