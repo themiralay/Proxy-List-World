@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
-|3|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|4|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.24.152.234|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|200.61.16.80|8080|Argentina|Bahía Blanca|Silica Networks Argentina S.A.|
-|8|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.227.186.59|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|122.3.159.79|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|45.116.230.79|8080|India|Kochi|DWANIRINN|
-|19|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|27.66.215.32|25111|Vietnam|Hanoi|Viettel Group|
+|3|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|117.5.54.181|10078|Vietnam|Hanoi|VIETTEL|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|197.157.138.206|8080|Rwanda|Kigali|Airtel Rwanda Ltd|
+|9|122.3.159.79|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|223.206.91.145|8080|Thailand|Lat Bua Luang|Triple T Broadband Public Company Limited|
+|11|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|12|200.24.152.234|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|13|45.233.169.9|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|8.219.173.237|11113|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|197.248.37.177|8080|Kenya|Nairobi|Safaricom Limited|
+|19|43.247.38.57|8680|Indonesia|Bekasi|Maxindo|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
