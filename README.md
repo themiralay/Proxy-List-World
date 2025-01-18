@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|10|72.10.160.91|15249|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.21|3721|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.252|32621|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|111.132.17.242|3389|China|Beijing|China TieTong Telecommunications Corporation|
-|15|67.43.227.226|27705|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|18945|Canada|Montreal|GloboTech Communications|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|165.255.22.214|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
-|19|67.43.228.250|14865|Canada|Montreal|GloboTech Communications|
-|20|103.126.86.17|3127|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|11|170.239.241.30|31288|Brazil|Taquara|Blus Telecom Ltda - EPP|
+|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
