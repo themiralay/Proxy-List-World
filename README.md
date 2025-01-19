@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|149.86.146.44|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|58.147.186.31|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|7|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|13|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|14|103.35.108.250|2024|Bangladesh|Dhaka|Ranks ITT|
-|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|17|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
-|18|64.6.8.5|8080|United States|Macomb|MTC Communications|
-|19|186.148.181.65|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|41.254.48.66|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|203.161.30.139|8070|Indonesia|Bandar Lampung|PT. Trimitra Usaha Sejahtera|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|12|45.70.202.70|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|72.10.160.91|26123|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|24785|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|31795|Canada|Montreal|GloboTech Communications|
+|19|2.186.114.66|8080|Iran|Tabriz|Information Technology Company|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
