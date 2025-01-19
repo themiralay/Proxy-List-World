@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|6|200.5.196.218|3128|Argentina|Avellaneda|Telefonica de Argentina|
-|7|185.128.153.10|8080|Iran|Tehran|Shabakeh Gostar Shahriyar Co. (Ltd.)|
-|8|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|9|152.67.8.148|443|India|Mumbai|Oracle Corporation|
-|10|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|95.154.20.113|34248|Denmark|Rødding|SYD ENERGI|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.236.18|8621|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|12285|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|116.58.239.179|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|9|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|10|24.123.120.100|4228|United States|La Mirada|Spectrum|
+|11|49.48.146.68|8080|Thailand|Maha Sarakham|Triple T Broadband Public Company Limited|
+|12|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|49.51.244.112|8888|United States|Santa Clara|OPHL|
+|19|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
+|20|103.169.32.18|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
 
 
 
