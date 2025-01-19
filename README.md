@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|65.1.244.232|80|India|Mumbai|Amazon.com|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|72.10.160.91|8335|Canada|Montreal|GloboTech Communications|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|67.43.228.250|28731|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.230|18621|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|4769|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|4769|Canada|Montreal|GloboTech Communications|
-|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.227.107.5|8080|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|103.83.179.22|2025|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|67.43.228.250|3895|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|33217|Canada|Montreal|GloboTech Communications|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|72.10.160.174|28051|Canada|Montreal|GloboTech Communications|
 
 
 
