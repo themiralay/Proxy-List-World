@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|36.92.140.113|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|5|159.192.102.249|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|67.43.228.250|9641|Canada|Montreal|GloboTech Communications|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|27.189.129.163|8089|China|Langfang|Chinanet|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|17|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|103.254.106.82|8181|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|67.43.228.250|15541|Canada|Montreal|GloboTech Communications|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|14|179.109.156.19|8080|Brazil|Alegre|Digital NET RJ Telecom Eireli|
+|15|103.157.58.235|8080|Indonesia|Bandung|PT. Eka Mas Republik|
+|16|72.10.160.171|27723|Canada|Montreal|GloboTech Communications|
+|17|103.184.62.120|8099|Indonesia|Bajo|PT NKNET Data Media|
+|18|67.43.227.227|32665|Canada|Montreal|GloboTech Communications|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
