@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.192.174.18|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
-|5|103.169.132.66|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|12|72.10.160.90|14549|Canada|Montreal|GloboTech Communications|
-|13|27.66.215.95|25100|Vietnam|Hanoi|Viettel Group|
-|14|67.43.228.250|7219|Canada|Montreal|GloboTech Communications|
-|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|17|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|20|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|8|91.107.254.91|12345|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|121.227.118.176|8089|China|Nanjing|China Telecom|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|8.213.211.216|13128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
