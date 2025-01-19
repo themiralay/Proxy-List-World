@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|124.121.2.203|8080|Thailand|Bangkok|TRUEBB|
-|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|12|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|36.73.178.152|8181|Indonesia|Banyuwangi|PT. TELKOM INDONESIA|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|202.145.10.251|8080|Indonesia|Bogor|PT UniNET Media Sakti|
-|17|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|19|202.191.123.195|8090|Bangladesh|Kāfrul|Bijoy Online Limited|
-|20|103.88.239.179|82|India|Hyderabad|Mana Communications|
+|1|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|13|149.28.181.248|80|Australia|Sydney|The Constant Company|
+|14|148.233.136.213|80|Mexico|Santa María Chimalhuacán|Uninet S.A. de C.V.|
+|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|103.186.90.18|8080|Indonesia|Guyangan|PT Akses Data Internusa|
 
 
 
