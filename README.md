@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.163.135.56|7777|Indonesia|Banyuwangi|PROVITEL|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|7|38.52.155.102|999|Colombia|Soacha|Giga Fibra SAS|
-|8|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|12|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
-|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|188.134.91.83|8080|Russia|St Petersburg|Interzet|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|93.127.202.226|3128|France|Paris|Hostinger International Limited|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|9|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|103.147.246.249|8080|Indonesia|Tangerang|PLBNET|
+|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
 |16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|19|72.10.160.170|19383|Canada|Montreal|GloboTech Communications|
-|20|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|17|38.156.75.235|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|72.10.164.178|6089|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|6089|Canada|Montreal|GloboTech Communications|
 
 
 
