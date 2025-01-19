@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.176.96.104|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|103.180.122.60|8091|Indonesia|Kroya|PT Indo Telemedia Solusi|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|8|186.148.181.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|38.41.4.166|999|Venezuela|Santa Teresa del Tuy|MDS TELECOM C.A.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|45.174.110.7|999|Mexico|San Antonio Bonixi|Iptvtel Comunicaciones S De RL De CV|
-|14|67.43.236.21|10373|Canada|Montreal|GloboTech Communications|
-|15|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|16|103.170.96.64|8090|Indonesia|Keputih|PT. Global Data Akses Persada|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|72.10.160.170|2891|Canada|Montreal|GloboTech Communications|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|38.41.4.166|999|Venezuela|Santa Teresa del Tuy|MDS TELECOM C.A.|
+|9|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|10|178.161.243.217|3128|Russia|Perm|JSC "ER-Telecom Holding"|
+|11|60.211.124.10|4434|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|12|67.43.227.226|18687|Canada|Montreal|GloboTech Communications|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.153.149.207|8080|Indonesia|Semarang|JARINGANKU|
+|17|212.113.102.47|15409|Sweden|Stockholm|xorek.cloud International LTD|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
