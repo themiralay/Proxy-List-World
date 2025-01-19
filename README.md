@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|27.66.215.95|25100|Vietnam|Hanoi|Viettel Group|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|27.66.215.95|25100|Vietnam|Hanoi|Viettel Group|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|45.174.80.83|20183|Brazil|Riachão das Neves|Davilson Dos Santos Correia-me|
+|10|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|27.66.215.95|25100|Vietnam|Hanoi|Viettel Group|
+|16|72.10.164.178|1751|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|21241|Canada|Montreal|GloboTech Communications|
+|18|103.84.176.46|8083|Philippines|Pavia|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|103.154.90.190|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
