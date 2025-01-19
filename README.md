@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|125.25.79.36|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.150.113.94|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|157.66.85.76|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|7|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
-|8|103.41.88.182|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|9|41.65.55.27|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|121.227.146.67|8089|China|Nanjing|China Telecom|
-|13|72.10.164.178|10621|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.228.250|22795|Canada|Montreal|GloboTech Communications|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|121.227.109.53|8089|China|Nanjing|China Telecom|
-|18|72.10.160.91|10235|Canada|Montreal|GloboTech Communications|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.160.170|9499|Canada|Montreal|GloboTech Communications|
+|1|125.25.79.36|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.150.113.94|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
+|5|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.195.65.169|8080|Indonesia|Tanjung Barat|PT Perwira Media Solusi|
+|10|103.190.94.46|8080|Indonesia|Tolitoli|PT Triple Zhi Network|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|157.66.85.76|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
