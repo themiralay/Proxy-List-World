@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|179.104.69.212|8080|Brazil|Nova Serrana|ALGAR TELECOM S/A|
-|6|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|7|65.1.244.232|80|India|Mumbai|Amazon.com|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|10|72.10.164.178|6577|Canada|Montreal|GloboTech Communications|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|103.190.60.29|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
-|13|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|102.135.157.33|12354|South Africa|Johannesburg|Session Telecoms(PTY) Ltd|
-|16|103.167.170.196|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|17|103.162.54.203|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|18|72.10.160.92|4457|Canada|Montreal|GloboTech Communications|
-|19|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|203.190.46.37|3125|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|4|103.40.8.14|8888|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|8|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|11|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|72.10.160.92|4457|Canada|Montreal|GloboTech Communications|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
