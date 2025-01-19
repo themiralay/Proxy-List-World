@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|176.36.190.253|8080|Ukraine|Kyiv|Lanet Network|
+|3|103.40.8.14|8888|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|4|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
 |5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|103.40.8.14|8888|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
-|7|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|6|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|112.78.131.6|8080|Indonesia|Pamulang|Biznet Networks|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.160.92|9679|Canada|Montreal|GloboTech Communications|
-|16|116.254.98.184|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.227.226|9987|Canada|Montreal|GloboTech Communications|
-|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|19|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
 
 
 
