@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.162.62.250|8181|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|67.43.228.250|20717|Canada|Montreal|GloboTech Communications|
-|15|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|16|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|17|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|121.227.201.218|8089|China|Nanjing|China Telecom|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|177.135.36.167|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
+|6|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|7|103.156.248.45|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|10|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.172.71.140|8080|Indonesia|Bandung|AZNET|
+|15|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|16|67.43.228.250|20717|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|14015|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|2013|Canada|Montreal|GloboTech Communications|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
