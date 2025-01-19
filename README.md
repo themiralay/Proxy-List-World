@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|103.144.18.77|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|12|197.211.45.4|10000|Nigeria|Lagos|Globacom Limited|
-|13|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
-|16|202.176.1.25|80|India|Chandauli|RailTel Corporation|
-|17|103.169.255.195|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|18|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|103.154.77.73|89|Indonesia|Sleman|T2NET|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|65.1.244.232|80|India|Mumbai|Amazon.com|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|12|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|13|163.53.82.223|32650|India|Sādri|Kay Kay Softech Private Limited|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
