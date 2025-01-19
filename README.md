@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|27.189.135.221|8089|China|Langfang|Chinanet|
-|12|103.165.155.147|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|13|72.10.164.178|22575|Canada|Montreal|GloboTech Communications|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|72.10.164.178|22575|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|25057|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|25057|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|116.6.229.194|23122|China|Shenzhen|China Telecom Next Generation Carrier Network|
+|13|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|14|103.126.219.204|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|147.78.169.80|800|Slovakia|Nitra|OSTV s.r.o.|
+|17|103.113.3.25|8080|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|114.216.205.197|8089|China|Nanjing|China Telecom|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
