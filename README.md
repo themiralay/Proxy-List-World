@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|12|103.48.71.2|83|India|Pargi|Country Online Services PVT LTD|
-|13|72.10.164.178|8835|Canada|Montreal|GloboTech Communications|
-|14|103.153.247.220|8080|Indonesia|Jakarta|PRIMAHOME|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|185.35.221.51|8888|France|Paris|Melbikomas UAB|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|11|103.155.166.97|8181|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|103.102.85.1|8080|India|Chennai|Amigos Broadband Pvt Ltd|
+|19|187.141.184.235|8080|Mexico|San José del Cabo|Uninet S.A. de C.V.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
