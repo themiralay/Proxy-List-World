@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.153.246.129|3125|Indonesia|Purwakarta|PRIMAHOME|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|8|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|163.53.82.223|32650|India|Sādri|Kay Kay Softech Private Limited|
-|15|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|103.152.93.157|8080|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|2|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|9|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.247.14.103|1111|Indonesia|Klaten|TERABIT|
+|12|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|13|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
+|14|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
+|15|163.53.82.223|32650|India|Sādri|Kay Kay Softech Private Limited|
 |16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|72.10.160.91|28111|Canada|Montreal|GloboTech Communications|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
