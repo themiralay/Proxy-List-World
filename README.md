@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.195.65.169|8080|Indonesia|Tanjung Barat|PT Perwira Media Solusi|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|5|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|6|125.25.79.36|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|7|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
-|8|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|121.227.118.133|8089|China|Nanjing|China Telecom|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|67.43.236.20|27713|Canada|Montreal|GloboTech Communications|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|67.43.227.226|10099|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|121.227.118.153|8089|China|Nanjing|China Telecom|
+|1|203.150.113.94|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|125.25.79.36|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|103.163.244.212|83|India|Panipat|Infolink System|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.133.61.188|8080|Indonesia|Menggala|TLINK|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|12|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|72.10.160.91|10235|Canada|Montreal|GloboTech Communications|
+|18|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|67.43.236.20|27713|Canada|Montreal|GloboTech Communications|
 
 
 
