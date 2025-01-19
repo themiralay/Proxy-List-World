@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.214.9.99|3128|Vietnam|Thanh Xuân|MEGACORE|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|103.154.230.117|8080|Indonesia|Lamongan|DIGITNET|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|103.160.205.230|8080|Indonesia|Mataram|PRIME|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|17|191.54.26.89|8080|Brazil|São Paulo|ALGAR TELECOM S/A|
-|18|180.180.123.40|8080|Thailand|Nikhom Phattana|TOT Public Company Limited|
-|19|8.213.211.216|13128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.236.19|2273|Canada|Montreal|GloboTech Communications|
+|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|170.233.193.129|999|Chile|Santiago|MI INTERNET SPA|
+|9|72.10.160.90|7109|Canada|Montreal|GloboTech Communications|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|67.43.228.250|8531|Canada|Montreal|GloboTech Communications|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|72.10.160.91|31573|Canada|Montreal|GloboTech Communications|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|16|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|113.192.48.26|8181|Indonesia|Batu|PT.Global Media Data Prima|
 
 
 
