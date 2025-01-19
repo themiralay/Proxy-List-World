@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.127.139.2|80|Philippines|Monching|Globe Telecom|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|222.127.139.2|80|Philippines|Monching|Globe Telecom|
+|3|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|4|49.48.53.68|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|72.10.160.174|24497|Canada|Montreal|GloboTech Communications|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|13|223.205.96.215|8080|Thailand|Trang|Triple T Broadband Public Company Limited|
-|14|72.10.160.170|6493|Canada|Montreal|GloboTech Communications|
-|15|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|16|72.10.160.90|7787|Canada|Montreal|GloboTech Communications|
-|17|114.223.79.179|8089|China|Nanjing|Chinanet|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.220.23.177|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|20|121.227.109.29|8089|China|Nanjing|China Telecom|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.154.77.204|89|Indonesia|Sleman|T2NET|
+|10|103.93.176.70|8080|India|Faridabad|Elxire Data Services Pvt. Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|38.199.30.172|999|Colombia|Dagua|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|13|167.86.96.187|3128|France|Lauterbourg|Contabo GmbH|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
+|16|182.253.66.148|8989|Indonesia|Jakarta|BIZNET|
+|17|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
+|18|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|103.39.51.20|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
