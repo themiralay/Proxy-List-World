@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4555** proxies at the latest update. Usable proxies are below.
+> Scraper found **4539** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|425|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|429|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|338|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2846|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|27.66.215.95|25100|Vietnam|Hanoi|Viettel Group|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|38.172.131.64|999|Peru|Lima|Conex TV E.I.R.L.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|202.148.16.150|8080|Indonesia|Jakarta|PT. Core Mediatech|
-|15|180.105.38.116|1080|China|Nanjing|Chinanet|
-|16|103.133.61.230|8080|Indonesia|Pekalongan|TLINK|
-|17|27.66.215.95|25100|Vietnam|Hanoi|Viettel Group|
-|18|37.210.242.79|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|19|190.71.24.129|999|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
-|20|187.141.184.235|8080|Mexico|San José del Cabo|Uninet S.A. de C.V.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.167.125.18|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|38.51.235.50|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|11|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
+|13|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|72.10.160.93|19477|Canada|Montreal|GloboTech Communications|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|34.146.80.56|8561|Japan|Tokyo|Google LLC|
+|19|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
+|20|72.10.160.90|12433|Canada|Montreal|GloboTech Communications|
 
 
 
