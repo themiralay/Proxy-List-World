@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3969** proxies at the latest update. Usable proxies are below.
+> Scraper found **3927** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|370|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|328|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|361|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2312|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|177.135.36.167|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
-|6|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|7|103.156.248.45|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|14|103.172.71.140|8080|Indonesia|Bandung|AZNET|
-|15|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|16|67.43.228.250|20717|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|14015|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|2013|Canada|Montreal|GloboTech Communications|
-|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|34.146.80.56|8561|Japan|Tokyo|Google LLC|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|116.105.36.212|8080|Vietnam|Hanoi|Viettel Corporation|
+|7|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|121.227.201.230|8089|China|Nanjing|China Telecom|
+|12|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|49.49.146.54|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|121.227.203.186|8089|China|Nanjing|China Telecom|
+|20|118.179.50.70|80|Bangladesh|Azimpur|Dhakacom Limited|
 
 
 
