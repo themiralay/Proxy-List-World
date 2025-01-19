@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.127.139.2|80|Philippines|Monching|Globe Telecom|
-|2|119.2.42.202|8085|Indonesia|Jakarta|PT. Laxo Global Akses|
-|3|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|5|45.184.103.112|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|36.91.68.149|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|11|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
-|12|103.189.123.110|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
-|13|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|61.160.247.69|9999|China|Nanjing|China Telecom|
-|19|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|20|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|222.127.139.2|80|Philippines|Monching|Globe Telecom|
+|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|10|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
+|11|183.80.16.76|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|18|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|67.43.236.19|19519|Canada|Montreal|GloboTech Communications|
 
 
 
