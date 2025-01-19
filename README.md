@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|34.146.80.56|8561|Japan|Tokyo|Google LLC|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|116.105.36.212|8080|Vietnam|Hanoi|Viettel Corporation|
-|7|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|121.227.201.230|8089|China|Nanjing|China Telecom|
-|12|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|178.161.243.217|3128|Russia|Perm|JSC "ER-Telecom Holding"|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
 |13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|49.49.146.54|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|121.227.203.186|8089|China|Nanjing|China Telecom|
-|20|118.179.50.70|80|Bangladesh|Azimpur|Dhakacom Limited|
+|14|45.225.207.180|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|17|67.43.227.226|24773|Canada|Montreal|GloboTech Communications|
+|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|157.10.97.189|3125|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
