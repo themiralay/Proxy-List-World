@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|186.97.138.66|999|Colombia|Medellín|Colombia Móvil|
 |4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|103.162.63.164|8080|Indonesia|Argasari|PT Ring Media Nusantara|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|13|91.107.254.91|12345|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|147.75.34.92|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|171.224.28.148|8080|Vietnam|Hanoi|Viettel Corporation|
-|20|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|5|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.159.92.147|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|67.43.227.227|14797|Canada|Montreal|GloboTech Communications|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|103.189.254.57|1111|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
