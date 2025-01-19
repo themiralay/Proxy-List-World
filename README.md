@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|45.167.125.18|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|38.51.235.50|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|11|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
-|13|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.160.93|19477|Canada|Montreal|GloboTech Communications|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.146.80.56|8561|Japan|Tokyo|Google LLC|
-|19|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
-|20|72.10.160.90|12433|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|72.10.160.170|12725|Canada|Montreal|GloboTech Communications|
+|14|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|103.154.77.32|89|Indonesia|Sleman|T2NET|
+|17|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|18|182.78.42.112|83|India|Belgaum|Bharti Airtel|
+|19|72.10.160.91|16483|Canada|Montreal|GloboTech Communications|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
