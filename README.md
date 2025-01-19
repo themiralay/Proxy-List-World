@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|5.181.3.230|3128|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|103.156.15.23|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|14|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|15|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|147.45.77.4|3129|Sweden|Stockholm|Aeza International LTD|
-|18|103.169.255.195|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|103.165.155.243|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.170.96.64|8090|Indonesia|Keputih|PT. Global Data Akses Persada|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|67.43.227.230|21273|Canada|Montreal|GloboTech Communications|
+|15|103.124.138.76|1111|Indonesia|Adiwerna|Global Media Data Prima|
+|16|103.176.96.82|8085|Indonesia|Karawang|PT Global Sarana Elektronika|
+|17|160.22.118.118|39114|Vietnam|An Hải|Sandclock Service Trading Company Limited|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|16355|Canada|Montreal|GloboTech Communications|
+|20|180.105.38.116|1080|China|Nanjing|Chinanet|
 
 
 
