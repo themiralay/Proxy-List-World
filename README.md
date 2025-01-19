@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|101.255.208.238|7888|Indonesia|Bekasi|PT Remala Abadi|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|171.224.28.148|8080|Vietnam|Hanoi|Viettel Corporation|
-|5|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|6|103.127.220.222|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|182.52.26.109|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|1.179.148.9|55636|Thailand|Bangkok|TOT Public Company Limited|
-|12|182.48.77.173|8674|Bangladesh|Chittagong|Corporate Office|
-|13|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
-|14|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|190.94.212.197|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|18|103.69.106.210|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|19|146.196.40.86|8080|Indonesia|Karawang|UNINA|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|6|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|103.220.23.247|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|13|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|134.35.182.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|103.25.81.116|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
 
 
 
