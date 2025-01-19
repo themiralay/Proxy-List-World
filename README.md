@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|103.165.155.161|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|6|38.255.21.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|10|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|16|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|67.43.228.252|32347|Canada|Montreal|GloboTech Communications|
+|20|5.187.9.10|8080|Georgia|Tbilisi|LLC Skytel|
 
 
 
