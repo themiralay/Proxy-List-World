@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|1|103.190.171.197|8080|Indonesia|Jakarta|WMS|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|95.154.20.113|34248|Denmark|Rødding|SYD ENERGI|
-|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|9|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
-|10|152.67.8.148|443|India|Mumbai|Oracle Corporation|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|14|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|103.245.16.134|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
-|17|121.227.201.228|8089|China|Nanjing|China Telecom|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
+|11|36.88.137.114|443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|13|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|38.9.136.104|8888|Indonesia|Medan|PT. Media Antar Nusa|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|71.6.200.201|3128|United States|San Diego|CariNet, Inc.|
 |18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |19|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|58.136.169.255|8080|Thailand|Bangkok|AIS-Fibre|
 
 
 
