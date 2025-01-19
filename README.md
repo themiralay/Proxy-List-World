@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
-|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|103.75.84.237|8080|Indonesia|Central Java|MEGADATA|
-|7|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|121.227.203.168|8089|China|Nanjing|China Telecom|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|67.43.228.250|26207|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|121.227.201.225|8089|China|Nanjing|China Telecom|
-|16|67.43.228.250|26207|Canada|Montreal|GloboTech Communications|
-|17|61.160.247.69|9999|China|Nanjing|China Telecom|
-|18|78.187.2.189|19054|Turkey|Diyarbakır|TurkTelecom|
-|19|102.213.241.106|8080|Kenya|Chuka|Swift Broadband Limited|
-|20|72.10.160.174|20009|Canada|Montreal|GloboTech Communications|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|9|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|67.43.228.250|20111|Canada|Montreal|GloboTech Communications|
+|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|192.141.98.9|3020|Peru|Huancayo|Internet Solutions Network Peru SAC|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|67.43.228.253|9863|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
