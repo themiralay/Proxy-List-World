@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|5.250.180.187|3128|France|Roubaix|IONOS SE|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|41.57.136.178|6060|South Africa|Centurion|SCR PTA C|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
-|8|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|9|3.145.36.17|8090|United States|Dublin|Amazon.com, Inc.|
-|10|45.174.108.199|999|Mexico|Joquicingo|Iptvtel Comunicaciones S De RL De CV|
-|11|103.156.16.227|8080|Indonesia|Jatibarang|RSTNET|
-|12|147.45.45.71|2971|The Netherlands|Amsterdam|Partner Hosting LTD|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.213.211.216|13128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|34.146.80.56|8561|Japan|Tokyo|Google LLC|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|8.213.211.216|13128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|41.57.136.178|6060|South Africa|Centurion|SCR PTA C|
+|11|3.145.36.17|8090|United States|Dublin|Amazon.com, Inc.|
+|12|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|13|147.45.45.71|2987|The Netherlands|Amsterdam|Partner Hosting LTD|
+|14|3.145.36.17|8090|United States|Dublin|Amazon.com, Inc.|
+|15|43.156.11.75|59394|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|35.240.124.71|3128|Belgium|Brussels|Google LLC|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
