@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
-|4|203.175.103.77|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
-|7|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
-|8|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|9|184.82.46.169|8080|Thailand|Khon Kaen|AIS-Fibre|
-|10|103.39.51.73|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|11|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|67.43.227.226|16425|Canada|Montreal|GloboTech Communications|
-|18|121.227.178.89|8089|China|Nanjing|China Telecom|
-|19|3.145.169.52|8090|United States|Dublin|Amazon.com, Inc.|
-|20|121.227.146.112|8089|China|Nanjing|China Telecom|
+|3|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
+|7|203.175.103.77|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|164.163.178.61|8080|Brazil|Nova Esperança do Piriá|J M P M ALENCAR & A G F ALENCAR LTDA - ME|
+|13|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|200.24.139.47|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
