@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|3|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|2|223.206.61.124|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
+|5|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
 |6|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|7|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|67.43.227.226|16765|Canada|Montreal|GloboTech Communications|
-|10|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|11|180.149.232.165|8080|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
-|12|72.10.160.171|8925|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|21757|Canada|Montreal|GloboTech Communications|
-|14|124.121.115.133|8080|Thailand|Bangkok|TRUEBB|
-|15|60.52.121.111|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|16|2.185.142.57|6565|Iran|Tehran|hamedan|
-|17|188.245.88.65|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.236.18|16359|Canada|Montreal|GloboTech Communications|
-|19|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|20|186.96.96.134|999|Colombia|Planadas|TV AZTECA SUCURSAL COLOMBIA|
+|7|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|8|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|2.185.142.57|6565|Iran|Tehran|hamedan|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|186.237.131.122|8080|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|17|187.250.176.57|8080|Mexico|Camalú|Uninet S.A. de C.V.|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|150.95.27.197|10090|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|20|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
 
 
 
