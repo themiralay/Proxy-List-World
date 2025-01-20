@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|45.188.124.121|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.A De C.V.|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|103.83.97.11|8090|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|201.77.98.131|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|3|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|4|37.230.93.51|8060|Spain|Gerena|Servihosting|
+|5|103.87.220.71|3128|Vietnam|Quận Một|Long Van System Solution|
+|6|45.188.124.121|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.A De C.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|62.183.96.197|8080|Russia|Maykop|Southen Telecommunication Maintainer|
 |12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|15|67.43.228.252|3299|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|72.10.160.170|2381|Canada|Montreal|GloboTech Communications|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|19|67.43.228.252|3299|Canada|Montreal|GloboTech Communications|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
