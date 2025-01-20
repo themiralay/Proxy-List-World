@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|8.215.18.36|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|38.230.165.25|9090|Ivory Coast|Yamoussoukro|ORANGE COTE D'IVOIRE|
-|11|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.76.109.54|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|14|103.160.40.253|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|38.51.232.180|999|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|20|45.174.241.8|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.155.190.242|8080|Indonesia|Blitar|Trisula Media Data|
+|17|67.43.227.226|3875|Canada|Montreal|GloboTech Communications|
+|18|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
+|19|45.167.126.105|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
