@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.85.12.27|8080|South Korea|Songpa-gu|Korea Telecom|
-|2|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|1|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|2|220.85.12.27|8080|South Korea|Songpa-gu|Korea Telecom|
 |3|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|4|189.232.93.131|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|5|49.49.188.157|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|6|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|7|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|36.72.249.76|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
+|5|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
+|6|189.232.93.131|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|7|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|8|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
 |9|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
-|10|78.47.69.231|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.76.109.144|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|13|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|14|194.67.193.25|8080|Germany|Frankfurt am Main|Cloud Solutions LLC|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|17|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|18|187.204.88.129|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|19|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|20|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|10|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|11|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
+|12|116.97.33.137|10001|Vietnam|Thường Tín|Viettel Corporation|
+|13|217.156.65.186|8080|Moldova|Chisinau|Alexhost SRL|
+|14|95.141.140.179|80|Kazakhstan|Pavlodar|Jusan Mobile JSC|
+|15|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|16|1.179.239.244|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|79.119.31.232|8080|Romania|Oradea|RCS & RDS|
+|19|191.81.248.253|8080|Argentina|Mendoza|Telefonica de Argentina|
+|20|103.250.128.4|8082|Indonesia|Utan|PT Asri Global Investama|
 
 
 
