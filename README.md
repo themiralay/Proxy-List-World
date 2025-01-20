@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|11|103.165.40.85|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|14|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
-|15|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|118.68.117.167|10010|Vietnam|Hanoi|FPT Telecom Company|
-|17|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.227.226|29613|Canada|Montreal|GloboTech Communications|
-|20|45.189.118.195|999|Peru|San Juan de Lurigancho|Fiber Digital S.R.L|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|12|79.106.226.202|8989|Albania|Sarandë|ONE ALBANIA SH.A.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|38.156.74.174|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|17|38.159.229.73|999|Ecuador|Vinces|Turbonet S.A.|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
