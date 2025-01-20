@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.247.14.115|9285|Indonesia|Klaten|TERABIT|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
-|7|116.90.97.32|8080|Pakistan|Karachi|FIBERISH (PVT) LTD|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|72.10.160.91|22685|Canada|Montreal|GloboTech Communications|
-|14|200.125.170.22|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|110.137.24.126|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|18|103.105.57.66|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
-|19|103.126.86.17|3127|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|20|2.185.142.57|6565|Iran|Tehran|hamedan|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|121.227.146.87|8089|China|Nanjing|China Telecom|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|2.185.142.57|6565|Iran|Tehran|hamedan|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
