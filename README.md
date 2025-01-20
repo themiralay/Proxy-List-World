@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|2|189.232.93.131|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
-|6|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|7|78.47.69.231|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
-|9|194.67.193.25|8080|Germany|Frankfurt am Main|Cloud Solutions LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|95.141.140.179|80|Kazakhstan|Pavlodar|Jusan Mobile JSC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|17|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
-|18|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|19|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|20|144.202.78.147|80|United States|Stuart|The Constant Company|
+|2|103.155.116.247|1080|Indonesia|Serang|IOSYS|
+|3|189.232.93.131|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|144.202.78.147|80|United States|Stuart|The Constant Company|
+|6|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|144.202.78.147|80|United States|Stuart|The Constant Company|
+|9|174.129.202.12|80|United States|Ashburn|Amazon.com, Inc.|
+|10|78.47.69.231|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.250.128.4|8082|Indonesia|Utan|PT Asri Global Investama|
+|13|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
+|14|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
 
 
 
