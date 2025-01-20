@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
-|3|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
-|4|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|3.145.173.123|8090|United States|Dublin|Amazon.com, Inc.|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|67.43.236.18|27655|Canada|Montreal|GloboTech Communications|
-|12|121.227.146.118|8089|China|Nanjing|China Telecom|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.236.18|27655|Canada|Montreal|GloboTech Communications|
-|15|114.223.62.74|8089|China|Nanjing|Chinanet|
-|16|72.10.160.170|8199|Canada|Montreal|GloboTech Communications|
-|17|121.224.231.142|8089|China|Nanjing|China Telecom|
-|18|67.43.236.20|31161|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|9671|Canada|Montreal|GloboTech Communications|
-|20|121.227.201.197|8089|China|Nanjing|China Telecom|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
+|9|3.145.169.52|8090|United States|Dublin|Amazon.com, Inc.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|2.185.142.57|6565|Iran|Tehran|hamedan|
+|12|67.43.227.227|28863|Canada|Montreal|GloboTech Communications|
+|13|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|67.43.228.253|10469|Canada|Montreal|GloboTech Communications|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|67.43.227.228|5647|Canada|Montreal|GloboTech Communications|
+|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
