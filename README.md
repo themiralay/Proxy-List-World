@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|27.66.222.13|25100|Vietnam|Hanoi|Viettel Group|
-|9|67.43.236.19|9863|Canada|Montreal|GloboTech Communications|
-|10|113.53.89.131|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
-|13|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|15|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.66.222.13|25100|Vietnam|Hanoi|Viettel Group|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|11|187.251.222.69|8080|Mexico|Santa Ana Chichicuautla|Total Play Telecomunicaciones SA De CV|
+|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|13|36.91.48.131|8088|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|16|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
