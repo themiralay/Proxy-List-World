@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4285** proxies at the latest update. Usable proxies are below.
+> Scraper found **4345** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|60|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|388|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|8|182.253.38.179|3128|Indonesia|Jakarta|BIZNET|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|12|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|72.10.160.90|18619|Canada|Montreal|GloboTech Communications|
-|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|3.145.173.123|8090|United States|Dublin|Amazon.com, Inc.|
+|5|102.141.164.74|8080|South Africa|Pretoria|Level|
+|6|103.176.96.82|8085|Indonesia|Karawang|PT Global Sarana Elektronika|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|91.107.254.91|12345|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|20|2.185.142.57|6565|Iran|Tehran|hamedan|
 
 
 
