@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.178.171.37|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|2|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
-|3|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|4|125.160.83.197|8080|Indonesia|Singkawang|PT. TELKOM INDONESIA|
-|5|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|103.148.45.184|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|8|103.27.22.65|32650|Pakistan|Lahore|Supernet|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|14|171.6.155.92|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|17|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
-|18|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
-|19|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
+|7|103.174.237.66|3127|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|12|103.147.246.78|8080|Indonesia|Tangerang|PLBNET|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|20|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
 
 
 
