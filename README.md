@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|2|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.132.125.244|8080|Peru|Lima|Optical Technologies S.A.C.|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|11|103.163.231.106|3127|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|12|121.227.118.154|8089|China|Nanjing|China Telecom|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|121.227.118.145|8089|China|Nanjing|China Telecom|
-|15|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
-|16|121.227.118.153|8089|China|Nanjing|China Telecom|
-|17|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|121.227.118.150|8089|China|Nanjing|China Telecom|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|94.72.120.204|3128|United States|Seattle|Nubes, LLC|
+|3|94.72.120.204|3128|United States|Seattle|Nubes, LLC|
+|4|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|5|52.14.131.28|8090|United States|Dublin|Amazon.com, Inc.|
+|6|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|115.147.63.59|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
+|20|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
 
 
 
