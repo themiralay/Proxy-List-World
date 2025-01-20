@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|103.39.51.73|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|6|103.167.87.48|39045|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
-|7|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|8|177.93.63.2|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
-|9|46.146.202.102|8080|Russia|Perm|OJSC "ER-Telecom" Perm'|
-|10|191.55.31.25|8080|Brazil|Uberlândia|ALGAR TELECOM S/A|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|203.175.103.77|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
-|13|38.7.23.177|999|Mexico|San Agustín de las Palmas|Internet Telefonia Y TV De Michoacan SA De CV|
-|14|63.220.196.123|8080|United States|Chicago|Gateway Communications|
-|15|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|112.198.186.104|8082|Philippines|Nasugbu|Globe Telecom|
-|18|72.10.160.170|30771|Canada|Montreal|GloboTech Communications|
-|19|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|20|76.50.80.32|8182|United States|Tarzana|Spectrum|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|112.198.186.104|8082|Philippines|Nasugbu|Globe Telecom|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|3.145.173.123|8090|United States|Dublin|Amazon.com, Inc.|
+|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|103.82.39.237|15500|Vietnam|Thái Nguyên|Cloudfly Corporation|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|72.10.160.93|17815|Canada|Montreal|GloboTech Communications|
 
 
 
