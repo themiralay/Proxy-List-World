@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.66.222.13|25100|Vietnam|Hanoi|Viettel Group|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|15|101.255.208.110|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|27.66.222.13|25100|Vietnam|Hanoi|Viettel Group|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|10|116.99.207.141|5106|Vietnam|Củng Sơn|Viettel Corporation|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|200.95.184.50|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|15|38.156.236.158|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|16|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|191.37.33.38|42999|Brazil|Chavantes|Cednet Provedor Internet|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |20|27.66.222.13|25100|Vietnam|Hanoi|Viettel Group|
 
 
