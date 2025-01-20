@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|4|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
-|10|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|11|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|12|103.189.123.223|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
-|13|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|14|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|15|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|62.146.176.25|8080|United States|St Louis|Nubes, LLC|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
+|7|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
+|8|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|9|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|14|61.160.247.69|9999|China|Nanjing|China Telecom|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|80.149.142.142|80|Germany|Bastheim|Deutsche Telekom AG|
+|18|103.165.155.171|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|117.5.58.105|10085|Vietnam|Hanoi|VIETTEL|
 
 
 
