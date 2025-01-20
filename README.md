@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|103.83.18.149|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|3|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |6|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|12|61.160.247.69|9999|China|Nanjing|China Telecom|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.236.18|16287|Canada|Montreal|GloboTech Communications|
-|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|72.10.160.90|10967|Canada|Montreal|GloboTech Communications|
-|18|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|38.156.74.174|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|45.189.118.195|999|Peru|San Juan de Lurigancho|Fiber Digital S.R.L|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|11|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|14|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|15|103.26.110.110|84|India|Madurai|Niss Networks|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|18|103.159.96.146|3128|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
