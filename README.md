@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.55.103.201|3128|South Korea|Pyeongtaek-si|Korea Telecom|
 |2|121.161.79.38|3128|South Korea|Goyang-si|Korea Telecom|
-|3|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
-|4|158.101.99.7|3128|United States|Ashburn|Oracle Corporation|
-|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|6|132.145.211.83|3128|United States|Ashburn|Oracle Corporation|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|143.47.109.166|3128|United States|Ashburn|Oracle Corporation|
-|10|194.84.190.167|80|Russia|Moscow|LLC Orange Business Services|
-|11|132.145.211.83|3128|United States|Ashburn|Oracle Corporation|
-|12|158.101.99.7|3128|United States|Ashburn|Oracle Corporation|
-|13|143.47.109.166|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|15|34.76.73.239|3128|Belgium|Brussels|Google LLC|
-|16|34.91.225.219|3128|Netherlands|Groningen|Google LLC|
-|17|23.251.132.77|3128|Belgium|Brussels|Google LLC|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|158.101.99.7|3128|United States|Ashburn|Oracle Corporation|
+|7|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|143.47.109.166|3128|United States|Ashburn|Oracle Corporation|
+|9|132.145.211.83|3128|United States|Ashburn|Oracle Corporation|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|194.84.190.167|80|Russia|Moscow|LLC Orange Business Services|
+|12|34.141.164.191|3128|Netherlands|Groningen|Google LLC|
+|13|34.76.73.239|3128|Belgium|Brussels|Google LLC|
+|14|158.101.99.7|3128|United States|Ashburn|Oracle Corporation|
+|15|23.251.132.77|3128|Belgium|Brussels|Google LLC|
+|16|34.155.47.174|3128|France|Paris|Google LLC|
+|17|34.155.39.79|3128|France|Paris|Google LLC|
 |18|212.98.168.133|3128|Belarus|Minsk|Business Network|
-|19|34.90.198.208|3128|Netherlands|Groningen|Google LLC|
+|19|35.234.167.185|3128|Netherlands|Groningen|Google LLC|
 |20|104.248.140.246|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
