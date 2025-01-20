@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|3|52.14.131.28|8090|United States|Dublin|Amazon.com, Inc.|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|13|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|17|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|19|67.43.236.19|20299|Canada|Montreal|GloboTech Communications|
-|20|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|95.141.140.179|80|Kazakhstan|Pavlodar|Jusan Mobile JSC|
+|10|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|11|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|14|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|15|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|19|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
+|20|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
 
 
 
