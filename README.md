@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|185.155.14.96|8080|Iran|Tehran|Arya Pars Internet Gostar LLC|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|185.206.83.246|8080|Iraq|Erbil|DIL Technology Limited|
-|10|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|11|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|12|190.242.181.59|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|103.122.67.135|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|10|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|12|185.155.14.96|8080|Iran|Tehran|Arya Pars Internet Gostar LLC|
+|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|14|129.153.151.94|3128|United States|Ashburn|Oracle Corporation|
+|15|103.171.245.165|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|16|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|17|129.153.151.94|3128|United States|Ashburn|Oracle Corporation|
+|18|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|19|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|20|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
 
 
 
