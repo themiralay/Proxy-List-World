@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.11.182.231|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|2|198.11.182.231|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|67.43.228.250|6603|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|7175|Canada|Montreal|GloboTech Communications|
+|1|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|38.156.72.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
 |13|72.10.160.173|12681|Canada|Montreal|GloboTech Communications|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|67.43.236.18|30653|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|18865|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|25869|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|30653|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|15|202.51.98.229|7000|Indonesia|Depok|PT iForte Global Internet|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|72.10.160.170|21031|Canada|Montreal|GloboTech Communications|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
