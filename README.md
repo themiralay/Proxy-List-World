@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.160.202.180|8080|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
-|2|8.218.76.54|7777|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|117.5.52.239|10080|Vietnam|Hanoi|VIETTEL|
-|4|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|5|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|6|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.177.199.57|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
-|8|109.206.203.79|3128|Poland|Warsaw|Skynet sp. z o.o.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|15|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|16|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
-|17|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|20|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|8|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|9|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
+|10|116.107.112.187|10085|Vietnam|Hanoi|Viettel Corporation|
+|11|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|202.142.155.218|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|14|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|15|103.24.215.26|8080|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|19|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|20|113.11.183.86|8080|Indonesia|Bandung|Biznet Networks|
 
 
 
