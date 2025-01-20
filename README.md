@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|9|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|109.206.203.79|3128|Poland|Warsaw|Skynet sp. z o.o.|
-|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|15|103.169.33.30|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
-|16|61.160.247.69|9999|China|Nanjing|China Telecom|
-|17|67.43.227.226|19655|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|7911|Canada|Montreal|GloboTech Communications|
-|19|202.65.224.133|8080|Indonesia|Jakarta|PT GLOBAL TELECOM UTAMA|
-|20|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|2|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|52.14.131.28|8090|United States|Dublin|Amazon.com, Inc.|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|10|52.14.131.28|8090|United States|Dublin|Amazon.com, Inc.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|14|103.160.202.180|8080|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
+|15|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
+|16|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|17|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|18|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
+|19|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|116.97.33.137|10002|Vietnam|Thường Tín|Viettel Corporation|
 
 
 
