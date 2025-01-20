@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.139|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.237.75.6|8080|Brazil|Maricá|Westlink Tecnologia E Comunicacao Ltda. - ME|
-|6|38.242.208.160|8080|Germany|Düsseldorf|Contabo GmbH|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|195.189.190.252|9090|Spain|San Bartolomé|Suballocated IT1|
-|10|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|103.44.19.218|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|14|67.43.227.226|21641|Canada|Montreal|GloboTech Communications|
-|15|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|67.43.228.250|31333|Canada|Montreal|GloboTech Communications|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|160.19.17.36|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|11|113.160.204.229|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|171.245.90.60|10091|Vietnam|Thái Bình|Viettel Corporation|
+|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|14|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|15|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
 |18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|19|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
