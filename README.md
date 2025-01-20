@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|2|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
-|3|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
-|4|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
-|5|3.145.173.123|8090|United States|Dublin|Amazon.com, Inc.|
-|6|3.145.173.123|8090|United States|Dublin|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|223.206.127.78|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|72.10.160.174|19389|Canada|Montreal|GloboTech Communications|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|3.145.173.123|8090|United States|Dublin|Amazon.com, Inc.|
-|13|72.10.160.170|12355|Canada|Montreal|GloboTech Communications|
-|14|3.145.65.108|8090|United States|Dublin|Amazon.com, Inc.|
-|15|72.10.160.173|5303|Canada|Montreal|GloboTech Communications|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|67.43.227.228|17847|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|6167|Canada|Montreal|GloboTech Communications|
-|20|121.227.201.211|8089|China|Nanjing|China Telecom|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|139.255.64.140|80|Indonesia|Jakarta|PT. LINKNET|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|9|223.206.127.78|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|3.145.34.124|8090|United States|Dublin|Amazon.com, Inc.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|72.10.160.170|27345|Canada|Montreal|GloboTech Communications|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|72.10.164.178|24359|Canada|Montreal|GloboTech Communications|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|67.43.227.226|2531|Canada|Montreal|GloboTech Communications|
 
 
 
