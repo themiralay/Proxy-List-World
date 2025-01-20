@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|3.145.169.52|8090|United States|Dublin|Amazon.com, Inc.|
-|4|2.185.142.57|6565|Iran|Tehran|hamedan|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|3.145.169.52|8090|United States|Dublin|Amazon.com, Inc.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|65.1.244.232|80|India|Mumbai|Amazon.com|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|63.220.196.123|8080|United States|Chicago|Gateway Communications|
+|8|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.227.228|12173|Canada|Montreal|GloboTech Communications|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|72.10.160.92|2643|Canada|Montreal|GloboTech Communications|
-|16|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
-|17|67.43.236.18|7633|Canada|Montreal|GloboTech Communications|
-|18|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|59.39.225.136|2324|China|Humen|Chinanet|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|204.199.105.221|999|Colombia|Medellín|CTL Colombia|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|59.39.225.136|2324|China|Humen|Chinanet|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
