@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
-|4|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
-|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|81.90.149.186|3128|Iran|Tehran|Afranet|
-|8|95.181.59.174|3128|Russia|Novokuznetsk|Goodline.info|
-|9|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
-|10|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|11|2.85.32.45|8080|Greece|Thessaloniki|OTEnet|
-|12|171.97.159.185|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|13|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|14|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|15|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|159.192.205.39|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|3.144.74.192|8090|United States|Dublin|Amazon.com, Inc.|
-|20|188.132.150.36|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|1|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|2|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.122.66.231|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|6|95.181.59.174|3128|Russia|Novokuznetsk|Goodline.info|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|178.124.70.251|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|10|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|11|202.65.224.133|8080|Indonesia|Jakarta|PT GLOBAL TELECOM UTAMA|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|81.28.38.3|8080|Iran|Tehran|Isiran Institute|
+|18|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|19|103.133.26.7|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|20|213.74.115.216|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
 
 
 
