@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.161.79.38|3128|South Korea|Goyang-si|Korea Telecom|
-|2|211.55.103.201|3128|South Korea|Pyeongtaek-si|Korea Telecom|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|143.47.109.166|3128|United States|Ashburn|Oracle Corporation|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.91.225.219|3128|Netherlands|Groningen|Google LLC|
-|11|34.90.198.208|3128|Netherlands|Groningen|Google LLC|
-|12|34.155.47.174|3128|France|Paris|Google LLC|
-|13|212.98.168.133|3128|Belarus|Minsk|Business Network|
-|14|104.248.140.246|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|16|109.155.9.105|80|United Kingdom|York|BT Public Internet Service|
-|17|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|165.232.43.62|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|34.163.62.108|3128|France|Paris|Google LLC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|3|103.227.186.48|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
+|7|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|8|34.91.225.219|3128|Netherlands|Groningen|Google LLC|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|109.155.9.105|80|United Kingdom|York|BT Public Internet Service|
+|11|128.140.122.130|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|212.98.168.133|3128|Belarus|Minsk|Business Network|
+|13|23.251.132.77|3128|Belgium|Brussels|Google LLC|
+|14|34.163.62.108|3128|France|Paris|Google LLC|
+|15|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|104.248.140.246|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|34.155.47.174|3128|France|Paris|Google LLC|
+|18|34.90.198.208|3128|Netherlands|Groningen|Google LLC|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
