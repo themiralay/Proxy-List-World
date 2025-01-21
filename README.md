@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.69.227.216|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|8|34.146.80.56|8561|Japan|Tokyo|Google LLC|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|12|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|17|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|18|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|20|144.202.78.147|80|United States|Stuart|The Constant Company|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|10|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|11|36.50.27.12|39009|Vietnam|Thủ Đức|BNIX|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|14|123.27.92.133|10010|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.242.104.145|1080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
+|20|103.189.254.2|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
 
 
 
