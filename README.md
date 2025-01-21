@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|182.253.178.93|3128|Indonesia|Bogor|BIZNET|
-|11|67.43.236.22|17999|Canada|Montreal|GloboTech Communications|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|202.58.77.228|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|15|72.10.164.178|21819|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|25477|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|12763|Canada|Montreal|GloboTech Communications|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|72.10.160.91|14333|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|11989|Canada|Montreal|GloboTech Communications|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|128.90.43.128|8118|United States|Austin|Paradise Networks LLC|
+|9|112.78.131.6|8080|Indonesia|Pamulang|Biznet Networks|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|16|103.242.104.145|1080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|18|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
