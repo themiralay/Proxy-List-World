@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.171.190|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.133.61.206|1111|Indonesia|Pekalongan|TLINK|
-|4|103.87.148.17|8085|Indonesia|Demak|Lintas Data Prima, PT|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|185.104.250.51|3128|Finland|Helsinki|I-servers LTD|
-|11|200.37.187.59|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|15|103.42.228.56|8080|Bangladesh|Lākshām|Skynet Chowmuhani|
-|16|103.151.141.35|8181|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|1|103.133.61.206|1111|Indonesia|Pekalongan|TLINK|
+|2|103.87.148.17|8085|Indonesia|Demak|Lintas Data Prima, PT|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|200.37.187.59|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
