@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|170.80.64.199|8080|Brazil|Vespasiano|BTT TELECOMUNICACOES S.A.|
-|10|177.137.224.22|8081|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|13|72.10.160.170|22359|Canada|Montreal|GloboTech Communications|
-|14|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|15|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|16|72.10.160.90|20495|Canada|Montreal|GloboTech Communications|
-|17|103.179.27.181|8080|Indonesia|Tulangbawang|PT Primadona Media Digitalindo|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|5|116.97.33.137|10034|Vietnam|Thường Tín|Viettel Corporation|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|144.202.78.147|80|United States|Stuart|The Constant Company|
+|8|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|144.202.78.147|80|United States|Stuart|The Constant Company|
+|10|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|186.3.76.227|999|Ecuador|Guayaquil|Telconet S.A|
+|13|103.154.90.190|3128|Indonesia|Jakarta|MORATELINDONAP|
+|14|103.175.46.13|8080|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|67.43.236.18|21093|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|72.10.160.170|26731|Canada|Montreal|GloboTech Communications|
+|19|179.49.117.19|999|Honduras|Pinalejo|Asociacion De Servicio De Internet S. De RL.|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
