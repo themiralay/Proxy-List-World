@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|101.128.78.202|32650|Indonesia|Jakarta|CBN|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|6|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|121.227.201.246|8089|China|Nanjing|China Telecom|
-|12|121.227.118.154|8089|China|Nanjing|China Telecom|
-|13|72.10.164.178|24601|Canada|Montreal|GloboTech Communications|
-|14|121.227.201.200|8089|China|Nanjing|China Telecom|
-|15|121.227.118.155|8089|China|Nanjing|China Telecom|
-|16|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.228.250|9415|Canada|Montreal|GloboTech Communications|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|101.128.78.202|32650|Indonesia|Jakarta|CBN|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|15|72.10.164.178|22019|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|67.43.227.229|25623|Canada|Montreal|GloboTech Communications|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|67.43.227.229|25623|Canada|Montreal|GloboTech Communications|
+|20|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
 
 
 
