@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|103.166.158.33|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|9|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|72.10.160.173|5899|Canada|Montreal|GloboTech Communications|
-|12|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|13|103.133.24.51|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|14|103.154.77.204|89|Indonesia|Sleman|T2NET|
-|15|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|116.254.99.62|8080|Indonesia|Jakarta|SpaceX Starlink|
-|18|103.183.10.170|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|19|103.16.118.164|8080|Indonesia|Madiun|CV Trustnet Media|
-|20|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|103.133.24.51|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|210.79.146.106|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
+|14|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|19|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|20|116.254.99.62|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
