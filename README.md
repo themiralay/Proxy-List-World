@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4445** proxies at the latest update. Usable proxies are below.
+> Scraper found **4460** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|443|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2568|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|124.121.2.191|8080|Thailand|Bangkok|TRUEBB|
-|3|36.76.160.6|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|1|124.121.2.191|8080|Thailand|Bangkok|TRUEBB|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|12|217.52.247.71|1976|Egypt|Cairo|Etisalat Misr|
-|13|186.3.76.227|999|Ecuador|Guayaquil|Telconet S.A|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|103.54.36.90|8674|Bangladesh|Bhātāra|Earth Telecommunication (Pvt.) Ltd|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|203.175.102.80|8080|Indonesia|Sukasari|PT. Mitra Kita Brilian|
+|8|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|12|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|13|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|19|103.87.148.17|8085|Indonesia|Demak|Lintas Data Prima, PT|
+|20|67.43.236.19|2113|Canada|Montreal|GloboTech Communications|
 
 
 
