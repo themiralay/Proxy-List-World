@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|10|175.143.193.201|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|16|103.210.162.39|3128|China|Guangzhou|CDS Global Cloud Co., Ltd|
-|17|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.236.20|21025|Canada|Montreal|GloboTech Communications|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|172.104.185.74|8041|Singapore|Singapore|Akamai Technologies|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|212.252.66.209|8080|Turkey|Kuşcuburun|HEPONLINEELEKTRONIK|
+|12|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
+|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|18|2.56.179.115|3128|United Kingdom|London|Stark Industries Solutions LTD|
+|19|67.43.236.20|22783|Canada|Montreal|GloboTech Communications|
+|20|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
