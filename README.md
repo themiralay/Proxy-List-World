@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|45.76.240.34|1817|United States|Kent|The Constant Company|
-|7|52.14.131.28|8090|United States|Dublin|Amazon.com, Inc.|
-|8|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
-|9|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|111.125.242.34|1111|India|Mumbai|NIXI|
-|12|36.88.148.140|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|157.100.63.128|80|Ecuador|Cuenca|Ufinet Panama S.A.|
-|14|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|15|199.21.172.240|3128|Australia|Brisbane|Siamdata Communication Co., ltd.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|103.226.250.70|3128|Vietnam|Ô Chợ Dừa|GDATA|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.214.103.19|8083|Indonesia|Batam|SMARTPLUS|
+|10|212.113.102.93|40080|Sweden|Stockholm|xorek.cloud International LTD|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|72.10.160.90|25899|Canada|Montreal|GloboTech Communications|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
