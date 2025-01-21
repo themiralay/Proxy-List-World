@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4438** proxies at the latest update. Usable proxies are below.
+> Scraper found **4457** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|619|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|88|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|550|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|568|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2325|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.66.16.49|8585|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|2|103.159.96.195|2117|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|3|14.177.235.12|3130|Vietnam|Hanoi|VNPT|
-|4|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|167.172.90.124|8131|Singapore|Singapore|DigitalOcean, LLC|
+|1|167.172.90.124|8131|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.150.113.116|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|143.47.109.166|3128|United States|Ashburn|Oracle Corporation|
+|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|6|14.177.235.12|3130|Vietnam|Hanoi|VNPT|
 |7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|12|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|34.163.62.108|3128|France|Paris|Google LLC|
-|15|95.31.215.177|8000|Russia|Ulyanovsk|CORBINA-BROADBAND|
-|16|34.90.198.208|3128|Netherlands|Groningen|Google LLC|
-|17|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|18|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|38.183.213.248|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
+|8|143.47.109.166|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|34.141.164.191|3128|Netherlands|Groningen|Google LLC|
+|12|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|13|116.204.181.52|8000|Thailand|Chiang Mai|Bangmod Enterprise Co., Ltd.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|17|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|18|36.88.137.114|443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
