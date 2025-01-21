@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|3|20.2.171.190|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|13|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
-|14|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|11|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.167.23.139|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|72.10.160.173|11453|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|7911|Canada|Montreal|GloboTech Communications|
+|20|196.251.222.86|8101|South Africa|Brits|Info-Gro (PTY) Ltd|
 
 
 
