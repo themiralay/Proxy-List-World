@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|4|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|91.134.101.142|80|France|Paris|OVH SAS|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|101.255.150.254|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|34.146.80.56|8561|Japan|Tokyo|Google LLC|
-|11|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|13|38.156.14.182|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|17|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|5|43.246.201.92|9080|Bangladesh|Feni|Asiatel Network Limited|
+|6|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|34.146.80.56|8561|Japan|Tokyo|Google LLC|
+|8|101.255.150.254|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|13|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|14|59.39.227.31|2324|China|Guangzhou|Chinanet|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
-|20|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
 
 
 
