@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.242.150.229|8080|Indonesia|Depok|PT. TELKOM INDONESIA|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|116.97.33.137|10001|Vietnam|Thường Tín|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|13|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|47.254.71.5|3128|United States|Santa Clara|Alibaba.com LLC|
-|16|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
-|17|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
-|18|171.228.129.92|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|19|62.146.183.130|3128|United States|St Louis|Nubes, LLC|
-|20|38.180.138.18|3128|United States|New York|M247 Europe SRL|
+|1|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|103.153.96.100|8181|Indonesia|Serang|NITNET|
+|6|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|180.242.150.229|8080|Indonesia|Depok|PT. TELKOM INDONESIA|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
+|12|38.180.138.18|3128|United States|New York|M247 Europe SRL|
+|13|103.57.36.84|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|14|213.153.175.121|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|47.254.71.5|3128|United States|Santa Clara|Alibaba.com LLC|
+|17|116.97.33.137|10001|Vietnam|Thường Tín|Viettel Corporation|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|200.194.249.126|3128|Brazil|Porto Alegre|Telium Telecomunicações Ltda|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
