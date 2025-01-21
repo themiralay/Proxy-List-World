@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|67.43.227.227|30335|Canada|Montreal|GloboTech Communications|
-|15|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.132.245.100|58080|India|Pune|Limerick Technologies Pvt Ltd|
-|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.187.164.118|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|7|192.99.199.49|3128|France|Roubaix|OVH Hosting|
+|8|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|117.103.71.77|8715|Indonesia|Malang|NARATEL|
+|13|187.86.159.54|3128|Brazil|Rio Grande|VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA|
+|14|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.122.66.231|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
 
 
 
