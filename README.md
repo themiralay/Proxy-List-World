@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|36.76.160.6|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|45.4.203.115|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|49.49.77.136|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|11|160.19.17.36|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.173|17803|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22199|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|203.150.128.19|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|116.97.33.137|10001|Vietnam|Thường Tín|Viettel Corporation|
+|10|103.54.36.90|8674|Bangladesh|Bhātāra|Earth Telecommunication (Pvt.) Ltd|
+|11|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|82.149.196.90|8080|Russia|Moscow|PJSC Rostelecom|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
