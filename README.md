@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.247.23.68|2022|Indonesia|Baturaden|PT wifian Solution|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|67.43.228.251|28213|Canada|Montreal|GloboTech Communications|
-|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.173|13573|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|1329|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|26641|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1329|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|103.171.240.130|3131|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.114.144.197|32650|India|Jaipur|Tejays Dynamic Limited|
+|8|103.93.93.220|3127|Indonesia|Wedoro|MYRISE|
+|9|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|181.78.27.39|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|11|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|15|45.224.149.73|8080|Ecuador|Borbón|Ufinet Panama S.A.|
+|16|103.169.132.66|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|17|189.124.91.145|7171|Brazil|Presidente Prudente|America-NET Ltda.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|95.141.140.179|80|Kazakhstan|Pavlodar|Jusan Mobile JSC|
+|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 
 
 
