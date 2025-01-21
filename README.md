@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|2|157.66.20.74|8080|Indonesia|Delanggu|PT. GEMILANG SARANA MANDIRI|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.154.77.204|89|Indonesia|Sleman|T2NET|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|187.94.248.32|15552|Brazil|São Roque de Minas|Vital NET|
-|14|157.66.20.74|8080|Indonesia|Delanggu|PT. GEMILANG SARANA MANDIRI|
-|15|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|16|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|220.85.12.32|8080|South Korea|Songpa-gu|Korea Telecom|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|45.167.95.146|999|Mexico|La Cañada|Lantointernet SA De CV|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|181.45.78.113|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|13|106.51.43.141|8080|India|Bengaluru|ACT Fibernet|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|103.134.220.145|8080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|72.10.160.172|20589|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|8615|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|1483|Canada|Montreal|GloboTech Communications|
+|20|185.200.38.194|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
