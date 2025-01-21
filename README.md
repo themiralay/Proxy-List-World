@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|87.106.66.232|3128|Germany|Berlin|IONOS SE|
-|4|203.190.117.99|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|5|202.88.251.73|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|137.184.132.235|8192|United States|North Bergen|DigitalOcean, LLC|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|115.72.42.104|10019|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|137.184.132.235|8192|United States|North Bergen|DigitalOcean, LLC|
 |6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|203.150.113.28|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|45.163.66.247|8088|Brazil|Aparecida de Goiânia|CDM TELECOM|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|1.179.239.244|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|15|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|16|85.198.229.194|80|Poland|Chorzów|Sileman Sp. z o.o.|
-|17|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|19|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|7|87.106.66.232|3128|Germany|Berlin|IONOS SE|
+|8|170.81.242.90|3128|Peru|Chiclayo|Inventa Telecomunicaciones Eirl|
+|9|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|10|36.93.4.58|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|200.37.187.59|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|13|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|85.198.229.194|80|Poland|Chorzów|Sileman Sp. z o.o.|
+|16|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|1.179.239.244|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|19|202.88.251.73|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
+|20|115.72.46.16|10019|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
