@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|104.248.144.54|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|182.253.109.17|8080|Indonesia|Jakarta|Biznet Metronet|
-|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|182.253.109.17|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|103.226.250.70|3128|Vietnam|Ô Chợ Dừa|GDATA|
+|12|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
 |14|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.93|10257|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|33115|Canada|Montreal|GloboTech Communications|
-|18|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|19|72.10.160.90|20839|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|17455|Canada|Montreal|GloboTech Communications|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.160.93|10257|Canada|Montreal|GloboTech Communications|
+|20|60.52.121.111|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
