@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|4|124.13.98.240|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
-|6|103.160.182.73|8088|Indonesia|Jember|PT Internusa Duta Makmur|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|5|159.223.42.24|8105|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.118.48.147|3128|Vietnam|Hanoi|SPT|
 |7|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|8|159.223.42.24|8105|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.154.24.19|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|10|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|13|113.53.48.214|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.247.23.53|4317|Indonesia|Baturaden|PT wifian Solution|
-|17|89.213.182.143|3128|United States|Los Angeles|NetLab Global|
-|18|115.132.4.87|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|19|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
-|20|62.146.183.130|3128|United States|St Louis|Nubes, LLC|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|11|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|47.254.71.5|3128|United States|Santa Clara|Alibaba.com LLC|
+|15|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
+|16|116.97.33.137|10001|Vietnam|Thường Tín|Viettel Corporation|
+|17|62.146.183.130|3128|United States|St Louis|Nubes, LLC|
+|18|202.62.54.13|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|19|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|119.8.188.145|8080|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
