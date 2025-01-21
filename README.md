@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.84.8.159|8080|Japan|Tokyo|Google LLC|
-|2|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|3|115.132.4.87|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|4|116.90.181.83|3125|Indonesia|Medan|PT. PANCA DUTA UTAMA|
-|5|103.137.110.146|7777|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|6|103.137.110.151|3125|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|7|103.137.110.152|3125|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|8|159.223.42.24|8105|Singapore|Singapore|DigitalOcean, LLC|
+|2|119.47.90.114|8080|Indonesia|Duri Pulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|3|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|4|103.137.110.146|7777|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|5|14.229.248.123|8080|Vietnam|Hanoi|VNPT|
+|6|159.223.42.24|8105|Singapore|Singapore|DigitalOcean, LLC|
+|7|116.118.48.147|3128|Vietnam|Hanoi|SPT|
+|8|45.154.24.19|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
 |9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |10|89.117.145.158|3128|United States|St Louis|Nubes, LLC|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|14|103.160.68.193|3125|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|15|113.53.48.214|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|89.117.145.158|3128|United States|St Louis|Nubes, LLC|
-|17|119.47.90.114|8080|Indonesia|Duri Pulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|18|162.55.62.136|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|119.2.42.202|8085|Indonesia|Jakarta|PT. Laxo Global Akses|
-|20|79.151.26.239|3128|Spain|Benidorm|RIMA (Red IP Multi Acceso)|
+|11|160.191.130.65|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
+|12|115.132.4.87|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|13|162.55.62.136|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|17|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|18|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
+|19|79.151.26.239|3128|Spain|Benidorm|RIMA (Red IP Multi Acceso)|
+|20|89.117.145.158|3128|United States|St Louis|Nubes, LLC|
 
 
 
