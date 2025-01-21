@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.255.140.202|8181|Indonesia|Jakarta|PT Remala Abadi|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|81.162.54.231|3128|Uzbekistan|Tashkent|PS Cloud Services LLC|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|103.158.96.244|8033|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.224.149.73|8080|Ecuador|Borbón|Ufinet Panama S.A.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|38.183.146.43|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|103.94.126.222|1111|Indonesia|Pamulang|ICONPLN|
+|17|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|18|103.184.62.10|8099|Indonesia|Bajo|PT NKNET Data Media|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
