@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|115.72.174.77|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|125.20.72.28|3129|India|New Delhi|BHARTI|
-|7|103.87.148.17|8085|Indonesia|Demak|Lintas Data Prima, PT|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|36.83.62.93|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|10|103.124.136.207|8080|Indonesia|Tangerang|Global Media Data Prima|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|17|72.10.160.171|6839|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|20.2.171.190|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|13|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|14|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 
 
 
