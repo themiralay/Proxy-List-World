@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4238** proxies at the latest update. Usable proxies are below.
+> Scraper found **4360** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|122|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|433|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|303|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|72.10.160.170|32983|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|31103|Canada|Montreal|GloboTech Communications|
-|14|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.171|23931|Canada|Montreal|GloboTech Communications|
-|16|121.227.118.159|8089|China|Nanjing|China Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|67.43.228.250|28383|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|4419|Canada|Montreal|GloboTech Communications|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|160.20.165.230|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|72.10.164.178|16775|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|20623|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.254|13009|Canada|Montreal|GloboTech Communications|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|67.43.228.253|27737|Canada|Montreal|GloboTech Communications|
 
 
 
