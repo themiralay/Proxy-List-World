@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3704** proxies at the latest update. Usable proxies are below.
+> Scraper found **3835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|131|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|427|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|280|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
-|15|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|16|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|17|72.10.160.91|29417|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.229|27481|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|21301|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|21301|Canada|Montreal|GloboTech Communications|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|102.165.58.209|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|7|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
+|17|72.10.164.178|19571|Canada|Montreal|GloboTech Communications|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|149.86.142.201|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|20|121.227.146.87|8089|China|Nanjing|China Telecom|
 
 
 
