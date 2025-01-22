@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|202.93.244.242|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.126.86.17|3127|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|8|103.250.128.1|8082|Indonesia|Utan|PT Asri Global Investama|
-|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|11|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|12|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|36.91.48.131|8088|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|8|185.203.236.115|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
 |17|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|19|72.10.160.174|5625|Canada|Montreal|GloboTech Communications|
-|20|61.160.247.69|9999|China|Nanjing|China Telecom|
+|18|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|67.43.227.228|4537|Canada|Montreal|GloboTech Communications|
+|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 
 
 
