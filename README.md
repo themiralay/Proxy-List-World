@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|203.150.113.209|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |4|110.77.171.37|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|94.228.173.159|8118|Russia|Moscow|CITYWIDENETWORK|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|187.49.83.162|8286|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|13|103.87.220.71|3128|Vietnam|Quận Một|Long Van System Solution|
-|14|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|15|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|20|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|203.150.113.209|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|12|209.14.119.229|999|Colombia|Chinácota|AGIS|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|15|103.227.187.1|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|18|47.236.231.113|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|63.220.196.123|8080|United States|Chicago|Gateway Communications|
 
 
 
