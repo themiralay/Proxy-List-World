@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|2|203.150.113.209|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|110.77.171.37|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|10|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|102.68.139.1|83|Zambia|Lusaka|AirLink Broadband Limited|
-|14|104.152.186.111|2019|United States|Atlanta|Centrilogic|
-|15|31.214.171.217|8060|Iran|Tehran|Parsonline|
-|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|116.97.33.137|10003|Vietnam|Thường Tín|Viettel Corporation|
-|19|120.28.216.166|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|203.150.113.209|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|110.77.171.37|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|17|45.236.105.138|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.5.116.144|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
