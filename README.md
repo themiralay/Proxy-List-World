@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4188** proxies at the latest update. Usable proxies are below.
+> Scraper found **4242** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|464|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2630|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|192.141.98.9|3020|Peru|Huancayo|Internet Solutions Network Peru SAC|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|16|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|171.5.131.232|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|72.10.164.178|4247|Canada|Montreal|GloboTech Communications|
+|9|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|72.10.160.170|10699|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|13495|Canada|Montreal|GloboTech Communications|
+|14|121.227.201.224|8089|China|Nanjing|China Telecom|
+|15|121.227.201.235|8089|China|Nanjing|China Telecom|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|67.43.228.252|4265|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|16869|Canada|Montreal|GloboTech Communications|
+|19|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|67.43.228.253|12751|Canada|Montreal|GloboTech Communications|
 
 
 
