@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|117.103.71.160|8715|Indonesia|Malang|NARATEL|
-|7|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|67.43.227.226|28795|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|32473|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.19|24407|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|5149|Canada|Montreal|GloboTech Communications|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|67.43.236.19|24407|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29263|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|19923|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|18741|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|1651|Canada|Montreal|GloboTech Communications|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|5|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|7|72.10.160.90|32473|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.93|18741|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.93|18741|Canada|Montreal|GloboTech Communications|
+|10|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
+|11|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|12|121.227.201.209|8089|China|Nanjing|China Telecom|
+|13|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|67.43.228.251|24119|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|9957|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|19923|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|7663|Canada|Montreal|GloboTech Communications|
+|18|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|67.43.228.253|29263|Canada|Montreal|GloboTech Communications|
+|20|190.119.76.150|8080|Peru|Lima region|America Movil Peru S.A.C.|
 
 
 
