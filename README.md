@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.20.169.218|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|144.24.202.229|8080|France|Marseille|Oracle Corporation|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|13|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|168.138.130.178|3128|Brazil|São Paulo|Oracle Corporation|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
 |16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|17|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|18|103.210.162.39|3128|China|Guangzhou|CDS Global Cloud Co., Ltd|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|72.10.164.178|14151|Canada|Montreal|GloboTech Communications|
+|17|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|18|67.43.227.226|24745|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|3213|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
