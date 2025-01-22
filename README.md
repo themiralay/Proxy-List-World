@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|206.189.146.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|5|223.25.110.185|8080|Indonesia|Prapen|SinergiNet|
+|6|31.211.69.52|3128|Russia|Tomsk|OOO NETCOM|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|171.243.158.25|10004|Vietnam|Tuy Hoa|Viettel Group|
-|10|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
-|11|171.243.158.25|10004|Vietnam|Tuy Hoa|Viettel Group|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|171.243.158.25|10004|Vietnam|Tuy Hoa|Viettel Group|
-|14|171.243.158.25|10004|Vietnam|Tuy Hoa|Viettel Group|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|17|67.43.236.18|26683|Canada|Montreal|GloboTech Communications|
-|18|171.243.158.25|10004|Vietnam|Tuy Hoa|Viettel Group|
-|19|171.243.158.25|10004|Vietnam|Tuy Hoa|Viettel Group|
-|20|67.43.228.250|3035|Canada|Montreal|GloboTech Communications|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|103.138.71.38|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|13|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|15|171.243.158.25|10014|Vietnam|Tuy Hoa|Viettel Group|
+|16|157.66.84.14|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|17|176.208.101.50|8080|Russia|Taman'|PJSC Rostelecom|
+|18|122.3.102.216|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|67.43.236.18|7317|Canada|Montreal|GloboTech Communications|
 
 
 
