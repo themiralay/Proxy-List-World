@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|202.51.98.229|7000|Indonesia|Depok|PT iForte Global Internet|
-|8|182.253.123.245|8080|Indonesia|Bandung|BIZNET|
-|9|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
-|10|146.120.174.235|8080|Ukraine|Ivanykivka|Gargat Igor Vasilevich|
-|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|12|72.10.160.90|31205|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.164.178|5083|Canada|Montreal|GloboTech Communications|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|160.22.90.92|8181|Indonesia|Cirebon|PT Lintas Data Kita|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|87.106.66.232|3128|Germany|Berlin|IONOS SE|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|45.6.1.97|999|Argentina|San Vicente|IP AMERICA TELECOM LTDA|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|181.209.82.197|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|182.253.123.245|8080|Indonesia|Bandung|BIZNET|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|19|103.159.96.195|2117|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
