@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|124.121.2.246|8080|Thailand|Bangkok|TRUEBB|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|190.12.49.222|8082|Ecuador|Guayaquil|Puntonet S.A|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|207.154.229.20|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
-|18|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|2|124.121.2.246|8080|Thailand|Bangkok|TRUEBB|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|165.232.43.62|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|19|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
+|20|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
 
 
 
