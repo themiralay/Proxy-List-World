@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|103.82.126.34|1111|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
-|5|103.39.51.55|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|6|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|102.165.58.209|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|67.43.228.252|17819|Canada|Montreal|GloboTech Communications|
-|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|15|202.51.98.229|7000|Indonesia|Depok|PT iForte Global Internet|
-|16|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|17|72.10.164.178|4981|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.236.18|4037|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|6883|Canada|Montreal|GloboTech Communications|
+|1|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|8.212.18.158|808|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|11|103.133.24.49|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|12|38.52.220.53|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|13|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|14|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|20|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
 
 
 
