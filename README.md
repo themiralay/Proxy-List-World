@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|168.138.130.178|3128|Brazil|São Paulo|Oracle Corporation|
-|13|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|13|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|15|118.97.30.42|8099|Indonesia|Semarang|Telekomunikasi Indonesia|
-|16|38.159.229.84|999|Ecuador|Vinces|Turbonet S.A.|
-|17|118.37.98.186|3128|South Korea|Gangseo-gu|Korea Telecom|
-|18|103.175.46.55|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|15|168.138.130.178|3128|Brazil|São Paulo|Oracle Corporation|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|177.136.44.193|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |19|27.147.144.230|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|20|181.78.13.205|999|Colombia|Morroa|IFX Networks Argentina S.R.L|
 
 
 
