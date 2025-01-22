@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|95.141.140.179|80|Kazakhstan|Pavlodar|Jusan Mobile JSC|
-|8|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|9|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|14|121.227.203.129|8089|China|Nanjing|China Telecom|
-|15|103.226.250.70|3128|Vietnam|Ô Chợ Dừa|GDATA|
-|16|67.43.228.250|28973|Canada|Montreal|GloboTech Communications|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|121.227.201.207|8089|China|Nanjing|China Telecom|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|36.94.185.122|60080|Indonesia|Kuningan Barat|PT. Telekomunikasi Indonesia|
+|9|116.203.255.204|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|81.90.149.186|3128|Iran|Tehran|Afranet|
+|12|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|13|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|14|181.224.244.50|999|Peru|Lima region|Econocable Media SAC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
