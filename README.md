@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|8.218.76.54|7777|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|15|72.10.160.94|2735|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|1957|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|21029|Canada|Montreal|GloboTech Communications|
-|18|186.48.8.176|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|19|67.43.228.253|24235|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.171.245.120|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|10|46.10.229.243|8080|Bulgaria|Plovdiv|Vivacom Bulgaria EAD|
+|11|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|186.48.8.176|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|8.218.76.54|7777|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |20|67.43.228.251|9239|Canada|Montreal|GloboTech Communications|
 
 
