@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|1|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|38.7.20.198|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.169.238.25|8080|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|181.174.228.178|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|38.7.20.198|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
 |13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|72.10.164.178|27771|Canada|Montreal|GloboTech Communications|
-|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|18|110.42.51.242|3128|China|Ningbo|China Telecom|
-|19|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.170|31695|Canada|Montreal|GloboTech Communications|
+|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|15|72.10.160.91|29931|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|72.10.160.170|25105|Canada|Montreal|GloboTech Communications|
+|19|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|20|103.169.189.124|3125|Indonesia|Magetan|Sarana Media Cemerlang|
 
 
 
