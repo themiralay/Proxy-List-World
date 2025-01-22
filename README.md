@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
 |3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.236.19|9863|Canada|Montreal|GloboTech Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|20|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
+|10|103.162.54.243|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|14|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.159.195.29|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
