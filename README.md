@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|67.43.236.18|3669|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|1615|Canada|Montreal|GloboTech Communications|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|67.43.227.229|23931|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|8973|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1615|Canada|Montreal|GloboTech Communications|
-|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.228.252|26517|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|3669|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|15053|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1615|Canada|Montreal|GloboTech Communications|
+|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|101.255.208.246|7888|Indonesia|Bekasi|PT Remala Abadi|
+|9|38.199.65.97|999|Colombia|Bogotá|Orinoco Ventures Group SAS|
+|10|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|11|103.169.138.23|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
