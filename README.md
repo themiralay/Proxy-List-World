@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|115.74.0.227|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|8|58.11.14.45|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|9|144.202.78.147|80|United States|Stuart|The Constant Company|
-|10|45.184.74.246|45005|Brazil|Sítio do Quinto|A2 TELECOM PROVEDOR DE INTERNET LTDA|
-|11|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
-|12|144.202.78.147|80|United States|Stuart|The Constant Company|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|4|144.202.78.147|80|United States|Stuart|The Constant Company|
+|5|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|7|190.60.47.158|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
+|8|103.133.61.163|8182|Indonesia|Menggala|TLINK|
+|9|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|10|79.106.226.202|8989|Albania|Sarandë|ONE ALBANIA SH.A.|
+|11|36.64.6.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 |14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|27.189.132.229|8089|China|Langfang|Chinanet|
-|17|95.169.203.245|9090|The Netherlands|Almere Stad|Alexhost SRL|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.91|7607|Canada|Montreal|GloboTech Communications|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|223.204.53.181|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|72.10.160.170|2901|Canada|Montreal|GloboTech Communications|
+|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|19|95.217.120.110|8001|Finland|Helsinki|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
