@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|67.43.236.19|28177|Canada|Montreal|GloboTech Communications|
-|4|210.79.30.157|8080|Australia|Sydney|Australia Power Control Systems|
-|5|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|177.93.40.179|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
-|8|67.43.236.19|28177|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|6933|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|12067|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|72.10.160.90|9477|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|13293|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|31361|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|13293|Canada|Montreal|GloboTech Communications|
-|16|121.227.201.223|8089|China|Nanjing|China Telecom|
-|17|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|18|67.43.236.18|32597|Canada|Montreal|GloboTech Communications|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|180.75.93.74|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|34.146.80.56|8561|Japan|Tokyo|Google LLC|
+|12|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|13|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|45.167.95.146|999|Mexico|La Cañada|Lantointernet SA De CV|
+|17|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|18|87.106.66.232|3128|Germany|Berlin|IONOS SE|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 
 
 
