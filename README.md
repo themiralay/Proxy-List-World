@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.154.77.9|89|Indonesia|Sleman|T2NET|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|91.227.40.199|3128|Germany|Frankfurt am Main|Mvps LTD|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|144.202.78.147|80|United States|Stuart|The Constant Company|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|8|92.242.192.176|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|144.202.78.147|80|United States|Stuart|The Constant Company|
-|11|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|203.190.46.27|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|13|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|67.43.227.228|18375|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|144.202.78.147|80|United States|Stuart|The Constant Company|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.211.41|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|5|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|91.227.40.199|3128|Germany|Frankfurt am Main|Mvps LTD|
+|8|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|223.204.53.181|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|144.202.78.147|80|United States|Stuart|The Constant Company|
+|14|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|15|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|16|144.202.78.147|80|United States|Stuart|The Constant Company|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|19|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
 
 
 
