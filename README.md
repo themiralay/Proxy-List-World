@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|190.52.100.188|999|Venezuela|Caracas|Gold Data USA Inc|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|8|199.21.172.114|3128|Australia|Brisbane|Siamdata Communication Co., ltd.|
-|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|72.10.164.178|19115|Canada|Montreal|GloboTech Communications|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|16921|Canada|Montreal|GloboTech Communications|
-|17|121.227.201.228|8089|China|Nanjing|China Telecom|
-|18|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
-|19|121.227.203.154|8089|China|Nanjing|China Telecom|
-|20|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|27.124.80.58|82|Indonesia|Wonogiri|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|4|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.154.77.227|89|Indonesia|Sleman|T2NET|
+|8|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.133.61.197|8181|Indonesia|Pekalongan|TLINK|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|72.10.160.90|18619|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|4887|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.252|26437|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|18619|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19115|Canada|Montreal|GloboTech Communications|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|67.43.228.250|16341|Canada|Montreal|GloboTech Communications|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
