@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|8|67.43.236.19|22755|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.254|20771|Canada|Montreal|GloboTech Communications|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|72.10.160.90|22225|Canada|Montreal|GloboTech Communications|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|67.43.236.18|18765|Canada|Montreal|GloboTech Communications|
-|14|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|15|72.10.160.174|12315|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|28577|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|8837|Canada|Montreal|GloboTech Communications|
-|18|113.186.110.234|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|19|72.10.160.173|12315|Canada|Montreal|GloboTech Communications|
-|20|103.76.109.192|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|41.65.103.27|1981|Egypt|New Cairo|Etisalat Misr Mobile BB|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|49.49.211.116|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|181.174.228.178|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|67.43.228.254|20771|Canada|Montreal|GloboTech Communications|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|72.10.160.90|10891|Canada|Montreal|GloboTech Communications|
+|19|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
