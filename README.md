@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|157.15.67.47|8181|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|7|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|8|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|9|102.68.139.1|83|Zambia|Lusaka|AirLink Broadband Limited|
-|10|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|67.43.228.250|15071|Canada|Montreal|GloboTech Communications|
-|16|103.167.229.147|8080|Nepal|Butwāl|Fiberworld Communication Pvt. Ltd|
-|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|18|67.43.228.251|19921|Canada|Montreal|GloboTech Communications|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|7|101.255.158.41|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|13|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
