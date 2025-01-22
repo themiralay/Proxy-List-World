@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|150.107.244.109|8088|Indonesia|Bandung|Infrastruktur STARNET|
-|7|171.243.158.25|10008|Vietnam|Tuy Hoa|Viettel Group|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|67.43.236.18|26419|Canada|Montreal|GloboTech Communications|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|198.11.182.231|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|2|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|198.11.182.231|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|8|103.184.62.136|8099|Indonesia|Bajo|PT NKNET Data Media|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|14|72.10.164.178|20037|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|16|171.243.158.25|10002|Vietnam|Tuy Hoa|Viettel Group|
+|17|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|71.42.125.218|4444|United States|Leander|Spectrum|
 
 
 
