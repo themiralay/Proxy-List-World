@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|67.220.94.146|3128|Canada|Toronto|GLOBALTELEHOST Corp|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|67.220.94.146|3128|Canada|Toronto|GLOBALTELEHOST Corp|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
 |5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|45.114.144.22|32650|India|Jaipur|Tejays Dynamic Limited|
-|7|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|8|65.109.59.246|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|65.1.244.232|80|India|Mumbai|Amazon.com|
-|11|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|212.252.73.29|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
-|14|67.43.228.253|2141|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|208.109.234.211|8080|United States|Tempe|GoDaddy.com, LLC|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|65.1.244.232|80|India|Mumbai|Amazon.com|
 
 
 
