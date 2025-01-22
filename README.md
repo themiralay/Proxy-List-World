@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|180.180.175.11|8080|Thailand|Krathum Baen|TOT Public Company Limited|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.236.18|24733|Canada|Montreal|GloboTech Communications|
-|18|121.227.146.118|8089|China|Nanjing|China Telecom|
-|19|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|20|72.10.160.174|3093|Canada|Montreal|GloboTech Communications|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
+|12|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
+|17|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|18|58.136.4.71|8080|Thailand|Ratchathewi|AIS-Fibre|
+|19|72.10.160.170|16405|Canada|Montreal|GloboTech Communications|
+|20|82.64.186.155|8080|France|Paris|ProXad network / Free SA|
 
 
 
