@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|3|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|103.156.15.114|3127|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|9|49.48.125.209|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|10|190.60.47.158|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
-|11|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|12|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
+|7|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|190.60.47.158|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
+|9|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|79.106.226.202|8989|Albania|Sarandë|ONE ALBANIA SH.A.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|203.177.237.138|8080|Philippines|Iloilo City|Globe Telecom|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|217.28.132.206|8080|Russia|Moscow|NetOne Rus JSC|
+|16|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|17|185.157.160.159|8118|Sweden|Stockholm|OVPN|
+|18|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
