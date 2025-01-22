@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.189.146.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|198.145.118.11|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|36.90.174.203|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|11|67.43.227.227|24137|Canada|Montreal|GloboTech Communications|
-|12|171.243.158.25|10007|Vietnam|Tuy Hoa|Viettel Group|
+|10|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|183.80.16.76|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|72.10.164.178|19571|Canada|Montreal|GloboTech Communications|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|103.126.87.165|8080|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|17|72.10.160.91|29417|Canada|Montreal|GloboTech Communications|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|124.121.115.133|8080|Thailand|Bangkok|TRUEBB|
-|20|184.82.58.88|8080|Thailand|Khon Kaen|AIS-Fibre|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|223.205.92.78|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
 
 
 
