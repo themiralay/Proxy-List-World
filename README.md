@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
 |6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|8|67.43.227.226|23493|Canada|Montreal|GloboTech Communications|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.164.178|20151|Canada|Montreal|GloboTech Communications|
-|11|103.230.81.124|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|12|185.202.58.2|3128|Iran|Arak|satiareyertebat|
-|13|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
-|14|72.10.164.178|20151|Canada|Montreal|GloboTech Communications|
-|15|121.227.203.133|8089|China|Nanjing|China Telecom|
-|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|109.197.197.170|3128|Russia|Ulyanovsk|JSC Telecom.ru|
-|19|186.48.8.176|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|20|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|61.160.247.69|9999|China|Nanjing|China Telecom|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|13|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|14|54.67.9.153|8080|United States|San Jose|Amazon.com, Inc.|
+|15|87.106.66.232|3128|Germany|Berlin|IONOS SE|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|72.10.160.93|32967|Canada|Montreal|GloboTech Communications|
+|20|202.51.196.82|5678|Indonesia|Bogor|PT. Sejahtera Globalindo|
 
 
 
