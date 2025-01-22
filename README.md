@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|4|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|72.10.160.93|26589|Canada|Montreal|GloboTech Communications|
-|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.170|1307|Canada|Montreal|GloboTech Communications|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|147.75.34.92|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|67.43.236.19|26701|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|10327|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|24631|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|26589|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|16091|Canada|Montreal|GloboTech Communications|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|37.235.28.194|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|103.81.110.250|8181|Indonesia|Serang|PT Fiber Data Nusantara|
+|8|103.189.116.133|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|9|103.105.57.63|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
+|10|180.191.22.27|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|67.43.228.254|10327|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.93|26589|Canada|Montreal|GloboTech Communications|
+|15|103.231.179.117|8080|Bangladesh|Dhaka|Sayed Farhad Ahmed|
+|16|72.10.160.93|26589|Canada|Montreal|GloboTech Communications|
+|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|18|190.139.5.202|3388|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|19|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
