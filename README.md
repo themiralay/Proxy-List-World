@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.110|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|103.133.61.197|8181|Indonesia|Pekalongan|TLINK|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|87.106.66.232|3128|Germany|Berlin|IONOS SE|
-|8|81.90.149.186|3128|Iran|Tehran|Afranet|
-|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
-|11|165.232.43.62|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|121.227.146.120|8089|China|Nanjing|China Telecom|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
-|18|121.227.201.208|8089|China|Nanjing|China Telecom|
-|19|103.172.70.26|1111|Indonesia|Bandung|AZNET|
-|20|121.227.146.92|8089|China|Nanjing|China Telecom|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|103.192.174.18|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.84.176.100|8083|Philippines|Pavia|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|16|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
+|17|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|18|103.174.238.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|8.222.169.59|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
