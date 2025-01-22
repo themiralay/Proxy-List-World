@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|43.156.246.213|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|1|185.242.233.230|3128|Hong Kong|Fo Tan|Cloudie Limited|
+|2|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
 |9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|167.71.193.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|36.50.27.12|39009|Vietnam|Thủ Đức|BNIX|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|103.122.67.135|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
-|19|157.66.37.60|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|103.76.108.96|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|12|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|16|180.211.161.110|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
+|17|188.72.6.153|8083|Iraq|Seyid Sadiq|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
