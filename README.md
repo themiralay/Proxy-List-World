@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|171.243.158.25|10012|Vietnam|Tuy Hoa|Viettel Group|
-|9|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.122.66.82|7777|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|170.239.205.38|999|Colombia|Bogotá|FIBERNET|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.236.18|25419|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|72.10.164.178|15255|Canada|Montreal|GloboTech Communications|
-|20|27.189.130.225|8089|China|Langfang|Chinanet|
+|3|89.169.33.90|3128|Sweden|Stockholm|xorek.cloud International LTD|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.166.158.165|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|13|171.243.158.25|10012|Vietnam|Tuy Hoa|Viettel Group|
+|14|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|45.174.249.8|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|72.10.160.91|33105|Canada|Montreal|GloboTech Communications|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
