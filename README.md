@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|10|12.165.234.249|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|11|3.67.38.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|15|187.204.64.26|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|121.227.118.164|8089|China|Nanjing|China Telecom|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|171.237.237.218|10001|Vietnam|Cầu Diễn|Viettel Corporation|
-|20|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|2|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|3|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|171.237.237.218|10004|Vietnam|Cầu Diễn|Viettel Corporation|
+|13|101.51.164.156|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|17|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|18|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
