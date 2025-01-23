@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|3|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |6|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|7|95.216.75.78|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.159.96.178|8055|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|13|185.35.130.147|58904|Russia|Moscow|Plazmatelekom LLC|
-|14|103.189.197.117|3125|Indonesia|Serang|PT Graha Sumber Teknologi|
-|15|77.238.233.70|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|18|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|19|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|20|78.187.2.189|19066|Turkey|Diyarbakır|TurkTelecom|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|95.216.75.78|3128|Finland|Helsinki|Hetzner Online GmbH|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|109.197.197.170|3128|Russia|Ulyanovsk|JSC Telecom.ru|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|77.238.233.70|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|17|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
