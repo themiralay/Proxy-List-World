@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|12|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|131.100.51.145|999|Colombia|Neiva|Fibernet TV SAS|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|72.10.160.91|1165|Canada|Montreal|GloboTech Communications|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|4|144.202.78.147|80|United States|Stuart|The Constant Company|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
