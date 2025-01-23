@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|49.48.54.110|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|223.206.138.192|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|5|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|8|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
 |9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|103.143.197.212|8010|Indonesia|Sragen|JERNIHNETWORK|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
+|14|171.237.237.218|10026|Vietnam|Cầu Diễn|Viettel Corporation|
+|15|203.190.46.37|3125|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|17|187.190.113.197|999|Mexico|Cosoleacaque|Total Play Telecomunicaciones SA De CV|
+|18|103.127.220.218|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|19|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|20|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
 
 
 
