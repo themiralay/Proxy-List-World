@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|2|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|36.68.33.199|80|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|36.68.33.199|80|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
 |9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|10|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|181.129.250.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
 |11|223.205.36.58|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|12|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|157.66.16.42|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|103.114.52.21|8080|Indonesia|Sukoharjo|Proxy-registered|
+|12|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|13|116.254.96.111|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
 
 
 
