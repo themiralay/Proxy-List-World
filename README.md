@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|119.11.205.129|8080|Indonesia|Jakarta|PT. NTT Indonesia|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|8|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|10|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|11|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|18|38.230.165.25|9090|Ivory Coast|Yamoussoukro|ORANGE COTE D'IVOIRE|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|12|38.45.247.98|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
+|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|14|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|103.154.77.40|89|Indonesia|Sleman|T2NET|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
 
 
 
