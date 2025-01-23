@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|71.42.125.219|4444|United States|Leander|Spectrum|
-|13|71.42.125.219|4444|United States|Leander|Spectrum|
-|14|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|15|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|13|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|14|38.41.4.138|999|Venezuela|Santa Teresa del Tuy|MDS TELECOM C.A.|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|19|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
