@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|176.124.199.31|3128|Netherlands|Amsterdam|xorek.cloud International LTD|
-|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|107.172.100.167|1080|United States|Santa Clara|HostPapa|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|107.172.100.167|1080|United States|Santa Clara|HostPapa|
-|11|170.246.1.249|3128|Brazil|Porto Alegre|Proserver Telecomunicacoes S.A.|
-|12|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|13|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|72.10.160.90|8317|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28689|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|1509|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|117.5.62.151|10094|Vietnam|Hanoi|VIETTEL|
+|11|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|15|103.191.218.87|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
