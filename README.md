@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|4|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|47.242.65.192|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|171.224.19.187|10002|Vietnam|Hanoi|Viettel Corporation|
+|7|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|13|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|207.154.229.20|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.175.202.182|8090|Indonesia|Batulicin|PT Ameera Mega Buana|
-|17|45.5.2.246|8084|Argentina|Bariloche|Altec S.e. Alta Tecnologia Sociedad Del Estado|
-|18|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
-|19|116.107.113.154|10096|Vietnam|Hanoi|Viettel Corporation|
-|20|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|15|103.177.199.10|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
+|16|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|17|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|38.7.18.146|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
