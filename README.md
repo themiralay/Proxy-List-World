@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|8|51.89.96.237|3128|United Kingdom|London|OVH SAS|
-|9|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|15|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|20|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|77.238.233.70|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|13|202.131.159.222|1111|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|14|220.85.12.31|8080|South Korea|Songpa-gu|Korea Telecom|
+|15|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
+|16|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|17|36.64.181.82|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
