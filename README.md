@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|36.68.33.199|80|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|10|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|12|67.43.228.250|16885|Canada|Montreal|GloboTech Communications|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|178.251.45.38|8080|Türkiye|Ankara|3c1b Telekom|
-|15|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|16|72.10.160.170|8233|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|36.68.33.199|80|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|116.254.96.111|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
+|14|223.205.36.58|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|116.254.99.120|8080|Indonesia|Jakarta|SpaceX Starlink|
+|17|186.3.97.77|999|Ecuador|Guayaquil|Telconet S.A|
+|18|36.68.29.81|8080|Indonesia|Sukoharjo|PT. TELKOM INDONESIA|
+|19|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|20|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
 
 
 
