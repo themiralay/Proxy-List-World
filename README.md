@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|9|170.246.1.249|3128|Brazil|Porto Alegre|Proserver Telecomunicacoes S.A.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|16|103.55.224.122|8080|Indonesia|Karawang|PT Gapura Era Digital|
-|17|103.231.236.82|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|18|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|20|107.172.100.167|1080|United States|Santa Clara|HostPapa|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|12|117.5.62.151|10094|Vietnam|Hanoi|VIETTEL|
+|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|14|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|107.172.100.167|1080|United States|Santa Clara|HostPapa|
+|16|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|17|202.58.206.51|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
