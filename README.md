@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|1.2.176.85|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.39.51.57|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |5|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|7|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|16|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.129.92.45|8080|Indonesia|Tulungagung|PT. Eka Mas Republik|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|6|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
+|7|1.2.176.85|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|14|3.67.38.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|16|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|17|190.140.63.34|55916|Panama|Panama City|Cable Onda|
+|18|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|19|157.10.182.233|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
+|20|63.151.59.218|8080|United States|Minneapolis|CenturyLink|
 
 
 
