@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|67.43.236.20|20589|Canada|Montreal|GloboTech Communications|
-|16|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|17|67.43.228.250|31817|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|3257|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12835|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20589|Canada|Montreal|GloboTech Communications|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|67.43.227.228|12691|Canada|Montreal|GloboTech Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|69.49.228.101|3128|United States|Atlanta|Network Solutions, LLC|
+|15|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|67.43.236.20|20183|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|9145|Canada|Montreal|GloboTech Communications|
+|19|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|20|103.169.138.23|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
 
 
 
