@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|103.154.230.117|8080|Indonesia|Lamongan|DIGITNET|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|38.45.247.98|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|190.14.249.35|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|103.131.19.170|8083|Indonesia|Pasarkemis|PT Global Media Data Prima|
-|20|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|13|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|190.140.63.34|55916|Panama|Panama City|Cable Onda|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
