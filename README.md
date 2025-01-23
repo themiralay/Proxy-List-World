@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|3|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|9|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|10|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|103.169.39.66|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|17|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|45.229.158.106|80|Brazil|Ipatinga|Brnet Telecomunicacoes LTDA - ME|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|185.35.130.16|55520|Russia|Moscow|Plazmatelekom LLC|
+|1|203.190.117.189|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|4|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|5|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.160.182.125|8088|Indonesia|Jember|PT Internusa Duta Makmur|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|72.10.164.178|33183|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|192.99.199.49|3128|France|Roubaix|OVH Hosting|
+|16|197.248.231.91|8080|Kenya|Nairobi|Safaricom Limited|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|72.10.160.90|24039|Canada|Montreal|GloboTech Communications|
+|19|217.66.215.86|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|20|103.156.248.27|8085|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
 
 
 
