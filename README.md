@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5050** proxies at the latest update. Usable proxies are below.
+> Scraper found **5109** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|859|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|147|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|596|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2669|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.154.230.94|8080|Indonesia|Lamongan|DIGITNET|
-|4|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|5|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|7|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|8|147.45.49.234|3128|Japan|Tokyo|Global Connectivity Solutions LLP|
-|9|187.204.64.26|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|10|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|11|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|14|41.216.186.146|8080|Indonesia|Kuningan Barat|FASTHOSTING|
-|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|16|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|115.72.167.241|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|2|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|171.237.237.218|10017|Vietnam|Cầu Diễn|Viettel Corporation|
+|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|15|103.48.68.75|82|India|Hyderabad|Country Online Services PVT LTD|
+|16|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|17|187.204.64.26|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
