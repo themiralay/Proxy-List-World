@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4953** proxies at the latest update. Usable proxies are below.
+> Scraper found **5088** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|125.26.198.17|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|61.5.101.115|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|103.176.96.178|1111|Indonesia|Karawang|PT Global Sarana Elektronika|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|16|203.150.113.30|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|67.43.228.251|6769|Canada|Montreal|GloboTech Communications|
-|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|3|125.26.198.17|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
+|7|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|186.24.9.204|9898|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|15|71.42.125.218|4444|United States|Leander|Spectrum|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
