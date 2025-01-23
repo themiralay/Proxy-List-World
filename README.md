@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4533** proxies at the latest update. Usable proxies are below.
+> Scraper found **4714** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|505|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|138|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|321|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2781|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|5|103.203.232.101|1080|Indonesia|Kedok|INDANA|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|12|190.60.44.237|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|15|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|20|157.66.20.74|8080|Indonesia|Delanggu|PT. GEMILANG SARANA MANDIRI|
+|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|16|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|17|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
