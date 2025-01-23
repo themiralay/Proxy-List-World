@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|11|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|12|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|103.122.137.68|8080|Bangladesh|Nārāyanganj|SpaceNet Ltd|
-|15|103.251.8.255|8181|Indonesia|Gianyar|PT Trika Global Media|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|36.68.33.199|80|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|11|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.165.155.22|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.227.228|28885|Canada|Montreal|GloboTech Communications|
+|19|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
