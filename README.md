@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |8|207.154.229.20|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|116.254.98.184|8080|Indonesia|Jakarta|SpaceX Starlink|
-|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|123.24.63.106|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|179.125.125.243|3128|Brazil|Floriano|Virtex Telecom|
-|20|72.10.160.170|24483|Canada|Montreal|GloboTech Communications|
+|9|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|38.51.237.24|999|Venezuela|Cabimas|Colnetwork C.A.|
+|14|170.80.64.199|8080|Brazil|Vespasiano|BTT TELECOMUNICACOES S.A.|
+|15|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
+|20|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
