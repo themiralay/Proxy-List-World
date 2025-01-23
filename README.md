@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|144.202.78.147|80|United States|Stuart|The Constant Company|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |8|144.202.78.147|80|United States|Stuart|The Constant Company|
-|9|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|11|181.188.233.247|8080|Ecuador|Ambato|Otecel S.A|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|103.119.67.34|8080|Indonesia|Tangerang|MYREPUBLIC|
-|14|67.43.236.18|32987|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|27091|Canada|Montreal|GloboTech Communications|
-|16|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|17|5.202.88.1|80|Iran|Tehran|Naroon Intelligent Communications LTD|
-|18|103.120.76.74|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|19|67.43.227.226|6425|Canada|Montreal|GloboTech Communications|
-|20|37.210.174.113|8080|Qatar|Doha|Ooredoo-MBB|
+|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|117.5.58.241|10094|Vietnam|Hanoi|VIETTEL|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|103.119.67.34|8080|Indonesia|Tangerang|MYREPUBLIC|
+|19|171.224.73.229|10094|Vietnam|Hanoi|Viettel Corporation|
+|20|67.43.236.18|32987|Canada|Montreal|GloboTech Communications|
 
 
 
