@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|171.224.74.108|10079|Vietnam|Hanoi|Viettel Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|196.44.111.154|8080|Ghana|Accra|Ecoband Ltd|
-|12|103.155.116.247|1080|Indonesia|Serang|IOSYS|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|17|49.148.102.3|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|10|91.92.213.58|8080|Iran|Tehran|TIC|
+|11|67.43.236.18|29849|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.229|10017|Canada|Montreal|GloboTech Communications|
+|13|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|14|72.10.164.178|18843|Canada|Montreal|GloboTech Communications|
+|15|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|200.94.96.174|999|Mexico|Chichimequillas|Alestra, S. de R.L. de C.V.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|103.119.67.34|8080|Indonesia|Tangerang|MYREPUBLIC|
+|20|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
