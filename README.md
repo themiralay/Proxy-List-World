@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|103.186.193.135|8084|Indonesia|Ploso|PT Lentera Digital Nusantara|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|171.224.71.13|10092|Vietnam|Hanoi|Viettel Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|200.76.28.203|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|17|92.124.99.130|8080|Russia|Krasnoyarsk|OJSC "Sibirtelecom"|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|117.5.62.151|10094|Vietnam|Hanoi|VIETTEL|
-|20|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
+|11|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
+|12|116.107.113.154|10096|Vietnam|Hanoi|Viettel Corporation|
+|13|202.62.54.13|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|18|45.65.224.74|999|Argentina|San Justo|Solution LAN S.A|
+|19|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
