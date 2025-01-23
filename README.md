@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|223.206.138.192|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|3|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|4|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
-|11|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|13|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|14|69.167.38.199|8118|United States|Austin|Paradise Networks LLC|
-|15|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
+|1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|115.77.133.241|10022|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
+|12|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|14|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|19|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|20|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
