@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|67.43.227.226|4763|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|18799|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|1849|Canada|Montreal|GloboTech Communications|
-|16|77.246.102.182|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|180.127.149.234|1080|China|Nanjing|Chinanet|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|103.231.236.82|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|16|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|36.103.218.237|8000|China|Shenzhen|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|171.224.73.21|10095|Vietnam|Hanoi|Viettel Corporation|
 |20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 
 
