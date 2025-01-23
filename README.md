@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|223.206.138.192|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|49.48.54.110|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|164.163.134.227|999|Ecuador|Quito|Ufinet Panama S.A.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|10|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|13|202.57.26.58|8080|Indonesia|Bandung|WANET|
-|14|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|15|63.151.59.218|8080|United States|Minneapolis|CenturyLink|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|103.67.91.50|8081|Indonesia|Purwokerto|PT Soultan Network Indonesia|
-|18|103.127.220.218|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|223.206.138.192|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|9|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|10|164.163.134.227|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|15|69.167.38.199|8118|United States|Austin|Paradise Networks LLC|
+|16|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|17|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
+|18|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
