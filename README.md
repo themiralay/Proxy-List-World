@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|220.85.12.28|8080|South Korea|Songpa-gu|Korea Telecom|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|42.119.52.53|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|171.6.28.115|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|109.165.192.124|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|13|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
-|16|154.18.239.10|3128|United States|Cleveland|Cogent Communications|
-|17|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|20|154.126.209.146|8080|South Africa|Newcastle|JENNY Network|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|103.42.242.15|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|13|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|77.238.233.70|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|36.94.114.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|95.217.32.117|3218|Finland|Helsinki|Hetzner Online GmbH|
+|20|170.80.64.199|8080|Brazil|Vespasiano|BTT TELECOMUNICACOES S.A.|
 
 
 
