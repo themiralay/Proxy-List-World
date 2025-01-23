@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|2|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|16|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|95.216.75.78|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|103.70.93.68|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|10|95.216.75.78|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
+|12|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|103.242.105.187|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|17|124.122.114.109|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|67.43.236.20|10145|Canada|Montreal|GloboTech Communications|
+|19|109.197.197.170|3128|Russia|Ulyanovsk|JSC Telecom.ru|
+|20|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
