@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|8|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|181.78.99.31|8080|El Salvador|Chalatenango|Ufinet Panama S.A.|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|11|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 |12|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|16|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
-|17|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|72.10.160.90|31447|Canada|Montreal|GloboTech Communications|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
