@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|10|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|12|57.128.201.50|3128|Poland|Warsaw|OVH SAS|
-|13|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|1.20.169.194|8080|Thailand|Pattaya|TOT Public Company Limited|
-|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
+|2|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|13|119.2.42.201|8085|Indonesia|Jakarta|PT. Laxo Global Akses|
+|14|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
+|15|161.132.125.244|8080|Peru|Lima|Optical Technologies S.A.C.|
+|16|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|103.91.62.193|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
+|20|47.129.45.99|8080|Singapore|Singapore|Amazon Technologies Inc|
 
 
 
