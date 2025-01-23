@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|10|176.99.65.12|8080|Russia|Tosno|OtradnoeNet Ltd|
-|11|118.172.183.27|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|213.194.133.211|3128|Spain|Armilla|World Wide Web Ibercom|
-|13|185.155.14.96|8080|Iran|Tehran|Arya Pars Internet Gostar LLC|
-|14|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|20|49.145.184.122|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.169.39.66|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
+|3|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
+|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|12|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|17|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
