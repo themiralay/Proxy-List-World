@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|202.57.25.41|8080|Indonesia|Semarang|announced of WINET|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|10|116.90.97.32|8080|Pakistan|Karachi|FIBERISH (PVT) LTD|
-|11|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|188.132.150.73|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|11|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|103.173.231.18|3127|Indonesia|Bandung|PT Jaringan Internet Banten|
+|16|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|17|201.48.63.91|5151|Brazil|Hortolândia|ALGAR TELECOM S/A|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
