@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|4|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|117.2.230.224|30119|Vietnam|Hanoi|Viettel Corporation|
-|12|103.119.67.34|8080|Indonesia|Tangerang|MYREPUBLIC|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|17|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|18|103.26.109.62|84|India|Kadayanallur|Niss Networks|
-|19|67.43.236.19|7625|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|22021|Canada|Montreal|GloboTech Communications|
+|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|17|67.43.227.227|22021|Canada|Montreal|GloboTech Communications|
+|18|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|19|5.202.88.1|80|Iran|Tehran|Naroon Intelligent Communications LTD|
+|20|172.96.171.76|8080|Puerto Rico|Bayamón|Fuse Telecom LLC|
 
 
 
