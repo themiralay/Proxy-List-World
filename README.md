@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|181.39.27.170|999|Ecuador|Cuenca|Telconet S.A|
-|6|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|7|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|193.95.53.129|3128|Tunisia|Tunis|3S INF|
 |9|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|10|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|11|36.93.10.85|2015|Indonesia|Kumai|Telekomunikasi Indonesia|
-|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|13|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|3.145.11.127|3128|United States|Dublin|Amazon.com, Inc.|
-|16|171.237.237.218|10026|Vietnam|Cầu Diễn|Viettel Corporation|
-|17|67.43.236.19|20721|Canada|Montreal|GloboTech Communications|
-|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|128.199.44.243|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|13|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|14|24.72.215.236|8246|United States|Central City|Vyve Broadband|
+|15|58.136.116.228|8080|Thailand|Chiang Mai|AIS-Fibre|
+|16|36.92.28.34|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|17|187.147.118.213|8080|Mexico|Mérida|Uninet S.A. de C.V.|
+|18|38.49.129.238|999|Mexico|Cuesta Colorada|Ientc S De RL De CV|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
