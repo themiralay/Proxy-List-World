@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|101.109.31.8|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
-|5|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
-|6|186.3.98.230|999|Ecuador|Guayaquil|Telconet S.A|
-|7|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|101.109.31.8|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|186.3.98.230|999|Ecuador|Guayaquil|Telconet S.A|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|7|45.169.178.37|8081|Brazil|Manaus|Clickip Provedores De Acesso Ltda|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|10|67.43.236.18|19131|Canada|Montreal|GloboTech Communications|
-|11|45.169.178.37|8081|Brazil|Manaus|Clickip Provedores De Acesso Ltda|
-|12|72.10.160.174|8749|Canada|Montreal|GloboTech Communications|
-|13|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|14|121.227.146.65|8089|China|Nanjing|China Telecom|
-|15|72.10.160.173|2557|Canada|Montreal|GloboTech Communications|
-|16|114.223.79.132|8089|China|Nanjing|Chinanet|
-|17|43.247.38.57|8681|Indonesia|Bekasi|Maxindo|
-|18|67.43.227.226|26827|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|26827|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6177|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|26827|Canada|Montreal|GloboTech Communications|
+|11|49.49.48.206|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|67.43.227.226|26827|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|32075|Canada|Montreal|GloboTech Communications|
+|15|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|16|103.178.23.6|8080|Indonesia|Salatiga|Universitas Kristen Satya Wacana|
+|17|36.92.52.98|8042|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|67.43.227.230|25183|Canada|Montreal|GloboTech Communications|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
 
 
 
