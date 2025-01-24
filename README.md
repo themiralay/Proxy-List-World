@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
-|13|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|14|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.227.226|3809|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|67.43.228.250|1937|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|5385|Canada|Montreal|GloboTech Communications|
+|1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|2|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
+|6|176.123.180.55|3128|Kazakhstan|Almaty| ITGLOBALCOM RUS LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|12|103.215.60.234|3125|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
