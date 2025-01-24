@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
-|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|7|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
-|10|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|190.121.157.141|999|Colombia|Cúcuta|Media Commerce Partners S.A|
-|13|204.199.122.250|3012|Colombia|Bogotá|CTL Colombia|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|159.89.239.166|8120|United States|North Bergen|DigitalOcean, LLC|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|213.74.115.216|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|64.227.141.68|9090|India|Bengaluru|DigitalOcean, LLC|
+|10|113.192.30.183|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|67.43.236.18|25103|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|25103|Canada|Montreal|GloboTech Communications|
+|18|171.237.237.218|10023|Vietnam|Cầu Diễn|Viettel Corporation|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|222.252.217.134|10003|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
