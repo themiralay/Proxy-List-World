@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
 |4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|171.237.237.218|10026|Vietnam|Cầu Diễn|Viettel Corporation|
-|8|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|72.10.160.91|30953|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|29623|Canada|Montreal|GloboTech Communications|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|67.43.227.227|1033|Canada|Montreal|GloboTech Communications|
-|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|14|67.43.227.226|19205|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|13969|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|30953|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|23537|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|20925|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|72.10.164.178|6293|Canada|Montreal|GloboTech Communications|
+|5|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|8|72.10.160.170|18599|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.18|21189|Canada|Montreal|GloboTech Communications|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|119.95.189.210|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|12|67.43.236.19|20925|Canada|Montreal|GloboTech Communications|
+|13|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|15|171.237.237.218|10006|Vietnam|Cầu Diễn|Viettel Corporation|
+|16|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|17|103.230.81.124|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|67.43.236.21|32005|Canada|Montreal|GloboTech Communications|
 
 
 
