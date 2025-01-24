@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|5|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|8|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.158.121.66|1080|Indonesia|Jatibarang|CDN|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|103.75.85.102|8080|Indonesia|Central Java|MEGADATA|
-|14|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|15|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|16|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|17|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.236.20|8101|Canada|Montreal|GloboTech Communications|
-|20|93.157.106.26|3128|Moldova|Chisinau|Alexhost SRL|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|5|117.239.177.119|80|India|Kochi|BSNL Internet|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|10|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|11|72.10.164.178|22101|Canada|Montreal|GloboTech Communications|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|78.26.146.59|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
+|15|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|67.43.228.250|25979|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|12919|Canada|Montreal|GloboTech Communications|
 
 
 
