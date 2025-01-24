@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|31.214.171.217|8060|Iran|Tehran|Parsonline|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|38.51.235.50|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|38.137.251.76|3128|Ukraine|Odesa|Lekol LLC|
-|11|203.150.128.90|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|171.237.237.218|10009|Vietnam|Cầu Diễn|Viettel Corporation|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|190.60.41.70|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|157.66.16.49|8585|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|11|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.160.171|11473|Canada|Montreal|GloboTech Communications|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|116.206.242.110|3888|Indonesia|Jakarta|CBN|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|3.67.170.177|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|72.10.160.171|11473|Canada|Montreal|GloboTech Communications|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|163.53.82.235|32650|India|Sādri|Kay Kay Softech Private Limited|
 
 
 
