@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|61.7.175.208|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|4|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|5|103.133.26.45|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|34.0.8.11|80|India|New Delhi|Google LLC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|14|67.43.228.252|21393|Canada|Montreal|GloboTech Communications|
+|8|115.74.2.213|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|11|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|101.255.164.126|8080|Indonesia|Jakarta|PT Remala Abadi|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|72.10.160.170|17081|Canada|Montreal|GloboTech Communications|
-|19|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|20|72.10.160.90|22957|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|15023|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|31445|Canada|Montreal|GloboTech Communications|
+|18|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
+|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|190.211.175.233|999|Chile|San Fernando|InterNexa Global Network|
 
 
 
