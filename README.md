@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.158.121.66|1080|Indonesia|Jatibarang|CDN|
-|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|7|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|103.75.85.102|8080|Indonesia|Central Java|MEGADATA|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|103.227.107.4|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
-|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|14|117.3.200.164|8080|Vietnam|Kon Tum|VIETTEL|
-|15|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|16|78.108.108.9|8080|Czechia|Kněžmost|Neutral Free eXchange members - FreeTel alternate|
-|17|36.90.26.88|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|78.26.146.59|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|8|103.179.182.217|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|9|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|10|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|17|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|18|186.232.59.146|54443|Brazil|Coração de Maria|Geeknet Provedor De Internet Ltda ME|
+|19|72.10.164.178|17895|Canada|Montreal|GloboTech Communications|
+|20|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 
 
 
