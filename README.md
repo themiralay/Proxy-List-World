@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|67.43.228.251|28243|Canada|Montreal|GloboTech Communications|
-|12|27.189.128.122|8089|China|Langfang|Chinanet|
-|13|72.10.160.90|30915|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|15915|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13203|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|15915|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|2301|Canada|Montreal|GloboTech Communications|
-|18|60.53.133.218|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|19|119.18.154.201|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|20|67.43.236.19|16705|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|72.10.160.90|30915|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.19|22411|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|15915|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|2301|Canada|Montreal|GloboTech Communications|
+|12|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|67.43.228.251|2977|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|7387|Canada|Montreal|GloboTech Communications|
+|15|5.160.57.36|8080|Iran|Tehran|RSPN|
+|16|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|17|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|18|72.10.160.91|19203|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|22411|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|13807|Canada|Montreal|GloboTech Communications|
 
 
 
