@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|180.190.188.236|8082|Philippines|Lahug|Globe Telecom|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|8|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|15|117.239.177.119|80|India|Kochi|BSNL Internet|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|144.202.78.147|80|United States|Stuart|The Constant Company|
-|19|103.126.219.204|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|20|121.227.109.62|8089|China|Nanjing|China Telecom|
+|1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|2|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|115.132.4.87|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|11|101.255.167.174|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|208.109.234.211|8080|United States|Tempe|GoDaddy.com, LLC|
+|17|103.180.118.107|999|Indonesia|Setro|PT Persada Data Multimedia|
+|18|72.10.160.170|21917|Canada|Montreal|GloboTech Communications|
+|19|103.189.254.2|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|20|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
 
 
 
