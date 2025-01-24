@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3890** proxies at the latest update. Usable proxies are below.
+> Scraper found **3791** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|149|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|386|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|436|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|301|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2128|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|16|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
-|17|67.43.227.227|22021|Canada|Montreal|GloboTech Communications|
-|18|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
-|19|5.202.88.1|80|Iran|Tehran|Naroon Intelligent Communications LTD|
-|20|172.96.171.76|8080|Puerto Rico|Bayamón|Fuse Telecom LLC|
+|6|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|7|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|8|43.231.78.203|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
+|9|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.160.174|10823|Canada|Montreal|GloboTech Communications|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|72.10.160.90|33011|Canada|Montreal|GloboTech Communications|
+|15|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|16|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|17|67.43.228.250|4427|Canada|Montreal|GloboTech Communications|
+|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|20|72.10.160.91|2379|Canada|Montreal|GloboTech Communications|
 
 
 
