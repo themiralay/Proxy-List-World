@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|2|178.162.171.27|3128|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|178.162.171.27|3128|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|134.35.207.54|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|9|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|187.95.136.2|8080|Brazil|Osasco|Horizons Telecomunicações e Tecnologia S.A|
-|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|20|112.78.40.210|8080|Indonesia|Jakarta|PT DES Teknologi Informasi|
+|4|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.133.61.163|8182|Indonesia|Menggala|TLINK|
+|6|138.118.104.33|8080|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|7|45.6.1.97|999|Argentina|San Vicente|IP AMERICA TELECOM LTDA|
+|8|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|9|134.35.207.54|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.59.163.206|80|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|67.43.236.19|16325|Canada|Montreal|GloboTech Communications|
+|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|17|181.209.125.195|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|72.10.164.178|8809|Canada|Montreal|GloboTech Communications|
+|19|59.39.226.0|2324|China|Guangzhou|Chinanet|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
