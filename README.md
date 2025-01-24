@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3940** proxies at the latest update. Usable proxies are below.
+> Scraper found **3850** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|144|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|499|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|315|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2056|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.245.156.40|53002|Singapore|Singapore|DigitalOcean, LLC|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|20.84.7.175|3128|United States|Boydton|Microsoft Corporation|
+|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|20.84.7.175|3128|United States|Boydton|Microsoft Corporation|
-|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|177.234.226.141|999|Ecuador|Leonidas Plaza Gutiérrez|Ufinet Panama S.A.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.173.12.141|1994|Colombia|San Gil|Atenea Telecomunicaciones|
-|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|14|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|190.52.97.13|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|157.245.156.40|53002|Singapore|Singapore|DigitalOcean, LLC|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|20.84.7.175|3128|United States|Boydton|Microsoft Corporation|
+|7|134.209.30.200|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.228.243.219|8080|Indonesia|Jakarta|SpaceX Starlink|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|177.234.226.141|999|Ecuador|Leonidas Plaza Gutiérrez|Ufinet Panama S.A.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|170.239.241.30|31288|Brazil|Taquara|Blus Telecom Ltda - EPP|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|27.189.132.114|8089|China|Langfang|Chinanet|
+|19|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
