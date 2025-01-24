@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|110.77.241.103|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
-|6|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.183.99.210|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|10|49.49.48.206|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|11|160.22.90.91|8181|Indonesia|Cirebon|PT Lintas Data Kita|
-|12|101.109.31.8|8080|Thailand|Pattaya|TOT Public Company Limited|
-|13|212.252.73.29|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.189.134.141|8089|China|Langfang|Chinanet|
-|17|203.150.166.170|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|18|67.43.236.18|22563|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|1|110.77.241.103|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
+|6|103.175.46.13|8080|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|7|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|9|14.102.92.2|83|India|Prayagraj|World Phone Internet Services Pvt Ltd|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|49.49.48.206|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|12|223.25.110.185|8080|Indonesia|Prapen|SinergiNet|
+|13|103.81.158.130|8080|India|Zira|Digitax India Communications Pvt Ltd.|
+|14|161.49.176.169|10101|Philippines|Pasig|Converge ICT Solution Inc|
+|15|111.95.208.146|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|16|101.51.164.156|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|17|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|67.43.236.18|4233|Canada|Montreal|GloboTech Communications|
+|19|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
