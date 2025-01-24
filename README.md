@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|72.10.160.170|26075|Canada|Montreal|GloboTech Communications|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|72.10.164.178|9515|Canada|Montreal|GloboTech Communications|
-|13|128.199.44.243|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|166.155.239.80|80|United States|Oldsmar|Verizon Business|
-|15|72.10.160.91|5841|Canada|Montreal|GloboTech Communications|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|67.43.228.250|15623|Canada|Montreal|GloboTech Communications|
-|18|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|111.132.16.180|3389|China|Beijing|China TieTong Telecommunications Corporation|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|89.232.202.106|3128|Russia|Khanty-Mansiysk|Rostelecom networks|
+|6|203.150.113.83|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|9|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|1.52.203.243|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|103.174.237.71|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|18|72.10.164.178|9515|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.252|10123|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|9515|Canada|Montreal|GloboTech Communications|
 
 
 
