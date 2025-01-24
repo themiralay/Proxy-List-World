@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|92.38.178.130|8080|Japan|Tokyo|G-Core Labs S.A.|
 |4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |5|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|186.96.109.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|222.252.217.134|10003|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|190.121.157.141|999|Colombia|Cúcuta|Media Commerce Partners S.A|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|10|36.67.194.162|8042|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|72.10.160.172|26549|Canada|Montreal|GloboTech Communications|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|72.10.160.172|26549|Canada|Montreal|GloboTech Communications|
-|16|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|17|72.10.160.170|13773|Canada|Montreal|GloboTech Communications|
-|18|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|72.10.160.171|15649|Canada|Montreal|GloboTech Communications|
-|20|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|13|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|14|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|103.119.67.34|8080|Indonesia|Tangerang|MYREPUBLIC|
+|16|67.43.227.226|25043|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.236.18|30907|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|25043|Canada|Montreal|GloboTech Communications|
+|20|118.175.206.51|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
