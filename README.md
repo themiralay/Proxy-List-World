@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.176.77|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|203.150.128.90|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|101.109.176.77|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
 |6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|36.92.52.98|8042|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|9|117.103.70.9|8715|Indonesia|Malang|NARATEL|
+|7|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|186.96.160.202|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|9|103.133.26.45|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
 |10|61.7.175.208|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|88.99.126.109|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.171.245.120|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|13|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|14|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|171.237.237.218|10034|Vietnam|Cầu Diễn|Viettel Corporation|
-|18|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|171.237.237.218|10015|Vietnam|Cầu Diễn|Viettel Corporation|
+|16|67.43.227.226|4631|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|4631|Canada|Montreal|GloboTech Communications|
+|18|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|19|177.93.63.2|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
+|20|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
