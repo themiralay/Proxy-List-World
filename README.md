@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.215.167|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|171.232.177.149|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|11|103.182.184.123|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|12|182.53.167.181|8080|Thailand|Tha Tako|TOT Public Company Limited|
-|13|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
-|18|67.43.228.251|19333|Canada|Montreal|GloboTech Communications|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.227.228|4239|Canada|Montreal|GloboTech Communications|
+|1|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|167.71.215.167|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|116.107.119.6|10079|Vietnam|Hanoi|Viettel Corporation|
+|5|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|6|95.164.68.7|8080|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|171.232.177.149|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|103.76.108.96|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|171.232.177.56|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|116.107.125.152|10077|Vietnam|Hanoi|Viettel Corporation|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|67.43.228.251|31991|Canada|Montreal|GloboTech Communications|
+|15|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|208.67.28.19|58090|United States|Eagle River|SonicNet Inc.|
+|17|103.228.243.175|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|67.43.227.228|4239|Canada|Montreal|GloboTech Communications|
+|19|171.237.237.218|10005|Vietnam|Cầu Diễn|Viettel Corporation|
+|20|171.237.237.218|10005|Vietnam|Cầu Diễn|Viettel Corporation|
 
 
 
