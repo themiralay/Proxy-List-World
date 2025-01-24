@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|178.128.16.74|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|8|181.39.27.170|999|Ecuador|Cuenca|Telconet S.A|
-|9|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|113.192.3.42|8050|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|181.39.27.170|999|Ecuador|Cuenca|Telconet S.A|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|13|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
 |14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|16|103.148.44.105|8085|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|24.72.215.236|8246|United States|Central City|Vyve Broadband|
-|20|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
+|15|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|16|113.191.244.128|8080|Vietnam|Hanoi|VNPT|
+|17|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
+|18|103.148.44.105|8085|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|19|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
+|20|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 
 
 
