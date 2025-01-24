@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|103.220.23.177|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|171.237.237.218|10010|Vietnam|Cầu Diễn|Viettel Corporation|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|68.168.31.157|3128|United Kingdom|London|GTHost|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|14|72.10.160.90|32931|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|4197|Canada|Montreal|GloboTech Communications|
-|16|27.70.229.242|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|72.10.160.174|1229|Canada|Montreal|GloboTech Communications|
-|20|185.200.38.194|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|11|117.239.177.119|80|India|Kochi|BSNL Internet|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|72.10.160.90|32931|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|22675|Canada|Montreal|GloboTech Communications|
+|18|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|19|103.151.226.148|8080|Indonesia|Bandung|URBANACCESS|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
