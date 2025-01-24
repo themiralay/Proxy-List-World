@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.179.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|206.189.158.66|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|71.6.200.201|3128|United States|San Diego|CariNet, Inc.|
-|8|181.78.74.62|999|Colombia|Lebrija|IFX Networks Argentina S.R.L|
-|9|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|71.6.200.201|3128|United States|San Diego|CariNet, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|68.168.31.157|3128|United Kingdom|London|GTHost|
-|13|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|193.31.41.19|8080|France|Paris|Regxa Company for Information Technology Ltd|
-|17|67.43.236.18|5899|Canada|Montreal|GloboTech Communications|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|179.49.117.21|999|Honduras|Pinalejo|Asociacion De Servicio De Internet S. De RL.|
+|7|68.168.31.157|3128|United Kingdom|London|GTHost|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|11|27.70.229.242|10000|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|27.70.229.242|10000|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.70.229.242|10000|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|67.43.236.18|3505|Canada|Montreal|GloboTech Communications|
+|16|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|17|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|18|72.10.160.90|20955|Canada|Montreal|GloboTech Communications|
+|19|171.7.97.75|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|14.245.192.19|8080|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
