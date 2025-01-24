@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|8|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
-|9|38.7.3.20|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|11|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|12|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|15|72.10.160.170|23049|Canada|Montreal|GloboTech Communications|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|171.237.237.218|10011|Vietnam|Cầu Diễn|Viettel Corporation|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|67.43.227.227|17983|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|24281|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|8|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|9|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
+|10|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|11|72.10.160.170|19827|Canada|Montreal|GloboTech Communications|
+|12|45.5.116.145|999|Guatemala|Guatemala City|Infinitum S.A.|
+|13|67.43.228.250|27441|Canada|Montreal|GloboTech Communications|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|67.43.228.254|23193|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|32835|Canada|Montreal|GloboTech Communications|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|67.43.228.250|27441|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|19827|Canada|Montreal|GloboTech Communications|
 
 
 
