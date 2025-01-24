@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|157.15.80.32|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|3|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|223.206.54.34|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|72.10.160.90|17497|Canada|Montreal|GloboTech Communications|
-|13|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|14|72.10.160.170|14761|Canada|Montreal|GloboTech Communications|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|67.43.228.250|32617|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|4143|Canada|Montreal|GloboTech Communications|
-|18|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|19|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|157.15.80.32|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|67.43.227.226|5617|Canada|Montreal|GloboTech Communications|
+|8|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|9|36.92.146.125|8080|Indonesia|Malang|Telekomunikasi Indonesia|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|72.10.160.90|17497|Canada|Montreal|GloboTech Communications|
+|12|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|15|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|72.10.164.178|2449|Canada|Montreal|GloboTech Communications|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|67.43.227.228|30139|Canada|Montreal|GloboTech Communications|
 
 
 
