@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|7|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|190.120.252.81|999|Venezuela|Valencia|Internet Numbers Authority|
-|10|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|11|35.207.225.242|80|India|Mumbai|Google LLC|
-|12|200.41.170.214|11201|Argentina|Buenos Aires|Telefonica de Argentina|
-|13|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|19|67.43.228.250|10003|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|17083|Canada|Montreal|GloboTech Communications|
+|1|161.82.130.170|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|2|61.7.191.85|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|4|196.19.9.110|8000|Germany|Frankfurt am Main|Maxihost LTDA|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|177.107.20.150|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
+|7|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
+|8|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
+|9|202.6.235.162|50901|Indonesia|Jakarta|PT Padi Internet|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|157.15.144.250|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|13|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|72.10.160.90|5155|Canada|Montreal|GloboTech Communications|
+|18|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|19|67.43.228.250|15703|Canada|Montreal|GloboTech Communications|
+|20|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
 
 
 
