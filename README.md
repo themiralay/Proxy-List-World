@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|3|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
-|4|137.184.205.234|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|8|61.160.247.69|9999|China|Nanjing|China Telecom|
-|9|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.119.67.34|8080|Indonesia|Tangerang|MYREPUBLIC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
-|15|103.114.52.93|8080|Indonesia|Sukoharjo|Proxy-registered|
-|16|157.20.98.74|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|72.10.160.91|29545|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|24865|Canada|Montreal|GloboTech Communications|
+|1|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.242.105.127|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|4|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|5|129.153.164.142|8080|United States|Ashburn|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
+|13|167.99.72.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|67.43.236.21|24865|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|26833|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|29931|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|4541|Canada|Montreal|GloboTech Communications|
 
 
 
