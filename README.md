@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.183.99.210|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.133.27.247|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|9|89.58.50.94|3128|Germany|Nuremberg|netcup GmbH|
-|10|72.10.160.90|25309|Canada|Montreal|GloboTech Communications|
-|11|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|112.209.51.118|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|14|72.10.160.170|1375|Canada|Montreal|GloboTech Communications|
-|15|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
-|16|67.43.227.230|29343|Canada|Montreal|GloboTech Communications|
-|17|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|19|67.43.227.226|25829|Canada|Montreal|GloboTech Communications|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|223.204.192.99|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|4|170.81.242.92|3128|Peru|Chiclayo|Inventa Telecomunicaciones Eirl|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.175.157.72|8090|Indonesia|Bojonggede 1|MYARSYILA|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|61.160.247.69|9999|China|Nanjing|China Telecom|
+|10|41.65.174.42|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
+|11|171.237.237.218|10035|Vietnam|Cầu Diễn|Viettel Corporation|
+|12|49.70.190.65|2324|China|Nanjing|Chinanet|
+|13|72.10.160.170|1375|Canada|Montreal|GloboTech Communications|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|171.237.237.218|10035|Vietnam|Cầu Diễn|Viettel Corporation|
+|20|67.43.228.250|30449|Canada|Montreal|GloboTech Communications|
 
 
 
