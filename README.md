@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.154.77.47|89|Indonesia|Sleman|T2NET|
-|2|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|185.233.203.28|8080|The Netherlands|Amsterdam|First Server Limited|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|121.224.231.146|8089|China|Nanjing|China Telecom|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|13|72.10.164.178|26637|Canada|Montreal|GloboTech Communications|
-|14|121.227.146.65|8089|China|Nanjing|China Telecom|
-|15|202.65.224.133|8080|Indonesia|Jakarta|PT GLOBAL TELECOM UTAMA|
-|16|200.125.169.142|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|17|67.43.236.18|33091|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|124.158.190.130|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|165.232.162.166|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|103.156.75.130|1111|Indonesia|Gianyar|PT Trika Global Media|
+|11|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|12|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|13|67.43.236.19|28619|Canada|Montreal|GloboTech Communications|
+|14|202.62.54.13|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|67.43.227.227|20373|Canada|Montreal|GloboTech Communications|
+|17|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|67.43.236.18|33091|Canada|Montreal|GloboTech Communications|
+|19|103.147.246.78|8080|Indonesia|Tangerang|PLBNET|
+|20|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
 
 
 
