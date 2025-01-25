@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|2|171.237.237.218|10034|Vietnam|Cầu Diễn|Viettel Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|6|119.47.90.109|8080|Indonesia|Duri Pulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|7|103.165.155.22|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|11|45.174.57.118|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
-|12|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|13|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|14|181.39.27.174|999|Ecuador|Cuenca|Telconet S.A|
-|15|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|51.222.200.68|3128|Canada|Beauharnois|OVH SAS|
-|19|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|10|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|11|102.221.40.111|8080|South Africa|Mossel Bay|Telkom SA Ltd.|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|36.64.6.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|103.123.168.202|3932|Bangladesh|Dhaka|Sajid Trading Ltd.|
+|15|144.202.78.147|80|United States|Stuart|The Constant Company|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|18|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|115.72.164.155|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
