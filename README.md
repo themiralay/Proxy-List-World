@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|7|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|4|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
+|5|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |9|72.10.160.90|7355|Canada|Montreal|GloboTech Communications|
-|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|11|67.43.236.18|26699|Canada|Montreal|GloboTech Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|101.255.208.246|7888|Indonesia|Bekasi|PT Remala Abadi|
-|15|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
-|16|91.92.213.58|8080|Iran|Tehran|TIC|
-|17|2.185.142.57|6565|Iran|Tehran|hamedan|
-|18|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|19|190.110.35.105|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|20|1.179.231.130|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|11|2.185.142.57|6565|Iran|Tehran|hamedan|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|139.255.94.122|39635|Indonesia|Jakarta|PT. LINKNET|
+|14|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|15|38.52.221.190|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|16|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|18|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|19|181.115.185.50|8080|Bolivia|Cochabamba|Entel S.A. - EntelNet|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
