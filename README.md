@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|7|72.10.164.178|5031|Canada|Montreal|GloboTech Communications|
-|8|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|9|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|12|171.237.237.218|10001|Vietnam|Cầu Diễn|Viettel Corporation|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|72.10.164.178|5031|Canada|Montreal|GloboTech Communications|
-|16|121.227.146.72|8089|China|Nanjing|China Telecom|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|19|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|20|113.192.30.205|8999|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|188.132.222.17|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|176.88.175.195|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|208.109.234.211|8080|United States|Tempe|GoDaddy.com, LLC|
+|15|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|18|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
