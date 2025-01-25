@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|2|180.180.109.25|8080|Thailand|Ban Chang|TOT Public Company Limited|
-|3|103.242.105.187|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|1.52.203.243|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.227.107.5|8080|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
-|9|38.7.100.128|999|Peru|Arequipa|Fiber Fix|
-|10|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
-|11|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|12|43.229.254.221|8181|Indonesia|Jakarta|PT. Media Antar Nusa|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|190.104.134.145|3128|Paraguay|Asunción|Núcleo S.A.|
-|17|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|180.180.109.25|8080|Thailand|Ban Chang|TOT Public Company Limited|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|7|3.145.10.88|3128|United States|Dublin|Amazon.com, Inc.|
+|8|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|115.72.165.182|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|11|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|12|177.93.44.30|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|14|3.145.10.88|3128|United States|Dublin|Amazon.com, Inc.|
+|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|16|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|17|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
 |18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
