@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
 |2|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|9|171.228.129.92|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|72.10.160.90|20953|Canada|Montreal|GloboTech Communications|
-|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|15|171.237.237.218|10035|Vietnam|Cầu Diễn|Viettel Corporation|
-|16|121.227.109.63|8089|China|Nanjing|China Telecom|
-|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|18|121.227.118.163|8089|China|Nanjing|China Telecom|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|3|200.37.187.61|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|171.228.129.162|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|6|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|7|101.255.211.38|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|9|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|10|103.166.254.220|3124|Indonesia|Pekanbaru|PT Instanet Media Nusantara|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|171.228.129.92|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|13|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|103.130.116.39|8090|Indonesia|Sembung|Lintas Data Prima, PT|
+|16|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|17|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
