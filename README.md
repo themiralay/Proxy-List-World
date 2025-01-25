@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|2|180.180.109.25|8080|Thailand|Ban Chang|TOT Public Company Limited|
-|3|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|12|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|115.72.165.182|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|192.121.102.66|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|19|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|3|180.180.109.25|8080|Thailand|Ban Chang|TOT Public Company Limited|
+|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|8|202.62.75.17|83|India|Hyderabad|CityOnline Services|
+|9|115.72.164.155|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|12|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.163.80.100|8082|Indonesia|Ngawi|PT Data Arta Sedaya|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|114.5.97.150|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|72.10.160.90|23885|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
