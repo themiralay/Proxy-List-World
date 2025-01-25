@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|121.101.134.202|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|12|103.171.83.55|1111|Indonesia|Karawang|PT Multi Network Indonesia|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|14.39.239.79|55770|South Korea|Eunpyeong-gu|Korea Telecom|
-|15|67.43.227.226|26167|Canada|Montreal|GloboTech Communications|
-|16|103.173.72.3|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|17|36.89.209.147|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|18|72.10.160.170|27447|Canada|Montreal|GloboTech Communications|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
+|5|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|177.53.155.204|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|9|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|72.10.160.170|7213|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|22625|Canada|Montreal|GloboTech Communications|
+|13|103.176.97.229|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|67.43.228.253|3189|Canada|Montreal|GloboTech Communications|
+|18|78.85.34.42|38080|Russia|Izhevsk|Rostelecom networks|
+|19|67.43.228.252|26159|Canada|Montreal|GloboTech Communications|
+|20|58.69.212.156|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
