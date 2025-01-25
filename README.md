@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|72.10.160.173|17231|Canada|Montreal|GloboTech Communications|
-|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|8|217.15.175.162|3128|United States|Boston|HOSTINGER US|
-|9|27.189.129.54|8089|China|Langfang|Chinanet|
-|10|67.43.236.18|6095|Canada|Montreal|GloboTech Communications|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|91.92.213.58|8080|Iran|Tehran|TIC|
-|13|67.43.227.226|24841|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|24841|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|24841|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|24841|Canada|Montreal|GloboTech Communications|
-|17|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|18|45.236.106.243|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|20|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|1|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|72.10.160.173|17231|Canada|Montreal|GloboTech Communications|
+|6|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|7|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|8|91.92.213.58|8080|Iran|Tehran|TIC|
+|9|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|11|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|121.227.109.47|8089|China|Nanjing|China Telecom|
+|14|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.105.55.170|8085|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|17|67.43.227.226|8915|Canada|Montreal|GloboTech Communications|
+|18|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|19|67.43.227.226|8915|Canada|Montreal|GloboTech Communications|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
