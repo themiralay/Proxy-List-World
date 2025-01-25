@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|4|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.154.230.94|8080|Indonesia|Lamongan|DIGITNET|
-|7|67.43.227.227|31791|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.19|17109|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.173|31963|Canada|Montreal|GloboTech Communications|
-|10|103.172.120.91|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|11|72.10.160.170|29069|Canada|Montreal|GloboTech Communications|
-|12|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|15|67.43.236.18|24755|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|2645|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|4|171.232.177.69|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|7|181.78.20.51|999|Colombia|Luruaco|IFX Networks Argentina S.R.L|
+|8|128.90.43.244|8118|United States|Austin|Paradise Networks LLC|
+|9|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
+|10|121.101.133.81|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
+|16|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
 |17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|190.61.44.132|999|Colombia|Arjona|Ufinet Panama S.A.|
-|19|72.10.160.90|1911|Canada|Montreal|GloboTech Communications|
-|20|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|18|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|19|67.43.227.226|18757|Canada|Montreal|GloboTech Communications|
+|20|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
