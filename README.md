@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|5|103.154.230.117|8080|Indonesia|Lamongan|DIGITNET|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|46.246.86.4|3128|Sweden|Stockholm|Portlane Network|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|18|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|202.74.77.14|8080|Indonesia|Lampung|PT Giga Patra Multimedia|
-|20|149.86.146.196|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.60.173.2|96|Bangladesh|Dhaka|Mazeda Networks Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|182.253.39.242|8080|Indonesia|Jakarta|BIZNET|
+|8|103.171.245.165|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|15|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|88.42.237.102|8080|Italy|Piovene Rocchette|Telecom Italia S.p.A.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
