@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|3|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
-|9|3.145.10.88|3128|United States|Dublin|Amazon.com, Inc.|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|14|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
-|16|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|17|124.217.42.92|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|18|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|19|18.166.69.237|8888|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|20|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|61.160.247.69|9999|China|Nanjing|China Telecom|
+|9|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|197.251.193.65|8080|Ghana|Accra|Vodafone Ghana|
+|16|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
+|19|171.237.237.218|10010|Vietnam|Cầu Diễn|Viettel Corporation|
+|20|60.53.115.29|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
