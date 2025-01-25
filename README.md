@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
 |5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|171.6.159.161|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|188.240.113.252|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|67.43.227.227|6487|Canada|Montreal|GloboTech Communications|
-|16|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|72.10.160.90|12827|Canada|Montreal|GloboTech Communications|
-|19|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|67.43.227.226|12395|Canada|Montreal|GloboTech Communications|
+|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|188.240.113.252|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|18|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
