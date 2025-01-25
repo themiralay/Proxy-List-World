@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|4|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|45.226.207.10|999|Ecuador|Guayaquil|JEA.PC COMUNICACIONES S.A.|
-|9|102.182.134.53|8082|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|10|72.10.160.91|24161|Canada|Montreal|GloboTech Communications|
-|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|12|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
-|13|72.10.164.178|27133|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|17207|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|19999|Canada|Montreal|GloboTech Communications|
-|16|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|17|72.10.160.170|10653|Canada|Montreal|GloboTech Communications|
-|18|171.237.237.218|10008|Vietnam|Cầu Diễn|Viettel Corporation|
-|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|49.48.85.84|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.108.211.231|80|United States|Bloomington|Mediacom Communications|
+|5|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|6|216.108.211.231|80|United States|Bloomington|Mediacom Communications|
+|7|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|182.253.216.39|1080|Indonesia|Jakarta|BIZNET|
+|10|171.237.237.218|10009|Vietnam|Cầu Diễn|Viettel Corporation|
+|11|116.98.71.89|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|72.10.164.178|11895|Canada|Montreal|GloboTech Communications|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|31.43.52.216|41890|Ukraine|Kalynivka|Ukrainian Telecommunication Group LLC|
+|16|67.43.228.250|32207|Canada|Montreal|GloboTech Communications|
+|17|65.20.188.53|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|67.43.227.227|14093|Canada|Montreal|GloboTech Communications|
+|20|109.238.181.53|8083|Iran|Bushehr|KOL IP|
 
 
 
