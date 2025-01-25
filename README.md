@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.93.129|3128|Japan|Chiyoda|InfoSphere|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|115.72.165.182|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|182.253.39.242|8080|Indonesia|Jakarta|BIZNET|
-|6|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|49.48.115.45|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|11|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.227.227|26089|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|12983|Canada|Montreal|GloboTech Communications|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.228.250|12363|Canada|Montreal|GloboTech Communications|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|121.227.118.160|8089|China|Nanjing|China Telecom|
-|20|72.10.160.174|27279|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|46.246.86.4|3128|Sweden|Stockholm|Portlane Network|
+|3|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|4|88.42.237.102|8080|Italy|Piovene Rocchette|Telecom Italia S.p.A.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
+|8|202.74.77.14|8080|Indonesia|Lampung|PT Giga Patra Multimedia|
+|9|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|11|67.43.227.226|18817|Canada|Montreal|GloboTech Communications|
+|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|67.43.236.22|12435|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|27279|Canada|Montreal|GloboTech Communications|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|67.43.236.19|5009|Canada|Montreal|GloboTech Communications|
+|17|103.154.77.20|89|Indonesia|Sleman|T2NET|
+|18|59.39.196.140|2324|China|Guangzhou|Chinanet|
+|19|67.43.236.20|9277|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.21|25147|Canada|Montreal|GloboTech Communications|
 
 
 
