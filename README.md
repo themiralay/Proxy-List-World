@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|103.160.202.138|8070|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.159.194.121|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|7|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|8|121.227.118.174|8089|China|Nanjing|China Telecom|
-|9|67.43.236.20|1551|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|4885|Canada|Montreal|GloboTech Communications|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|144.202.78.147|80|United States|Stuart|The Constant Company|
+|4|103.101.216.242|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|163.53.82.181|32650|India|Sādri|Kay Kay Softech Private Limited|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|91.92.213.58|8080|Iran|Tehran|TIC|
 |11|67.43.227.228|12205|Canada|Montreal|GloboTech Communications|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
-|14|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|15|72.10.164.178|15681|Canada|Montreal|GloboTech Communications|
-|16|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
-|17|67.43.228.250|4885|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|5625|Canada|Montreal|GloboTech Communications|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|67.43.236.18|14075|Canada|Montreal|GloboTech Communications|
+|14|103.154.77.227|89|Indonesia|Sleman|T2NET|
+|15|72.10.164.178|18403|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|5625|Canada|Montreal|GloboTech Communications|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|190.122.88.118|8080|Argentina|Buenos Aires|Servicios y Telecomunicaciones S.A|
+|19|210.75.240.138|15981|China|Haidian|CNIC-CAS|
+|20|36.95.142.35|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
 
 
 
