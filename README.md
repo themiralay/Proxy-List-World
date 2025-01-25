@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|46.202.130.119|3128|France|Paris|Hostinger International Limited|
-|5|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|45.224.152.232|999|Ecuador|Nueva Loja|Ufinet Panama S.A.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|67.43.227.226|22683|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|29545|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.236.18|30391|Canada|Montreal|GloboTech Communications|
-|19|116.104.235.77|10003|Vietnam|Hanoi|Viettel Corporation|
-|20|67.43.236.19|2395|Canada|Montreal|GloboTech Communications|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|67.43.236.18|30391|Canada|Montreal|GloboTech Communications|
+|9|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|72.10.160.170|29545|Canada|Montreal|GloboTech Communications|
+|11|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|12|45.236.106.86|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|67.43.227.226|31777|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|20113|Canada|Montreal|GloboTech Communications|
+|17|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|18|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|163.53.82.181|32650|India|Sādri|Kay Kay Softech Private Limited|
+|20|67.43.236.21|30391|Canada|Montreal|GloboTech Communications|
 
 
 
