@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
-|11|103.242.105.187|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|12|103.190.171.197|8080|Indonesia|Jakarta|WMS|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|27.189.135.70|8089|China|Langfang|Chinanet|
-|15|61.160.247.69|9999|China|Nanjing|China Telecom|
-|16|212.127.78.197|40866|Poland|Wroclaw|Korbank S. A.|
-|17|103.99.136.38|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|18|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
+|5|171.237.237.218|10024|Vietnam|Cầu Diễn|Viettel Corporation|
+|6|157.66.37.60|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
+|17|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|103.124.196.154|8889|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 
 
 
