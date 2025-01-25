@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|3|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|6|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|72.10.160.170|16045|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|9239|Canada|Montreal|GloboTech Communications|
-|11|121.227.109.63|8089|China|Nanjing|China Telecom|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|72.10.164.178|19889|Canada|Montreal|GloboTech Communications|
-|14|38.41.27.150|11201|Venezuela|Biscucuy|MDS TELECOM C.A.|
-|15|72.10.160.91|21363|Canada|Montreal|GloboTech Communications|
-|16|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|17|138.117.85.146|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|18|124.106.173.56|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|67.43.236.22|21635|Canada|Montreal|GloboTech Communications|
-|20|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|157.15.66.95|8282|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|4|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|5|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
+|7|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|112.109.18.164|8080|Indonesia|Gubengairlangga|DATAUTAMANET|
+|10|119.95.237.19|8080|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|15|91.92.213.58|8080|Iran|Tehran|TIC|
+|16|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|17|61.7.175.208|80|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|190.119.76.150|8080|Peru|Lima region|America Movil Peru S.A.C.|
+|19|67.43.236.19|32081|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|17971|Canada|Montreal|GloboTech Communications|
 
 
 
