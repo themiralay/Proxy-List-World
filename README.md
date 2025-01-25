@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
 |2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|103.126.87.112|3030|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|103.167.170.63|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|7|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|9|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|13|103.154.77.10|89|Indonesia|Sleman|T2NET|
-|14|67.43.227.226|2903|Canada|Montreal|GloboTech Communications|
-|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|16|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|17|67.43.228.250|14639|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27063|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|23571|Canada|Montreal|GloboTech Communications|
-|20|49.48.85.84|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|103.160.182.182|3030|Indonesia|Jember|PT Internusa Duta Makmur|
+|9|67.43.227.226|11523|Canada|Montreal|GloboTech Communications|
+|10|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|45.230.48.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|14|67.43.227.230|9493|Canada|Montreal|GloboTech Communications|
+|15|115.87.213.235|8080|Thailand|Bangkok|TRUEBB|
+|16|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|17|103.105.57.63|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
+|18|59.39.226.0|2324|China|Guangzhou|Chinanet|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
