@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.126.87.220|8080|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|4|203.201.171.170|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
-|5|200.37.187.61|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|116.111.114.87|10002|Vietnam|Hanoi|Viettel Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|171.237.237.218|10035|Vietnam|Cầu Diễn|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|186.0.144.81|9797|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|67.43.227.227|12235|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|15153|Canada|Montreal|GloboTech Communications|
-|18|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
-|20|67.43.228.250|15015|Canada|Montreal|GloboTech Communications|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|203.201.171.170|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|12|72.10.160.90|31439|Canada|Montreal|GloboTech Communications|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|72.10.160.91|22389|Canada|Montreal|GloboTech Communications|
+|18|103.167.114.208|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
+|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
