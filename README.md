@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|182.253.234.146|8080|Indonesia|Jakarta|BIZNET|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|144.202.78.147|80|United States|Stuart|The Constant Company|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
 |5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|203.150.113.66|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.137.110.146|7777|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|16|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|72.10.164.178|32869|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|49.145.184.122|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|6|49.249.83.13|8080|India|Hyderabad|TTL GSM|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|190.52.100.80|999|Venezuela|Caracas|Gold Data USA Inc|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|103.242.105.187|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|67.43.227.228|12205|Canada|Montreal|GloboTech Communications|
+|18|38.52.221.186|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|19|186.97.138.66|999|Colombia|Medellín|Colombia Móvil|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
