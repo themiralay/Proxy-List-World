@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|182.253.234.146|8080|Indonesia|Jakarta|BIZNET|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|144.126.157.79|3128|United States|St Louis|Nubes, LLC|
-|7|27.189.133.102|8089|China|Langfang|Chinanet|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|27.189.128.13|8089|China|Langfang|Chinanet|
-|11|38.45.45.61|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|12|72.10.160.173|21351|Canada|Montreal|GloboTech Communications|
-|13|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|1|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|13|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
+|14|14.143.172.246|8080|India|Kolkata|Tata Communications Limited|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|17|124.217.64.126|8080|Philippines|Magalang|Philippine Long Distance Telephone Co.|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|72.10.160.173|21351|Canada|Montreal|GloboTech Communications|
 
 
 
