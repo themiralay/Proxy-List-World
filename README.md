@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|72.10.160.90|5481|Canada|Montreal|GloboTech Communications|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|10|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.236.18|26873|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|8181|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|30733|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|19155|Canada|Montreal|GloboTech Communications|
-|15|171.237.237.218|10004|Vietnam|Cầu Diễn|Viettel Corporation|
-|16|67.43.236.19|5165|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|16593|Canada|Montreal|GloboTech Communications|
-|18|59.39.226.86|2324|China|Guangzhou|Chinanet|
-|19|67.43.227.226|27479|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|27479|Canada|Montreal|GloboTech Communications|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|171.237.237.218|10006|Vietnam|Cầu Diễn|Viettel Corporation|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|67.43.236.18|15653|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|8181|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|1697|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.19|27371|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|5481|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|5481|Canada|Montreal|GloboTech Communications|
+|16|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|17|38.51.207.154|999|Venezuela|Maracaibo|Tecnoven Services CA|
+|18|67.43.227.226|1697|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|5481|Canada|Montreal|GloboTech Communications|
+|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
