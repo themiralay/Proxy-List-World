@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|3|103.114.52.94|8080|Indonesia|Sukoharjo|Proxy-registered|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
-|7|8.215.110.63|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.165.155.243|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|10|103.126.86.29|9090|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|11|103.162.60.230|8080|Indonesia|Yogyakarta|PT Indo Prima Akses|
-|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|13|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|14|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|15|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|16|137.59.161.195|8282|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|17|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|144.202.78.147|80|United States|Stuart|The Constant Company|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|4|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
+|5|190.60.51.19|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|109.120.184.15|8080|Finland|Helsinki|Aeza International LTD|
+|10|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|11|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|5.202.31.11|8090|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
