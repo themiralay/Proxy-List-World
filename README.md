@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|4|202.74.77.14|8080|Indonesia|Lampung|PT Giga Patra Multimedia|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|3|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|4|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|5|122.54.193.69|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|13|180.75.93.74|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|15|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|18075|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|17709|Canada|Montreal|GloboTech Communications|
-|19|115.72.165.182|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|139.255.64.140|80|Indonesia|Jakarta|PT. LINKNET|
+|12|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|13|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.153.134.150|8080|Indonesia|Cikupa|WMINET|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|171.237.237.218|10021|Vietnam|Cầu Diễn|Viettel Corporation|
+|20|157.66.84.14|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
 
 
 
