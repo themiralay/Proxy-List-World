@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|2|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|49.148.63.76|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|35.189.128.233|3128|Japan|Tokyo|Google LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|18|72.10.160.94|9157|Canada|Montreal|GloboTech Communications|
-|19|27.189.134.195|8089|China|Langfang|Chinanet|
-|20|171.237.237.218|10006|Vietnam|Cầu Diễn|Viettel Corporation|
+|5|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|9|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
+|13|67.43.228.250|27171|Canada|Montreal|GloboTech Communications|
+|14|103.151.226.148|8080|Indonesia|Bandung|URBANACCESS|
+|15|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|157.66.20.74|8080|Indonesia|Delanggu|PT. GEMILANG SARANA MANDIRI|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|177.136.44.193|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|20|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
 
 
 
