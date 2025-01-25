@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|157.66.85.37|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|8|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|13|177.234.210.56|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
-|15|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|1|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
+|2|141.11.93.27|8080|United States|Crugers|QuadraNet Enterprises LLC|
+|3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|181.129.140.83|35232|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|94.72.112.140|8888|United States|St Louis|Nubes, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.86.116.83|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|11|146.59.32.105|443|Poland|Warsaw|OVH SAS|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|14|103.165.155.171|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|15|103.148.45.184|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|16|49.149.125.227|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|18|171.237.237.218|10026|Vietnam|Cầu Diễn|Viettel Corporation|
+|19|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|20|109.127.82.18|8080|Iraq|Erbil|Newroz Telecom|
 
 
 
