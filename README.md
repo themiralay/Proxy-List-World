@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|5|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|103.133.61.197|8181|Indonesia|Pekalongan|TLINK|
-|7|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|8|49.249.83.13|8080|India|Hyderabad|TTL GSM|
-|9|177.234.247.234|999|Ecuador|Guanujo|Ufinet Panama S.A.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.172.70.26|1111|Indonesia|Bandung|AZNET|
-|12|103.146.185.94|8080|Indonesia|Ponorogo|YAMNET|
-|13|91.92.213.58|8080|Iran|Tehran|TIC|
-|14|67.43.228.252|24615|Canada|Montreal|GloboTech Communications|
-|15|144.202.78.147|80|United States|Stuart|The Constant Company|
-|16|144.202.78.147|80|United States|Stuart|The Constant Company|
-|17|223.205.164.120|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|159.89.239.166|18087|United States|North Bergen|DigitalOcean, LLC|
-|20|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|107.175.61.113|3128|Ireland|Dublin|HostPapa|
+|4|121.101.134.214|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|5|198.167.212.203|8118|Sweden|Malmo|ab stract|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.133.61.197|8181|Indonesia|Pekalongan|TLINK|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|144.202.78.147|80|United States|Stuart|The Constant Company|
+|13|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|14|119.95.237.19|8080|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|72.10.160.90|7355|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|9687|Canada|Montreal|GloboTech Communications|
+|19|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|103.38.104.166|8798|Indonesia|Wonosobo|PT Tunas Media Data|
 
 
 
