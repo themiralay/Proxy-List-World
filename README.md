@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|157.15.66.95|8282|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|7|171.228.129.92|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|138.68.129.50|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
-|13|72.10.160.170|3789|Canada|Montreal|GloboTech Communications|
-|14|91.92.213.58|8080|Iran|Tehran|TIC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.228.250|15447|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|3789|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|28599|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|2395|Canada|Montreal|GloboTech Communications|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|9|112.209.51.118|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|10|72.10.160.170|22071|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|22071|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|31837|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|19089|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|31837|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.19|2395|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|22071|Canada|Montreal|GloboTech Communications|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|72.10.160.91|21363|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|21589|Canada|Montreal|GloboTech Communications|
 
 
 
