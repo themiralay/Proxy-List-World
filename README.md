@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|14.39.239.79|55770|South Korea|Eunpyeong-gu|Korea Telecom|
-|4|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|5|5.35.81.51|8080|Kazakhstan|Astana|BEGET|
-|6|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|7|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|8|67.43.227.227|8945|Canada|Montreal|GloboTech Communications|
-|9|103.154.77.20|89|Indonesia|Sleman|T2NET|
-|10|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|11|67.43.228.250|26795|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|14|186.148.182.55|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|163.53.82.235|32650|India|Sādri|Kay Kay Softech Private Limited|
-|16|27.189.128.62|8089|China|Langfang|Chinanet|
-|17|102.209.191.10|8080|South Africa|Sandton|Mavoni Telecoms (Pty) Ltd|
-|18|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|19|67.43.227.226|8627|Canada|Montreal|GloboTech Communications|
-|20|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|2|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|117.239.177.119|80|India|Kochi|BSNL Internet|
+|7|103.162.17.224|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|192.99.199.49|3128|France|Roubaix|OVH Hosting|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|13|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|67.43.227.230|6317|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|12331|Canada|Montreal|GloboTech Communications|
+|16|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|19|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|20|67.43.228.252|16625|Canada|Montreal|GloboTech Communications|
 
 
 
