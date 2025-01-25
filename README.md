@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|2|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|103.160.202.138|8070|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|163.53.82.181|32650|India|Sādri|Kay Kay Softech Private Limited|
-|7|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|8|67.43.227.227|1835|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.230|9657|Canada|Montreal|GloboTech Communications|
-|10|210.75.240.138|15981|China|Haidian|CNIC-CAS|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|79.175.138.142|3128|Iran|Tehran|AFranet Co|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|103.133.61.197|8181|Indonesia|Pekalongan|TLINK|
-|15|67.43.228.251|24975|Canada|Montreal|GloboTech Communications|
-|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|19|67.43.228.250|4885|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|103.159.194.121|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|7|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|8|121.227.118.174|8089|China|Nanjing|China Telecom|
+|9|67.43.236.20|1551|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|4885|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.228|12205|Canada|Montreal|GloboTech Communications|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|14|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|15|72.10.164.178|15681|Canada|Montreal|GloboTech Communications|
+|16|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
+|17|67.43.228.250|4885|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|5625|Canada|Montreal|GloboTech Communications|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
 
 
 
