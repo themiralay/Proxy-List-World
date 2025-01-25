@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
+|1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
+|3|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |5|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
-|10|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
-|11|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|12|103.148.28.218|3125|Indonesia|Palu|DEWATA|
+|6|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
+|7|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|12|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
 |13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|103.144.147.18|8080|Indonesia|Tulungagung|Lexxa Data|
-|16|67.43.236.20|11401|Canada|Montreal|GloboTech Communications|
-|17|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|18|67.43.227.230|25869|Canada|Montreal|GloboTech Communications|
-|19|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|20|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
+|18|67.43.236.20|11401|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.230|25869|Canada|Montreal|GloboTech Communications|
+|20|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
 
 
 
