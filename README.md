@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|45.64.96.205|7777|Indonesia|Jakarta|ARGON|
-|8|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|9|72.10.160.174|18775|Canada|Montreal|GloboTech Communications|
-|10|171.237.237.218|10004|Vietnam|Cầu Diễn|Viettel Corporation|
-|11|72.10.164.178|21165|Canada|Montreal|GloboTech Communications|
-|12|177.54.229.164|9292|Brazil|Parauapebas|Aranet Play|
-|13|72.10.164.178|21165|Canada|Montreal|GloboTech Communications|
-|14|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|15|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|16|188.132.222.36|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|2.185.142.57|6565|Iran|Tehran|hamedan|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|144.126.157.79|3128|United States|St Louis|Nubes, LLC|
+|6|144.126.157.79|3128|United States|St Louis|Nubes, LLC|
+|7|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|8|45.171.157.43|999|Mexico|Comalcalco|Quantatel SA De CV|
+|9|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|72.10.164.178|15681|Canada|Montreal|GloboTech Communications|
+|12|164.163.134.226|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|163.53.82.181|32650|India|Sādri|Kay Kay Softech Private Limited|
+|14|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|18775|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15681|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|20249|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15681|Canada|Montreal|GloboTech Communications|
+|19|2.185.142.57|6565|Iran|Tehran|hamedan|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
