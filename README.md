@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.254.99.62|8080|Indonesia|Jakarta|SpaceX Starlink|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|4|103.247.23.213|1111|Indonesia|Baturaden|PT wifian Solution|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.39.51.113|8099|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|7|8.215.0.148|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.164.178|11049|Canada|Montreal|GloboTech Communications|
-|11|27.189.129.177|8089|China|Langfang|Chinanet|
-|12|27.189.129.93|8089|China|Langfang|Chinanet|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|67.43.227.227|13533|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|13533|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|2853|Canada|Montreal|GloboTech Communications|
-|18|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|20|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|103.75.96.142|1111|Indonesia|Jakarta|MORATELINDO|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|171.248.205.98|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|38.194.251.246|999|Mexico|Jerécuaro|Ientc S De RL De CV|
+|13|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|115.72.12.204|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
 
 
 
