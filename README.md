@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|9|72.10.160.170|18983|Canada|Montreal|GloboTech Communications|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|154.0.157.198|8080|Tanzania|Arusha|Habari Node PLC Dar TIX|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|7|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|8|62.183.96.197|8080|Russia|Maykop|Southen Telecommunication Maintainer|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|11|171.237.237.218|10002|Vietnam|Cầu Diễn|Viettel Corporation|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|14|223.206.51.136|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|15|67.43.236.20|5983|Canada|Montreal|GloboTech Communications|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.170|18983|Canada|Montreal|GloboTech Communications|
-|18|47.46.112.210|8080|United States|Los Angeles|Charter Communications|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|72.10.160.90|3675|Canada|Montreal|GloboTech Communications|
+|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|72.10.160.90|3675|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|29995|Canada|Montreal|GloboTech Communications|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
+|19|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|123.31.29.158|44505|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
