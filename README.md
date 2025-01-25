@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|2|149.86.159.4|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|3|101.255.148.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.154.77.64|89|Indonesia|Sleman|T2NET|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|103.39.70.248|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|8|123.24.63.106|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|8|112.109.18.164|8080|Indonesia|Gubengairlangga|DATAUTAMANET|
 |9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|10|117.5.51.217|10087|Vietnam|Hanoi|VIETTEL|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|103.227.186.68|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|12|84.255.40.228|8998|Malta|Birkirkara|Melita plc|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.227.226|14623|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|10973|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|5031|Canada|Montreal|GloboTech Communications|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|19|72.10.164.178|23589|Canada|Montreal|GloboTech Communications|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|16|102.213.219.234|8080|Kenya|Garissa|Celcom Networks Ltd|
+|17|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|67.43.236.19|8957|Canada|Montreal|GloboTech Communications|
+|19|186.48.8.176|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|20|210.75.240.138|15981|China|Haidian|CNIC-CAS|
 
 
 
