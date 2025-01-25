@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.64.96.205|7777|Indonesia|Jakarta|ARGON|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|8|139.162.163.203|8123|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|9|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|103.247.14.115|9285|Indonesia|Klaten|TERABIT|
-|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|14|67.43.236.19|16743|Canada|Montreal|GloboTech Communications|
-|15|171.237.237.218|10014|Vietnam|Cầu Diễn|Viettel Corporation|
-|16|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|17|67.43.228.251|6665|Canada|Montreal|GloboTech Communications|
-|18|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|116.98.71.89|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|116.118.48.147|3128|Vietnam|Hanoi|SPT|
+|13|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|14|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|16|27.147.235.238|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|157.66.2.153|1111|Indonesia|Jagabaya Dua|PT Ashyla Karya Abadi|
+|18|171.237.237.218|10018|Vietnam|Cầu Diễn|Viettel Corporation|
+|19|164.163.134.226|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
