@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4219** proxies at the latest update. Usable proxies are below.
+> Scraper found **4008** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|307|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2218|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 |3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|4|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|10|117.121.202.22|10200|Indonesia|Banyumas|PT Sekawan Global Komunika|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|204.199.139.200|999|Chile|Santiago|Ingbell Chile SPA|
-|15|67.43.227.226|4851|Canada|Montreal|GloboTech Communications|
-|16|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|17|61.160.247.69|9999|China|Nanjing|China Telecom|
-|18|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
-|19|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
-|20|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|8|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|9|138.118.104.33|8080|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|10|181.78.109.49|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|11|72.10.164.178|7387|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|32499|Canada|Montreal|GloboTech Communications|
+|13|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|14|67.43.227.230|29009|Canada|Montreal|GloboTech Communications|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|59.39.196.246|2324|China|Guangzhou|Chinanet|
+|18|72.10.160.170|32499|Canada|Montreal|GloboTech Communications|
+|19|124.217.103.57|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
