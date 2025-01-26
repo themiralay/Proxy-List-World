@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|38.9.141.27|80|Indonesia|Medan|PT. Media Antar Nusa|
 |4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |5|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|202.93.244.38|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
-|12|67.43.227.228|12231|Canada|Montreal|GloboTech Communications|
-|13|27.189.133.51|8089|China|Langfang|Chinanet|
-|14|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|72.10.160.173|6421|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|13287|Canada|Montreal|GloboTech Communications|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
-|20|72.10.160.90|12377|Canada|Montreal|GloboTech Communications|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|121.101.134.202|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|13|38.159.229.121|999|Ecuador|Vinces|Turbonet S.A.|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|103.87.148.17|8085|Indonesia|Demak|Lintas Data Prima, PT|
+|16|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|17|89.252.140.208|3128|Turkey|Pamukkale|Netinternet Bilisim Teknolojileri|
+|18|171.237.237.218|10009|Vietnam|Cầu Diễn|Viettel Corporation|
+|19|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
+|20|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
 
 
 
