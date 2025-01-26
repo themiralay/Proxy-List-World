@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.94.10.180|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
-|2|171.7.55.131|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|203.150.128.23|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|103.182.79.141|8080|Indonesia|Surabaya|PT Cybernet Data Multimedia|
-|6|124.121.2.175|8080|Thailand|Bangkok|TRUEBB|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|194.87.226.160|1080|The Netherlands|Amsterdam|TimeWeb Ltd|
-|12|144.202.78.147|80|United States|Stuart|The Constant Company|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|15|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|16|170.81.242.93|3128|Peru|Chiclayo|Inventa Telecomunicaciones Eirl|
-|17|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|18|72.10.160.171|12581|Canada|Montreal|GloboTech Communications|
-|19|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|20|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|171.7.55.131|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|124.121.2.175|8080|Thailand|Bangkok|TRUEBB|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.182.79.141|8080|Indonesia|Surabaya|PT Cybernet Data Multimedia|
+|7|103.177.199.57|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
+|14|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|119.18.154.201|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|18|1.2.176.20|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
