@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|134.236.100.19|8080|Thailand|Pattaya|CAT-BB|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
 |6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|10|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.183.99.210|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|15|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|16|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|17|67.43.227.226|19367|Canada|Montreal|GloboTech Communications|
-|18|157.15.62.100|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|95.217.120.110|8002|Finland|Helsinki|Hetzner Online GmbH|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|12|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|13|67.43.227.226|8185|Canada|Montreal|GloboTech Communications|
+|14|103.154.230.188|8080|Indonesia|Lamongan|DIGITNET|
+|15|67.43.227.226|8185|Canada|Montreal|GloboTech Communications|
+|16|91.92.213.58|8080|Iran|Tehran|TIC|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|192.99.199.49|3128|France|Roubaix|OVH Hosting|
 
 
 
