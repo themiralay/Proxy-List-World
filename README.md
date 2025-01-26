@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4397** proxies at the latest update. Usable proxies are below.
+> Scraper found **4331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|34|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|507|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|249|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2615|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|2|213.230.122.20|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|3|204.157.251.225|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|82.64.186.155|8080|France|Paris|ProXad network / Free SA|
-|8|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|67.43.228.250|5345|Canada|Montreal|GloboTech Communications|
-|13|103.242.105.127|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|14|72.10.164.178|27017|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|26105|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|11343|Canada|Montreal|GloboTech Communications|
-|17|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|18|93.183.88.246|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|67.43.228.251|32381|Canada|Montreal|GloboTech Communications|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|121.227.178.96|8089|China|Nanjing|China Telecom|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|91.92.213.58|8080|Iran|Tehran|TIC|
+|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|14|67.43.227.229|5249|Canada|Montreal|GloboTech Communications|
+|15|121.227.146.73|8089|China|Nanjing|China Telecom|
+|16|67.43.236.19|27371|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|7749|Canada|Montreal|GloboTech Communications|
+|18|91.92.213.58|8080|Iran|Tehran|TIC|
+|19|45.226.207.10|999|Ecuador|Guayaquil|JEA.PC COMUNICACIONES S.A.|
+|20|67.43.228.252|3001|Canada|Montreal|GloboTech Communications|
 
 
 
