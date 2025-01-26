@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.11.183.20|8181|Indonesia|Bandung|Biznet Networks|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|5|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|6|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
-|12|116.107.127.164|10086|Vietnam|Hanoi|Viettel Corporation|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|103.156.141.172|8081|Indonesia|Langsepan|PT Tekling Media Telematika|
-|16|72.10.160.172|1157|Canada|Montreal|GloboTech Communications|
-|17|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|67.43.236.19|1649|Canada|Montreal|GloboTech Communications|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|217.52.247.87|1976|Egypt|Cairo|Etisalat Misr|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|91.92.213.58|8080|Iran|Tehran|TIC|
+|15|124.217.33.252|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|59.39.196.223|2324|China|Guangzhou|Chinanet|
+|18|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
