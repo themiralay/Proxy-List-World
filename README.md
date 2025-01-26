@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.53.60.233|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.115.31.45|8181|Indonesia|Curug|HSPNET|
-|7|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|8|43.208.195.62|3128|Thailand|Bangkok|Amazon.com, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|13|72.10.160.171|9541|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|24275|Canada|Montreal|GloboTech Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|67.43.227.230|9071|Canada|Montreal|GloboTech Communications|
-|17|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|18|43.224.116.125|8080|Bangladesh|Kāfrul|Next Online Limited|
-|19|72.10.160.173|26841|Canada|Montreal|GloboTech Communications|
-|20|118.175.206.51|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|134.236.100.19|8080|Thailand|Pattaya|CAT-BB|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|45.174.95.137|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|5|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|6|67.43.227.226|17791|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|17963|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.173|14439|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.171|9541|Canada|Montreal|GloboTech Communications|
+|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|11|67.43.228.252|2059|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|5593|Canada|Montreal|GloboTech Communications|
+|13|101.255.117.193|8095|Indonesia|Jakarta|PT Remala Abadi|
+|14|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|15|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|84.0.141.32|8080|Hungary|Berettyóújfalu|Magyar Telekom|
+|17|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|31.56.78.186|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
 
 
 
