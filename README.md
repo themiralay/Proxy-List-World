@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.183.99.210|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|171.237.237.218|10009|Vietnam|Cầu Diễn|Viettel Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|157.66.85.76|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|13|67.43.227.227|7077|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|27.189.130.217|8089|China|Langfang|Chinanet|
-|17|67.43.228.250|32899|Canada|Montreal|GloboTech Communications|
+|1|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|103.81.254.249|8080|Indonesia|Rengasdengklok|PT. Nusa Jaya Prasetyo|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|67.43.228.250|32899|Canada|Montreal|GloboTech Communications|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|67.43.228.252|9183|Canada|Montreal|GloboTech Communications|
+|16|91.92.213.58|8080|Iran|Tehran|TIC|
+|17|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
 |18|72.10.164.178|15035|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7077|Canada|Montreal|GloboTech Communications|
-|20|91.92.213.58|8080|Iran|Tehran|TIC|
+|19|31.184.249.184|2019|Russia|St Petersburg|JSC Selectel|
+|20|190.60.36.210|999|Colombia|Mompós|IFX NETWORKS COLOMBIA|
 
 
 
