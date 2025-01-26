@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4070** proxies at the latest update. Usable proxies are below.
+> Scraper found **4040** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|587|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|345|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2181|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|103.228.243.189|8080|Indonesia|Jakarta|SpaceX Starlink|
-|7|177.54.229.164|9292|Brazil|Parauapebas|Aranet Play|
-|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|9|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|72.10.160.90|21085|Canada|Montreal|GloboTech Communications|
-|13|27.189.134.254|8089|China|Langfang|Chinanet|
-|14|72.10.164.178|21041|Canada|Montreal|GloboTech Communications|
-|15|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|16|67.43.236.18|18679|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|23547|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|12739|Canada|Montreal|GloboTech Communications|
-|19|27.189.132.179|8089|China|Langfang|Chinanet|
-|20|67.43.228.250|18593|Canada|Montreal|GloboTech Communications|
+|1|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|49.13.66.126|5613|Germany|Falkenstein|Hetzner Online GmbH|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|72.10.160.91|26123|Canada|Montreal|GloboTech Communications|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|41.65.71.138|1976|Egypt|New Cairo|Etisalat Misr|
+|17|72.10.164.178|22131|Canada|Montreal|GloboTech Communications|
+|18|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|72.10.160.92|31969|Canada|Montreal|GloboTech Communications|
 
 
 
