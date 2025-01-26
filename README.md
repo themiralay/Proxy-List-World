@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.231.78.203|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.159.96.195|2117|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|3|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|111.89.211.95|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
 |9|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|10|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|11|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|12|103.159.96.195|2117|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|13|154.73.29.161|8080|Libya|Tripoli|Rawafed|
-|14|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|15|170.80.50.96|8080|Brazil|Jaboatão dos Guararapes|Ponte Digital|
-|16|194.87.226.160|1080|The Netherlands|Amsterdam|TimeWeb Ltd|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|115.74.0.227|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
