@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3942** proxies at the latest update. Usable proxies are below.
+> Scraper found **3957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|249|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2218|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.125.174.48|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
 |5|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|7|72.10.164.178|19753|Canada|Montreal|GloboTech Communications|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|11|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|15|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|16|67.43.227.226|9531|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|10357|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|17427|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|6937|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|17531|Canada|Montreal|GloboTech Communications|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|9|67.43.236.18|5629|Canada|Montreal|GloboTech Communications|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|67.43.227.226|9531|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.21|31257|Canada|Montreal|GloboTech Communications|
+|14|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|15|72.10.160.90|25403|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|29587|Canada|Montreal|GloboTech Communications|
+|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|67.43.227.227|6937|Canada|Montreal|GloboTech Communications|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
