@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|188.125.169.100|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|38.172.130.119|999|Peru|Lima|Conex TV E.I.R.L.|
-|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|8|117.239.177.119|80|India|Kochi|BSNL Internet|
-|9|103.254.106.82|8181|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|10|103.179.252.75|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
-|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|12|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|14|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|15|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|16|171.7.55.131|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|72.10.164.178|23915|Canada|Montreal|GloboTech Communications|
-|18|121.227.146.67|8089|China|Nanjing|China Telecom|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|67.43.227.228|22289|Canada|Montreal|GloboTech Communications|
+|2|103.175.46.13|8080|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|3|103.168.254.219|1111|Indonesia|Jepara|PT Fahasa Tri Data|
+|4|49.151.76.207|8080|Philippines|Alaminos|Philippine Long Distance Telephone Co.|
+|5|103.165.155.147|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|6|144.202.78.147|80|United States|Stuart|The Constant Company|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|103.160.205.230|8080|Indonesia|Mataram|PRIME|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|14|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
+|15|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|16|36.88.170.170|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|103.171.244.132|8008|Indonesia|Madiun|PT Data Arta Sedaya|
+|18|190.13.85.82|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
 
 
 
