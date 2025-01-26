@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|114.218.167.14|8089|China|Nanjing|China Telecom|
-|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|13|176.37.139.137|41890|Ukraine|Kyiv|Lanet Network|
-|14|67.43.228.251|20023|Canada|Montreal|GloboTech Communications|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|72.10.160.172|20529|Canada|Montreal|GloboTech Communications|
-|17|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|18|72.10.160.90|32859|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|189.50.9.30|8080|Brazil|Vila Velha|VIPRede Telecomunicações Ltda|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|4|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|103.75.85.102|8080|Indonesia|Central Java|MEGADATA|
+|11|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|12|103.85.53.54|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.35.110.74|5020|Bangladesh|Tungipāra|Ranks ITT|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|17|72.10.160.90|32859|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|20023|Canada|Montreal|GloboTech Communications|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
