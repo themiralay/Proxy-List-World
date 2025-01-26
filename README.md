@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|38.9.141.27|80|Indonesia|Medan|PT. Media Antar Nusa|
-|3|103.153.191.9|8085|Indonesia|Malang|WANET|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|8|72.10.164.178|31311|Canada|Montreal|GloboTech Communications|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|114.218.167.14|8089|China|Nanjing|China Telecom|
-|11|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|12|121.227.109.47|8089|China|Nanjing|China Telecom|
-|13|171.237.237.218|10012|Vietnam|Cầu Diễn|Viettel Corporation|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|31.184.249.184|2019|Russia|St Petersburg|JSC Selectel|
-|16|180.112.180.93|8089|China|Nanjing|Chinanet|
-|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|116.111.114.87|10001|Vietnam|Hanoi|Viettel Corporation|
-|19|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|20|67.43.227.226|16383|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|38.9.141.27|80|Indonesia|Medan|PT. Media Antar Nusa|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|192.99.199.49|3128|France|Roubaix|OVH Hosting|
+|8|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|59.39.197.24|2324|China|Guangzhou|Chinanet|
+|11|72.10.164.178|31311|Canada|Montreal|GloboTech Communications|
+|12|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|116.111.114.87|10001|Vietnam|Hanoi|Viettel Corporation|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|103.46.4.93|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|17|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|38.43.150.76|999|Peru|Lima|Nextnet SAC|
 
 
 
