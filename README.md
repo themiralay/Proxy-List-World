@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|203.150.128.25|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|7|185.82.238.42|8888|Czechia|Bystřice pod Hostýnem|Nordic Telecom Regional s.r.o.|
-|8|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|9|115.72.4.202|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|95.0.32.30|8080|Türkiye|Ankara|TurkTelecom|
-|12|178.128.86.199|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|4|178.128.86.199|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
+|7|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|15|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|163.53.82.245|32650|India|Sādri|Kay Kay Softech Private Limited|
-|17|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|18|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|38.45.44.109|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|15|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|16|164.163.134.227|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|20|72.10.164.178|28947|Canada|Montreal|GloboTech Communications|
 
 
 
