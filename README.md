@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|4|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|213.230.120.53|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|14|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|15|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|16|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|27.189.134.156|8089|China|Langfang|Chinanet|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|5.187.79.192|44331|Russia|Voronezh|Svyaz-Telecom Ltd|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.78.1.117|39114|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
+|6|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|15|111.125.242.34|80|India|Mumbai|NIXI|
+|16|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|17|103.146.196.11|8080|Indonesia|Banyuwangi|RIYADNETWORK|
+|18|67.43.228.250|1541|Canada|Montreal|GloboTech Communications|
+|19|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|20|103.125.50.234|8080|Indonesia|Pemalang|PT. Eka Mas Republik|
 
 
 
