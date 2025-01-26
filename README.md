@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|116.111.114.87|10001|Vietnam|Hanoi|Viettel Corporation|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.155.198.93|8181|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |7|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|27.189.133.135|8089|China|Langfang|Chinanet|
-|13|67.43.227.226|29087|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|3667|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|5715|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|29087|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|4247|Canada|Montreal|GloboTech Communications|
-|18|27.189.131.134|8089|China|Langfang|Chinanet|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|59.39.196.191|2324|China|Guangzhou|Chinanet|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|157.10.97.189|3125|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|13|94.156.59.130|45321|Bulgaria|Sevlievo|Kivi TV|
+|14|103.167.31.156|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|15|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|19|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
+|20|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
 
 
 
