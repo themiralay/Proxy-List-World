@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|2|115.72.174.144|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.179.216.46|8080|Indonesia|Surabaya|PT Lintas Data Multimedia|
-|7|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|12|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|14|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|15|103.183.99.210|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|72.10.164.178|15035|Canada|Montreal|GloboTech Communications|
-|18|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|19|27.189.135.172|8089|China|Langfang|Chinanet|
-|20|72.10.160.170|7129|Canada|Montreal|GloboTech Communications|
+|5|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|8|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|9|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|91.92.213.58|8080|Iran|Tehran|TIC|
+|19|72.10.160.170|32353|Canada|Montreal|GloboTech Communications|
+|20|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 
 
 
