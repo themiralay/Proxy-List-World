@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|3|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |5|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|6|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|7|103.124.139.197|2024|Indonesia|Bandung|Global Media Data Prima|
-|8|171.237.237.218|10018|Vietnam|Cầu Diễn|Viettel Corporation|
-|9|103.166.159.163|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|95.0.142.36|1981|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|12|72.10.160.170|14165|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|159.192.102.249|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|15|67.43.228.250|27193|Canada|Montreal|GloboTech Communications|
-|16|171.237.237.218|10018|Vietnam|Cầu Diễn|Viettel Corporation|
-|17|67.43.228.250|27193|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|12813|Canada|Montreal|GloboTech Communications|
-|19|171.237.237.218|10018|Vietnam|Cầu Diễn|Viettel Corporation|
-|20|27.189.128.151|8089|China|Langfang|Chinanet|
+|6|68.168.31.157|3128|United Kingdom|London|GTHost|
+|7|157.66.16.55|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|12|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|13|171.237.237.218|10027|Vietnam|Cầu Diễn|Viettel Corporation|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.125.174.65|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|17|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|67.43.228.250|3559|Canada|Montreal|GloboTech Communications|
+|20|171.237.237.218|10027|Vietnam|Cầu Diễn|Viettel Corporation|
 
 
 
