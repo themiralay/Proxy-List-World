@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.192.48.53|8080|Indonesia|Batu|PT.Global Media Data Prima|
-|2|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|3|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
-|4|103.172.196.138|8080|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|5|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|6|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|7|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|8|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|177.93.44.30|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|5|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
+|6|181.209.82.204|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|161.82.130.170|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|8|186.207.191.213|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|121.227.109.35|8089|China|Nanjing|China Telecom|
+|12|149.28.181.248|80|Australia|Sydney|The Constant Company|
+|13|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |15|72.10.160.94|27173|Canada|Montreal|GloboTech Communications|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
-|20|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
+|18|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
