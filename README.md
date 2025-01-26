@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|103.166.158.33|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|50.235.247.114|8085|United States|Richmond|Comcast Cable Communications, LLC|
-|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|7|187.188.169.169|8080|Mexico|Acatzingo|Total Play Telecomunicaciones SA De CV|
-|8|103.80.237.65|8181|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
-|9|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|10|50.235.247.114|8085|United States|Richmond|Comcast Cable Communications, LLC|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|103.91.62.193|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
-|20|67.43.227.226|21427|Canada|Montreal|GloboTech Communications|
+|2|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|3|103.80.237.65|8181|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
+|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
+|6|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|171.237.237.218|10018|Vietnam|Cầu Diễn|Viettel Corporation|
+|12|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|72.10.160.170|22897|Canada|Montreal|GloboTech Communications|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|17|38.66.207.17|999|Venezuela|Valencia|Wifi-prado C.A|
+|18|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|19|103.125.174.83|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|20|67.43.228.251|29881|Canada|Montreal|GloboTech Communications|
 
 
 
