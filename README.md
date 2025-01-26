@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|103.159.96.141|8080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|3|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
 |4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
-|12|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
-|13|155.93.96.210|8080|Nigeria|Eti-Osa|Vodacom Business Nigeria|
-|14|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|15|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|177.234.212.191|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|116.111.114.87|10001|Vietnam|Hanoi|Viettel Corporation|
-|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|7|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|8|186.96.160.202|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|9|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|10|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|11|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|12|116.111.114.87|10001|Vietnam|Hanoi|Viettel Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|203.190.117.237|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|157.15.83.56|8181|Indonesia|Yogyakarta|PT Delapan Broadband Intermedia|
+|18|67.43.236.22|10991|Canada|Montreal|GloboTech Communications|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
 
 
 
