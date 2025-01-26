@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|6|71.6.200.201|3128|United States|San Diego|CariNet, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|7|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|10|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|14|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|15|181.78.13.203|999|Colombia|Morroa|IFX Networks Argentina S.R.L|
-|16|171.237.237.218|10011|Vietnam|Cầu Diễn|Viettel Corporation|
-|17|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
-|18|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|67.43.227.227|28557|Canada|Montreal|GloboTech Communications|
-|20|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
+|13|67.43.227.227|28557|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11073|Canada|Montreal|GloboTech Communications|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|18|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
 
 
 
