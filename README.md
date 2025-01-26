@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|1|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 |2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|12|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|13|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|18|67.43.228.250|13859|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|12055|Canada|Montreal|GloboTech Communications|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|185.89.156.2|44224|Albania|Elbasan|ATU|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|180.149.232.165|8080|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
+|6|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|181.115.185.50|8080|Bolivia|Cochabamba|Entel S.A. - EntelNet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|72.10.160.94|29855|Canada|Montreal|GloboTech Communications|
 
 
 
