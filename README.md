@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.9.141.27|80|Indonesia|Medan|PT. Media Antar Nusa|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
+|2|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|119.11.205.96|8080|Indonesia|Jakarta|PT. NTT Indonesia|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|149.86.146.222|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|18|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|19|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
 |20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
