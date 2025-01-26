@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.205.32.53|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|2|124.158.146.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.227.187.1|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|9|49.49.211.116|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|11|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|12|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|202.74.77.14|8080|Indonesia|Lampung|PT Giga Patra Multimedia|
-|16|67.43.227.226|16671|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|1833|Canada|Montreal|GloboTech Communications|
-|18|142.171.130.122|3128|United States|Los Angeles|Multacom Corporation|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|223.205.32.53|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|103.227.187.11|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.70.202.70|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|14|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|157.173.112.73|80|Germany|Düsseldorf|Contabo GmbH|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
