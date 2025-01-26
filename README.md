@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |2|41.65.71.138|1976|Egypt|New Cairo|Etisalat Misr|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|8|61.160.247.69|9999|China|Nanjing|China Telecom|
-|9|67.43.227.227|13533|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|4561|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|10035|Canada|Montreal|GloboTech Communications|
-|12|118.113.245.112|2324|China|Shanghai|Chinanet|
-|13|67.43.228.252|3869|Canada|Montreal|GloboTech Communications|
-|14|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.160.92|16201|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17125|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|10035|Canada|Montreal|GloboTech Communications|
-|19|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|20|67.43.236.18|10759|Canada|Montreal|GloboTech Communications|
+|3|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|72.10.160.90|21085|Canada|Montreal|GloboTech Communications|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|72.10.160.94|7537|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|72.10.164.178|17125|Canada|Montreal|GloboTech Communications|
+|11|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|12|67.43.236.19|10759|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|8883|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|3357|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|21867|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|23625|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|13233|Canada|Montreal|GloboTech Communications|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|59.39.197.34|2324|China|Guangzhou|Chinanet|
+|20|103.88.237.91|84|India|Hyderabad|Mana Communications|
 
 
 
