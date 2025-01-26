@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|5|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|10|67.43.228.250|10663|Canada|Montreal|GloboTech Communications|
-|11|115.72.174.144|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|121.227.109.16|8089|China|Nanjing|China Telecom|
-|13|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
-|14|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|72.10.160.171|18281|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|16895|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|25823|Canada|Montreal|GloboTech Communications|
-|19|121.227.109.55|8089|China|Nanjing|China Telecom|
-|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|103.153.246.129|3125|Indonesia|Purwakarta|PRIMAHOME|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|72.10.160.91|21219|Canada|Montreal|GloboTech Communications|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|15|67.43.228.251|25823|Canada|Montreal|GloboTech Communications|
+|16|160.25.244.3|8090|Indonesia|Ngawi|PT Jaringan Kita Bersama|
+|17|171.237.237.218|10004|Vietnam|Cầu Diễn|Viettel Corporation|
+|18|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
 
 
 
