@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4375** proxies at the latest update. Usable proxies are below.
+> Scraper found **4393** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|499|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|552|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2514|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|103.155.198.93|8181|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|157.10.97.189|3125|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|13|94.156.59.130|45321|Bulgaria|Sevlievo|Kivi TV|
-|14|103.167.31.156|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|217.52.247.87|1976|Egypt|Cairo|Etisalat Misr|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|67.43.228.253|15987|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.230|10593|Canada|Montreal|GloboTech Communications|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|72.10.160.173|10837|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|24415|Canada|Montreal|GloboTech Communications|
+|12|103.173.138.190|8080|Indonesia|Baturaja|PT Serayu Multi Connection|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|171.237.237.218|10017|Vietnam|Cầu Diễn|Viettel Corporation|
+|15|72.10.160.90|18601|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|19|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
-|20|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|18|72.10.160.93|17841|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|20|88.80.103.9|6888|Bulgaria|Sandanski|UltraNET Ltd. C08|
 
 
 
