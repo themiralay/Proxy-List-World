@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|170.239.241.30|31288|Brazil|Taquara|Blus Telecom Ltda - EPP|
-|8|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|177.93.44.30|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|171.237.237.218|10022|Vietnam|Cầu Diễn|Viettel Corporation|
-|12|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|13|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
-|14|67.43.236.22|31923|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|18653|Canada|Montreal|GloboTech Communications|
-|16|103.147.247.100|8080|Indonesia|Tangerang|PLBNET|
-|17|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|171.237.237.218|10022|Vietnam|Cầu Diễn|Viettel Corporation|
-|19|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|20|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|11|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|200.41.170.214|11201|Argentina|Buenos Aires|Telefonica de Argentina|
+|14|103.38.104.166|8798|Indonesia|Wonosobo|PT Tunas Media Data|
+|15|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|16|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
+|17|171.237.237.218|10005|Vietnam|Cầu Diễn|Viettel Corporation|
+|18|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
 
 
 
