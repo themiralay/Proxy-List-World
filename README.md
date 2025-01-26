@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|10|103.178.194.199|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|12|171.237.237.218|10021|Vietnam|Cầu Diễn|Viettel Corporation|
-|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|14|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|121.227.118.190|8089|China|Nanjing|China Telecom|
-|18|67.43.227.226|26233|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|18199|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|31301|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|124.107.144.249|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|6|113.192.3.42|8050|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|7|171.237.237.218|10017|Vietnam|Cầu Diễn|Viettel Corporation|
+|8|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|9|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
+|15|72.10.160.170|31301|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|27021|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|25679|Canada|Montreal|GloboTech Communications|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|67.43.227.227|27021|Canada|Montreal|GloboTech Communications|
 
 
 
