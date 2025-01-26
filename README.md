@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|188.132.150.73|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|8|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|43.231.78.203|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
-|11|185.142.131.113|8080|Portugal|Montijo|LigaT Telecom Sociedade Unipessoal LDA|
-|12|160.242.19.122|8080|Angola|Luanda|Paratus Telecommunications Limited|
-|13|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|14|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|17|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|20|67.43.236.18|24611|Canada|Montreal|GloboTech Communications|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|8|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|181.204.81.181|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|14|187.1.16.36|92|Brazil|Barueri|America-NET Ltda.|
+|15|116.98.71.89|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|128.201.103.27|8080|Brazil|Teófilo Otoni|Conexao VIP Telecom|
+|17|72.10.160.174|32475|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
 
 
 
