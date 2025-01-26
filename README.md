@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|2|146.196.109.237|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|6|203.150.113.147|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|9|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|10|103.182.184.123|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|12|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|4|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
+|7|193.181.35.162|8118|Sweden|Stockholm|PVDataNet AB|
+|8|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|9|38.123.220.110|999|Mexico|San Miguel Yuxtepec|Cogent Communications|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|67.43.236.18|12813|Canada|Montreal|GloboTech Communications|
-|16|121.227.109.62|8089|China|Nanjing|China Telecom|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
-|19|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|20|103.226.232.164|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|14|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|159.89.239.166|18088|United States|North Bergen|DigitalOcean, LLC|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
