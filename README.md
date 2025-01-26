@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|103.151.227.219|8080|Indonesia|Bandung|URBANACCESS|
-|6|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|10|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|13|36.95.173.90|8899|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|171.237.237.218|10006|Vietnam|Cầu Diễn|Viettel Corporation|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|20|72.10.160.170|25593|Canada|Montreal|GloboTech Communications|
+|1|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|72.10.164.178|27787|Canada|Montreal|GloboTech Communications|
+|13|103.179.252.75|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
+|14|92.207.253.226|38157|United Kingdom|London|Gamma Telecom Holdings Ltd|
+|15|200.101.178.222|8080|Brazil|Pinhais|V tal|
+|16|72.10.160.90|15949|Canada|Montreal|GloboTech Communications|
+|17|213.230.120.53|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|203.202.248.36|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|20|115.187.31.93|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
