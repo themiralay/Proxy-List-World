@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|1|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.88.17.170|8118|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|117.3.200.164|8080|Vietnam|Kon Tum|VIETTEL|
-|7|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.46.4.93|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
-|10|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
-|11|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|13|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|14|77.221.154.136|444|The Netherlands|Amsterdam|Aeza International LTD|
-|15|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|18|43.208.194.170|7049|Thailand|Bangkok|Amazon.com, Inc.|
-|19|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|6|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|7|213.230.120.53|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|103.126.87.144|8081|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|9|77.228.182.122|8080|Spain|Madrid|Vodafone Espana S.A.U.|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.231.236.122|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|13|116.90.97.32|8080|Pakistan|Karachi|FIBERISH (PVT) LTD|
+|14|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|15|67.43.236.18|26027|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|12075|Canada|Montreal|GloboTech Communications|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|19|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|20|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
 
 
 
