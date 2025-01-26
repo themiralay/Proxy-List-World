@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|160.191.56.2|8080|Indonesia|Jakarta|PT Anugerah Creative Nusantara|
-|4|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|7|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|103.162.54.243|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
+|8|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
 |9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.164.178|4345|Canada|Montreal|GloboTech Communications|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|67.43.227.227|13797|Canada|Montreal|GloboTech Communications|
-|13|121.227.109.37|8089|China|Nanjing|China Telecom|
-|14|72.10.160.171|24159|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.228.250|31347|Canada|Montreal|GloboTech Communications|
-|17|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
-|18|45.184.103.123|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|67.43.227.227|13797|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|1143|Canada|Montreal|GloboTech Communications|
+|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|16|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|19|67.43.228.250|29863|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22725|Canada|Montreal|GloboTech Communications|
 
 
 
