@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|103.228.243.189|8080|Indonesia|Jakarta|SpaceX Starlink|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|177.54.229.164|9292|Brazil|Parauapebas|Aranet Play|
-|9|118.113.245.131|2324|China|Shanghai|Chinanet|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|6|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|7|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|8|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|72.10.160.90|21085|Canada|Montreal|GloboTech Communications|
-|15|181.209.125.195|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|72.10.160.170|15007|Canada|Montreal|GloboTech Communications|
-|17|171.237.237.218|10012|Vietnam|Cầu Diễn|Viettel Corporation|
-|18|114.9.25.182|8080|Indonesia|Sangatta|PT. INDOSAT Tbk|
-|19|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|20|67.43.236.18|16287|Canada|Montreal|GloboTech Communications|
+|11|177.234.217.62|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|67.43.227.226|28485|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|28485|Canada|Montreal|GloboTech Communications|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|72.10.160.90|21085|Canada|Montreal|GloboTech Communications|
+|16|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|17|67.43.236.20|3675|Canada|Montreal|GloboTech Communications|
+|18|103.55.224.225|8181|Indonesia|Karawang|PT Gapura Era Digital|
+|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|103.148.44.125|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
 
 
 
