@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|7|94.28.108.239|3334|Russia|Moscow|JSC "ER-Telecom Holding"|
-|8|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|10|115.72.174.144|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|59.39.196.226|2324|China|Guangzhou|Chinanet|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|72.10.164.178|14657|Canada|Montreal|GloboTech Communications|
-|17|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|18|91.92.213.58|8080|Iran|Tehran|TIC|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|67.43.227.226|5339|Canada|Montreal|GloboTech Communications|
+|4|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|202.154.18.168|8088|Indonesia|Jombang|DIGITNET|
+|11|103.180.118.207|7777|Indonesia|Kebondempet|PT Persada Data Multimedia|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|116.118.48.147|3128|Vietnam|Hanoi|SPT|
+|14|67.43.236.19|19377|Canada|Montreal|GloboTech Communications|
+|15|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|16|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
+|17|190.122.88.144|8080|Argentina|Buenos Aires|Servicios y Telecomunicaciones S.A|
+|18|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
 
 
 
