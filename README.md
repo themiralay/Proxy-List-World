@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|110.78.149.94|8080|Thailand|Bang Rak|CAT-BB|
-|3|103.39.51.156|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|68.168.31.157|3128|United Kingdom|London|GTHost|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|116.98.71.89|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|12|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|13|38.255.21.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
-|14|103.172.71.140|8080|Indonesia|Bandung|AZNET|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|182.253.10.20|8080|Indonesia|Jakarta|BIZNET|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|19|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|110.78.149.94|8080|Thailand|Bang Rak|CAT-BB|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|6|103.152.93.157|8080|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|9|84.36.65.227|1976|Egypt|New Cairo|EgyNet Network|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|31.6.42.234|8118|Switzerland|Zurich|YHC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|103.247.23.73|3125|Indonesia|Baturaden|PT wifian Solution|
+|15|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|16|14.225.211.8|40811|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|17|144.202.78.147|80|United States|Stuart|The Constant Company|
+|18|103.153.149.49|1111|Indonesia|Gianyar|JARINGANKU|
+|19|72.10.160.173|32967|Canada|Montreal|GloboTech Communications|
+|20|41.111.167.61|80|Algeria|Kouba|Algerie Telecom|
 
 
 
