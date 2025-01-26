@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|13|103.211.26.94|8006|Indonesia|Madiun|PT Olean Permata Telematika|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|67.43.236.20|29673|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|121.227.146.67|8089|China|Nanjing|China Telecom|
-|19|103.20.108.240|5758|Indonesia|Malang|PT Akses Data Internusa|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.246.132.177|3128|United States|Boydton|Microsoft Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|7|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|9|77.228.182.122|8080|Spain|Madrid|Vodafone Espana S.A.U.|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|17|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|18|159.89.239.166|18088|United States|North Bergen|DigitalOcean, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|190.52.100.188|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
