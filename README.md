@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|121.227.118.174|8089|China|Nanjing|China Telecom|
-|6|72.10.160.90|21085|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|10035|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.91|16273|Canada|Montreal|GloboTech Communications|
-|9|171.237.237.218|10017|Vietnam|Cầu Diễn|Viettel Corporation|
-|10|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.227.226|4561|Canada|Montreal|GloboTech Communications|
-|12|171.237.237.218|10017|Vietnam|Cầu Diễn|Viettel Corporation|
-|13|180.107.218.5|8089|China|Nanjing|China Telecom|
-|14|91.92.213.58|8080|Iran|Tehran|TIC|
-|15|72.10.160.170|10035|Canada|Montreal|GloboTech Communications|
-|16|49.73.4.187|8089|China|Nanjing|China Telecom|
-|17|72.10.164.178|18805|Canada|Montreal|GloboTech Communications|
-|18|121.227.118.174|8089|China|Nanjing|China Telecom|
-|19|67.43.228.250|2101|Canada|Montreal|GloboTech Communications|
-|20|180.107.218.3|8089|China|Nanjing|China Telecom|
+|1|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|4|49.13.66.126|5613|Germany|Falkenstein|Hetzner Online GmbH|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|177.93.48.70|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|7|72.10.160.170|14579|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|21085|Canada|Montreal|GloboTech Communications|
+|9|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|67.43.227.226|4561|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|14579|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
+|14|119.95.179.102|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|15|72.10.160.91|13115|Canada|Montreal|GloboTech Communications|
+|16|89.169.33.90|3128|Sweden|Stockholm|xorek.cloud International LTD|
+|17|67.43.227.228|18455|Canada|Montreal|GloboTech Communications|
+|18|177.137.224.22|8081|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
+|19|202.58.206.51|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|20|38.52.155.101|999|Colombia|Soacha|Giga Fibra SAS|
 
 
 
