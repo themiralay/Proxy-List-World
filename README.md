@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
-|4|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|213.208.184.38|8888|Russia|Moscow|NAUKANET|
-|7|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|8|51.79.29.206|3128|Canada|Beauharnois|OVH SAS|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|11|171.237.237.218|10004|Vietnam|Cầu Diễn|Viettel Corporation|
-|12|137.184.132.235|8192|United States|North Bergen|DigitalOcean, LLC|
-|13|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|171.237.237.218|10004|Vietnam|Cầu Diễn|Viettel Corporation|
-|16|67.43.236.18|28241|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|13401|Canada|Montreal|GloboTech Communications|
-|18|103.170.96.64|8090|Indonesia|Keputih|PT. Global Data Akses Persada|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|213.208.184.38|8888|Russia|Moscow|NAUKANET|
+|9|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
+|10|94.156.59.160|45321|Bulgaria|Sevlievo|Kivi TV|
+|11|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|12|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|113.11.183.20|8181|Indonesia|Bandung|Biznet Networks|
+|15|171.237.237.218|10008|Vietnam|Cầu Diễn|Viettel Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|192.99.199.49|3128|France|Roubaix|OVH Hosting|
+|18|72.10.160.170|7677|Canada|Montreal|GloboTech Communications|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
 
 
 
