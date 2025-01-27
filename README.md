@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|101.51.164.156|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|6|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.191.218.87|8084|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|9|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|10|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|11|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|72.10.160.90|28233|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.164.178|17895|Canada|Montreal|GloboTech Communications|
-|16|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.228.250|30199|Canada|Montreal|GloboTech Communications|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|72.10.164.178|17895|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.191.218.87|8084|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|3|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|144.202.78.147|80|United States|Stuart|The Constant Company|
+|13|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|20|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 
 
 
