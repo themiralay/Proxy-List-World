@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|2|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |3|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|4|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|67.43.228.253|5187|Canada|Montreal|GloboTech Communications|
-|7|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|72.10.160.90|20175|Canada|Montreal|GloboTech Communications|
-|9|121.227.109.48|8089|China|Nanjing|China Telecom|
+|4|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.227.226|1623|Canada|Montreal|GloboTech Communications|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|67.43.236.18|10119|Canada|Montreal|GloboTech Communications|
-|14|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|72.10.160.172|31549|Canada|Montreal|GloboTech Communications|
-|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|72.10.164.178|3693|Canada|Montreal|GloboTech Communications|
-|20|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|35.155.215.101|3128|United States|Portland|Amazon.com, Inc.|
+|13|38.52.155.98|999|Colombia|Bogotá|Giga Fibra SAS|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|203.162.193.201|8080|Vietnam|Hanoi|VNPT|
+|16|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|17|67.43.228.252|7977|Canada|Montreal|GloboTech Communications|
+|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|19|36.88.148.141|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|20|61.241.103.72|1688|China|Beijing|CHINA UNICOM China169 Backbone|
 
 
 
