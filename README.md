@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|11|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|72.10.160.90|13313|Canada|Montreal|GloboTech Communications|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|12|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|51.75.65.222|80|Germany|Limburg an der Lahn|OVH SAS|
-|16|72.10.164.178|29111|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|21257|Canada|Montreal|GloboTech Communications|
-|18|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|19|72.10.160.171|29847|Canada|Montreal|GloboTech Communications|
-|20|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
+|19|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|20|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
