@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.183.10.168|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|8|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|9|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|10|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|4|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|14|77.225.198.220|9812|Spain|Málaga|Comunitel Global|
-|15|103.30.28.35|8080|Bangladesh|Bhātāra|Broad Band Telecom Services Ltd|
-|16|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|20|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|103.178.171.36|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
