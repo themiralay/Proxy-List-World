@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|144.202.78.147|80|United States|Stuart|The Constant Company|
-|6|213.230.122.20|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|7|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.15.88.60|39058|Vietnam|Thủ Đức|WIXCLOUD|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
 |9|2.185.142.57|6565|Iran|Tehran|hamedan|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|12|67.43.228.253|9531|Canada|Montreal|GloboTech Communications|
-|13|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|14|103.156.17.93|8080|Indonesia|Jatiwangi|RSTNET|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.190.171.205|8080|Indonesia|Jakarta|WMS|
-|17|72.10.160.173|29519|Canada|Montreal|GloboTech Communications|
-|18|171.237.237.218|10021|Vietnam|Cầu Diễn|Viettel Corporation|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|10|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|213.230.122.20|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|144.202.78.147|80|United States|Stuart|The Constant Company|
+|15|59.39.196.206|2324|China|Guangzhou|Chinanet|
+|16|144.202.78.147|80|United States|Stuart|The Constant Company|
+|17|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|18|190.110.98.204|999|Chile|Temuco|Silica Networks Argentina S.A.|
+|19|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
