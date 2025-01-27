@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.153.63.33|7777|Indonesia|Jakarta|IMEDIANET|
-|3|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 |9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|10|89.232.202.108|3128|Russia|Khanty-Mansiysk|Rostelecom networks|
-|11|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|115.72.165.71|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.189.254.28|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|12|125.24.96.113|8080|Thailand|Bangkok|TOT Public Company Limited|
 |13|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|16|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
 |18|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|19|31.184.249.184|2019|Russia|St Petersburg|JSC Selectel|
+|20|72.10.164.178|21903|Canada|Montreal|GloboTech Communications|
 
 
 
