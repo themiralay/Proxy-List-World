@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|115.72.160.240|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|10|103.133.61.230|8080|Indonesia|Pekalongan|TLINK|
-|11|103.162.54.243|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|103.106.112.166|1234|Indonesia|Metro|SMSNET|
-|14|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|103.149.238.201|3127|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
-|17|157.66.16.35|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
-|20|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|190.97.243.20|999|Venezuela|Santa Cruz de los Taques|Viginet C.A|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|115.72.170.18|10014|Vietnam|Vũng Tàu|VIETELmetro|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|115.72.160.240|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|128.199.44.243|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|16|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|18|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
