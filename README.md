@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|103.181.255.209|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|157.20.100.26|1111|Indonesia|Baekrajan|PT Muria Global Network|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|115.72.171.193|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.155.196.19|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|14|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|16|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|17|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|115.72.171.193|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|4|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|5|177.93.37.36|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|201.134.169.214|8204|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|128.199.44.243|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|11|103.181.255.209|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|43.248.96.174|1112|China|Zhenjiang|China Mobile Communications Corporation|
 
 
 
