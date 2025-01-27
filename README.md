@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|203.150.113.25|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
-|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|13|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
-|14|103.126.87.220|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|36.64.20.129|3128|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|18|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|19|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
+|2|203.150.113.25|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|10|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|17|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|20|222.252.217.134|10004|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
