@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|213.230.122.20|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|121.227.118.169|8089|China|Nanjing|China Telecom|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|121.227.146.71|8089|China|Nanjing|China Telecom|
-|10|61.160.247.69|9999|China|Nanjing|China Telecom|
-|11|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|12|121.227.109.41|8089|China|Nanjing|China Telecom|
-|13|67.43.228.251|8103|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|19663|Canada|Montreal|GloboTech Communications|
-|15|114.223.54.38|8089|China|Wuxi|Chinanet|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|67.43.228.250|14725|Canada|Montreal|GloboTech Communications|
-|18|121.227.118.158|8089|China|Nanjing|China Telecom|
-|19|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|20|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|5.160.57.36|8080|Iran|Tehran|RSPN|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|72.10.164.178|29701|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|13|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|14|72.10.160.93|24979|Canada|Montreal|GloboTech Communications|
+|15|150.107.244.109|8088|Indonesia|Bandung|Infrastruktur STARNET|
+|16|178.178.100.188|8080|Russia|Moscow|PJSC MegaFon|
+|17|38.255.84.81|999|Venezuela|Caracas|Galanet Solution C.A.|
+|18|14.39.239.79|52328|South Korea|Eunpyeong-gu|Korea Telecom|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
