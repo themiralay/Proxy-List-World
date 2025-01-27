@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|10|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|11|58.59.61.200|10991|China|Jinan|Chinanet|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.84.176.99|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|67.43.228.251|18877|Canada|Montreal|GloboTech Communications|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.39.51.73|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|134.35.175.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|27.147.217.102|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 |15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|45.126.120.33|1001|China|Quzhou|Fuzhou|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|67.43.228.250|2617|Canada|Montreal|GloboTech Communications|
-|19|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|49.70.190.67|2324|China|Zhenjiang|Chinanet|
+|16|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|58.59.61.200|10991|China|Jinan|Chinanet|
+|20|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
