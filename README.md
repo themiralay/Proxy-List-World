@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|2|203.190.46.103|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|3|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
-|4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|192.99.199.49|3128|France|Roubaix|OVH Hosting|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|13|103.18.77.31|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|72.10.160.172|30553|Canada|Montreal|GloboTech Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.10.160.170|2573|Canada|Montreal|GloboTech Communications|
-|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|103.186.204.42|8085|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|5|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|6|160.22.134.3|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
+|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|101.255.166.185|8080|Indonesia|Jakarta|PT Remala Abadi|
+|13|185.157.160.159|8118|Sweden|Stockholm|OVPN|
+|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|15|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|16|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|45.236.107.159|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|103.126.87.181|7777|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|19|116.111.114.87|10001|Vietnam|Hanoi|Viettel Corporation|
+|20|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
 
 
 
