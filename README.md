@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|200.37.187.61|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|5|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
-|14|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
-|15|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|18|199.21.172.198|3128|Australia|Brisbane|Siamdata Communication Co., ltd.|
-|19|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|10|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|11|200.37.187.61|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|12|193.181.35.153|8118|Sweden|Stockholm|PVDataNet AB|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|17|41.111.188.39|80|Algeria|Cheraga|Algerie Telecom|
+|18|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|19|72.10.160.170|15585|Canada|Montreal|GloboTech Communications|
+|20|31.184.249.184|2019|Russia|St Petersburg|JSC Selectel|
 
 
 
