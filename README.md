@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4454** proxies at the latest update. Usable proxies are below.
+> Scraper found **4455** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|47|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|48|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|593|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|36.50.115.180|8081|Indonesia|Jakarta|MYREPUBLIC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|10|115.72.7.48|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|11|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.230.81.125|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|14|200.24.139.47|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
-|17|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.133.26.7|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|92.51.122.174|8080|Georgia|Batumi|Deltanet-net Network|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|124.105.24.80|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|115.72.170.18|10033|Vietnam|Vũng Tàu|VIETELmetro|
+|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
