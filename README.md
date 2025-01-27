@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|2|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|160.19.17.36|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|20|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|4|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.173.138.252|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|12|115.72.160.240|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.190.171.41|8090|Indonesia|Jakarta|WMS|
+|15|103.147.118.142|7777|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|17|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|45.178.55.2|999|Argentina|Posadas|Globalweb S.R.L.|
+|20|160.19.17.36|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
 
 
 
