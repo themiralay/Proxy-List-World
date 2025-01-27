@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.157|3128|Japan|Chiyoda|InfoSphere|
-|2|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.169.33.30|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
-|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|144.202.78.147|80|United States|Stuart|The Constant Company|
-|14|72.10.160.171|11997|Canada|Montreal|GloboTech Communications|
-|15|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
-|16|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
-|17|118.113.244.204|2324|China|Shanghai|Chinanet|
-|18|121.227.109.16|8089|China|Nanjing|China Telecom|
-|19|121.227.118.175|8089|China|Nanjing|China Telecom|
-|20|192.99.199.49|3128|France|Roubaix|OVH Hosting|
+|2|103.133.61.186|3030|Indonesia|Menggala|TLINK|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|188.132.150.164|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|103.178.171.37|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
+|17|164.70.69.57|3128|Japan|Chiyoda|InfoSphere|
+|18|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|19|49.70.190.67|2324|China|Nanjing|Chinanet|
+|20|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
 
 
 
