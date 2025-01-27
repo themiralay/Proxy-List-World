@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|116.254.99.120|8080|Indonesia|Jakarta|SpaceX Starlink|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|7|91.219.171.48|8952|Ukraine|Odesa|PE Saychik Pavlo Evgenovuch|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|10|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
-|11|103.247.23.72|7777|Indonesia|Baturaden|PT wifian Solution|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|177.200.80.6|11221|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|5|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
+|7|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
+|8|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|9|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|10|14.39.239.79|52328|South Korea|Eunpyeong-gu|Korea Telecom|
+|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|15|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|72.10.160.90|31289|Canada|Montreal|GloboTech Communications|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|115.72.7.183|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|20|202.169.38.139|9090|Indonesia|Bekasi|Biznet - PSN-NAP|
 
 
 
