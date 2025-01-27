@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|119.93.206.217|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|115.72.2.158|10033|Vietnam|Vũng Tàu|VIETELmetro|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.25.81.116|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
-|7|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|8|134.35.8.209|8080|Yemen|Aden|Public Telecommunication Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|11|177.125.40.217|3128|Brazil|São Francisco do Sul|Brasilnets Com. Atac. De EQ. Informatica Ltda ME|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|115.72.171.193|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
+|7|181.37.240.89|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|134.35.8.209|8080|Yemen|Aden|Public Telecommunication Corporation|
+|12|38.196.193.253|999|Venezuela|Caracas|Wlink Telecom CA|
+|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
 |18|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|72.10.164.178|9237|Canada|Montreal|GloboTech Communications|
-|20|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
