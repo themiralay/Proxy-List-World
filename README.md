@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|60.188.49.53|1999|China|Taizhou|Chinanet|
-|9|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|14|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|117.247.233.62|8080|India|Bengaluru|BSNL Internet|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|60.188.49.53|1999|China|Taizhou|Chinanet|
+|11|38.250.127.225|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|103.214.103.20|8083|Indonesia|Batam|SMARTPLUS|
+|13|64.233.212.194|8080|United States|Albion|WideOpenWest Finance LLC|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|15|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
