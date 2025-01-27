@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|119.110.233.203|3129|Thailand|Bangkok|Symphony Communication Public Company Limited|
-|3|171.237.237.218|10003|Vietnam|Cầu Diễn|Viettel Corporation|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|5|180.180.137.88|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.150.128.81|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
 |6|38.191.42.68|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|38.183.144.89|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
-|19|67.43.236.18|2581|Canada|Montreal|GloboTech Communications|
-|20|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|11|118.113.246.48|2324|China|Shanghai|Chinanet|
+|12|191.102.104.164|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|14|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|118.113.245.131|2324|China|Shanghai|Chinanet|
+|19|59.39.196.231|2324|China|Guangzhou|Chinanet|
+|20|119.110.233.203|3129|Thailand|Bangkok|Symphony Communication Public Company Limited|
 
 
 
