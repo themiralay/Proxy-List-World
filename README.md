@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4545** proxies at the latest update. Usable proxies are below.
+> Scraper found **4505** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|37|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|558|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|505|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|465|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2519|✅|
 
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|103.12.173.38|8080|Bangladesh|Dhaka|SkyTel Communications Limited|
-|7|3.145.11.127|3128|United States|Dublin|Amazon.com, Inc.|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|10|36.94.114.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|12|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|13|67.73.240.1|8081|Colombia|Bogotá|Cirion Technologies Solutions|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|113.255.59.226|8080|Hong Kong|Tsing Yi|HGC Global Communications Limited|
-|16|27.189.135.131|8089|China|Langfang|Chinanet|
-|17|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|103.191.218.87|8084|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|4|38.7.20.205|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|7|36.94.114.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.247.23.72|7777|Indonesia|Baturaden|PT wifian Solution|
+|10|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|11|171.237.237.218|10020|Vietnam|Cầu Diễn|Viettel Corporation|
+|12|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|216.108.211.231|80|United States|Bloomington|Mediacom Communications|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|216.108.211.231|80|United States|Bloomington|Mediacom Communications|
+|17|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|18|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
+|19|144.202.78.147|80|United States|Stuart|The Constant Company|
 |20|144.202.78.147|80|United States|Stuart|The Constant Company|
 
 
