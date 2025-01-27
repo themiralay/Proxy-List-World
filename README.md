@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|6|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|9|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|10|37.192.2.213|44331|Russia|Novosibirsk|Novotelecom Ltd.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
