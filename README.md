@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|115.72.1.52|10014|Vietnam|Vũng Tàu|VIETELmetro|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|202.57.25.178|8080|Indonesia|Semarang|announced of WINET|
-|7|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|8|160.22.22.155|8080|Indonesia|Ciampea|PT Sarana Digital Network|
-|9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|10|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|11|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|49.48.69.237|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|19|1.30.81.145|321|China|Zhangzhou|China Unicom Neimeng Province Network|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|115.72.7.48|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|103.46.11.27|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|13|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|124.121.2.188|8080|Thailand|Bangkok|TRUEBB|
+|17|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|19|103.170.22.137|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|20|67.43.236.18|23927|Canada|Montreal|GloboTech Communications|
 
 
 
