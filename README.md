@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|67.43.236.18|11647|Canada|Montreal|GloboTech Communications|
-|14|118.113.245.131|2324|China|Chengdu|Chinanet|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|10|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|38.172.129.27|999|Peru|Lima|Conex TV E.I.R.L.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|18|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |19|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|20|36.67.105.109|8581|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
