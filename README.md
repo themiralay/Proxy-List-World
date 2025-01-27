@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|36.91.135.141|40|Indonesia|Bogor|PT Telekomunikasi Indonesia|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
-|7|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|10|81.90.149.186|3128|Iran|Tehran|Afranet|
-|11|144.202.78.147|80|United States|Stuart|The Constant Company|
-|12|144.202.78.147|80|United States|Stuart|The Constant Company|
-|13|45.233.169.21|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|14|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|177.174.126.203|8080|Brazil|São Paulo|Vivo|
-|16|14.241.72.177|19132|Vietnam|Vĩnh Yên|VNPT|
-|17|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|59.39.196.226|2324|China|Guangzhou|Chinanet|
+|2|101.255.167.242|8181|Indonesia|Jakarta|PT Remala Abadi|
+|3|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
+|4|115.72.33.245|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|115.72.11.188|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|7|14.39.239.79|52328|South Korea|Eunpyeong-gu|Korea Telecom|
+|8|190.121.146.75|999|Colombia|Neiva|Media Commerce Partners S.A|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|103.175.238.106|8082|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
+|14|144.202.78.147|80|United States|Stuart|The Constant Company|
+|15|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
+|16|31.184.249.184|2019|Russia|St Petersburg|JSC Selectel|
+|17|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
