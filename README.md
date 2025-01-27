@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|172.96.171.76|8080|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|203.150.113.189|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|103.153.247.220|8080|Indonesia|Jakarta|PRIMAHOME|
-|13|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|14|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|15|180.191.36.128|8181|Philippines|Cabanatuan City|Globe Telecom|
-|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|3|15.235.141.213|10002|Singapore|Singapore|OVH SAS|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|193.105.123.195|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|72.10.164.178|32009|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|16647|Canada|Montreal|GloboTech Communications|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|19|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|20|115.72.33.245|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
