@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|15.235.141.213|10002|Singapore|Singapore|OVH SAS|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|213.230.122.20|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|182.253.178.231|8080|Indonesia|Bogor|BIZNET|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.170.22.137|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|15|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|18|118.113.245.131|2324|China|Shanghai|Chinanet|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|103.162.54.250|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|182.253.178.231|8080|Indonesia|Bogor|BIZNET|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|171.237.237.218|10034|Vietnam|Cầu Diễn|Viettel Corporation|
+|15|171.237.237.218|10034|Vietnam|Cầu Diễn|Viettel Corporation|
+|16|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|59.39.197.0|2324|China|Guangzhou|Chinanet|
+|19|72.10.160.90|12547|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
