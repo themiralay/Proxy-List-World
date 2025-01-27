@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|185.25.22.185|3128|Greece|Thessaloniki|POINTER-CLOUD2|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|113.11.179.188|8181|Indonesia|Yogyakarta|BIZNET|
-|12|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|13|115.72.170.18|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
-|18|27.189.132.114|8089|China|Langfang|Chinanet|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|7|115.72.9.161|10033|Vietnam|Vũng Tàu|VIETELmetro|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
+|10|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|12|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|20|125.87.92.95|2324|China|Chongqing|China Telecom|
 
 
 
