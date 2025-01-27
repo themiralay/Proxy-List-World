@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
-|5|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|8|61.241.103.72|1688|China|Beijing|CHINA UNICOM China169 Backbone|
-|9|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|13|185.204.0.94|8080|Russia|Moscow|First Server Limited|
-|14|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|17|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|18|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|103.162.16.113|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|20|67.43.228.250|29909|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|49.156.23.217|8077|Indonesia|Jakarta|PALAPANET|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|11|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
+|12|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|16|142.171.5.35|3128|United States|Los Angeles|Multacom Corporation|
+|17|103.133.27.237|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|18|82.149.196.90|8080|Russia|Moscow|PJSC Rostelecom|
+|19|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
+|20|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
 
 
 
