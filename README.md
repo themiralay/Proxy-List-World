@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|112.78.165.92|8080|Indonesia|Jakarta|Biznet Networks|
-|3|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|4|101.255.117.194|8095|Indonesia|Jakarta|PT Remala Abadi|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|36.64.20.129|3128|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|203.150.128.230|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
-|13|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
-|14|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|15|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|190.97.239.25|999|Venezuela|Caracas||
-|18|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
+|12|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|17|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|60.188.135.230|12401|China|Taizhou|Chinanet|
+|20|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
 
 
 
