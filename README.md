@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|110.77.171.226|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|10|45.123.142.50|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|11|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|12|186.96.71.108|999|Venezuela|Caracas|Gold Data C.A|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|157.66.16.68|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|67.43.236.20|5021|Canada|Montreal|GloboTech Communications|
+|5|14.241.72.177|19132|Vietnam|Vĩnh Yên|VNPT|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.156.140.239|8080|Indonesia|Krajan|PT Tekling Media Telematika|
+|9|103.122.142.174|8080|Bangladesh|Lālmohan|Carnival Internet|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|43.243.174.3|83|India|Pune|Shah Solutions|
+|12|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|13|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|67.43.227.226|16773|Canada|Montreal|GloboTech Communications|
+|19|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|20|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
 
 
 
