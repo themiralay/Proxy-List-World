@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|3|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|4|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
-|5|119.47.90.109|8080|Indonesia|Duri Pulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
-|8|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
-|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|10|124.106.173.56|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|171.237.237.218|10022|Vietnam|Cầu Diễn|Viettel Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.189.134.0|8089|China|Langfang|Chinanet|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|1|182.253.178.231|8080|Indonesia|Bogor|BIZNET|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|157.15.66.95|8282|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|101.255.167.50|8080|Indonesia|Jakarta|PT Remala Abadi|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|11|154.64.211.145|999|United States|Jacksonville|OSNET Wireless|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|160.25.222.205|8181|Indonesia|Palembang|Telemedia Prima Nusantara|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|118.113.245.131|2324|China|Shanghai|Chinanet|
+|18|67.43.227.226|19375|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|24375|Canada|Montreal|GloboTech Communications|
+|20|103.146.185.139|1111|Indonesia|Ponorogo|YAMNET|
 
 
 
