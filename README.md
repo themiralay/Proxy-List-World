@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.155.215.101|3128|United States|Portland|Amazon.com, Inc.|
-|2|36.64.20.129|3128|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|3|129.213.53.16|3128|United States|Ashburn|Oracle Corporation|
-|4|35.155.215.101|3128|United States|Portland|Amazon.com, Inc.|
-|5|129.213.53.16|3128|United States|Ashburn|Oracle Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|129.213.53.16|3128|United States|Ashburn|Oracle Corporation|
+|3|35.155.215.101|3128|United States|Portland|Amazon.com, Inc.|
+|4|129.213.53.16|3128|United States|Ashburn|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|8|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|9|185.47.221.213|3128|Czechia|Prague|JM-Net, z.s.|
-|10|101.255.117.194|8095|Indonesia|Jakarta|PT Remala Abadi|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|93.126.6.70|3128|Iran|Isfahan|AsmanFaraz- IUT|
-|13|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|43.248.96.174|1112|China|Zhenjiang|China Mobile Communications Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|8|185.47.221.213|3128|Czechia|Prague|JM-Net, z.s.|
+|9|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
+|10|36.64.20.129|3128|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|13|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|93.126.6.70|3128|Iran|Isfahan|AsmanFaraz- IUT|
+|15|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|183.88.224.86|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|20|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
 
 
 
