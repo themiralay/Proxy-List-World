@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|171.237.237.218|10033|Vietnam|Hanoi|Viettel Corporation|
-|5|115.72.170.18|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |9|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|13|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|154.126.209.146|8080|South Africa|Newcastle|JENNY Network|
+|10|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|103.169.254.45|6080|Indonesia|Sidoarjo|PT Master Star Network|
+|13|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
+|15|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|17|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|19|46.35.95.203|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
