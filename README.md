@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|4|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|5|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|38.230.165.25|9090|Ivory Coast|Yamoussoukro|ORANGE COTE D'IVOIRE|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.154.178.106|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|11|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|27.189.131.241|8089|China|Langfang|Chinanet|
-|14|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|103.180.123.225|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|157.15.66.95|8282|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|213.230.122.20|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|9|212.113.101.232|30520|Sweden|Stockholm|xorek.cloud International LTD|
+|10|154.64.211.145|999|United States|Jacksonville|OSNET Wireless|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 |15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|72.10.164.178|29721|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|16935|Canada|Montreal|GloboTech Communications|
-|18|60.51.51.89|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|19|72.10.160.90|16935|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|29037|Canada|Montreal|GloboTech Communications|
+|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|72.10.160.90|17557|Canada|Montreal|GloboTech Communications|
+|18|49.146.179.143|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|19|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|20|43.247.38.57|8681|Indonesia|Bekasi|Maxindo|
 
 
 
