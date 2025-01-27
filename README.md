@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|202.138.243.42|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|3|103.191.92.128|80|Indonesia|Semarang|PT Cloud Hosting Indonesia|
-|4|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|5|47.247.141.78|8080|India|Chennai|Reliance Jio Infocomm Limited|
-|6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|103.172.197.235|8080|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|18|61.241.103.72|1688|China|Beijing|CHINA UNICOM China169 Backbone|
-|19|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
-|20|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|38.51.232.181|999|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
+|13|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|17|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
+|18|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|19|103.60.173.2|96|Bangladesh|Dhaka|Mazeda Networks Limited|
+|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
