@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|38.180.44.121|3128|Estonia|Tallinn|Aktsiaselts WaveCom|
+|5|38.180.44.121|3128|Estonia|Tallinn|Aktsiaselts WaveCom|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|9|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|11|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|14|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.159.196.149|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|19|72.10.160.173|16675|Canada|Montreal|GloboTech Communications|
-|20|103.154.77.204|89|Indonesia|Sleman|T2NET|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|17|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|19|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|20|72.10.160.173|16675|Canada|Montreal|GloboTech Communications|
 
 
 
