@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|2|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|5|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|6|103.160.40.251|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|103.155.62.141|8081|Pakistan|Lahore|Z COM NETWORKS|
+|1|103.153.191.210|8080|Indonesia|Malang|WANET|
+|2|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|185.47.221.213|3128|Czechia|Prague|JM-Net, z.s.|
+|7|178.255.148.228|8118|Norway|Oslo|Blix Solutions|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|167.249.29.214|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|11|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|12|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|13|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|18|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
 
 
 
