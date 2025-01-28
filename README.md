@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|2|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|8|38.7.0.40|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|203.162.193.201|8080|Vietnam|Hanoi|VNPT|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|17|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|95.183.10.127|3128|Russia|Moscow|IHC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|20.242.220.58|3128|United States|Boydton|Microsoft Corporation|
+|4|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
+|8|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
+|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|10|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|38.7.0.40|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|14|103.162.16.113|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|15|103.22.99.46|8080|Indonesia|Magetan|KHALISTAGROUP|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|60.188.49.53|1999|China|Taizhou|Chinanet|
+|19|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
