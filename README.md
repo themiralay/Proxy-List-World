@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|2|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|13.59.237.44|3128|United States|Dublin|Amazon.com, Inc.|
-|7|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|8|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|115.72.13.202|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|15|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
-|16|125.26.97.178|8080|Thailand|Krathum Baen|TOT Public Company Limited|
-|17|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|1|43.198.110.33|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|182.53.75.177|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|186.190.225.153|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|12|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|13|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|177.93.35.52|999|Colombia|Villagarzón|TV AZTECA SUCURSAL COLOMBIA|
+|16|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|17|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
+|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
