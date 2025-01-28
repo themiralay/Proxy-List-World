@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|14.56.86.74|3128|South Korea|Yangju|Korea Telecom|
 |2|175.215.52.166|3128|South Korea|Jinju|Korea Telecom|
 |3|119.199.139.24|3128|South Korea|Nammyeon|Korea Telecom|
-|4|34.145.37.17|3128|United States|The Dalles|Google LLC|
-|5|18.118.32.210|3128|United States|Dublin|Amazon.com, Inc.|
-|6|167.114.216.227|3128|Canada|Montreal|OVH SAS|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|34.145.37.17|3128|United States|The Dalles|Google LLC|
-|9|4.156.154.148|3128|United States|Boydton|Microsoft Corporation|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|18.118.32.210|3128|United States|Dublin|Amazon.com, Inc.|
+|5|167.114.216.227|3128|Canada|Montreal|OVH SAS|
+|6|18.118.32.210|3128|United States|Dublin|Amazon.com, Inc.|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
 |11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|18.118.32.210|3128|United States|Dublin|Amazon.com, Inc.|
-|13|36.64.20.129|3128|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|4.156.154.148|3128|United States|Boydton|Microsoft Corporation|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|212.57.172.210|3128|Russia|Vladivostok|Rostelecom Chelyabinsk|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|212.57.172.210|3128|Russia|Vladivostok|Rostelecom Chelyabinsk|
+|16|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
 |19|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
-|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
