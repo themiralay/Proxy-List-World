@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|3|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|5|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
+|6|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 |8|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
-|10|43.230.129.54|3333|Indonesia|Banjar Sandinggianyar|Internet Ini Saja|
-|11|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|19|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|16|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
