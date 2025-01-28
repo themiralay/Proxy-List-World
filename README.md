@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|1|175.215.52.166|3128|South Korea|Jinju|Korea Telecom|
+|2|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
-|11|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|12|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
-|14|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
-|16|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|17|103.148.93.106|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|18|72.10.160.91|6965|Canada|Montreal|GloboTech Communications|
+|8|14.56.86.74|3128|South Korea|Yangju|Korea Telecom|
+|9|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|12|212.57.172.210|3128|Russia|Vladivostok|Rostelecom Chelyabinsk|
+|13|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|14|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
+|18|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
