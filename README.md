@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.180.123.19|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|3|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|60.188.49.53|1999|China|Taizhou|Chinanet|
-|7|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|72.10.164.178|16977|Canada|Montreal|GloboTech Communications|
-|15|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|16|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|17|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|20|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|15|110.138.53.186|8088|Indonesia|Depok|PT. TELKOM INDONESIA|
+|16|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|17|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
