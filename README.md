@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.249.173.33|3128|Hong Kong|Hong Kong|Yancy Limited|
-|2|45.79.111.109|3128|United States|Fremont|Akamai Technologies, Inc.|
-|3|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.11.179.138|8080|Indonesia|Yogyakarta|BIZNET|
-|5|159.223.152.169|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|34.229.41.197|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|45.79.111.109|3128|United States|Fremont|Akamai Technologies, Inc.|
+|1|45.79.111.109|3128|United States|Fremont|Akamai Technologies, Inc.|
+|2|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|34.229.41.197|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|45.79.111.109|3128|United States|Fremont|Akamai Technologies, Inc.|
+|7|172.233.32.73|3128|The Netherlands|Amsterdam|Akamai Technologies, Inc.|
+|8|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
 |9|54.153.92.118|3128|United States|San Jose|Amazon.com, Inc.|
-|10|45.56.82.153|3128|United States|Fremont|Akamai Technologies, Inc.|
-|11|45.33.55.233|3128|United States|Fremont|Akamai Technologies, Inc.|
-|12|159.223.152.169|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|34.229.41.197|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|13.52.231.180|3128|United States|San Jose|Amazon.com, Inc.|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|96.126.96.73|3128|United States|Fremont|Akamai Technologies, Inc.|
-|18|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
-|19|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|96.126.96.14|3128|United States|Fremont|Akamai Technologies, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|34.229.41.197|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|45.56.82.153|3128|United States|Fremont|Akamai Technologies, Inc.|
+|13|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|15|96.126.96.73|3128|United States|Fremont|Akamai Technologies, Inc.|
+|16|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
+|17|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|35.168.21.188|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|52.24.22.159|3128|United States|Portland|Amazon.com, Inc.|
+|20|3.16.81.5|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
