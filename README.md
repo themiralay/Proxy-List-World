@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|8|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|9|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|160.19.17.5|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|11|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|15|103.189.197.79|8080|Indonesia|Serang|PT Graha Sumber Teknologi|
-|16|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|17|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|18|165.255.22.142|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
-|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|11|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
+|16|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|17|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
