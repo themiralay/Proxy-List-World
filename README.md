@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|49.48.52.237|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|72.10.160.170|15497|Canada|Montreal|GloboTech Communications|
-|5|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|6|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|7|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|1.10.233.194|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|11|118.172.23.236|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|35.155.215.101|3128|United States|Portland|Amazon.com, Inc.|
-|14|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
+|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|91.185.55.165|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|5|103.131.19.170|8083|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|8|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|14|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|3357|Canada|Montreal|GloboTech Communications|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|67.43.236.18|12391|Canada|Montreal|GloboTech Communications|
+|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
