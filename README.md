@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|3|190.237.238.112|999|Peru|Lima|TDP-GRS|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|7|35.212.74.86|80|United States|Washington|Google LLC|
-|8|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.94.126.222|1111|Indonesia|Pamulang|ICONPLN|
-|12|45.76.122.178|80|Australia|Sydney|The Constant Company|
-|13|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|103.156.15.130|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|4|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|5|103.187.86.54|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|6|147.45.76.102|3128|Sweden|Stockholm|Aeza International LTD|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|9|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|10|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
+|14|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|15|146.120.174.235|8080|Ukraine|Ivano-Frankivsk|Gargat Igor Vasilevich|
+|16|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
