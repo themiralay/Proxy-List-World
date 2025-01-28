@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|2|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|223.205.181.94|8080|Thailand|Bang Rak|Triple T Broadband Public Company Limited|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|13.59.237.44|3128|United States|Dublin|Amazon.com, Inc.|
-|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|14|171.4.66.60|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|15|38.97.215.97|8080|United States|Morrison|Cogent Communications|
-|16|38.250.119.16|999|Peru|Lima region|Bantel SAC|
-|17|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|18|38.156.14.166|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|19|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|20|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|2|175.215.52.166|3128|South Korea|Jinju|Korea Telecom|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|13.59.237.44|3128|United States|Dublin|Amazon.com, Inc.|
+|8|223.205.181.94|8080|Thailand|Bang Rak|Triple T Broadband Public Company Limited|
+|9|223.205.121.197|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|12|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|14|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|115.72.13.202|10014|Vietnam|Vũng Tàu|VIETELmetro|
+|19|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
