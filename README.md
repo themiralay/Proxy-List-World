@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|100.27.210.71|3128|United States|Ashburn|Amazon.com|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|14|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
-|15|103.154.230.117|8080|Indonesia|Lamongan|DIGITNET|
+|2|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|101.36.125.154|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|12|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|14|3.233.129.152|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|67.43.236.20|31661|Canada|Montreal|GloboTech Communications|
 |16|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|17|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|152.42.207.254|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|100.27.210.71|3128|United States|Ashburn|Amazon.com|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|54.160.171.167|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
