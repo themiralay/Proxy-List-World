@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|8|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|12|103.189.197.79|8080|Indonesia|Serang|PT Graha Sumber Teknologi|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|103.250.130.230|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|144.202.78.147|80|United States|Stuart|The Constant Company|
-|19|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|20|121.227.146.70|8089|China|Nanjing|China Telecom|
+|2|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|103.19.79.245|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
+|12|185.202.58.2|3128|Iran|Arak|satiareyertebat|
+|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|102.213.219.234|8080|Kenya|Garissa|Celcom Networks Ltd|
+|17|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
