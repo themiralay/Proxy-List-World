@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|209.97.132.189|8118|United Kingdom|Slough|DigitalOcean, LLC|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|186.121.234.93|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|14.102.155.202|8080|Indonesia|Bandung|Skyline Semesta, PT|
-|8|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|12|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|14|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|3|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|4|160.19.178.24|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|5|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|7|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|190.121.138.210|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|9|103.48.71.50|83|India|Pargi|Country Online Services PVT LTD|
+|10|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|14|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
 |15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|17|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
