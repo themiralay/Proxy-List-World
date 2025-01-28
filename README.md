@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|200.37.187.59|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|4|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|6|115.72.6.57|10024|Vietnam|Vũng Tàu|VIETELmetro|
-|7|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|9|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
-|11|8.215.16.183|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|14|47.128.157.201|3128|Singapore|Singapore|Amazon Technologies Inc|
-|15|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|171.237.237.218|10034|Vietnam|Hanoi|Viettel Corporation|
-|20|103.247.22.147|8080|Indonesia|Bekasi|PT wifian Solution|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|200.37.187.59|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|3|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|5|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
+|6|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|8|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|12|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|171.237.237.218|10009|Vietnam|Hanoi|Viettel Corporation|
+|15|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|17|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|47.128.157.201|3128|Singapore|Singapore|Amazon Technologies Inc|
 
 
 
