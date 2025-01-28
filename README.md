@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|190.60.39.71|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
-|4|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|115.72.13.202|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|10|8.215.16.183|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|14|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|15|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|59.17.116.67|3129|South Korea|Incheon|Korea Telecom|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|124.122.38.57|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|27.131.248.120|8081|Indonesia|Jakarta|SpaceX Starlink|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.215.16.183|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|20|59.17.116.67|3129|South Korea|Incheon|Korea Telecom|
 
 
 
