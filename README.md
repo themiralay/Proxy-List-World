@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
 |2|47.128.157.201|3128|Singapore|Singapore|Amazon Technologies Inc|
-|3|154.222.28.11|3128|Hong Kong|Hong Kong|Vapeline Technology|
-|4|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|100.27.210.71|3128|United States|Ashburn|Amazon.com|
-|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|54.84.143.171|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|100.27.210.71|3128|United States|Ashburn|Amazon.com|
+|7|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
 |8|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|144.76.26.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|54.84.143.171|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|178.156.146.230|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|54.84.143.171|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|100.27.210.71|3128|United States|Ashburn|Amazon.com|
-|20|54.153.92.118|3128|United States|San Jose|Amazon.com, Inc.|
+|9|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
+|10|100.27.210.71|3128|United States|Ashburn|Amazon.com|
+|11|54.84.143.171|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|34.207.143.255|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|144.76.26.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|54.153.92.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|54.90.248.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|34.229.41.197|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
