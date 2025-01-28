@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.72.6.57|10033|Vietnam|Vũng Tàu|VIETELmetro|
-|2|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|24.52.135.71|8888|United States|Beardstown|Cass Cable TV, Inc.|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|188.245.88.65|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|67.43.228.251|4501|Canada|Montreal|GloboTech Communications|
-|15|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|1|124.121.2.194|8080|Thailand|Bangkok|TRUEBB|
+|2|203.150.128.96|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|63.220.196.123|8080|United States|Chicago|Gateway Communications|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|11|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|12|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |16|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
-|17|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|19|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|171.237.237.218|10008|Vietnam|Hanoi|Viettel Corporation|
+|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
