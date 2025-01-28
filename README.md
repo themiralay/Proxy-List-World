@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|182.253.109.67|8080|Indonesia|Jakarta|Biznet Metronet|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
-|11|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|16|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|17|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|18|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|19|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|91.218.142.114|3128|Latvia|Riga|RETN Limited|
+|3|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|7|103.165.155.22|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|181.118.150.14|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|10|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|202.43.117.26|8080|Indonesia|Teluknaga|PRIMELINK|
+|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
