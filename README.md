@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.156.15.130|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|7|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|8|115.178.49.111|8080|Indonesia|Bandung|NOC SIMAYA|
-|9|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|10|102.68.139.1|83|Zambia|Lusaka|AirLink Broadband Limited|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|2|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|3|209.126.1.204|3128|United States|St Louis|Nubes, LLC|
+|4|5.182.36.2|3128|Switzerland|Bern|Stark Industries Solutions LTD|
+|5|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|6|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
+|7|209.126.1.204|3128|United States|St Louis|Nubes, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
-|14|144.202.78.147|80|United States|Stuart|The Constant Company|
-|15|5.182.36.2|3128|Switzerland|Bern|Stark Industries Solutions LTD|
-|16|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|17|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|18|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|20|45.229.158.106|80|Brazil|Ipatinga|Brnet Telecomunicacoes LTDA - ME|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|38.224.221.241|999|Mexico|Centro|Javier Tamayo Garcia|
+|20|72.10.160.171|11897|Canada|Montreal|GloboTech Communications|
 
 
 
