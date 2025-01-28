@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.122.38.57|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|2|175.215.52.166|3128|South Korea|Jinju|Korea Telecom|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|8.215.16.183|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|9|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|223.206.55.49|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|19|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|20|101.255.150.49|8089|Indonesia|Jakarta|PT Remala Abadi|
+|1|49.145.184.122|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|2|103.125.50.234|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.189.197.79|8080|Indonesia|Serang|PT Graha Sumber Teknologi|
+|6|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|9|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|24.52.135.71|8888|United States|Beardstown|Cass Cable TV, Inc.|
+|11|59.17.116.67|3129|South Korea|Incheon|Korea Telecom|
+|12|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|13|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
+|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|200.39.120.84|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|19|124.122.38.57|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|20|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
