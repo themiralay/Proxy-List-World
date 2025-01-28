@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|3|160.191.180.234|8080|Indonesia|Grogol|PT.Global Media Data Prima|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|60.51.51.89|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|16|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|20|106.225.148.45|655|China|Taohua|CHINANET Jiangx province IDC network|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|6|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|43.231.78.82|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
+|13|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|18.159.113.250|3128|Germany|Frankfurt am Main|Amazon.com, Inc.|
+|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
