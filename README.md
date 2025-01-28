@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|3|103.172.197.170|7777|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|4|181.78.74.62|999|Colombia|Lebrija|IFX Networks Argentina S.R.L|
-|5|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|9|182.53.154.104|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|10|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|103.80.237.65|8181|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
-|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|18|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.155.169.201|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|10|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
+|11|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|119.95.189.210|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|13|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
