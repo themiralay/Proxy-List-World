@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
+|2|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|8|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|9|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|12|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
-|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|14|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|15|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|19|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
-|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.92.153.24|8137|Bangladesh|Dhaka|Masud M Reza|
+|12|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|113.192.48.34|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|16|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
 
 
 
