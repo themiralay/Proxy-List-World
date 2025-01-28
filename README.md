@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|43.134.88.212|13128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|60.188.49.53|1999|China|Taizhou|Chinanet|
-|15|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|16|103.70.93.68|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|17|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|18|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|19|49.148.63.76|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|20|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|67.43.227.226|11325|Canada|Montreal|GloboTech Communications|
+|14|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|16|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|17|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
 
 
 
