@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|202.58.77.9|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|7|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|8|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|9|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|10|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|11|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|14|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|18|121.227.118.153|8089|China|Nanjing|China Telecom|
-|19|192.145.206.192|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|38.183.213.232|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
+|7|103.254.106.82|8181|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|8|103.133.61.188|8080|Indonesia|Menggala|TLINK|
+|9|202.58.77.9|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|181.209.111.85|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|105.113.51.172|8080|Nigeria|Lagos|Airtel Networks Limited|
+|14|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|15|103.247.21.226|4320|Indonesia|Bekasi|PT wifian Solution|
+|16|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|20|72.10.160.91|29949|Canada|Montreal|GloboTech Communications|
 
 
 
