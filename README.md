@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.155.169.201|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|2|20.242.220.58|3128|United States|Boydton|Microsoft Corporation|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.122.66.220|8080|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|6|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
 |10|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
 |11|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|119.95.189.210|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|13|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|17|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|13|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|72.10.164.178|16255|Canada|Montreal|GloboTech Communications|
 
 
 
