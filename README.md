@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|203.150.128.22|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|202.58.206.15|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
-|7|5.189.239.157|80|Russia|St Petersburg|JSC Selectel|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|14.177.41.119|8080|Vietnam|Hanoi|VNPT|
+|2|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|115.72.45.89|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |9|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|10|94.41.246.203|3128|Russia|Neftekamsk|JSC "Ufanet"|
-|11|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|12|176.120.16.190|8080|Iran|Tehran|Pars Parva System LLC|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|15|167.249.30.253|999|Chile|Pucón|Globalconnect SPA|
-|16|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
-|17|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|18|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|20|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|12|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|13|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|20|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
