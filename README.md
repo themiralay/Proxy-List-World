@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|20.242.220.58|3128|United States|Boydton|Microsoft Corporation|
-|5|20.242.220.58|3128|United States|Boydton|Microsoft Corporation|
-|6|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|66.70.191.133|80|Canada|Beauharnois|OVH SAS|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|17|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|19|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
