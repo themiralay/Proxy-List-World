@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|24.152.58.22|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|138.118.104.33|8080|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|18|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|19|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|2|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|3|160.19.17.5|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|6|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|7|45.4.148.70|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|11|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|13|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|14|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|16|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|186.96.97.206|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
