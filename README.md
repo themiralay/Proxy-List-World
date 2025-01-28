@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.124.179.145|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|2|34.64.174.163|3128|South Korea|Seoul|Google LLC|
-|3|13.230.194.182|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|34.64.174.163|3128|South Korea|Seoul|Google LLC|
+|2|13.124.179.145|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|3|34.22.92.24|3128|South Korea|Seoul|Google LLC|
 |4|43.249.173.33|3128|Hong Kong|Hong Kong|Yancy Limited|
-|5|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
-|6|54.180.26.16|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|7|43.135.36.146|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|34.22.92.24|3128|South Korea|Seoul|Google LLC|
-|9|34.64.253.41|3128|South Korea|Seoul|Google LLC|
-|10|45.79.111.109|3128|United States|Fremont|Akamai Technologies, Inc.|
-|11|47.128.161.196|3128|Singapore|Singapore|Amazon Technologies Inc|
-|12|3.0.101.141|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|152.42.207.254|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|146.190.127.4|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|152.42.191.2|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.180.26.16|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|6|45.79.111.109|3128|United States|Fremont|Akamai Technologies, Inc.|
+|7|152.42.207.254|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|3.0.101.141|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|146.190.82.119|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.42.191.2|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|146.190.111.168|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.223.52.167|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|146.190.127.4|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|18.246.227.144|3128|United States|Portland|Amazon.com, Inc|
+|15|52.24.22.159|3128|United States|Portland|Amazon.com, Inc.|
 |16|54.153.92.118|3128|United States|San Jose|Amazon.com, Inc.|
-|17|13.52.231.180|3128|United States|San Jose|Amazon.com, Inc.|
-|18|159.223.52.167|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|18.246.227.144|3128|United States|Portland|Amazon.com, Inc|
-|20|52.24.22.159|3128|United States|Portland|Amazon.com, Inc.|
+|17|35.94.11.220|3128|United States|Portland|Amazon.com, Inc.|
+|18|203.150.113.14|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|19|44.201.218.242|3128|United States|Ashburn|Amazon.com|
+|20|149.51.37.180|3128|United States|Ashburn|Rackdog|
 
 
 
