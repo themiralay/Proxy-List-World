@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|9|23.138.88.65|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|10|190.239.208.192|999|Peru|San Martín de Tambopata|Telefonica del Peru|
-|11|212.111.193.254|8080|Ukraine|Dnipro|User Association of Ukrainian Research and Academic Network URAN|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|15|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|180.107.218.3|8089|China|Nanjing|China Telecom|
-|18|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|19|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|115.72.45.89|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
+|2|101.36.110.62|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|7|38.7.23.226|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
+|8|103.184.62.10|8099|Indonesia|Bajo|PT NKNET Data Media|
+|9|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|72.10.164.178|17431|Canada|Montreal|GloboTech Communications|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|16|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
