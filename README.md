@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|2|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|1|172.104.170.44|1080|Singapore|Singapore|Akamai Technologies|
+|2|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
 |3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|103.163.80.70|8090|Indonesia|Ngawi|PT Data Arta Sedaya|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|102.221.40.111|8080|South Africa|George|Telkom SA Ltd.|
-|9|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|10|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|11|103.148.131.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|67.43.227.226|22297|Canada|Montreal|GloboTech Communications|
-|15|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|17|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.143.197.212|8010|Indonesia|Semarang|JERNIHNETWORK|
+|6|177.93.44.30|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|202.47.188.193|7777|Indonesia|Kediri|Lintas Data Prima, PT|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|8.219.3.41|10008|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|14|103.184.180.21|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|15|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
