@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.40.215|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.150.113.114|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|84.22.50.75|8080|Kosovo|Lipljan|Artmotion Sh.P.K.|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|11|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|12|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|14|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|16|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|18|27.189.131.72|8089|China|Langfang|Chinanet|
-|19|72.10.164.178|27835|Canada|Montreal|GloboTech Communications|
-|20|150.241.108.211|3128|Germany|Frankfurt am Main|u1host ltd|
+|1|203.150.113.114|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|10|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|11|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|15|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
