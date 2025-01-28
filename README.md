@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|2|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|27.147.175.115|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
-|8|38.194.253.100|999|Mexico|Zapopan|Ientc S De RL De CV|
-|9|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
-|10|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|11|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|91.218.142.114|3128|Latvia|Riga|RETN Limited|
+|8|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|10|41.220.131.56|8080|Tanzania|Arusha|Habari Node Ltd|
+|11|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
+|12|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|14|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|17|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
