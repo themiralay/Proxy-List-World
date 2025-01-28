@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.16.183|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|4|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |5|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|62.33.47.240|8090|Russia|Solnechnogorsk|Joint Stock Company TransTeleCom|
-|10|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|177.136.125.202|9999|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|18|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|20|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|12|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|13|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|67.43.236.20|4973|Canada|Montreal|GloboTech Communications|
+|15|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|16|223.206.92.150|8080|Thailand|Bang Pahan|Triple T Broadband Public Company Limited|
+|17|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|18|111.177.48.18|9502|China|Shizishan|Chinanet|
+|19|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|20|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
