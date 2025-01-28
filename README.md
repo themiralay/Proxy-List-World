@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|124.122.38.57|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|223.206.55.49|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|5|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|6|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|5|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 |8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|190.60.39.71|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
-|11|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|12|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|102.222.88.226|8080|Mozambique|Maputo|JENNY INTERNET (PTY) LTD|
-|18|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
-|19|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|115.72.13.202|10014|Vietnam|Vũng Tàu|VIETELmetro|
+|10|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|15.168.228.9|3128|Japan|Osaka|Amazon Technologies Inc.|
+|18|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
