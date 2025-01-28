@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|45.77.248.71|45613|Singapore|Singapore|The Constant Company|
-|5|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|38.183.146.171|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|45.188.124.121|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.A De C.V.|
-|15|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|18|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|19|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|7|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|103.75.199.121|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|45.160.179.15|80|Brazil|Santana do Araguaia|P.A THOMAZ MARCELINO & CIA EPP LTDA|
+|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|17|103.133.24.49|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|18|67.43.236.21|27153|Canada|Montreal|GloboTech Communications|
+|19|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|27.66.244.8|8080|Vietnam|Haiphong|Viettel Group|
 
 
 
