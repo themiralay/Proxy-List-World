@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.191.180.234|8080|Indonesia|Grogol|PT.Global Media Data Prima|
-|2|160.19.17.36|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|6|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|9|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.227.186.58|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|14|38.196.193.253|999|Venezuela|Caracas|Wlink Telecom CA|
-|15|203.170.66.154|8080|Pakistan|Lahore|Netsol CONNECT LHE Core|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|12|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|13|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|58.59.61.200|10991|China|Jinan|Chinanet|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|67.43.236.21|2027|Canada|Montreal|GloboTech Communications|
+|20|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
 
 
 
