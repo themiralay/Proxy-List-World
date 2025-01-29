@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|2|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|3|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|13|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|14|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|103.147.247.171|8080|Indonesia|Tangerang|PLBNET|
-|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|19|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|72.10.160.91|12957|Canada|Montreal|GloboTech Communications|
+|16|24.52.135.71|8888|United States|Beardstown|Cass Cable TV, Inc.|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|19|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|20|67.43.228.250|13239|Canada|Montreal|GloboTech Communications|
 
 
 
