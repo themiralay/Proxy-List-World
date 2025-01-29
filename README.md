@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|45.123.142.100|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|12|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|15|91.219.171.48|8952|Ukraine|Odesa|PE Saychik Pavlo Evgenovuch|
-|16|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|18|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
+|1|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|203.150.113.194|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|13|24.52.135.71|8888|United States|Beardstown|Cass Cable TV, Inc.|
+|14|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|17|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|19|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
