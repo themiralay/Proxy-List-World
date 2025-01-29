@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|103.156.15.83|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|4|182.253.109.15|8080|Indonesia|Jakarta|Biznet Metronet|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|2|182.253.109.15|8080|Indonesia|Jakarta|Biznet Metronet|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|9|147.93.114.223|3128|United States|Boston|Hostinger International Limited|
-|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|122.3.77.27|8082|Philippines|Cabanatuan City|Philippine Long Distance Telephone Co.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|122.3.77.27|8082|Philippines|Cabanatuan City|Philippine Long Distance Telephone Co.|
+|14|81.90.149.186|3128|Iran|Tehran|Afranet|
+|15|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
+|16|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|17|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
+|18|144.202.78.147|80|United States|Stuart|The Constant Company|
+|19|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
 
 
 
