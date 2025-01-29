@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
 |2|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|5|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|6|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|14|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
-|15|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|18|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|7|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|15|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|16|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|17|170.80.50.96|8080|Brazil|Jaboatão dos Guararapes|Ponte Digital|
+|18|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
