@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|59.17.116.67|3129|South Korea|Incheon|Korea Telecom|
-|3|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|4|38.7.18.146|999|Mexico|Fraccionamiento Girasoles|Internet Telefonia Y TV De Michoacan SA De CV|
-|5|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|7|161.82.219.250|8080|Thailand|Bangkok|Symphony Communication Public Company Limited|
-|8|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|51.250.19.75|3128|Russia|Moscow|Yandex.Cloud LLC|
-|12|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|13|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|31.56.78.186|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|16|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|19|51.195.4.12|8080|Germany|Limburg an der Lahn|OVH SAS|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|2|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|3|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|4|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|6|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|8|171.237.237.218|10018|Vietnam|Hanoi|Viettel Corporation|
+|9|51.195.4.12|8080|Germany|Limburg an der Lahn|OVH SAS|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|1.4.171.187|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|12|189.240.60.173|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|161.82.219.250|8080|Thailand|Bangkok|Symphony Communication Public Company Limited|
+|18|89.169.166.3|3128|Russia|Moscow|Yandex.Cloud LLC|
+|19|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
