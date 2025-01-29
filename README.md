@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|10|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|11|103.125.174.73|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|12|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|61.160.247.69|9999|China|Nanjing|China Telecom|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|72.10.160.172|7777|Canada|Montreal|GloboTech Communications|
-|17|121.227.118.187|8089|China|Nanjing|China Telecom|
-|18|67.43.228.250|10621|Canada|Montreal|GloboTech Communications|
-|19|180.127.149.212|1080|China|Nanjing|Chinanet|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|10|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
+|16|170.81.77.132|2222|Brazil|João Pessoa|Sigtel Servicos De Telecomunicacoes Ltda|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|36.67.208.62|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
