@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|2|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|5|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|67.43.236.18|21729|Canada|Montreal|GloboTech Communications|
-|14|103.167.170.63|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|15|72.10.160.170|16455|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10373|Canada|Montreal|GloboTech Communications|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|5|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|10|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|15|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|38.156.235.34|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
 
 
 
