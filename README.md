@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|45.123.142.73|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|1|45.123.142.73|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
 |7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|16|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|17|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.114.145.205|32650|India|Jaipur|Tejays Dynamic Limited|
-|19|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|2.188.229.150|7020|Iran|Tabriz|Ofogh Koroush Chain Store Public Joint Stock|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|13|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|121.227.109.19|8089|China|Nanjing|China Telecom|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
