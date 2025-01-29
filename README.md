@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|103.151.247.246|8081|Indonesia|Mamuju|MANAKARRANET|
-|8|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|9|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|10|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|186.215.43.193|3128|Brazil|Recife|TELEFÔNICA BRASIL S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|101.109.54.139|8080|Thailand|Pattaya|TOT Public Company Limited|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|12|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|13|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|15|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
-|18|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
