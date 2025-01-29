@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|8|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|188.132.222.39|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|14|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|38.194.250.66|999|Mexico|Las Pilas de Puruagua|Ientc S De RL De CV|
+|6|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|7|103.76.109.54|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|8|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|10|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|11|47.46.112.210|8080|United States|Los Angeles|Charter Communications|
+|12|38.194.250.146|999|Mexico|Las Pilas de Puruagua|Ientc S De RL De CV|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|144.137.217.187|80|Australia|Sydney|Telstra Internet|
+|16|223.204.50.58|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|17|147.45.152.140|3777|The Netherlands|Amsterdam|TimeWeb Ltd.|
 |18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|4.247.152.147|3128|India|Pune|Microsoft Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
