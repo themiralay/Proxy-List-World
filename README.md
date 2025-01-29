@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|119.95.238.173|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
 |3|15.235.214.158|3128|Singapore|Singapore|OVH SAS|
-|4|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|5|58.8.255.95|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
 |6|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
 |7|159.89.173.109|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
-|9|180.251.9.180|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|10|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
-|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|12|18.198.202.49|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
-|14|44.220.137.168|3128|United States|Ashburn|Amazon.com|
-|15|185.58.16.1|8080|Ireland|Dublin|Carnsore Broadband Limited|
-|16|85.51.155.18|3128|Spain|Pozuelo de Alarcón|UNI2|
-|17|54.224.2.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|10|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
+|11|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
+|12|85.51.155.18|3128|Spain|Pozuelo de Alarcón|UNI2|
+|13|54.224.2.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|18.198.202.49|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
+|16|44.220.137.168|3128|United States|Ashburn|Amazon.com|
+|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |18|37.46.19.71|3128|Ireland|Dundalk|Cloud Hosting Solutions, Limited.|
 |19|172.232.156.94|3128|Sweden|Stockholm|Akamai Technologies, Inc.|
-|20|189.89.219.146|3128|Brazil|Lavras|Stratus Telecomunicacoes Ltda|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
