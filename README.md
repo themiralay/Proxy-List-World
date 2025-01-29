@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|103.155.198.105|7777|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.126.87.120|8082|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|7|103.154.230.92|8080|Indonesia|Lamongan|DIGITNET|
-|8|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|9|169.159.128.116|8082|South Africa|Pretoria|Herotel|
-|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|185.152.253.243|8080|Italy|San Salvatore Telesino|Hytel S.R.L.|
-|13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|157.10.182.229|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|103.166.8.238|1080|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|19|58.136.170.123|8080|Thailand|Bangkok|AIS-Fibre|
-|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|7|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|13|103.12.173.38|8080|Bangladesh|Dhaka|SkyTel Communications Limited|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|113.11.183.43|8181|Indonesia|Purwokerto|BIZNET|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|37.32.29.253|8888|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|20|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
 
 
 
