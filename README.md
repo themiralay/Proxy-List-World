@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|5|171.237.237.218|10019|Vietnam|Hanoi|Viettel Corporation|
-|6|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|2|202.75.28.102|8080|Indonesia|Tegal|PT. Trans Indonesia Superkoridor|
+|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|4|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|10|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|13|103.39.51.57|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|14|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|18|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|19|171.4.93.177|8081|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
-|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|13|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|17|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
+|18|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|20|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
 
 
 
