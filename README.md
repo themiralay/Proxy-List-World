@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|3|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|12|37.78.6.66|3128|Russia|Krasnodar|PAO Rostelecom|
-|13|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|14|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|16|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|17|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|67.43.227.227|15423|Canada|Montreal|GloboTech Communications|
+|1|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|4|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|9|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
