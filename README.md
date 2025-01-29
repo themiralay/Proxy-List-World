@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|12|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|13|31.56.78.191|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|14|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|18|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|8|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|37.78.6.66|3128|Russia|Krasnodar|PAO Rostelecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|185.126.5.72|8080|Iran|Tehran|PISHGAMAN|
 
 
 
