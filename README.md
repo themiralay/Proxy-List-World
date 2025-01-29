@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|2|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|3|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|1|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
 |7|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|8|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|9|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|15.235.141.213|10002|Singapore|Singapore|OVH SAS|
-|18|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|187.102.221.66|32650|Brazil|São José do Jacuri|Masternet Telecomunicacao Ltda|
-|20|38.156.235.34|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|11|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|49.48.115.45|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|18|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
 
 
 
