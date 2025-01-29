@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|7|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|189.240.60.173|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|125.229.153.129|80|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|4|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|9|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 |12|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
-|13|89.169.166.3|3128|Russia|Moscow|Yandex.Cloud LLC|
-|14|171.237.237.218|10027|Vietnam|Hanoi|Viettel Corporation|
-|15|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
-|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|38.183.146.178|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|13|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|89.169.166.3|3128|Russia|Moscow|Yandex.Cloud LLC|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|17|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|19|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
