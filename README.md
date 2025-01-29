@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|3|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|24.52.135.71|8888|United States|Beardstown|Cass Cable TV, Inc.|
-|14|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|15|223.206.2.198|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|67.43.236.20|17273|Canada|Montreal|GloboTech Communications|
-|20|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|1|203.150.113.194|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|20.246.132.177|3128|United States|Boydton|Microsoft Corporation|
+|3|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|5|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|10|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|11|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|13|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
