@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|211.177.120.92|3128|South Korea|Yeongdeungpo-gu|SK Broadband Co Ltd|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|5|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|15.235.214.158|3128|Singapore|Singapore|OVH SAS|
-|7|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
-|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|9|58.8.255.95|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|10|110.137.77.137|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
-|11|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
-|12|175.100.70.72|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|159.89.173.109|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|15|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|16|44.220.137.168|3128|United States|Ashburn|Amazon.com|
-|17|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
-|19|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|172.233.188.6|8080|United States|Miami|Akamai Technologies, Inc.|
+|3|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.235.214.158|3128|Singapore|Singapore|OVH SAS|
+|5|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
+|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|7|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
+|8|110.137.77.137|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
+|9|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|10|175.100.70.72|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|159.89.173.109|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|13|44.220.137.168|3128|United States|Ashburn|Amazon.com|
+|14|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|180.251.9.180|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|17|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
+|18|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|19|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
+|20|27.131.250.222|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
