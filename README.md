@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|2|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|12|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|15|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|16|103.111.136.110|8081|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
-|17|186.96.67.58|999|Venezuela|Caracas|Gold Data C.A|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|103.181.255.237|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|160.191.180.234|8080|Indonesia|Grogol|PT.Global Media Data Prima|
+|4|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|5|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|12|34.29.184.36|443|United States|Council Bluffs|Google LLC|
+|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|45.239.51.179|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|18|38.194.251.246|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|19|202.47.188.76|8087|Indonesia|Kediri|Lintas Data Prima, PT|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
