@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|3|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |4|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|7|175.215.52.166|3128|South Korea|Jinju|Korea Telecom|
+|5|103.251.8.255|8181|Indonesia|Gianyar|PT Trika Global Media|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
 |8|44.220.137.168|3128|United States|Ashburn|Amazon.com|
 |9|54.224.2.226|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
-|12|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|14|138.124.81.13|80|France|Paris|365.partners INC|
-|15|68.66.251.108|3128|The Netherlands|Amsterdam|A2 Hosting, Inc.|
-|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|17|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|37.46.19.71|3128|Ireland|Dundalk|Cloud Hosting Solutions, Limited.|
+|12|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
+|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|1.4.171.187|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|17|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|18|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|20|175.215.52.166|3128|South Korea|Jinju|Korea Telecom|
 
 
 
