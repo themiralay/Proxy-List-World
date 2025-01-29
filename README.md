@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|105.101.197.135|3128|Algeria|Algiers|Algerie Telecom|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|136.169.245.102|8080|Russia|Orenburg|JSC "Ufanet"|
-|6|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|7|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|105.101.197.135|3128|Algeria|Algiers|Algerie Telecom|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |8|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
 |9|103.247.13.131|8080|Indonesia|Klaten|TERABIT|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|49.49.94.139|8888|Thailand|Akat Amnuai|Triple T Broadband Public Company Limited|
-|12|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|14|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.162.54.151|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|12|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
