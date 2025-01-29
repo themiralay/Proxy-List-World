@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|123.100.226.183|3128|Indonesia|Jakarta|PT. EXABYTES NETWORK INDONESIA|
-|5|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|6|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
-|7|44.243.223.14|3128|United States|Portland|Amazon.com, Inc.|
-|8|187.234.44.253|3128|Mexico|Naucalpan|Uninet S.A. de C.V.|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|11|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
-|12|44.243.223.14|3128|United States|Portland|Amazon.com, Inc.|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|36.75.173.67|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|15|174.138.8.169|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|185.180.109.8|3128|The Netherlands|Dronten|Tyurin Viktor Mihaylovich|
-|17|54.93.246.240|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|3.120.24.158|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|87.106.98.43|3128|Germany|Berlin|IONOS SE|
-|20|5.45.121.61|3128|Estonia|Jõhvi|PAGM network|
+|2|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
+|3|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|7|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
+|8|44.243.223.14|3128|United States|Portland|Amazon.com, Inc.|
+|9|185.180.109.8|3128|The Netherlands|Dronten|Tyurin Viktor Mihaylovich|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|203.190.44.252|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|36.75.173.67|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|16|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|17|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|18|103.227.186.48|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|19|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
