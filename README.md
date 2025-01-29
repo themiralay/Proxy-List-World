@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|2|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|3|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|4|121.227.118.179|8089|China|Nanjing|China Telecom|
-|5|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
-|6|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|7|159.223.52.167|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|10|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|11|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|207.148.68.198|1234|Singapore|Singapore|SGP VULTR|
-|13|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|67.43.228.250|3433|Canada|Montreal|GloboTech Communications|
-|15|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|103.180.176.235|3128|India|New Delhi|Adschrome Digital PVT LTD|
+|1|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|6|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|15|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|16|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
+|18|67.43.228.250|3433|Canada|Montreal|GloboTech Communications|
+|19|118.113.244.46|2324|China|Chengdu|Chinanet|
+|20|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
