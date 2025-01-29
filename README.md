@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
 |2|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|7|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|216.137.177.184|3128|United States|Cleveland|A2 Hosting, Inc.|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |9|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|12|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|17|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.183.10.168|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
 |20|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
