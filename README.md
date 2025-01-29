@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
-|3|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|4|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|171.4.93.177|8081|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
-|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|7|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|103.144.18.87|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|11|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
-|12|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|13|101.109.213.135|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|203.175.103.25|8080|Indonesia|Kuningan|MITRAKITA|
-|15|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|18|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|1|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|5|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|202.75.28.102|8080|Indonesia|Tegal|PT. Trans Indonesia Superkoridor|
+|11|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|17|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
