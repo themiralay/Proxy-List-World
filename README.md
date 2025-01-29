@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.221|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.69.58|3128|Japan|Chiyoda|InfoSphere|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|8|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|9|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|14|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
-|15|54.180.26.16|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|5|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|6|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|11|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
+|14|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
 |17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|19|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|20|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|19|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|20|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
