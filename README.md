@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|185.47.221.213|3128|Czechia|Prague|JM-Net, z.s.|
-|9|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|10|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|13|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|14|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|72.10.164.178|13487|Canada|Montreal|GloboTech Communications|
-|19|157.66.84.17|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|20|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|11|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|12|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
