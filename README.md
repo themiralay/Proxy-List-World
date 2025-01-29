@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|44.220.137.168|3128|United States|Ashburn|Amazon.com|
-|8|54.224.2.226|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|11|144.202.78.147|80|United States|Stuart|The Constant Company|
-|12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|168.196.161.5|8080|Brazil|Monte Azul|JJVA Provedor de Internet ME LTDA|
-|15|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|16|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|38.52.212.113|999|Guatemala|Salcajá|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|20|72.144.110.109|3128|Germany|Frankfurt am Main|BellSouth.net Inc.|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
+|7|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|9|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|44.220.137.168|3128|United States|Ashburn|Amazon.com|
+|11|54.224.2.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|16|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|17|177.53.155.204|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|19|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|181.78.21.74|999|Colombia|San Marcos|IFX Networks Argentina S.R.L|
 
 
 
