@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.53.60.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|2|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|3|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|10|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
-|11|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|38.156.72.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|91.219.171.48|8952|Ukraine|Odesa|PE Saychik Pavlo Evgenovuch|
-|16|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|17|62.33.47.240|8090|Russia|Solnechnogorsk|Joint Stock Company TransTeleCom|
-|18|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|19|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|20|64.76.43.115|999|Mexico|Mexico City|Level 3 Communications, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|84.201.160.82|3128|Russia|Moscow|Yandex enterprise network|
+|8|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|157.66.16.41|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|16|38.183.146.25|3333|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
