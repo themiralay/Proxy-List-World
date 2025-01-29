@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.162.60.230|8080|Indonesia|Yogyakarta|PT Indo Prima Akses|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
-|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|8|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|103.94.10.180|8080|Indonesia|Jakarta|PT Widya Intersat Nusantara|
+|14|103.170.22.137|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|147.78.169.80|800|Slovakia|Nitra|OSTV s.r.o.|
+|20|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
