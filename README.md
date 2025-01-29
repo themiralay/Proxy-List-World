@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|2|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|7|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|8|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
-|12|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|14|72.10.160.90|21053|Canada|Montreal|GloboTech Communications|
-|15|223.205.78.95|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|16|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
-|17|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.170|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|11|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|103.99.136.66|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|13|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|14|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|72.10.160.90|21053|Canada|Montreal|GloboTech Communications|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
 
 
 
