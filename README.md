@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|3|1.179.245.95|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|203.175.102.22|8082|Indonesia|Sukasari|MITRAKITA|
+|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|15|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
