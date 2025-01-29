@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4524** proxies at the latest update. Usable proxies are below.
+> Scraper found **4711** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|578|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|494|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|200.37.187.60|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|4|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
-|7|194.36.171.4|3128|United States|Fremont|CGI GLOBAL LIMITED|
-|8|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|157.20.50.238|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
-|10|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|67.43.227.227|19127|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|3683|Canada|Montreal|GloboTech Communications|
-|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|54.93.246.240|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|17|72.10.160.92|27241|Canada|Montreal|GloboTech Communications|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|20|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|4|103.105.76.10|3125|Indonesia|Pare|GARUDA|
+|5|38.156.236.154|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|6|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|7|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|72.10.160.92|27241|Canada|Montreal|GloboTech Communications|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|103.226.251.105|46273|Vietnam|Ô Chợ Dừa|GDATA|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
