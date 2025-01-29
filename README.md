@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|119.92.75.252|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
-|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|81.90.149.186|3128|Iran|Tehran|Afranet|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.156.15.119|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
-|18|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|101.109.54.139|8080|Thailand|Pattaya|TOT Public Company Limited|
+|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|14|189.70.40.117|8080|Brazil|São Luís|V tal|
+|15|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
+|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|119.252.251.81|3128|China|Dongguan|zhelet limited|
 
 
 
