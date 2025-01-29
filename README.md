@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|146.83.216.227|80|Chile|Ñuñoa|Red Universitaria Nacional|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
-|6|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|68.183.219.8|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|14|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|20|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|1|84.201.166.86|3128|Russia|Moscow|Yandex enterprise network|
+|2|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|84.201.177.141|3128|Russia|Moscow|Yandex enterprise network|
+|9|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|164.70.117.78|3128|Japan|Chiyoda|InfoSphere|
+|17|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 
 
 
