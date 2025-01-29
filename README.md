@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|195.245.242.250|3128|Japan|Tokyo|xTom Japan Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|195.245.242.250|3128|Japan|Tokyo|xTom Japan Co., Ltd.|
 |3|211.177.120.92|3128|South Korea|Yeongdeungpo-gu|SK Broadband Co Ltd|
-|4|114.36.111.211|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|5|15.235.214.158|3128|Singapore|Singapore|OVH SAS|
-|6|118.17.173.136|3128|Japan|Fukuoka|NTT Communications Corporation|
-|7|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|9|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
-|10|107.172.20.22|3128|United States|Dallas|HostPapa|
-|11|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
-|12|203.207.56.57|80|Indonesia|Bandung|STARNET|
-|13|110.137.77.137|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
-|14|103.199.117.106|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
+|4|118.17.173.136|3128|Japan|Fukuoka|NTT Communications Corporation|
+|5|114.36.111.211|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|6|43.153.63.137|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|156.244.14.112|3128|United States|Chicago|Kaopu Cloud HK Limited|
+|8|15.235.214.158|3128|Singapore|Singapore|OVH SAS|
+|9|112.210.245.241|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|11|203.207.56.57|80|Indonesia|Bandung|STARNET|
+|12|104.36.229.111|3128|United States|West Chicago|Shock Hosting LLC|
+|13|107.172.20.22|3128|United States|Dallas|HostPapa|
+|14|110.137.77.137|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
 |15|107.174.224.179|3128|United States|Dallas|HostPapa|
 |16|58.8.255.95|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|103.18.79.164|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|17|159.89.173.109|3128|India|Bengaluru|DigitalOcean, LLC|
 |18|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|19|125.161.22.113|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|20|103.93.236.106|8080|Indonesia|Karawang|PT Artha Media Lintas Nusa|
+|19|113.184.217.182|8080|Vietnam|Hanoi|VNPT|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
