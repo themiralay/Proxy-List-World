@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|2|171.237.237.218|10002|Vietnam|Hanoi|Viettel Corporation|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|185.47.221.213|3128|Czechia|Prague|JM-Net, z.s.|
-|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|103.160.182.115|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|103.180.123.39|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|15|182.53.21.245|8080|Thailand|Si Racha|TOT Public Company Limited|
-|16|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|17|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|20|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|101.109.101.171|8080|Thailand|Klaeng|TOT Public Company Limited|
+|8|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|110.77.244.68|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
+|12|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|13|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|16|38.7.131.18|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
