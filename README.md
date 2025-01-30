@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|2|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|3|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
-|4|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|5|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
-|6|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
-|7|128.140.122.130|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|128.199.44.243|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.165.155.147|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|13|202.51.196.89|5678|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|14|103.175.224.93|8080|Indonesia|Jakarta|MYREPUBLIC|
-|15|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|3.144.16.143|1081|United States|Dublin|Amazon.com, Inc.|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|103.81.222.132|8080|Indonesia|Bandung|STARNET|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|1|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|2|98.84.156.229|3128|United States|Ashburn|BellSouth.net Inc.|
+|3|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|4|162.43.33.87|3127|Japan|Chiyoda|XSERVER Inc.|
+|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|6|98.84.156.229|3128|United States|Ashburn|BellSouth.net Inc.|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|9|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|10|36.89.209.147|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|188.125.169.93|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
+|14|178.255.148.226|8118|Norway|Oslo|Blix Solutions|
+|15|91.107.253.178|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|17|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|18|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|20|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
