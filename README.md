@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
 |3|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
 |4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|139.84.215.1|3129|India|Bengaluru|The Constant Company, LLC|
-|11|139.84.209.129|3129|India|Bengaluru|The Constant Company, LLC|
-|12|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|13|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|139.84.209.122|3129|India|Bengaluru|The Constant Company, LLC|
-|15|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|139.84.209.129|3129|India|Bengaluru|The Constant Company, LLC|
-|17|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|139.84.209.129|3129|India|Bengaluru|The Constant Company, LLC|
+|6|179.53.76.172|80|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|139.84.209.129|3129|India|Bengaluru|The Constant Company, LLC|
+|9|139.84.215.1|3129|India|Bengaluru|The Constant Company, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|103.143.197.212|8010|Indonesia|Semarang|JERNIHNETWORK|
+|17|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|160.19.17.38|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
+|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
