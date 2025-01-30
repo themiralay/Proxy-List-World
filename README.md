@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|6|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|138.124.81.13|80|France|Paris|365.partners INC|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|17|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|18|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|187.32.246.84|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
 |20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
