@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|5|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
-|6|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
-|7|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|4|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
+|5|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|8|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|9|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
 |10|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|45.184.103.116|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|13|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|14|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
-|15|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|17|54.237.148.244|80|United States|Ashburn|Amazon.com, Inc.|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|20|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|11|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|13|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|18|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|20|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
