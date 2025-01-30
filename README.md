@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|4|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
-|5|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|6|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|12|139.84.223.39|3129|India|Bengaluru|The Constant Company, LLC|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|8|138.124.81.13|80|France|Paris|365.partners INC|
+|9|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|209.38.56.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
-|18|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|103.133.61.188|8080|Indonesia|Menggala|TLINK|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
