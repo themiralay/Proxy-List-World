@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|2|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
-|3|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|223.205.96.247|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|203.150.128.131|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|20|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
+|4|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|6|172.236.32.185|7777|Australia|Melbourne|Akamai Technologies, Inc.|
+|7|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|119.18.154.201|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|10|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
+|12|168.205.255.238|80|Brazil|Brasília|Gente Telecom do Brasil Eireli ME|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|203.150.128.131|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
