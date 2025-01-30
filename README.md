@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|7|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|9|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|11|101.109.59.122|8080|Thailand|Pattaya|TOT Public Company Limited|
-|12|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|13|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|15|101.109.59.122|8080|Thailand|Pattaya|TOT Public Company Limited|
+|16|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
+|18|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
 
 
 
