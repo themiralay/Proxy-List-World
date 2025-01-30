@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|8|67.220.72.118|3128|United States|Los Angeles|GTHost|
-|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|118.113.245.137|2324|China|Chengdu|Chinanet|
-|17|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|24.172.82.94|53281|United States|Belmont|Spectrum|
-|19|72.10.160.172|8553|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
+|3|128.14.226.76|60080|Taiwan|Taipei|Zenlayer Inc|
+|4|128.14.226.76|60080|Taiwan|Taipei|Zenlayer Inc|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|11|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|15|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
