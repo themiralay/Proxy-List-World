@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|1|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|103.133.27.50|8081|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|6|15.207.106.154|9080|India|Mumbai|Amazon Technologies Inc.|
 |7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|71.42.125.218|4444|United States|Leander|Spectrum|
-|9|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|10|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|11|71.42.125.218|4444|United States|Leander|Spectrum|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|124.13.98.240|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|15|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|101.231.178.155|7228|China|Shanghai|China Telecom (Group)|
-|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|20|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|138.124.81.13|80|France|Paris|365.partners INC|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|13|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|20|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
