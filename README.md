@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.202.78.147|80|United States|Stuart|The Constant Company|
+|1|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
 |2|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|3|185.233.184.39|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|138.124.81.13|80|France|Paris|365.partners INC|
-|8|152.166.69.34|8080|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|9|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|10|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|11|37.60.232.250|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|192.121.102.105|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|13|103.226.232.197|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|15|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
-|16|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|17|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|3|186.148.47.253|999|Chile|Rengo|TELEFÓNICA CHILE S.A.|
+|4|202.56.166.157|8080|Indonesia|Trucuk|PT Lintas Data Prima|
+|5|192.121.102.105|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|138.124.81.13|80|France|Paris|365.partners INC|
+|10|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|11|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|12|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|15|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|17|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|18|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|19|185.233.184.39|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|34.215.138.104|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
