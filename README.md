@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|3|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|139.84.215.1|3129|India|Bengaluru|The Constant Company, LLC|
-|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|139.84.215.1|3129|India|Bengaluru|The Constant Company, LLC|
-|10|184.82.63.71|8080|Thailand|Khon Kaen|AIS-Fibre|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|19|45.239.48.66|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|3|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|38.183.213.232|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|38.183.213.232|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
+|12|103.80.237.65|8181|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
+|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|14|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
+|15|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|103.122.0.162|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
