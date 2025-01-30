@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|2|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.190.170.132|8080|Indonesia|Panggungharjo|PT Ring Media Nusantara|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|138.124.81.13|80|France|Paris|365.partners INC|
-|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|16|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
-|17|113.192.48.25|8181|Indonesia|Batu|PT.Global Media Data Prima|
-|18|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|103.250.128.5|8082|Indonesia|Utan|PT Asri Global Investama|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|138.124.81.13|80|France|Paris|365.partners INC|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|12|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|164.70.65.169|3128|Japan|Chiyoda|InfoSphere|
+|18|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
