@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|103.156.86.85|7777|Indonesia|Palopo|PT Chacha Networking System|
+|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |12|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|14|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|15|103.235.34.130|57413|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
 |16|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|45.114.144.238|32650|India|Jaipur|Tejays Dynamic Limited|
 |18|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
 
 
 
