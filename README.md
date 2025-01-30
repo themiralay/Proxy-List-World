@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|218.148.203.158|3128|South Korea|Goyang-si|Korea Telecom|
-|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|5|159.223.56.22|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.100.79.34|8080|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|150.136.59.157|3128|United States|Ashburn|Oracle Corporation|
-|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|11|150.136.59.157|3128|United States|Ashburn|Oracle Corporation|
-|12|47.254.79.178|22|United States|Santa Clara|Alibaba.com LLC|
+|1|218.148.203.158|3128|South Korea|Goyang-si|Korea Telecom|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|116.100.79.34|8080|Vietnam|Hanoi|Viettel Corporation|
+|4|45.174.108.199|999|Mexico|Almoloya del Río|Iptvtel Comunicaciones S De RL De CV|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|38.51.237.24|999|Venezuela|Cabimas|Colnetwork C.A.|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|17|216.108.211.231|80|United States|Bloomington|Mediacom Communications|
-|18|144.202.78.147|80|United States|Stuart|The Constant Company|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|14|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
+|19|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|78.80.238.218|3128|Czechia|Prague|T-Mobile Czech Republic a.s.|
 
 
 
