@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|8|185.35.130.147|58904|Russia|Moscow|Plazmatelekom LLC|
-|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
-|12|103.242.104.133|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|13|116.105.59.213|10005|Vietnam|Hanoi|Viettel Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|116.105.59.213|10005|Vietnam|Hanoi|Viettel Corporation|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|72.10.160.170|18949|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|13007|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|14925|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20467|Canada|Montreal|GloboTech Communications|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|164.70.117.76|3128|Japan|Chiyoda|InfoSphere|
+|10|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|19|72.10.164.178|27839|Canada|Montreal|GloboTech Communications|
+|20|171.237.237.218|10034|Vietnam|Hanoi|Viettel Corporation|
 
 
 
