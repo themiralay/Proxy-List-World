@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|3|139.84.149.94|3129|India|Bengaluru|The Constant Company, LLC|
-|4|139.84.146.190|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.157.48|3129|India|Bengaluru|The Constant Company, LLC|
-|6|139.84.158.232|3129|India|Bengaluru|The Constant Company, LLC|
-|7|139.84.146.108|3129|India|Bengaluru|The Constant Company, LLC|
-|8|200.94.102.11|999|Mexico|Cunduacán|Alestra, S. de R.L. de C.V.|
-|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|12|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|13|200.10.28.170|999|Colombia|Manizales|Super Redes S.A.S|
-|14|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
-|15|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|163.53.82.158|32650|India|Udaipur|Kay Kay Softech Private Limited|
-|18|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|54.251.173.145|8080|Singapore|Singapore|Amazon.com, Inc.|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|10|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|11|139.84.158.232|3129|India|Bengaluru|The Constant Company, LLC|
+|12|139.84.149.94|3129|India|Bengaluru|The Constant Company, LLC|
+|13|139.84.157.48|3129|India|Bengaluru|The Constant Company, LLC|
+|14|139.84.146.108|3129|India|Bengaluru|The Constant Company, LLC|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|19|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
+|20|82.66.210.159|8118|France|Toulouse|Proxad / Free SAS|
 
 
 
