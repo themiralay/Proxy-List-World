@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|180.251.252.149|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|4|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|8|139.84.215.1|3129|India|Bengaluru|The Constant Company, LLC|
-|9|139.84.209.129|3129|India|Bengaluru|The Constant Company, LLC|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|13|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|14|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|15|139.84.209.122|3129|India|Bengaluru|The Constant Company, LLC|
-|16|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|17|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|18|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|20|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|2|180.251.252.149|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|139.84.209.122|3129|India|Bengaluru|The Constant Company, LLC|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|139.84.209.129|3129|India|Bengaluru|The Constant Company, LLC|
+|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
