@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|4|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.125.51.25|8080|Indonesia|Bogor|PT. Eka Mas Republik|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|10|72.10.160.170|13631|Canada|Montreal|GloboTech Communications|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|118.113.245.235|2324|China|Chengdu|Chinanet|
-|14|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
-|15|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|17|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|181.232.190.213|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|11|72.10.160.170|22981|Canada|Montreal|GloboTech Communications|
+|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|13|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
+|17|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |19|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|20|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
