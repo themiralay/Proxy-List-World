@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|116.105.130.73|10002|Vietnam|Quận Một|Viettel Corporation|
-|3|103.155.116.247|1080|Indonesia|Serang|IOSYS|
-|4|203.150.128.219|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|8|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|9|101.255.208.246|7888|Indonesia|Bekasi|PT Remala Abadi|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|18|45.190.78.50|999|Mexico|Tala|Meta Networks SA De CV|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|13|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
