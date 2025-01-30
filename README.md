@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|11|134.35.207.198|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|14|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|2|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|4|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|13|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|19|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
