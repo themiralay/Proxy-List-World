@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|115.72.172.117|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|103.147.134.85|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|138.124.81.13|80|France|Paris|365.partners INC|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|167.172.90.124|8131|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |12|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|207.148.68.198|1234|Singapore|Singapore|SGP VULTR|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|19|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|223.204.53.108|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|157.20.218.28|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|17|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|45.184.103.105|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
 
 
 
