@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4706** proxies at the latest update. Usable proxies are below.
+> Scraper found **4918** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|212|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|755|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |7|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|11|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|202.154.18.29|9191|Indonesia|Bojonegoro|DIGITNET|
-|14|38.172.130.119|999|Peru|Lima|Conex TV E.I.R.L.|
-|15|207.148.68.198|1234|Singapore|Singapore|SGP VULTR|
-|16|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|17|185.180.109.8|3128|The Netherlands|Dronten|Tyurin Viktor Mihaylovich|
-|18|103.154.230.188|8080|Indonesia|Lamongan|DIGITNET|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 
 
 
