@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|3|139.84.223.39|3129|India|Bengaluru|The Constant Company, LLC|
-|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
 |6|139.84.223.39|3129|India|Bengaluru|The Constant Company, LLC|
-|7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|139.84.219.199|3129|India|Bengaluru|The Constant Company, LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|139.84.218.178|3129|India|Bengaluru|The Constant Company, LLC|
-|12|139.84.217.147|3129|India|Bengaluru|The Constant Company, LLC|
-|13|115.147.34.99|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|103.169.41.236|8080|Indonesia|Mata Ie|Telnet Indonesia|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|139.84.146.144|3129|India|Bengaluru|The Constant Company, LLC|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|9|139.84.223.39|3129|India|Bengaluru|The Constant Company, LLC|
+|10|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|11|138.124.81.13|80|France|Paris|365.partners INC|
+|12|139.84.219.199|3129|India|Bengaluru|The Constant Company, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|139.84.217.147|3129|India|Bengaluru|The Constant Company, LLC|
+|15|139.84.218.178|3129|India|Bengaluru|The Constant Company, LLC|
+|16|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|17|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|20|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 
 
 
