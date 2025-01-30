@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|67.43.236.20|24933|Canada|Montreal|GloboTech Communications|
-|16|172.232.156.94|3128|Sweden|Stockholm|Akamai Technologies, Inc.|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|67.43.228.254|4813|Canada|Montreal|GloboTech Communications|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|177.234.217.62|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.48.68.138|84|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
