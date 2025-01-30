@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|5|171.5.131.232|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|51.15.11.160|3128|The Netherlands|Amsterdam|Online SAS NL|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|11|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|15|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|16|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|17|138.124.81.13|80|France|Paris|365.partners INC|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
+|3|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|4|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|5|218.148.203.158|3128|South Korea|Goyang-si|Korea Telecom|
+|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|7|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
