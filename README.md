@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|7|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|223.205.96.247|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|10|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.171.255.245|8080|Indonesia|Sleman|ZKI|
-|12|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|13|103.166.158.165|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
-|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|93.185.157.63|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|24.52.135.71|8888|United States|Beardstown|Cass Cable TV, Inc.|
+|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
+|18|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
