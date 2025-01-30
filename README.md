@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|157.90.149.245|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|171.237.237.218|10010|Vietnam|Hanoi|Viettel Corporation|
+|3|101.109.101.171|8080|Thailand|Klaeng|TOT Public Company Limited|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
 |8|185.47.221.213|3128|Czechia|Prague|JM-Net, z.s.|
-|9|190.237.238.112|999|Peru|Lima|TDP-GRS|
-|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|12|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|138.201.157.158|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|10|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|157.90.149.245|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|15|103.230.81.26|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|16|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
+|17|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |18|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|67.43.236.22|22221|Canada|Montreal|GloboTech Communications|
+|19|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
