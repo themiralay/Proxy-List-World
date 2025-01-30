@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|106.251.66.243|51804|South Korea|Gangdong-gu|LG DACOM Corporation|
-|3|103.160.182.115|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|185.82.126.195|1080|Sweden|Stockholm|YOURSERVER|
-|14|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|15|103.231.236.82|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|20|101.109.101.171|8080|Thailand|Klaeng|TOT Public Company Limited|
+|2|218.148.203.158|3128|South Korea|Goyang-si|Korea Telecom|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|8|171.4.67.35|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.180.123.39|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|14|103.231.236.82|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|15|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
+|16|103.155.65.65|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|17|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|18|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|19|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|110.77.244.68|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
 
 
 
