@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|150.241.108.211|3128|Germany|Frankfurt am Main|u1host ltd|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|186.96.160.202|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|8|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|9|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|13|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|14|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|18|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|19|31.7.70.215|3128|Iran|Tehran|Asiatech Data Transmission company|
-|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
+|5|203.150.113.127|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|8|103.149.238.106|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
+|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|138.124.81.13|80|France|Paris|365.partners INC|
+|12|95.0.32.30|8080|Cyprus|Nicosia|TurkTelecom|
+|13|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|171.237.237.218|10026|Vietnam|Hanoi|Viettel Corporation|
+|16|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|194.150.71.39|7060|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
+|18|51.210.54.186|8585|France|Roubaix|OVH SAS|
+|19|194.44.36.114|6868|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
