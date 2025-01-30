@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |3|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|5|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
 |6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|7|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.117.194.250|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
-|16|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|10|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|12|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|51.15.11.160|3128|The Netherlands|Amsterdam|Online SAS NL|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|116.100.79.34|8080|Vietnam|Hanoi|Viettel Corporation|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
 
 
 
