@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|78.80.238.218|3128|Czechia|Prague|T-Mobile Czech Republic a.s.|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|138.124.81.13|80|France|Paris|365.partners INC|
-|17|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|18|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|20|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|223.204.53.108|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|15|103.170.131.234|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|177.93.44.30|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
 
 
 
