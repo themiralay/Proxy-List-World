@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|36.94.8.23|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|14|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
-|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|181.115.66.234|999|Honduras|Tegucigalpa|Telgua|
-|17|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|20|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
