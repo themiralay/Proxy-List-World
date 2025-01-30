@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|10|139.84.218.178|3129|India|Bengaluru|The Constant Company, LLC|
-|11|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|139.84.219.199|3129|India|Bengaluru|The Constant Company, LLC|
-|13|139.84.217.147|3129|India|Bengaluru|The Constant Company, LLC|
-|14|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|15|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|16|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|17|139.84.218.178|3129|India|Bengaluru|The Constant Company, LLC|
-|18|139.84.217.147|3129|India|Bengaluru|The Constant Company, LLC|
-|19|139.84.219.199|3129|India|Bengaluru|The Constant Company, LLC|
-|20|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|139.84.218.178|3129|India|Bengaluru|The Constant Company, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|139.84.217.147|3129|India|Bengaluru|The Constant Company, LLC|
+|16|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
