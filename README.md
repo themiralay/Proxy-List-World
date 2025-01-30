@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5489** proxies at the latest update. Usable proxies are below.
+> Scraper found **5288** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|883|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|576|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2903|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.70.3|3128|Japan|Chiyoda|InfoSphere|
-|2|59.17.116.67|3129|South Korea|Incheon|Korea Telecom|
-|3|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
-|4|103.190.171.124|8080|Indonesia|Jakarta|WMS|
-|5|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|177.73.97.163|80|Brazil|Foz do Iguaçu|Telecom FOZ|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
+|4|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|13|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|15|188.125.167.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|17|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|18|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|101.255.165.130|1111|Indonesia|Jakarta|PT Remala Abadi|
+|18|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|38.97.215.145|8080|United States|Morrison|Cogent Communications|
 
 
 
