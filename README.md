@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
+|3|5.161.120.53|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |5|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|6|5.161.120.53|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|5.161.120.53|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|5.161.120.53|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.154.77.48|89|Indonesia|Sleman|T2NET|
+|19|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
