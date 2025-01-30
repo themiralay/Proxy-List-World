@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|5|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|6|207.148.68.198|999|Singapore|Singapore|SGP VULTR|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|138.124.81.13|80|France|Paris|365.partners INC|
-|10|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.150.196.146|8080|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|67.220.72.118|3128|United States|Los Angeles|GTHost|
+|4|67.220.72.118|3128|United States|Los Angeles|GTHost|
+|5|176.9.235.199|443|Germany|Falkenstein|Hetzner Online GmbH|
+|6|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
+|7|94.182.176.200|443|Iran|Tehran|Aria Shatel PJSC|
+|8|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|195.248.243.242|8080|Germany|Nuremberg|BitCommand LLC|
+|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|16|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|17|49.146.208.183|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
+|18|164.70.70.2|3128|Japan|Chiyoda|InfoSphere|
+|19|190.139.5.202|3388|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
