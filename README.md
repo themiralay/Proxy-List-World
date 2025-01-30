@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |5|139.84.159.249|3129|India|Bengaluru|The Constant Company, LLC|
-|6|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|7|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|8|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|38.97.215.97|8080|United States|Morrison|Cogent Communications|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|171.237.237.218|10022|Vietnam|Hanoi|Viettel Corporation|
+|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|10|54.237.148.244|80|United States|Ashburn|Amazon.com, Inc.|
+|11|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|12|104.248.140.246|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|116.105.59.213|10004|Vietnam|Hanoi|Viettel Corporation|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|17|54.237.148.244|80|United States|Ashburn|Amazon.com, Inc.|
+|18|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|19|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
