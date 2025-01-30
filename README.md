@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
-|4|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
-|5|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
-|8|3.144.16.143|1081|United States|Dublin|Amazon.com, Inc.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
-|13|51.210.54.186|8585|France|Roubaix|OVH SAS|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|15.207.106.154|9080|India|Mumbai|Amazon Technologies Inc.|
-|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|17|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
-|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|19|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
+|3|3.233.129.152|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|54.203.110.216|8080|United States|Portland|Amazon.com, Inc.|
+|5|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|6|3.233.129.152|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|123.18.118.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|3.135.146.74|443|United States|Dublin|Amazon.com, Inc.|
+|9|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|100.24.34.3|3128|United States|Ashburn|Amazon.com|
+|12|3.144.16.143|1081|United States|Dublin|Amazon.com, Inc.|
+|13|152.53.107.67|1080|The Netherlands|Amsterdam|netcup GmbH|
+|14|85.117.56.82|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|17|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|34.219.255.95|3128|United States|Portland|Amazon.com, Inc.|
+|19|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|72.10.160.90|13427|Canada|Montreal|GloboTech Communications|
 
 
 
