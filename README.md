@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
-|5|103.99.136.66|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|203.202.249.2|8080|Bangladesh|Chittagong|Aamra Networks Limited|
-|12|195.26.244.163|3128|United States|St Louis|Nubes, LLC|
-|13|195.26.244.163|3128|United States|St Louis|Nubes, LLC|
-|14|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|218.148.203.158|3128|South Korea|Goyang-si|Korea Telecom|
+|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|7|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
+|8|222.127.206.145|8082|Philippines|Makati City|GLBB|
+|9|68.225.17.237|4228|United States|Costa Mesa|Cox Communications Inc.|
+|10|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|11|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|12|45.132.103.32|8080|Hungary|Nyárlőrinc|Giganet Internet Szolgaltato Kft|
+|13|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
