@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|3|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
 |4|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|7|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|13|38.45.247.99|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
-|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|17|111.177.48.18|9502|China|Shizishan|Chinanet|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|5|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|6|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|103.227.187.11|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|11|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|13|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|14|191.7.212.86|8080|Brazil|Novo Oriente|Online Telecomunicacoes Ltda|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|171.237.237.218|10004|Vietnam|Hanoi|Viettel Corporation|
+|19|59.63.205.36|655|China|Taohua|Chinanet|
+|20|190.60.44.129|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
 
 
 
