@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|3.10.215.194|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|7|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|11|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|15|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|145.223.30.180|3128|Brazil|São Paulo|HOSTINGER BR|
-|17|193.181.35.237|8118|Sweden|Stockholm|PVDataNet AB|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|5|3.10.215.194|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|9|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|14|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
