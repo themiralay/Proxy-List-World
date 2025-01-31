@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|1.4.251.149|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|8|138.199.165.15|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|219.93.111.125|9412|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
-|10|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|14|72.10.164.178|19609|Canada|Montreal|GloboTech Communications|
-|15|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|109.165.195.63|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|103.39.51.55|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|11|203.150.113.208|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|12|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|13|171.237.237.218|10003|Vietnam|Hanoi|Viettel Corporation|
+|14|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|15|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|72.10.164.178|7751|Canada|Montreal|GloboTech Communications|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|60.188.49.53|1999|China|Taizhou|Chinanet|
 
 
 
