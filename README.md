@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|94.19.110.59|1080|Russia|St Petersburg|SkyNet LLC|
-|8|190.93.188.52|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|9|209.14.118.114|999|Colombia|Quinchía|AGIS|
-|10|103.137.110.146|7777|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|223.205.31.112|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|13|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|14|38.7.20.138|999|Mexico|La Piedad|Internet Telefonia Y TV De Michoacan SA De CV|
-|15|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|17|60.188.49.53|1999|China|Taizhou|Chinanet|
-|18|3.10.215.194|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.251.152|3128|United States|Ashburn|Oracle Corporation|
+|6|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|150.136.251.152|3128|United States|Ashburn|Oracle Corporation|
+|9|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|223.206.62.239|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|13|38.199.6.78|56123|Peru|Lima|Loa Network|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
+|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|18|150.107.247.154|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|19|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|20|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
