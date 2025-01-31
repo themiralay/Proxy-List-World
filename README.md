@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|4|3.145.171.39|3128|United States|Dublin|Amazon.com, Inc.|
-|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|6|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|7|3.145.171.39|3128|United States|Dublin|Amazon.com, Inc.|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|38.199.6.78|56123|Peru|Lima|Loa Network|
-|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|13|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|113.53.144.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|223.205.188.202|8080|Thailand|Bang Rak|Triple T Broadband Public Company Limited|
-|19|177.234.226.141|999|Ecuador|Manta|Ufinet Panama S.A.|
-|20|45.86.6.137|8080|Iran|Bastak|Ayandeh Gostar Bastak Co. P. J. S|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
+|9|36.77.215.1|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|10|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|223.206.140.154|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|45.86.6.137|8080|Iran|Bastak|Ayandeh Gostar Bastak Co. P. J. S|
+|19|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
