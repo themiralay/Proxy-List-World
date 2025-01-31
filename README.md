@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
-|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|8|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|103.125.174.65|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|10|172.237.27.201|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|172.232.156.94|3128|Sweden|Stockholm|Akamai Technologies, Inc.|
-|14|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|15|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|16|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
-|17|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|67.43.236.19|18361|Canada|Montreal|GloboTech Communications|
-|20|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|3|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|4|115.72.166.155|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|103.67.88.77|8081|Indonesia|Pati|PT Clara Network Engineer|
+|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
 
 
 
