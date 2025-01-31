@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|115.72.165.156|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|178.212.52.193|6767|Poland|Gmina Świebodzin|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|11|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
-|13|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|16|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|17|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|103.155.197.193|3125|Indonesia|Sukabumi|JEMBATANDATA|
+|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|14|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
+|17|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|18|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
