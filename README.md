@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|4|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|10|67.43.236.21|9407|Canada|Montreal|GloboTech Communications|
-|11|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|12|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|13|103.247.20.106|1111|Indonesia|Cikarang|PT Yasmin Amanah Media|
-|14|152.32.165.84|60080|Taiwan|Taipei|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|72.10.160.90|6097|Canada|Montreal|GloboTech Communications|
-|16|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|203.150.113.164|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|11|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
 |18|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|116.102.150.138|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|65.0.78.211|3128|India|Mumbai|Amazon.com|
 
 
 
