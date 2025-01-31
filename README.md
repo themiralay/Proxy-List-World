@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|6|181.129.158.133|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|200.106.124.59|999|Peru|Tacna|Telefonica del Peru|
-|9|103.87.171.171|32650|India|Jaipur|Tejays|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|12|178.255.148.226|8118|Norway|Oslo|Blix Solutions|
+|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|104.214.171.159|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|18|103.87.171.171|32650|India|Jaipur|Tejays|
+|19|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
