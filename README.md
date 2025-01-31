@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|5|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|6|72.10.160.93|23481|Canada|Montreal|GloboTech Communications|
-|7|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|164.163.73.69|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|10|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|67.43.227.226|12825|Canada|Montreal|GloboTech Communications|
-|13|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|14|27.189.129.130|8089|China|Langfang|Chinanet|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|17|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|67.43.236.19|12563|Canada|Montreal|GloboTech Communications|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|15|160.22.22.155|8080|Indonesia|Ciampea|PT Sarana Digital Network|
+|16|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|20|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
