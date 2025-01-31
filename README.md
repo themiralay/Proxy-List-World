@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|116.105.59.213|10014|Vietnam|Hanoi|Viettel Corporation|
-|12|72.10.164.178|18477|Canada|Montreal|GloboTech Communications|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|20|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|19|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|20|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
