@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|218.148.203.158|3128|South Korea|Goyang-si|Korea Telecom|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|11|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|12|103.99.136.66|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
-|15|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|18|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|7|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
+|8|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|9|223.25.110.105|1056|Indonesia|Surabaya|SinergiNet|
+|10|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
+|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|14|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|15|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
