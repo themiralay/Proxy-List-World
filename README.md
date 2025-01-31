@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|92.38.130.121|8080|Russia|Khabarovsk|GCL|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
+|4|14.231.228.58|5102|Vietnam|Hanoi|VNPT|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |10|88.198.201.2|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|94.19.110.59|1080|Russia|St Petersburg|SkyNet LLC|
-|14|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|15|209.45.104.124|1011|Peru|Lima|Red Cientifica Peruana|
-|16|150.107.247.154|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|14|223.206.140.154|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|170.80.93.250|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|16|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
 |17|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|223.204.122.224|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|20|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|103.143.169.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|19|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|65.0.78.211|3128|India|Mumbai|Amazon.com|
 
 
 
