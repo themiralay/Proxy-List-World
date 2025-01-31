@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|18.118.253.234|3128|United States|Dublin|Amazon.com, Inc.|
-|3|18.118.253.234|3128|United States|Dublin|Amazon.com, Inc.|
-|4|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|12|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|13|38.191.43.168|999|Colombia|Villavicencio|Servinet Comunicaciones S.A.S.|
-|14|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|17|120.28.216.166|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|18|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
-|19|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|20|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|18.118.253.234|3128|United States|Dublin|Amazon.com, Inc.|
+|5|103.85.117.49|8080|Indonesia|Makassar|BOSOWA|
+|6|103.189.231.210|8181|Indonesia|Ciamis|PT Media Access Telematika|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
+|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|14|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|15|172.237.27.199|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
 
 
 
