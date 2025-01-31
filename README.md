@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|3|103.192.174.18|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
-|4|103.99.136.66|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|88.99.170.73|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|15|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
+|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|11|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|88.99.170.73|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
