@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|1.4.251.149|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|118.174.89.121|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|16|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|17|31.207.91.216|8080|Mexico|Tizayuca|Valor Information Technologies, S.L.|
-|18|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
-|19|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|9|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|11|123.16.135.43|10004|Vietnam|Hanoi|VNPT|
+|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|13|159.223.95.146|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|157.66.36.13|8181|Indonesia|Ciruas|PT Trik Media Data|
+|17|36.92.52.35|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|223.204.82.224|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|67.220.66.158|3128|Spain|Madrid|GTHost|
 
 
 
