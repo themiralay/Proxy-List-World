@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|42.119.66.165|8081|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|16|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|18|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.53.60.166|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|171.228.146.31|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|6|109.165.195.63|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|157.66.50.105|2323|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|10|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|17|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
