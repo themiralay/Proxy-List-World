@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|4|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|11|123.16.135.43|10005|Vietnam|Hanoi|VNPT|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|45.185.51.242|3128|Brazil|Jundiaí|Net Turbo Telecom|
-|18|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|2|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|92.38.130.121|8080|Russia|Khabarovsk|GCL|
+|14|45.185.51.242|3128|Brazil|Jundiaí|Net Turbo Telecom|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|223.205.189.82|8080|Thailand|Bang Rak|Triple T Broadband Public Company Limited|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|147.45.49.234|3128|Japan|Tokyo|Global Connectivity Solutions LLP|
+|20|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
