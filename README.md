@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|102.223.186.246|8888|United Kingdom|London|Dedicated Servers|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|68.168.31.157|3128|United Kingdom|London|GTHost|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|200.37.187.62|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|20|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|5|103.131.19.27|8080|Indonesia|Lamongan|PT Global Media Data Prima|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|200.37.187.62|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|68.168.31.157|3128|United Kingdom|London|GTHost|
+|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|18|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
