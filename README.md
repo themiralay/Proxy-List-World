@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|115.72.165.156|10007|Vietnam|Vũng Tàu|VIETELmetro|
-|9|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|172.237.27.203|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|185.82.126.195|8080|Sweden|Stockholm|YOURSERVER|
-|13|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|123.16.135.43|10017|Vietnam|Hanoi|VNPT|
-|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|11|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|103.153.246.50|8080|Indonesia|Kudus|PRIMAHOME|
+|13|165.255.22.124|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|115.72.165.156|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|17|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
