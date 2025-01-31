@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|3.145.171.39|3128|United States|Dublin|Amazon.com, Inc.|
-|4|92.38.130.121|8080|Russia|Khabarovsk|GCL|
-|5|3.145.171.39|3128|United States|Dublin|Amazon.com, Inc.|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|14.231.228.58|5102|Vietnam|Hanoi|VNPT|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|138.0.89.42|8080|Colombia|Pasto|Dobleclick Software E Ingeneria|
-|13|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|14|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|92.38.130.121|8080|Russia|Khabarovsk|GCL|
+|10|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|11|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
+|12|160.19.18.93|8080|Indonesia|Ploso|PT Parsaoran Global Datatrans|
+|13|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
+|14|148.233.136.213|80|Mexico|Santa María Chimalhuacán|Uninet S.A. de C.V.|
+|15|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|16|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
+|18|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
