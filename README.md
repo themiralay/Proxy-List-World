@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|88.198.201.2|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
+|4|150.107.247.154|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|5|88.198.201.2|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|6|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|45.86.6.137|8080|Iran|Bastak|Ayandeh Gostar Bastak Co. P. J. S|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|101.109.58.103|8080|Thailand|Pattaya|TOT Public Company Limited|
-|11|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|39.185.36.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|172.232.156.94|3128|Sweden|Stockholm|Akamai Technologies, Inc.|
-|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|134.236.62.202|8080|Thailand|Bang Rak|CAT-BB|
+|9|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|223.206.140.154|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|13|34.55.246.226|3128|United States|Council Bluffs|Google LLC|
+|14|116.105.59.213|10004|Vietnam|Hanoi|Viettel Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|157.20.253.167|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|17|116.105.59.213|10004|Vietnam|Hanoi|Viettel Corporation|
+|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 
 
 
