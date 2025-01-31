@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|13|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|185.82.126.195|1080|Sweden|Stockholm|YOURSERVER|
+|9|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|10|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|12|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
 |14|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|16|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|15|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 |17|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|18|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
