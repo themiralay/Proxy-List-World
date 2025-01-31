@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|123.16.135.43|10009|Vietnam|Hanoi|VNPT|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|223.206.32.56|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|180.180.16.47|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|147.45.243.191|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
 |10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|49.48.45.72|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|12|49.148.63.76|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|14|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|15|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|125.25.226.248|8080|Thailand|Uttaradit|TOT Public Company Limited|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.93|33043|Canada|Montreal|GloboTech Communications|
-|20|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|223.205.69.167|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|19|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|20|49.48.50.62|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 
 
 
