@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|2|92.38.130.121|8080|Russia|Khabarovsk|GCL|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|10|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|11|71.42.125.220|4444|United States|Leander|Spectrum|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|71.42.125.220|4444|United States|Leander|Spectrum|
-|14|103.179.84.254|8080|Indonesia|Boyolali|PT CYB Media Group|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|71.42.125.220|4444|United States|Leander|Spectrum|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|8|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
+|9|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|10|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
+|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|12|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
 |15|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|223.205.69.167|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|125.27.14.74|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|19|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
