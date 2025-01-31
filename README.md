@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|5|159.223.95.146|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
-|7|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|67.220.66.158|3128|Spain|Madrid|GTHost|
-|11|67.220.66.158|3128|Spain|Madrid|GTHost|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|194.163.128.150|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|18|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|67.220.66.158|3128|Spain|Madrid|GTHost|
+|6|115.72.165.156|10035|Vietnam|Vũng Tàu|VIETELmetro|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|67.220.66.158|3128|Spain|Madrid|GTHost|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|11|109.165.195.63|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|203.150.113.208|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|223.204.82.224|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
