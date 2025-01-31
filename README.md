@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|1|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|5|160.191.180.234|8080|Indonesia|Grogol|PT.Global Media Data Prima|
-|6|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|9|91.218.142.114|3128|Latvia|Riga|RETN Limited|
-|10|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|13|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|14|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|15|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|16|121.227.109.42|8089|China|Nanjing|China Telecom|
-|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|7|207.174.202.218|8080|United States|Kingsland|432 INTERNET, LLC|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|11|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
+|12|91.228.51.26|3128|Russia|Bor|PJSC Rostelecom|
+|13|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|14|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|17|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|118.113.245.179|2324|China|Chengdu|Chinanet|
+|19|171.237.237.218|10004|Vietnam|Hanoi|Viettel Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
