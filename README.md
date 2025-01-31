@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|178.250.73.132|9200|United Kingdom|Guildford|Exonetric Consulting Ltd|
-|4|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|7|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|112.198.178.194|8082|Philippines|Nasugbu|Globe Telecom|
-|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|125.164.209.224|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|16|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|17|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|18|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|19|171.237.237.218|10034|Vietnam|Hanoi|Viettel Corporation|
-|20|103.212.211.69|8080|Indonesia|Sumber|Pemerintah Kabupaten Cirebon|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|5|162.212.153.169|8888|Canada|Montreal|tzulo, inc.|
+|6|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|178.250.73.132|9200|United Kingdom|Guildford|Exonetric Consulting Ltd|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|190.140.63.34|55916|Panama|Panama City|Cable Onda|
+|15|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|16|125.164.209.224|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|18|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|103.159.96.141|8080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
 
 
 
