@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|191.97.17.55|999|Venezuela|Miranda|INVERSIONES SMARTBYTE, C.A.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|103.160.182.182|3030|Indonesia|Jember|PT Internusa Duta Makmur|
-|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
-|19|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|121.227.146.69|8089|China|Nanjing|China Telecom|
+|2|161.82.219.250|8080|Thailand|Bangkok|Symphony Communication Public Company Limited|
+|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|191.97.17.55|999|Venezuela|Miranda|INVERSIONES SMARTBYTE, C.A.|
+|6|18.118.253.234|3128|United States|Dublin|Amazon.com, Inc.|
+|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|15|103.231.236.82|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|16|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|19|72.10.160.172|1455|Canada|Montreal|GloboTech Communications|
+|20|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
