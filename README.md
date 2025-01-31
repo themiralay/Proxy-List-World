@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.150.113.164|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|50.237.153.241|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|20.121.228.60|3128|United States|Boydton|Microsoft Corporation|
-|9|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|6|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|7|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|15|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|116.105.59.213|10013|Vietnam|Hanoi|Viettel Corporation|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|38.7.20.198|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|57.182.50.104|8008|Japan|Tokyo|Amazon.com, Inc.|
+|18|203.150.113.164|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|19|164.70.117.75|3128|Japan|Chiyoda|InfoSphere|
+|20|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
