@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|171.237.237.218|10033|Vietnam|Hanoi|Viettel Corporation|
-|11|36.91.62.47|52978|Indonesia|Gambir|PT Telekomunikasi Indonesia|
-|12|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.6.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|123.16.135.43|10017|Vietnam|Hanoi|VNPT|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|3|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|10|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|125.25.119.221|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|123.16.135.43|10017|Vietnam|Hanoi|VNPT|
+|17|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|18|3.113.159.255|8004|Japan|Tokyo|Amazon Technologies Inc.|
+|19|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|20|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
