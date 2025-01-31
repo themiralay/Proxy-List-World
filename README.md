@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|45.252.183.240|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|6|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|1.55.141.232|10007|Vietnam|Hanoi|FPT Telecom Company|
-|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|12|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|13|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.252.183.240|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|8|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|1.55.141.232|10001|Vietnam|Hanoi|FPT Telecom Company|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
 |16|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
-|17|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
-|20|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|18|39.185.37.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 
 
 
