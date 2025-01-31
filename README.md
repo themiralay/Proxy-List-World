@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|101.109.58.129|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|182.253.10.20|8080|Indonesia|Jakarta|BIZNET|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|54.237.148.244|80|United States|Ashburn|Amazon.com, Inc.|
-|7|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|8|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|171.241.31.19|5102|Vietnam|Hanoi|Viettel Corporation|
-|10|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|11|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|14|116.105.59.213|10001|Vietnam|Hanoi|Viettel Corporation|
-|15|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|182.253.10.20|8080|Indonesia|Jakarta|BIZNET|
+|4|115.72.0.14|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|7|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|9|131.221.65.228|8090|Argentina|San Miguel de Tucumán|Level Seven SRL|
+|10|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|124.217.1.121|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|12|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|13|20.255.73.164|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|14|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|15|38.255.21.6|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
+|16|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
 |19|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
