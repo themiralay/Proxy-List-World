@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|171.6.166.171|3128|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|8|115.72.3.96|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|9|115.72.168.142|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|10|81.90.149.186|3128|Iran|Tehran|Afranet|
-|11|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|12|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|14.241.39.169|8080|Vietnam|Bắc Giang|VNPT|
-|15|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|16|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|17|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|20|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|171.6.166.171|3128|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|103.162.63.65|8080|Indonesia|Argasari|PT Ring Media Nusantara|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|8|103.191.196.76|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|9|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.184.62.10|8099|Indonesia|Bajo|PT NKNET Data Media|
+|11|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|178.250.73.132|9200|United Kingdom|Guildford|Exonetric Consulting Ltd|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|41.65.162.72|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|20|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
 
 
 
