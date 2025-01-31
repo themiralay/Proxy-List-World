@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|191.97.17.55|999|Venezuela|Miranda|INVERSIONES SMARTBYTE, C.A.|
-|4|178.250.73.132|9200|United Kingdom|Guildford|Exonetric Consulting Ltd|
-|5|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|191.97.17.55|999|Venezuela|Miranda|INVERSIONES SMARTBYTE, C.A.|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|8|27.147.144.42|96|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |9|18.118.253.234|3128|United States|Dublin|Amazon.com, Inc.|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|118.113.244.172|2324|China|Chengdu|Chinanet|
-|14|46.253.184.237|8118|Switzerland|Glattfelden|MONZOON|
-|15|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
-|17|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|49.48.115.45|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|164.70.69.97|3128|Japan|Chiyoda|InfoSphere|
+|20|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
