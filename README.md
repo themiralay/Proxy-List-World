@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.69.9|3128|Japan|Chiyoda|InfoSphere|
+|3|161.49.97.229|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|4|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|103.105.76.10|3125|Indonesia|Pare|GARUDA|
+|6|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
 |7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|9|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|47.46.112.210|8080|United States|Los Angeles|Charter Communications|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|103.105.76.10|3125|Indonesia|Pare|GARUDA|
-|16|128.92.239.190|8080|United States|Los Angeles|Spectrum|
-|17|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|5.161.120.53|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|115.72.172.190|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|9|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.87.171.183|32650|India|Jaipur|Tejays|
+|13|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|14|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|38.253.84.89|999|Dominican Republic|Maimón|WIMAS, S.R.L.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
