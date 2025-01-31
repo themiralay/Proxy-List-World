@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|185.244.208.61|1080|Hong Kong|Hong Kong|G-Core Labs S.A.|
-|3|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|4|199.127.62.89|3128|United States|Miami|ReliableSite.Net LLC|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|199.127.62.89|3128|United States|Miami|ReliableSite.Net LLC|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|36.93.206.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|10|115.72.168.142|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|103.18.79.167|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|15|45.180.16.212|9292|Brazil|Valparaíso|Link Brasil Telecomunicacoes Ltda|
-|16|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|188.132.150.68|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|20|139.177.190.161|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|115.72.172.190|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|7|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|41.216.42.170|8080|Benin|Cotonou|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES|
+|10|103.162.16.113|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|11|157.90.178.183|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
+|13|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|14|172.237.27.200|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|39.185.63.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
