@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|182.253.109.13|8080|Indonesia|Jakarta|Biznet Metronet|
-|2|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|5|101.109.58.129|8080|Thailand|Pattaya|TOT Public Company Limited|
-|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|2|101.109.58.129|8080|Thailand|Pattaya|TOT Public Company Limited|
+|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 |8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|182.253.10.20|8080|Indonesia|Jakarta|BIZNET|
-|12|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|164.70.69.94|3128|Japan|Chiyoda|InfoSphere|
+|11|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
 |15|39.185.14.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|18|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|180.112.180.123|8089|China|Nanjing|Chinanet|
-|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|16|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|17|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
