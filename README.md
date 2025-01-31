@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4449** proxies at the latest update. Usable proxies are below.
+> Scraper found **4625** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|520|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2205|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2381|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
-|7|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|191.54.130.142|8080|Brazil|Goiânia|ALGAR TELECOM S/A|
-|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|72.10.160.171|7879|Canada|Montreal|GloboTech Communications|
-|15|223.206.115.98|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|16|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|17|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
-|19|72.10.164.178|21687|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|36.64.181.82|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|9|39.185.44.125|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|39.185.44.126|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|39.185.6.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|39.185.14.65|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.173.18.98|5911|China|Hangzhou|China Mobile Communications Corporation|
 |20|39.185.50.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
