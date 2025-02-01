@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|103.155.198.93|8181|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|45.180.16.212|9292|Brazil|Valparaíso|Link Brasil Telecomunicacoes Ltda|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
 |10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|177.234.233.91|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.189.96.96|2022|Indonesia|Ngapus|Lintas Data Prima, PT|
+|13|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
 
 
 
