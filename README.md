@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|59.17.116.67|3129|South Korea|Incheon|Korea Telecom|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|13|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|16|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|17|72.10.164.178|12631|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12631|Canada|Montreal|GloboTech Communications|
-|19|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|20|72.10.160.90|15499|Canada|Montreal|GloboTech Communications|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|171.237.237.218|10009|Vietnam|Hanoi|Viettel Corporation|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|14|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|19|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
+|20|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
 
 
 
