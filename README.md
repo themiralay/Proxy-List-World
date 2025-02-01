@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|3|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|123.16.135.43|10013|Vietnam|Hanoi|VNPT|
-|19|121.227.109.48|8089|China|Nanjing|China Telecom|
-|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|2|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|115.74.9.91|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|7|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|8|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
