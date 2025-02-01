@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|2|45.249.225.245|8080|Indonesia|Kabupaten Jember|Bconn|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|9|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|10|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|116.105.59.213|10000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.93.93.123|3128|Indonesia|Wedoro|MYRISE|
-|16|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|17|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|72.10.160.91|21407|Canada|Montreal|GloboTech Communications|
-|19|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|8|88.222.214.133|3128|India|Mumbai|HOSTINGER IN|
+|9|103.70.93.68|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|95.38.149.139|8080|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|14|100.24.34.3|3128|United States|Ashburn|Amazon.com|
+|15|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|115.74.0.47|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|18|100.24.34.3|3128|United States|Ashburn|Amazon.com|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
