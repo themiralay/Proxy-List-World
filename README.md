@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4459** proxies at the latest update. Usable proxies are below.
+> Scraper found **4462** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|730|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|371|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2132|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.149.238.106|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|54.237.148.244|80|United States|Ashburn|Amazon.com, Inc.|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
 |10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|45.226.207.10|999|Ecuador|Cañar|JEA.PC COMUNICACIONES S.A.|
-|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|200.141.182.6|8080|Brazil|Salvador|V tal|
-|17|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|177.137.238.242|8080|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
+|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|14|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|200.37.187.58|999|Peru|Lima region|Telefonica del Peru S.A.A.|
 
 
 
