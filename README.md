@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|60.188.49.53|1999|China|Taizhou|Chinanet|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|200.37.187.58|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|19|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.149.238.106|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|45.226.207.10|999|Ecuador|Cañar|JEA.PC COMUNICACIONES S.A.|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|200.141.182.6|8080|Brazil|Salvador|V tal|
+|17|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 
 
 
