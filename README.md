@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|171.237.80.11|1001|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|34.215.138.104|3128|United States|Portland|Amazon.com, Inc.|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
+|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|20|181.209.124.10|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
