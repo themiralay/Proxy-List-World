@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|149.51.37.178|3128|United States|Ashburn|Rackdog|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|95.183.88.242|8080|Russia|Moscow|Flex Ltd|
-|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|149.51.37.178|3128|United States|Ashburn|Rackdog|
-|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|14|27.189.130.161|8089|China|Langfang|Chinanet|
-|15|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|17|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|20|67.43.227.227|4157|Canada|Montreal|GloboTech Communications|
+|2|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|3|14.225.211.8|40811|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|45.86.7.129|8080|Iran|Bastak|Ayandeh Gostar Bastak Co. P. J. S|
+|5|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|8|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|10|189.201.153.91|999|Mexico|Xalapa|IP Matrix, S.A. de C.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|17|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|67.43.227.227|6639|Canada|Montreal|GloboTech Communications|
+|20|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
