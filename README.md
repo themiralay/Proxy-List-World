@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|23.138.88.65|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|16|102.210.28.133|8080|Kenya|Nairobi|Vilcom Networks Limited|
+|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|103.183.10.170|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
