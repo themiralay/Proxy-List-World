@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.93.203|3128|Japan|Chiyoda|InfoSphere|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|36.77.218.83|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|6|171.6.28.136|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|38.7.20.205|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|11|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|12|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|165.255.94.213|8080|South Africa|Randburg|Afrihost (Pty) Ltd|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|5|171.6.28.136|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|36.77.218.83|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|36.77.215.181|8081|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|16|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|165.255.94.213|8080|South Africa|Randburg|Afrihost (Pty) Ltd|
 
 
 
