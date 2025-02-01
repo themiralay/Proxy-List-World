@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.93.203|3128|Japan|Chiyoda|InfoSphere|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|164.70.93.203|3128|Japan|Chiyoda|InfoSphere|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
-|14|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|7|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
+|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|19|5.202.31.11|8090|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
