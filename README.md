@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|5|171.237.237.218|10004|Vietnam|Hanoi|Viettel Corporation|
-|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|115.72.0.14|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|191.97.6.150|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|59.36.239.108|21133|China|Jiangmen|Chinanet|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|149.28.181.248|80|Australia|Sydney|The Constant Company|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|17|102.0.14.38|8080|Kenya|Gilgil|Airtel KE Mobile & Fixed Internet|
+|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
