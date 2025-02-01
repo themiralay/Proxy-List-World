@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
-|7|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|18|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|20|58.59.61.200|10991|China|Jinan|Chinanet|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|58.59.61.200|10991|China|Jinan|Chinanet|
+|9|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|12|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|181.115.185.50|8080|Bolivia|Cochabamba|Entel S.A. - EntelNet|
+|18|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|19|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|20|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
