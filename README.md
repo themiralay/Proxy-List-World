@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
 |9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|16|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|58.59.61.200|10991|China|Jinan|Chinanet|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|45.63.8.76|80|United States|Piscataway|The Constant Company|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|18|49.48.115.45|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|58.59.61.200|10991|China|Jinan|Chinanet|
 
 
 
