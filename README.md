@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|7|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|8|103.154.77.206|9090|Indonesia|Sleman|T2NET|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|190.60.39.71|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|16|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|58.59.61.200|10991|China|Jinan|Chinanet|
-|19|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|12|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|18|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|19|58.59.61.200|10991|China|Jinan|Chinanet|
+|20|150.107.246.146|8080|Indonesia|Bandung|Infrastruktur STARNET|
 
 
 
