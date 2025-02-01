@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.93.83|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|203.150.128.110|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|8|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|10|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|203.150.128.110|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|9|142.171.168.135|8888|United States|Los Angeles|Multacom Corporation|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|13|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|18|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
