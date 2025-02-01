@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|103.13.204.89|8083|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|16|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|5|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|157.66.16.44|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|116.105.59.213|10002|Vietnam|Hanoi|Viettel Corporation|
+|20|123.16.135.43|10003|Vietnam|Hanoi|VNPT|
 
 
 
