@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|10|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|191.102.104.164|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|123.16.133.92|10009|Vietnam|Hanoi|VNPT|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|103.149.238.106|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|191.240.142.99|5128|Brazil|Tapiramutá|OGS INFORMATICA LTDA - ME|
-|18|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|38.253.88.242|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|60.188.49.53|1999|China|Taizhou|Chinanet|
+|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|19|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 
 
 
