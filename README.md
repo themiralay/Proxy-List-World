@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|4|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|11|103.203.173.134|83|India|Hyderabad|Softgaurd Powertronics|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|118.173.91.129|8081|Thailand|Bangkok|TOT Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|5|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |14|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|39.185.46.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|18|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|19|116.105.59.213|10009|Vietnam|Hanoi|Viettel Corporation|
-|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|15|43.135.36.146|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|98.84.156.229|3128|United States|Ashburn|BellSouth.net Inc.|
+|17|54.249.86.224|8008|Japan|Tokyo|Amazon.com, Inc.|
+|18|208.72.110.129|16088|United States|Noblesville|On-Ramp Indiana, Inc.|
+|19|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|20|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
 
 
 
