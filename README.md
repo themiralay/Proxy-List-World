@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.14.226.76|60080|Taiwan|Taipei|Zenlayer Inc|
-|2|117.6.57.25|10002|Vietnam|Hanoi|VIETTEL|
-|3|128.14.226.76|60080|Taiwan|Taipei|Zenlayer Inc|
-|4|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|14|148.251.239.53|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|115.72.0.14|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|16|152.32.165.84|60080|Taiwan|Taipei|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|117.6.57.25|10002|Vietnam|Hanoi|VIETTEL|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|1|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|19|39.185.44.127|5911|China|Ningbo|China Mobile Communications Corporation|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
