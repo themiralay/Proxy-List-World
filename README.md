@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|123.16.135.43|10017|Vietnam|Hanoi|VNPT|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|50.225.184.97|60659|United States|Chicago|Comcast Cable Communications, LLC|
-|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|16|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|17|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|20|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|7|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
 
 
 
