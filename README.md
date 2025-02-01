@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|116.105.59.213|10012|Vietnam|Hanoi|Viettel Corporation|
-|13|67.43.228.253|25505|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|26697|Canada|Montreal|GloboTech Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|17|114.80.37.200|3081|China|Shanghai|China Telecom (Group)|
-|18|67.43.236.20|32235|Canada|Montreal|GloboTech Communications|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|45.115.253.30|83|India|Mathura|Elxire Services|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|60.188.49.53|1999|China|Taizhou|Chinanet|
+|10|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|16|58.59.61.200|10991|China|Jinan|Chinanet|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|20|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
