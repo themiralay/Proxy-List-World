@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|45.88.139.202|5959|Turkey|Kütahya|Pembe Gul Isguzar Karagoz|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|45.174.108.198|999|Mexico|Almoloya del Río|Iptvtel Comunicaciones S De RL De CV|
-|17|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|45.88.139.202|5959|Turkey|Kütahya|Pembe Gul Isguzar Karagoz|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|14|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|186.148.175.118|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|186.148.180.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
 
 
 
