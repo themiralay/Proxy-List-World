@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|9|13.52.231.180|3128|United States|San Jose|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|15|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|39.173.18.66|5911|China|Hangzhou|China Mobile Communications Corporation|
-|17|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|123.16.135.43|10008|Vietnam|Hanoi|VNPT|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|2|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|103.105.57.66|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|11|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|12|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|14|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
+|15|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|16|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|17|39.185.62.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|171.237.237.218|10020|Vietnam|Hanoi|Viettel Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
