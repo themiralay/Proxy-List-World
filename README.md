@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|5|49.146.208.183|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
-|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|103.93.176.70|8080|India|Faridabad|Elxire Data Services Pvt. Ltd.|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|12|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|13|220.81.123.23|48678|South Korea|Chilgok-gun|Korea Telecom|
+|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|16|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 |17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |18|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
