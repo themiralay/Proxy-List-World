@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
-|4|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|12|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|13|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|103.214.102.171|8083|Indonesia|Batam|SMARTPLUS|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|14|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|118.113.245.131|2324|China|Chengdu|Chinanet|
+|19|36.251.72.11|1088|China|Xiamen|China Unicom Fujian Province Network|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
