@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|7|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|10|87.220.142.118|3128|Spain|Madrid|Orange Spain|
-|11|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|113.11.179.160|8181|Indonesia|Yogyakarta|BIZNET|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|124.104.149.53|8081|Philippines|Naic|Philippine Long Distance Telephone Co.|
-|16|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|20|177.234.240.122|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
