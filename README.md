@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|3|171.4.199.79|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|4|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|8|103.87.170.67|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|10|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|14|103.102.12.56|8080|Indonesia|Kwitang|FISNET|
-|15|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|103.81.222.132|8080|Indonesia|Bandung|STARNET|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|171.4.199.79|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|10|42.116.214.205|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|57.182.114.149|8000|Japan|Tokyo|Amazon.com, Inc.|
+|14|39.185.31.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|16|39.185.67.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|39.185.56.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|39.173.18.130|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
 
 
 
