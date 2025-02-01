@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|49.146.208.183|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|3|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
 |7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|118.173.91.129|8081|Thailand|Bangkok|TOT Public Company Limited|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|11|1.20.250.244|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|67.43.227.226|1047|Canada|Montreal|GloboTech Communications|
+|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|9|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|10|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|11|36.88.125.90|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|17|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
