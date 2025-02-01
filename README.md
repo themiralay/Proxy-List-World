@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|103.169.132.70|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|2|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |7|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|8|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|11|60.188.49.53|1999|China|Taizhou|Chinanet|
-|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|14|106.225.148.45|655|China|Taohua|CHINANET Jiangx province IDC network|
-|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.117.57.200|80|Indonesia|Cicurug|BYOIP PT. Cloud Hosting Indonesia|
+|11|103.179.252.75|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|103.158.253.29|8382|Indonesia|Dukuhturi|Rapid Network|
+|16|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|60.188.49.53|1999|China|Taizhou|Chinanet|
 
 
 
