@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|78.47.155.199|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|17|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|78.47.155.199|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|116.108.4.30|10013|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
