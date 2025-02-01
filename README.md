@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|139.59.112.67|8888|Singapore|Singapore|DIGITALOCEAN|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|123.16.133.92|10009|Vietnam|Hanoi|VNPT|
-|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|81.90.149.186|3128|Iran|Tehran|Afranet|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
 |14|58.59.61.200|10991|China|Jinan|Chinanet|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|18|13.59.237.44|3128|United States|Dublin|Amazon.com, Inc.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
 
 
 
