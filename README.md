@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|67.43.236.19|13809|Canada|Montreal|GloboTech Communications|
-|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |8|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |10|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|222.84.65.40|1145|China|Liuzhou|Chinanet|
-|15|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|16|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.228.252|30833|Canada|Montreal|GloboTech Communications|
-|18|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|72.10.160.91|30135|Canada|Montreal|GloboTech Communications|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|222.84.65.40|1145|China|Liuzhou|Chinanet|
+|13|116.105.59.213|10005|Vietnam|Hanoi|Viettel Corporation|
+|14|72.10.160.91|6391|Canada|Montreal|GloboTech Communications|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|17|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|39.185.40.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
