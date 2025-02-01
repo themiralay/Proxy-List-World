@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|5.34.205.114|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|10|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|103.156.17.240|8080|Indonesia|Indramayu|RSTNET|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|20|67.43.236.19|14729|Canada|Montreal|GloboTech Communications|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|5.34.205.114|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|72.10.160.170|6389|Canada|Montreal|GloboTech Communications|
+|14|106.225.164.39|655|China|Beijing|China Telecom|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|19|72.10.160.91|16781|Canada|Montreal|GloboTech Communications|
+|20|36.94.8.23|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
