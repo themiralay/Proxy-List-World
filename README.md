@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.93.203|3128|Japan|Chiyoda|InfoSphere|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|134.236.41.200|8080|Thailand|Chiang Rai|CAT-BB|
-|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|36.77.218.83|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|171.6.28.136|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|13|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|14|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
+|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|134.236.41.200|8080|Thailand|Chiang Rai|CAT-BB|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|171.6.28.136|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|36.77.218.83|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
 |15|36.77.215.181|8081|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|223.205.99.122|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|16|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|18|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
