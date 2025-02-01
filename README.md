@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|103.245.18.218|7878|Indonesia|Jakarta|PT Quantum Tera Network|
-|3|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|36.94.8.23|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|39.185.32.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|103.154.77.40|89|Indonesia|Sleman|T2NET|
+|11|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|222.127.206.145|8082|Philippines|Makati City|GLBB|
+|15|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|18|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|116.105.59.213|10006|Vietnam|Hanoi|Viettel Corporation|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|182.204.182.147|1080|China|Shenyang|Chinanet|
+|20|188.132.150.94|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
