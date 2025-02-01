@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|159.65.11.248|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|36.93.10.83|2015|Indonesia|Bogor|Telekomunikasi Indonesia|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|209.126.1.204|3128|United States|St Louis|Nubes, LLC|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|117.6.57.25|10002|Vietnam|Hanoi|VIETTEL|
+|3|1.55.141.232|10022|Vietnam|Hanoi|FPT Telecom Company|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|36.93.10.83|2015|Indonesia|Bogor|Telekomunikasi Indonesia|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|8|152.32.165.84|60080|Taiwan|Taipei|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.65.11.248|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|209.126.1.204|3128|United States|St Louis|Nubes, LLC|
-|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|16|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|14|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
