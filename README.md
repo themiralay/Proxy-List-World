@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.93.203|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
 |5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|134.236.41.200|8080|Thailand|Chiang Rai|CAT-BB|
 |7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|223.205.99.122|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|13|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
-|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|17|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 |20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
