@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|18|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|19|202.51.214.81|8080|Indonesia|Jakarta|PT. Sejahtera Globalindo|
+|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
