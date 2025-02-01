@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|6|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|7|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|190.60.39.71|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
-|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|15|190.60.39.71|8080|Colombia|El Paso|IFX NETWORKS COLOMBIA|
+|16|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|18|177.107.20.150|3128|Brazil|Joaquim Pires|Ora Servicos de Telecomunicacoes Ltda|
+|19|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|20|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
 
 
 
