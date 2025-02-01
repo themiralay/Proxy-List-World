@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|9|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.57.39.36|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|17|58.59.61.200|10991|China|Jinan|Chinanet|
+|18|13.59.237.44|3128|United States|Dublin|Amazon.com, Inc.|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
