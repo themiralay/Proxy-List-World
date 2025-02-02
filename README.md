@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.95.254|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|116.108.248.219|10028|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|7|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|104.248.140.246|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|103.171.245.154|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
