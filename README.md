@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|185.102.115.31|8080|Poland|Krakow|Partner Hosting LTD|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|20|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|171.237.237.218|10003|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|144.202.78.147|80|United States|Stuart|The Constant Company|
+|15|101.255.158.41|8080|Indonesia|Jakarta|PT Remala Abadi|
+|16|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|103.158.96.198|8080|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|20|72.10.160.171|25643|Canada|Montreal|GloboTech Communications|
 
 
 
