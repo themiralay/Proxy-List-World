@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|1|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
-|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|18|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
