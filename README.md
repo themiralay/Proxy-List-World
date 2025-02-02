@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|190.61.101.72|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|20|67.43.236.18|19879|Canada|Montreal|GloboTech Communications|
+|15|223.242.222.48|1080|China|Hefei|Chinanet|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|103.169.238.42|8181|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
+|18|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|103.228.243.175|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
