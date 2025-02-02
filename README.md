@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|171.237.105.167|1010|Vietnam|Ninh Bình|Viettel Corporation|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|171.237.237.218|10003|Vietnam|Hanoi|Viettel Corporation|
+|9|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|178.252.177.34|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|16|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|49.148.102.3|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|18|103.247.22.133|8080|Indonesia|Bekasi|PT wifian Solution|
-|19|103.126.219.204|8080|Bangladesh|Rajbāri|MD IMTIAZ KHAN ABIR|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|203.150.128.33|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|67.43.236.18|16997|Canada|Montreal|GloboTech Communications|
 
 
 
