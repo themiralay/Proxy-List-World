@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|11|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|67.43.236.18|11695|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2309|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|11695|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|2309|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|11695|Canada|Montreal|GloboTech Communications|
-|17|103.171.255.89|8080|Indonesia|Sleman|ZKI|
-|18|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|2709|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|8775|Canada|Montreal|GloboTech Communications|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|171.237.237.218|10003|Vietnam|Hanoi|Viettel Corporation|
+|12|185.200.38.194|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|103.143.197.212|8010|Indonesia|Semarang|JERNIHNETWORK|
+|16|36.77.218.83|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|17|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
