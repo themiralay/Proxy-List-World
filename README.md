@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
+|8|171.244.129.3|3128|Vietnam|Hanoi|VIETEL|
+|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 |10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|14|41.65.174.41|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
-|16|103.83.179.134|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|17|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|11|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.105.76.10|3125|Indonesia|Pare|GARUDA|
+|15|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|16|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|17|41.65.174.41|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
