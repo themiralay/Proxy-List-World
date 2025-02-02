@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|223.206.60.220|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.179.252.81|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|16|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|18|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|19|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|20|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|171.6.108.217|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|17|118.113.246.42|2324|China|Chengdu|Chinanet|
+|18|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|19|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
 
 
 
