@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.93.212|3128|Japan|Chiyoda|InfoSphere|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|54.249.86.224|8008|Japan|Tokyo|Amazon.com, Inc.|
-|4|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
-|5|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
-|6|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|10|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|121.227.109.27|8089|China|Nanjing|China Telecom|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|14|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|103.151.226.131|8080|Indonesia|Bandung|URBANACCESS|
+|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
