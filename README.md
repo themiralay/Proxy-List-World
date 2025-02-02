@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
 |5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
 |12|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
 |14|103.250.128.4|8082|Indonesia|Utan|PT Asri Global Investama|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
+|16|45.119.132.229|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|103.166.254.220|3124|Indonesia|Pekanbaru|PT Instanet Media Nusantara|
-|20|103.124.196.154|8889|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
