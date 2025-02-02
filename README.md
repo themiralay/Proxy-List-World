@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.165.211.174|8100|Indonesia|Jakarta|PT iForte Global Internet|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|149.129.215.82|3128|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|67.220.66.158|3128|Spain|Madrid|GTHost|
-|16|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|19|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|20|116.108.4.30|10013|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|81.90.149.186|3128|Iran|Tehran|Afranet|
+|11|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|12|1.4.251.111|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|103.158.250.118|8788|Indonesia|Ngrance|VCDNET|
+|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|118.113.245.131|2324|China|Chengdu|Chinanet|
+|19|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 
 
 
