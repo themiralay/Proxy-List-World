@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.249.86.224|8001|Japan|Tokyo|Amazon.com, Inc.|
-|2|164.70.93.213|3128|Japan|Chiyoda|InfoSphere|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|164.70.93.213|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|5|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|103.145.68.37|8181|Indonesia|Surabaya|ALFANET|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 |13|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|16|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|18|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|223.205.31.42|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|103.99.136.66|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|18|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|19|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
