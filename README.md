@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.36.171.4|3128|United States|Fremont|CGI GLOBAL LIMITED|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|43.228.85.141|3128|Thailand|Pak Phli|Siamdata Communication Co., ltd.|
-|5|194.36.171.4|3128|United States|Fremont|CGI GLOBAL LIMITED|
-|6|167.172.90.124|8131|Singapore|Singapore|DigitalOcean, LLC|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|147.93.33.169|80|Brazil|São Paulo|Hostinger International Limited|
+|6|89.107.10.73|3128|Germany|Frankfurt| Miglovets Egor Andreevich|
+|7|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|135.148.149.92|3128|United States|Reston|OVH SAS|
 |10|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|11|149.154.67.34|3128|Russia|Moscow|JSC IOT|
-|12|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|13|100.42.112.23|3128|Switzerland|Zurich|Cloud Provider USA, LLC.|
-|14|176.108.254.244|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|135.148.149.92|3128|United States|Reston|OVH SAS|
+|12|100.42.112.23|3128|Switzerland|Zurich|Cloud Provider USA, LLC.|
+|13|43.228.85.141|3128|Thailand|Pak Phli|Siamdata Communication Co., ltd.|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |15|194.247.187.119|3128|Germany|Frankfurt am Main|Hostkey B.V.|
-|16|35.207.225.242|80|India|Mumbai|Google LLC|
-|17|147.93.33.169|80|Brazil|São Paulo|Hostinger International Limited|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|172.236.211.52|7777|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|20|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|171.237.237.218|10007|Vietnam|Hanoi|Viettel Corporation|
+|17|100.42.112.23|3128|Switzerland|Zurich|Cloud Provider USA, LLC.|
+|18|168.196.161.5|8080|Brazil|Monte Azul|JJVA Provedor de Internet ME LTDA|
+|19|164.90.239.200|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
