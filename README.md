@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|119.95.163.159|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|142.171.12.40|3128|United States|Los Angeles|Multacom Corporation|
 |5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|103.145.68.201|8181|Indonesia|Surabaya|ALFANET|
-|10|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|124.107.144.249|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|38.191.42.68|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
-|20|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|6|142.171.12.40|3128|United States|Los Angeles|Multacom Corporation|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|14|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|15|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|106.251.66.243|60313|South Korea|Gangdong-gu|LG DACOM Corporation|
+|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
