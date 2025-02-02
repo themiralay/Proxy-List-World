@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5778** proxies at the latest update. Usable proxies are below.
+> Scraper found **5782** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|701|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2865|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|171.244.129.3|3128|Vietnam|Hanoi|VIETEL|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|123.24.49.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|148.251.239.53|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|125.24.170.211|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|122.52.109.3|8081|Philippines|Maasim|Philippine Long Distance Telephone Co.|
+|14|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|19|103.179.182.216|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
 
 
 
