@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|7|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|8|103.48.71.162|82|India|Pargi|Country Online Services PVT LTD|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|11|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|12|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
-|13|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|14|171.4.68.116|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|15|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
-|16|103.179.84.254|8080|Indonesia|Boyolali|PT CYB Media Group|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|2|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
+|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|14|135.125.97.99|3128|France|Wattrelos|OVH SAS|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.169.133.46|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
