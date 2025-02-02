@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
+|3|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|4|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 |5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|103.156.233.165|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
-|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|14|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|15|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|18|38.194.250.66|999|Mexico|Las Pilas de Puruagua|Ientc S De RL De CV|
-|19|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|20|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
