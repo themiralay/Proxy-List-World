@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|3|115.74.3.199|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|18|72.10.160.170|32651|Canada|Montreal|GloboTech Communications|
-|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|16|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|17|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.38|11263|United States|Reston|ZSCALER, INC.|
+|19|104.129.194.38|11263|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
 
 
 
