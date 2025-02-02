@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|2|164.70.93.212|3128|Japan|Chiyoda|InfoSphere|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|112.78.164.153|8080|Indonesia|Jakarta|Biznet Networks|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|1|164.70.93.213|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.93.211|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.93.212|3128|Japan|Chiyoda|InfoSphere|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|7|112.78.164.153|8080|Indonesia|Jakarta|Biznet Networks|
 |8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|164.70.93.213|3128|Japan|Chiyoda|InfoSphere|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|15|223.205.31.42|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|193.233.233.119|8080|Austria|Vienna|xorek.cloud International LTD|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
 
 
 
