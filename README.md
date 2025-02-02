@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|1.20.169.173|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|167.172.90.124|8131|Singapore|Singapore|DigitalOcean, LLC|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|9|103.28.16.6|8080|Indonesia|Jakarta|PT Centrix Media Teknologi|
 |10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
 |12|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|13|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|16|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
-|17|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|18|67.43.228.251|21987|Canada|Montreal|GloboTech Communications|
+|13|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |19|104.129.194.38|10011|United States|Reston|ZSCALER, INC.|
 |20|104.129.194.38|10011|United States|Reston|ZSCALER, INC.|
 
