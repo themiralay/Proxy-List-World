@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|223.206.60.220|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|223.206.60.220|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|13|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|24.52.135.71|80|United States|Beardstown|Cass Cable TV, Inc.|
-|17|27.76.233.178|10034|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|15|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|16|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|17|118.113.246.42|2324|China|Chengdu|Chinanet|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
