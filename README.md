@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |6|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|12|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|12|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 |13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
