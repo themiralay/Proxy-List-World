@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|203.150.128.188|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.150.128.188|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|19|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|67.43.227.226|26833|Canada|Montreal|GloboTech Communications|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
+|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|14|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|27.76.233.178|11590|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
 
 
 
