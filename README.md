@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|5|123.16.133.92|10007|Vietnam|Hanoi|VNPT|
 |6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|101.36.125.154|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|14|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|15|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
+|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|10|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
 |16|223.205.25.135|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|18|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
