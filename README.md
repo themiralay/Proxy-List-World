@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6090** proxies at the latest update. Usable proxies are below.
+> Scraper found **6237** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1438|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3188|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3335|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|84.17.37.160|62222|Hong Kong|Hong Kong|Datacamp Limited|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.89.63.119|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|185.102.115.31|8080|Poland|Krakow|Partner Hosting LTD|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.236.18|23759|Canada|Montreal|GloboTech Communications|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
-|20|67.43.236.18|23759|Canada|Montreal|GloboTech Communications|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|45.89.63.119|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|20.242.249.240|3128|United States|Boydton|Microsoft Corporation|
+|14|185.102.115.31|8080|Poland|Krakow|Partner Hosting LTD|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
