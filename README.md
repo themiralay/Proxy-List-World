@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.35.14.126|8080|Yemen|Aden|Public Telecommunication Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|109.111.157.115|8080|Russia|Kaliningrad|TIS-DIALOG|
-|10|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|72.10.160.171|29943|Canada|Montreal|GloboTech Communications|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|15|67.43.227.230|13623|Canada|Montreal|GloboTech Communications|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|67.43.228.250|17921|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|17921|Canada|Montreal|GloboTech Communications|
-|20|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|109.111.157.115|8080|Russia|Kaliningrad|TIS-DIALOG|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|134.35.14.126|8080|Yemen|Aden|Public Telecommunication Corporation|
+|11|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|16|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|17|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|20|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
 
 
 
