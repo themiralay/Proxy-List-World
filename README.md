@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|15|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|16|131.221.65.228|8090|Argentina|San Miguel de Tucumán|Level Seven SRL|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.156.15.83|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
+|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|5|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
+|6|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
+|7|35.207.225.242|80|India|Mumbai|Google LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|179.1.13.67|8080|Colombia|Ocaña|InterNexa Global Network|
+|12|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|13|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|164.92.148.68|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
