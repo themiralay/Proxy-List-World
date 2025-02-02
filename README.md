@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|185.102.115.31|8080|Poland|Krakow|Partner Hosting LTD|
-|12|144.202.78.147|80|United States|Stuart|The Constant Company|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|19|67.43.236.18|23759|Canada|Montreal|GloboTech Communications|
-|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.89.63.119|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|185.102.115.31|8080|Poland|Krakow|Partner Hosting LTD|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|118.113.246.100|2324|China|Chengdu|Chinanet|
+|18|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|19|103.147.134.91|1010|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|20|67.43.236.18|7151|Canada|Montreal|GloboTech Communications|
 
 
 
