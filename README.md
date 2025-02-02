@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|171.237.105.167|1010|Vietnam|Ninh Bình|Viettel Corporation|
-|4|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|171.237.237.218|10021|Vietnam|Hanoi|Viettel Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|8|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|103.48.71.46|82|India|Pargi|Country Online Services PVT LTD|
+|9|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
 |11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|188.245.64.104|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|197.251.194.166|8080|Ghana|Accra|Vodafone Ghana|
+|14|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|31.14.122.28|443|Iran|Tehran|Afranet Co|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|19|114.231.75.73|1080|China|Nanjing|Chinanet|
+|20|175.143.223.205|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
