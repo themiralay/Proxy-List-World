@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|159.89.19.254|8787|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|15|60.188.49.53|1999|China|Taizhou|Chinanet|
-|16|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|17|103.175.238.106|8082|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|18|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|118.37.98.186|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|15|27.76.233.178|10034|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|212.33.205.42|8118|Iran|Tehran|Asiatech Data Transmission company|
 
 
 
