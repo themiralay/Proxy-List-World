@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.93.212|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.93.213|3128|Japan|Chiyoda|InfoSphere|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|18|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
-|19|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|1|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
+|2|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
+|3|164.70.93.213|3128|Japan|Chiyoda|InfoSphere|
+|4|164.70.93.212|3128|Japan|Chiyoda|InfoSphere|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
 
 
 
