@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.227.107.4|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|2|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|65.109.104.46|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|171.237.237.218|10013|Vietnam|Hanoi|Viettel Corporation|
-|9|115.245.46.172|8080|India|Hyderabad|Reliance Jio Infocomm Limited|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|188.132.222.132|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|6|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|9|106.115.87.35|9100|China|Handan|Chinanet|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|14|54.249.86.224|8001|Japan|Tokyo|Amazon.com, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
