@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|72.10.164.178|16629|Canada|Montreal|GloboTech Communications|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|118.113.246.42|2324|China|Chengdu|Chinanet|
-|14|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|15|191.81.200.37|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|16|1.53.207.179|8118|Vietnam|Đống Đa|FPT Telecom Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|106.115.87.35|9100|China|Handan|Chinanet|
-|19|118.113.244.166|2324|China|Chengdu|Chinanet|
-|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|46.246.4.4|3128|Sweden|Stockholm|Portlane Network|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|12|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|14|72.10.160.170|30763|Canada|Montreal|GloboTech Communications|
+|15|103.230.81.111|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|16|59.39.224.38|2324|China|Guangzhou|Chinanet|
+|17|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
+|18|61.184.192.187|10000|China|Wuhan|Chinanet|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
