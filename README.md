@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|138.124.25.70|3128|Sweden|Stockholm|Aeza International LTD|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|103.106.219.119|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|58.59.61.200|10991|China|Jinan|Chinanet|
-|16|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|157.66.251.226|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|19|66.54.106.56|8102|United States|Itta Bena|Mobile Communications, LLC|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
+|5|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|6|45.163.66.247|8088|Brazil|Caldazinha|CDM TELECOM|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|58.59.61.200|10991|China|Jinan|Chinanet|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|43.206.38.60|8008|Japan|Tokyo|Amazon.com, Inc.|
+|14|103.162.54.151|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|15|189.50.9.30|8080|Brazil|Vila Velha|VIPRede Telecomunicações Ltda|
+|16|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|19|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
