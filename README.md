@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5771** proxies at the latest update. Usable proxies are below.
+> Scraper found **5778** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|979|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|701|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2865|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
 |4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|123.24.49.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|125.24.170.211|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|204.216.140.216|3128|Brazil|Vinhedo|Oracle Corporation|
-|15|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
-|17|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|195.58.38.78|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|19|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|20|135.125.97.99|3128|France|Wattrelos|OVH SAS|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
+|12|31.181.10.162|3128|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|14|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|38.194.250.150|999|Mexico|Las Pilas de Puruagua|Ientc S De RL De CV|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|19|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|20|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
 
 
 
