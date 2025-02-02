@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|144.202.78.147|80|United States|Stuart|The Constant Company|
-|8|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|165.255.102.108|3128|South Africa|Sandton|Afrihost (Pty) Ltd|
-|14|72.10.160.170|28857|Canada|Montreal|GloboTech Communications|
-|15|106.225.138.224|50001|China|Taohua|CHINANET Jiangx province IDC network|
-|16|59.39.226.37|2324|China|Guangzhou|Chinanet|
-|17|118.113.244.187|2324|China|Chengdu|Chinanet|
-|18|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|106.115.87.35|9100|China|Handan|Chinanet|
+|3|144.202.78.147|80|United States|Stuart|The Constant Company|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|103.170.131.234|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|103.247.21.226|4320|Indonesia|Bekasi|PT wifian Solution|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
