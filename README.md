@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|11|1.32.48.69|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|14|72.10.160.92|16345|Canada|Montreal|GloboTech Communications|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|59.39.252.8|2324|China|Guangzhou|Chinanet|
-|17|67.43.228.250|31351|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|31351|Canada|Montreal|GloboTech Communications|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|125.87.94.136|2324|China|Chongqing|China Telecom|
+|16|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|17|118.113.244.236|2324|China|Chengdu|Chinanet|
+|18|113.128.132.112|12233|China|Jinan|Chinanet|
+|19|1.55.141.232|10023|Vietnam|Hanoi|FPT Telecom Company|
+|20|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
