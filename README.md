@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
-|4|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
+|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 |5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
-|12|31.181.10.162|3128|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
-|13|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|14|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|38.194.250.150|999|Mexico|Las Pilas de Puruagua|Ientc S De RL De CV|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|20|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|171.244.129.3|3128|Vietnam|Hanoi|VIETEL|
+|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|123.24.49.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|148.251.239.53|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
