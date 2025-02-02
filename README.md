@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|112.78.164.153|8080|Indonesia|Jakarta|Biznet Networks|
-|5|27.79.227.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|160.191.180.234|8080|Indonesia|Grogol|PT.Global Media Data Prima|
+|6|27.79.227.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 |8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|203.207.56.57|80|Indonesia|Bandung|STARNET|
-|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|60.51.51.89|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|144.202.78.147|80|United States|Stuart|The Constant Company|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
