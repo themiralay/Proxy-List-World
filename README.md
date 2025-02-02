@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|171.237.105.167|1010|Vietnam|Ninh Bình|Viettel Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|157.66.50.33|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|17|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
-|18|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|20|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|118.113.244.166|2324|China|Chengdu|Chinanet|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|103.131.19.27|8080|Indonesia|Lamongan|PT Global Media Data Prima|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|20|203.150.128.188|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
