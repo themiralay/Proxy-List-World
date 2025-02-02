@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|103.18.79.167|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|4|112.78.164.153|8080|Indonesia|Jakarta|Biznet Networks|
-|5|27.79.227.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|160.191.180.234|8080|Indonesia|Grogol|PT.Global Media Data Prima|
-|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|8|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.18.79.167|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|3|144.202.78.147|80|United States|Stuart|The Constant Company|
+|4|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
+|5|112.78.164.153|8080|Indonesia|Jakarta|Biznet Networks|
+|6|27.79.227.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|193.233.233.119|8080|Austria|Vienna|xorek.cloud International LTD|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
+|14|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|67.220.66.158|3128|Spain|Madrid|GTHost|
 
 
 
