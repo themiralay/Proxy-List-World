@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|103.172.70.27|1111|Indonesia|Karawang|AZNET|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|15|16.28.0.234|443|South Africa|Johannesburg|Amazon.com|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|67.43.228.252|21349|Canada|Montreal|GloboTech Communications|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|223.205.127.138|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
 
 
 
