@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|203.210.169.34|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|1.2.176.84|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|20|58.59.61.200|10991|China|Jinan|Chinanet|
+|1|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|149.129.215.82|3128|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|14|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|19|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
+|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 
 
 
