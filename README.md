@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.95.254|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
-|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.89.239.166|18087|United States|North Bergen|DigitalOcean, LLC|
-|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|164.70.95.253|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.95.254|3128|Japan|Chiyoda|InfoSphere|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|7|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|8|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
+|9|27.76.233.178|18105|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|103.85.53.54|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
+|13|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|15.237.215.249|3128|France|Paris|Amazon Technologies Inc.|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|146.59.32.105|443|Poland|Warsaw|OVH SAS|
+|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
