@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|157.66.251.226|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|4|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|6|138.124.25.70|3128|Sweden|Stockholm|Aeza International LTD|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|43.245.249.22|7878|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|4|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|38.183.146.171|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|17|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|18|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
+|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|60.188.49.53|1999|China|Taizhou|Chinanet|
+|19|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|20|171.237.237.218|10015|Vietnam|Hanoi|Viettel Corporation|
 
 
 
