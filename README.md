@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|118.193.32.18|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|202.162.213.180|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|9|185.82.99.242|1973|Lebanon|Baalbek|NET 360 S.A.R.L|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|125.24.170.211|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|45.178.174.132|3128|Brazil|Alto Alegre do Pindaré|Atex NET Telecomunicacoes Ltda|
-|15|193.181.35.133|8118|Sweden|Stockholm|PVDataNet AB|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|5|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|107.148.144.10|1080|United States|Los Angeles|PEG TECH INC|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|223.205.188.202|8080|Thailand|Bang Rak|Triple T Broadband Public Company Limited|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
