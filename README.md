@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|5|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|16|104.129.194.38|10011|United States|Reston|ZSCALER, INC.|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.160.170|22373|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|31.14.122.28|443|Iran|Tehran|Afranet Co|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
