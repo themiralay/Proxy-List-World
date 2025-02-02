@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|43.206.38.60|8000|Japan|Tokyo|Amazon.com, Inc.|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|17|182.253.176.162|8080|Indonesia|Bogor|BIZNET|
-|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|189.232.97.26|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|16|65.108.239.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|142.171.12.40|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
