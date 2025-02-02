@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|115.245.46.172|8080|India|Hyderabad|Reliance Jio Infocomm Limited|
-|13|103.184.180.21|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
-|16|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|17|106.115.87.35|9100|China|Handan|Chinanet|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|125.87.80.158|2324|China|Chongqing|China Telecom|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|3|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.227.107.4|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|103.156.75.130|1111|Indonesia|Gianyar|PT Trika Global Media|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|154.195.78.130|3128|United States|Los Angeles|ADA Digital Global Inc|
+|15|125.87.91.20|2324|China|Chongqing|China Telecom|
+|16|59.39.252.17|2324|China|Guangzhou|Chinanet|
+|17|182.204.180.146|1080|China|Shenyang|Chinanet|
+|18|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|171.237.237.218|10003|Vietnam|Hanoi|Viettel Corporation|
 
 
 
