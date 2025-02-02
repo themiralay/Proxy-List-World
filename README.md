@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|57.182.50.104|8004|Japan|Tokyo|Amazon.com, Inc.|
-|5|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|38.156.14.182|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
 |8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|171.237.237.218|10024|Vietnam|Hanoi|Viettel Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
-|18|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|103.169.33.30|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
+|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
