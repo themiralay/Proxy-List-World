@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|54.249.86.224|8000|Japan|Tokyo|Amazon.com, Inc.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|195.14.189.116|8888|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|16|103.134.220.140|8088|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|17|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|18|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|19|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
