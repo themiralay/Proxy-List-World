@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.168.254.120|8080|Indonesia|Kudus|PT Fahasa Tri Data|
-|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|4|199.21.172.240|3128|Australia|Brisbane|Siamdata Communication Co., ltd.|
-|5|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|34.215.138.104|3128|United States|Portland|Amazon.com, Inc.|
-|17|34.215.138.104|3128|United States|Portland|Amazon.com, Inc.|
-|18|118.174.88.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|92.38.178.130|8080|Japan|Tokyo|G-Core Labs S.A.|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|146.59.32.105|443|Poland|Warsaw|OVH SAS|
+|6|199.21.172.240|3128|Australia|Brisbane|Siamdata Communication Co., ltd.|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
+|9|103.214.102.171|8083|Indonesia|Batam|SMARTPLUS|
+|10|103.147.118.142|7777|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|11|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|12|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
+|13|34.215.138.104|3128|United States|Portland|Amazon.com, Inc.|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|18|1.20.198.191|3128|Thailand|Bangkok|TOT Public Company Limited|
+|19|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
