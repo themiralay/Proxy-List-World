@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|164.70.95.243|3128|Japan|Chiyoda|InfoSphere|
-|4|1.4.251.52|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|8|164.70.95.230|3128|Japan|Chiyoda|InfoSphere|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|3|1.4.251.52|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|115.74.5.28|10028|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|19|115.74.5.28|10028|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|20|115.74.5.28|10028|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|18|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
+|19|115.74.5.28|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|20|115.74.5.28|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
 
 
 
