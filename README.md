@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|144.202.78.147|80|United States|Stuart|The Constant Company|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
 |12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|81.90.149.186|3128|Iran|Tehran|Afranet|
-|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|114.231.75.73|1080|China|Nanjing|Chinanet|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
