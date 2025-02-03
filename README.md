@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|2|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
+|3|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
 |6|23.95.247.7|3128|United States|Santa Clara|HostPapa|
 |7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
 |11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|103.155.168.90|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
