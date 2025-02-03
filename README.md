@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|6|142.171.12.40|3128|United States|Los Angeles|Multacom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|142.171.12.40|3128|United States|Los Angeles|Multacom Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|13|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
+|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|15|142.171.12.40|3128|United States|Los Angeles|Multacom Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
 
 
 
