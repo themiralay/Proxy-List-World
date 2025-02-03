@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|103.172.121.250|8081|Indonesia|Semarang|PT Digital Akses Nusantara|
-|5|203.150.113.47|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|8|103.55.22.2|8080|Indonesia|Asahan|PT General Media Network|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|5|103.172.121.250|8081|Indonesia|Semarang|PT Digital Akses Nusantara|
+|6|203.150.113.47|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|10|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
