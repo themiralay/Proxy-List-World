@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.95.234|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.95.236|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.95.239|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.95.252|3128|Japan|Chiyoda|InfoSphere|
-|5|164.70.95.230|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.95.243|3128|Japan|Chiyoda|InfoSphere|
-|7|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|8|164.70.95.247|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
-|10|164.70.95.233|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.95.249|3128|Japan|Chiyoda|InfoSphere|
-|12|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|164.70.95.246|3128|Japan|Chiyoda|InfoSphere|
-|14|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|19|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.95.247|3128|Japan|Chiyoda|InfoSphere|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|164.70.95.236|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.95.252|3128|Japan|Chiyoda|InfoSphere|
+|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|164.70.95.249|3128|Japan|Chiyoda|InfoSphere|
+|17|67.220.66.158|3128|Spain|Madrid|GTHost|
+|18|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|106.225.138.224|50001|China|Taohua|CHINANET Jiangx province IDC network|
 
 
 
