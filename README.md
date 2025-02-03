@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|5|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
-|8|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|9|198.244.188.127|3128|United Kingdom|London|OVH SAS|
-|10|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|157.15.44.160|8080|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|4|198.244.188.127|3128|United Kingdom|London|OVH SAS|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|7|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|8|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|103.164.192.66|8080|Indonesia|Kebonsari|PT Chayo Anugrah Teknologi|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
