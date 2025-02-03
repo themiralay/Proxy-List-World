@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|1|164.70.95.240|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|171.6.73.164|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|9|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|51.89.96.237|3128|United Kingdom|London|OVH SAS|
-|13|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|223.206.58.90|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|171.6.73.164|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|113.160.210.180|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|11|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|18|181.205.61.116|999|Colombia|Medellín|Colombia Móvil|
-|19|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|20|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|16|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|19|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
 
 
 
