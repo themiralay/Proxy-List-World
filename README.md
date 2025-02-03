@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.125.17.19|8080|Indonesia|Tangerang|JAVAMEDIA|
 |4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |10|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|178.46.158.1|8080|Russia|Kurgan|OJSC uralsvyazinform|
-|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|17|103.125.17.19|8080|Indonesia|Tangerang|JAVAMEDIA|
-|18|104.129.194.43|11243|United States|Reston|ZSCALER, INC.|
-|19|104.129.194.43|11243|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.43|11243|United States|Reston|ZSCALER, INC.|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|19|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
+|20|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
 
 
 
