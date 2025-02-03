@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|68.233.112.78|3128|India|Hyderabad|Oracle Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|8|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|14|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|164.70.93.137|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.95.231|3128|Japan|Chiyoda|InfoSphere|
-|19|116.108.22.195|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|1|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|6|68.233.112.78|3128|India|Hyderabad|Oracle Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|11|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|171.248.201.18|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|17|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|19|103.124.139.194|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
+|20|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
 
 
 
