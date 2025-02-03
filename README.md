@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|5|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
-|10|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|18|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
