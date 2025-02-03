@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|10|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|50.225.184.97|60659|United States|Chicago|Comcast Cable Communications, LLC|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|103.165.151.125|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|14|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
+|15|165.225.72.38|11748|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|165.225.72.38|11748|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|165.225.72.38|11748|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|165.225.72.38|11748|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|125.87.82.31|2324|China|Chongqing|China Telecom|
+|20|118.113.246.42|2324|China|Chengdu|Chinanet|
 
 
 
