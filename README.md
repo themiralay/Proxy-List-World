@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|7|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|81.90.149.186|3128|Iran|Tehran|Afranet|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.236.19|21085|Canada|Montreal|GloboTech Communications|
-|17|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|67.43.227.226|32345|Canada|Montreal|GloboTech Communications|
-|20|36.50.11.196|8080|Bangladesh|Gazipur|Stardust Telecom Ltd|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|103.48.71.150|82|India|Pargi|Country Online Services PVT LTD|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|12|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|13|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|67.43.236.19|5231|Canada|Montreal|GloboTech Communications|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 
 
 
