@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
-|2|116.108.22.195|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|203.150.113.143|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|7|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|20|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|171.248.201.18|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|19|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|20|24.152.58.194|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
 
 
 
