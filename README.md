@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|103.118.44.173|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
 |4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|59.39.226.204|2324|China|Guangzhou|Chinanet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|72.10.164.178|18607|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|8887|Canada|Montreal|GloboTech Communications|
-|18|118.113.245.96|2324|China|Shanghai|Chinanet|
-|19|59.39.226.204|2324|China|Guangzhou|Chinanet|
-|20|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|10|103.169.238.42|8181|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|45.71.115.103|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|103.151.226.131|8080|Indonesia|Bandung|URBANACCESS|
+|18|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 
 
 
