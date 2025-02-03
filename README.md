@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|602|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|602|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|602|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.95.91|3128|Japan|Chiyoda|InfoSphere|
+|1|38.180.202.122|3128|Japan|Shibuya|M247 Europe SRL|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|15.235.214.158|3128|Singapore|Singapore|OVH SAS|
-|5|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|11|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|12|185.242.107.185|3128|Latvia|Riga|SIA VEESP|
+|4|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.250.128.6|8082|Indonesia|Utan|PT Asri Global Investama|
+|7|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|8|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|9|164.70.95.91|3128|Japan|Chiyoda|InfoSphere|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|146.59.32.105|443|Poland|Warsaw|OVH SAS|
 |13|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
-|14|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|157.66.37.20|8080|Indonesia|Kalianda|PT Speed Network Indonesia|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|185.49.165.129|3128|Georgia|Tbilisi|Odrex Software LLC|
 
 
 
