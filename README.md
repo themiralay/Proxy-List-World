@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|150.109.252.128|3128|South Korea|Seoul|Aceville Pte.ltd|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 |5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|13|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|14|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|12|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|19|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
+|20|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
 
 
 
