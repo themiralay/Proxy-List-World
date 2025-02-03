@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
 |4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|7|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|171.237.237.218|10033|Vietnam|Hanoi|Viettel Corporation|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|10|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
 |11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
-|14|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|15|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
+|16|31.14.122.28|443|Iran|Tehran|Afranet Co|
 |17|106.225.164.39|655|China|Beijing|China Telecom|
 |18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
-|20|102.213.241.106|8080|Kenya|Chuka|Swift Broadband Limited|
+|19|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|20|41.216.186.200|8080|Indonesia|Kuningan Barat|FASTHOSTING|
 
 
 
