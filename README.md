@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|23.95.247.7|3128|United States|Santa Clara|HostPapa|
-|4|116.58.239.16|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|23.95.247.7|3128|United States|Santa Clara|HostPapa|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|110.78.147.233|8080|Thailand|Phi Phi Don|CAT-BB|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|19|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|20|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|110.78.147.233|8080|Thailand|Phi Phi Don|CAT-BB|
+|12|103.76.151.114|8080|Indonesia|Karangsono|PT. Java Digital Nusantara|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|17|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|18|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|19|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
