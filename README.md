@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|6|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
 |9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|13|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|14|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
-|15|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|18|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
-|19|61.184.192.187|10000|China|Wuhan|Chinanet|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|13|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|16|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 
 
 
