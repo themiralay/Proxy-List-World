@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|10|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|103.181.255.137|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|103.154.230.85|8080|Indonesia|Lamongan|DIGITNET|
+|1|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|9|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|10|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|27.76.233.178|10034|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|19|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
