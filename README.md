@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|3.39.28.34|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|115.74.5.28|10004|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|3.39.28.34|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|103.179.252.75|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|3.39.28.34|3128|South Korea|Seoul|Amazon.com, Inc.|
+|10|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|84.54.191.22|8080|Bulgaria|Sunny Beach|ComNet Bulgaria Ltd.|
+|16|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|18|49.48.192.122|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|19|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 
 
 
