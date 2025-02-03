@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|3|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|19|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|20|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|13|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|20|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
 
 
 
