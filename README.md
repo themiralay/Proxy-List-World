@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.241|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|11|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|12|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|72.10.164.178|9623|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|24867|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|20311|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|164.70.68.241|3128|Japan|Chiyoda|InfoSphere|
+|3|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|18|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|19|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
