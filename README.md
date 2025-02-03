@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|7|122.162.240.14|3128|India|Jaipur|BHARTI|
-|8|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|122.162.240.14|3128|India|Jaipur|BHARTI|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|27.76.233.178|10030|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|115.72.33.226|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|59.63.205.36|655|China|Taohua|Chinanet|
-|17|172.99.188.139|3128|Netherlands|Amsterdam|GTHost|
-|18|106.115.87.35|9100|China|Handan|Chinanet|
-|19|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|67.43.228.251|28537|Canada|Montreal|GloboTech Communications|
+|20|114.231.73.5|1080|China|Nanjing|Chinanet|
 
 
 
