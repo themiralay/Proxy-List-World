@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9160** proxies at the latest update. Usable proxies are below.
+> Scraper found **9167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2944|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2952|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|543|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4679|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|4|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
 |5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|198.244.188.127|3128|United Kingdom|London|OVH SAS|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|9|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|118.173.91.129|8081|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|19|114.231.75.73|1080|China|Nanjing|Chinanet|
-|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|6|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|12|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|13|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|14|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|18|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
