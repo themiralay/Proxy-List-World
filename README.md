@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9164** proxies at the latest update. Usable proxies are below.
+> Scraper found **9165** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2775|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|730|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|5|54.249.86.224|8004|Japan|Tokyo|Amazon.com, Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|9|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|10|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|13|106.115.87.35|9100|China|Handan|Chinanet|
-|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|188.132.222.17|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|20|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|2|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|185.25.22.185|3128|Greece|Thessaloniki|POINTER-CLOUD2|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|45.205.2.64|8088|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|11|118.113.246.42|2324|China|Shanghai|Chinanet|
+|12|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|16|61.184.192.187|10000|China|Wuhan|Chinanet|
+|17|59.39.226.225|2324|China|Guangzhou|Chinanet|
+|18|106.115.87.35|9100|China|Handan|Chinanet|
+|19|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|20|72.10.160.174|17893|Canada|Montreal|GloboTech Communications|
 
 
 
