@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8007|Japan|Tokyo|Amazon.com, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|8|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
+|6|203.73.62.104|60808|Taiwan|Taichung|Digital United Inc.|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|103.116.82.139|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|19|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 
 
 
