@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |4|65.0.78.211|3128|India|Mumbai|Amazon.com|
 |5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|19|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|81.90.149.186|3128|Iran|Tehran|Afranet|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
