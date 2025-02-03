@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|23.95.247.7|3128|United States|Santa Clara|HostPapa|
-|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|23.95.247.7|3128|United States|Santa Clara|HostPapa|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|4|103.194.175.18|8080|Indonesia|Banyuwangi|MYNET|
+|5|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
 |7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|10|101.36.125.154|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|17|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|18|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
