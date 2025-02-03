@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|4|223.206.58.90|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|5|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|185.231.183.41|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|185.82.99.210|8080|Lebanon|Baalbek|NET 360 S.A.R.L|
-|19|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|20|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|1|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
+|7|223.206.58.90|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|8|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
+|9|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|185.231.183.41|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
