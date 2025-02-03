@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|49.156.23.217|8077|Indonesia|Jakarta|PALAPANET|
+|5|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |7|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|49.156.23.217|8077|Indonesia|Jakarta|PALAPANET|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|15|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|17|136.233.136.41|48976|India|Vadodara|Reliance Jio Infocomm Limited|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
