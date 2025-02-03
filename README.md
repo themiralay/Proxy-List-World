@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.182.50.104|8007|Japan|Tokyo|Amazon.com, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|11|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
-|12|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|13|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|14|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|12|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|19|154.16.159.38|3128|United States|Philadelphia|LaunchVPS, LLC|
+|20|65.0.78.211|3128|India|Mumbai|Amazon.com|
 
 
 
