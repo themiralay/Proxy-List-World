@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.171.157.120|8080|Indonesia|Jakarta|MYREPUBLIC|
-|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|103.160.205.230|8080|Indonesia|Mataram|PRIME|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|19|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|184.82.63.71|8080|Thailand|Khon Kaen|AIS-Fibre|
+|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|14|165.225.113.220|11197|Singapore|Singapore|ZSCALER, INC.|
+|15|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|16|165.225.113.220|11197|Singapore|Singapore|ZSCALER, INC.|
+|17|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|19|72.10.160.93|19051|Canada|Montreal|GloboTech Communications|
+|20|104.129.194.46|10878|United States|Reston|ZSCALER, INC.|
 
 
 
