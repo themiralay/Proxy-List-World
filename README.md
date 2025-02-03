@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|50.225.184.42|60659|United States|Chicago|Comcast Cable Communications, LLC|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|118.113.244.45|2324|China|Chengdu|Chinanet|
+|15|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|18|118.113.246.42|2324|China|Chengdu|Chinanet|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
