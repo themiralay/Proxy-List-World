@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|19|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|2|103.148.131.110|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|190.43.92.68|999|Peru|Pocollay|Telefonica Del Peru|
+|10|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|12|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|13|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.214.102.171|8083|Indonesia|Batam|SMARTPLUS|
+|20|45.8.228.70|1080|Russia|St Petersburg|MT FINANCE LLC|
 
 
 
