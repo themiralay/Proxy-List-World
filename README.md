@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.95.240|3128|Japan|Chiyoda|InfoSphere|
+|1|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |4|171.6.73.164|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
-|18|118.113.246.42|2324|China|Shanghai|Chinanet|
-|19|67.43.236.18|15391|Canada|Montreal|GloboTech Communications|
-|20|118.113.246.42|2324|China|Shanghai|Chinanet|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|13|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|16|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|17|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 
 
 
