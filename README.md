@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|10|180.180.17.89|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
-|11|41.65.67.167|1976|Egypt|Awsīm|Enterprise|
-|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|15|114.231.75.73|1080|China|Nanjing|Chinanet|
-|16|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
-|17|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|103.250.128.6|8082|Indonesia|Utan|PT Asri Global Investama|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|12|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|43.153.171.194|8888|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|102.213.241.106|8080|Kenya|Chuka|Swift Broadband Limited|
+|15|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|104.129.194.38|10011|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
+|19|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
 |20|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
 
 
