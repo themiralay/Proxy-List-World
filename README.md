@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|50.225.184.97|60659|United States|Chicago|Comcast Cable Communications, LLC|
-|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|103.124.139.197|2024|Indonesia|Kebumen Satu|Global Media Data Prima|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|88.42.237.102|8080|Italy|Piovene Rocchette|Telecom Italia S.p.A.|
+|17|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
