@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
-|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
-|5|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|10|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.76.233.178|10030|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
 
 
 
