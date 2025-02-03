@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|103.172.121.250|8081|Indonesia|Semarang|PT Digital Akses Nusantara|
-|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|103.181.255.137|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|144.202.78.147|80|United States|Stuart|The Constant Company|
-|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|203.150.113.47|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
+|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|7|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
