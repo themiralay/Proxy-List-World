@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|3|164.70.95.240|3128|Japan|Chiyoda|InfoSphere|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|223.206.58.90|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|4|223.206.58.90|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|13|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|202.129.185.195|8080|Indonesia|Bandung|PT Media Akses Global Indo|
-|16|51.89.96.237|3128|United Kingdom|London|OVH SAS|
-|17|37.211.86.186|8080|Qatar|Doha|Ooredoo Q.S.C|
-|18|185.231.183.41|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|185.231.183.41|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|185.82.99.210|8080|Lebanon|Baalbek|NET 360 S.A.R.L|
+|19|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|20|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
 
 
 
