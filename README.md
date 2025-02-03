@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.95.241|3128|Japan|Chiyoda|InfoSphere|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|103.22.217.41|3125|Indonesia|Bandung|PT Cybermedia Network Nusantara|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|171.248.207.202|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|18|49.48.94.139|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|5|65.0.78.211|3128|India|Mumbai|Amazon.com|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
+|15|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|16|181.115.185.50|8080|Bolivia|Cochabamba|Entel S.A. - EntelNet|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
