@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.68.241|3128|Japan|Chiyoda|InfoSphere|
 |2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
 |3|65.0.78.211|3128|India|Mumbai|Amazon.com|
-|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|5|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|58.147.186.31|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|9|81.90.149.186|3128|Iran|Tehran|Afranet|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|182.253.109.162|8080|Indonesia|Jakarta|Biznet Metronet|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|67.43.228.253|20303|Canada|Montreal|GloboTech Communications|
+|13|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|181.129.252.123|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
 
 
 
