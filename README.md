@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|4|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
-|5|157.66.85.65|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|15|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|3|103.156.15.130|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|43.135.36.146|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|20|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
 
 
 
