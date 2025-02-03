@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|9|103.235.34.130|57413|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|13|187.251.130.156|8080|Mexico|Colima|Total Play Telecomunicaciones SA De CV|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|203.175.102.80|8080|Indonesia|Sukasari|MITRAKITA|
-|16|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
-|17|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|18|118.113.246.42|2324|China|Chengdu|Chinanet|
-|19|113.11.183.43|8181|Indonesia|Purwokerto|BIZNET|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|1|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
+|2|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|3|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
+|4|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|113.11.183.43|8181|Indonesia|Purwokerto|BIZNET|
+|10|27.76.233.178|11590|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|90.156.196.155|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|36.77.218.83|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|15|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|16|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|17|199.21.172.114|3128|Australia|Brisbane|Siamdata Communication Co., ltd.|
+|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|118.113.246.42|2324|China|Chengdu|Chinanet|
+|20|139.177.190.161|3128|Singapore|Singapore|Akamai Technologies, Inc.|
 
 
 
