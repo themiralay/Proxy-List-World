@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|3.113.159.255|8000|Japan|Tokyo|Amazon Technologies Inc.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|103.157.78.162|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|14.241.238.127|8080|Vietnam|Ho Chi Minh City|VNPT|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
-|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
-|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|36.94.8.23|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|118.188.144.0|3128|United States|Sterling|Windstream Communications LLC|
-|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|20|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|104.129.194.45|10089|United States|Reston|ZSCALER, INC.|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
+|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|144.202.78.147|80|United States|Stuart|The Constant Company|
+|12|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|13|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|18|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
