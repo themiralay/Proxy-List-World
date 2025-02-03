@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|139.59.112.67|8888|Singapore|Singapore|DIGITALOCEAN|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|13|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|17|106.115.87.35|9100|China|Handan|Chinanet|
-|18|186.190.225.153|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
-|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|20|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|9|27.76.233.178|18105|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
+|20|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
 
 
 
