@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|6|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|139.59.112.67|8888|Singapore|Singapore|DIGITALOCEAN|
+|4|103.75.84.181|7788|Indonesia|Klaten|MEGADATA|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
 |7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|19|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|20|118.113.246.42|2324|China|Shanghai|Chinanet|
 
 
 
