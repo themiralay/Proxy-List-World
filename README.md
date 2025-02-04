@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|185.217.131.28|80|Uzbekistan|Tashkent|Best Internet Solution XK|
-|8|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|103.143.168.58|83|India|Hyderabad|Aspt Networks Pvt Ltd|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|113.192.48.53|8080|Indonesia|Batu|PT.Global Media Data Prima|
-|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|14|186.24.9.204|9898|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
-|15|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
-|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|177.234.226.141|999|Ecuador|Manta|Ufinet Panama S.A.|
+|3|14.39.239.79|62244|South Korea|Eunpyeong-gu|Korea Telecom|
+|4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|16|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|110.188.37.113|2324|China|Muping|Chinanet|
+|18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|19|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
