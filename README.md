@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|6|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|8|1.4.147.242|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|81.90.149.186|3128|Iran|Tehran|Afranet|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
-|16|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
-|17|116.107.203.105|10006|Vietnam|Hanoi|Viettel Corporation|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|201.143.236.83|8080|Mexico|Mexicali|Uninet S.A. de C.V.|
-|20|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|103.168.254.62|8080|Indonesia|Kudus|PT Fahasa Tri Data|
+|7|117.6.57.25|10002|Vietnam|Hanoi|VIETTEL|
+|8|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|182.53.249.223|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|13|115.245.181.50|3128|India|New Delhi|Reliance Jio Infocomm Limited|
+|14|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|15|81.90.149.186|3128|Iran|Tehran|Afranet|
+|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|103.152.93.157|8080|Indonesia|Gemiring|PT. JAYA LINTAS INDONESIA|
+|19|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|20|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
