@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|6|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
-|7|27.79.72.117|9042|Vietnam|Tuy Phước|Viettel Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|134.236.31.47|8080|Thailand|Phra Nakhon Si Ayutthaya|CAT-BB|
-|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|14|91.218.142.114|3128|Latvia|Riga|RETN Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|38.156.72.163|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|186.7.187.226|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|16|91.218.142.114|3128|Latvia|Riga|RETN Limited|
+|17|223.204.22.191|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
 
 
 
