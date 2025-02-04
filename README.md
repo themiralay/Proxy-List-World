@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|36.72.252.32|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|7|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|10|117.6.57.25|10002|Vietnam|Hanoi|VIETTEL|
-|11|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|57.182.50.104|8000|Japan|Tokyo|Amazon.com, Inc.|
-|17|102.0.15.216|3346|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|18|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|204.199.72.162|999|Colombia|Bogotá|CTL Colombia|
+|1|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|7|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|36.72.252.32|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|12|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
+|13|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
+|18|110.77.244.68|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
+|19|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
+|20|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
