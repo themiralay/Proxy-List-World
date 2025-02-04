@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|51.81.35.78|3128|United States|Reston|OVH SAS|
-|4|51.81.35.78|3128|United States|Reston|OVH SAS|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.81.35.78|3128|United States|Reston|OVH SAS|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|107.172.96.11|24283|United States|Santa Clara|HostPapa|
 |10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|15|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|16|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|17|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|11|103.143.168.254|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|12|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|16|72.10.164.178|8387|Canada|Montreal|GloboTech Communications|
+|17|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
 |18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|118.113.244.234|2324|China|Shanghai|Chinanet|
-|20|186.225.236.241|8080|Brazil|Tijucas|Unetvale Servicos e Equipamentos LTDA|
+|19|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|20|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 
 
 
