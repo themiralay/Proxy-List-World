@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|38.99.82.51|3128|United States|New York|GTHost|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|141.11.187.32|3128|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|193.70.74.44|3128|France|Lyon|OVH SAS|
-|17|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
-|18|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|38.99.82.51|3128|United States|New York|GTHost|
-|20|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|212.23.222.197|3128|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|6|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|8|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|15|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|17|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|19|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|20|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
 
 
 
