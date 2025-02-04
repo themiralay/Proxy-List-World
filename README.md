@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|4|144.48.162.126|8080|Bangladesh|Dhaka|Cue Club Technology|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|103.199.139.14|82|India|Pune|Syscon Infoway Pvt. Ltd.|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
