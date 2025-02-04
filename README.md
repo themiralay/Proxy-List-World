@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|1.53.155.136|10018|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
-|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|12|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|118.113.244.5|2324|China|Shanghai|Chinanet|
-|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|6|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|138.97.37.16|9393|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|16|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.81.110.250|8181|Indonesia|Serang|PT Fiber Data Nusantara|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|175.100.70.72|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
