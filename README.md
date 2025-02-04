@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
-|4|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|5|170.64.151.251|3129|Australia|Sydney|DigitalOcean, LLC|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|15|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|149.86.142.68|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|170.64.151.251|3129|Australia|Sydney|DigitalOcean, LLC|
+|9|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
+|13|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|149.86.142.68|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
 
 
 
