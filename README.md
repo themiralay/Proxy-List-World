@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
-|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|5|212.23.222.197|3128|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|6|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|8|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|9|212.23.222.197|3128|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|10|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
 |14|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|15|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|17|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|19|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
-|20|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
