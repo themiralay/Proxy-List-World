@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|4|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|190.211.7.101|999|Chile|Chillán|Telefonica del Sur S.A.|
-|14|186.158.8.65|3128|Argentina|Hurlingham|Techtel LMDS Comunicaciones Interactivas S.A.|
-|15|170.245.132.86|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|18|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|19|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
-|20|103.155.199.63|8080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.172.71.140|8080|Indonesia|Karawang|AZNET|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|144.76.254.36|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|10|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|157.20.98.74|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|14|185.25.22.185|3128|Greece|Thessaloniki|POINTER-CLOUD2|
+|15|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
