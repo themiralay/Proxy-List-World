@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|103.70.170.163|8080|Bangladesh|Chittagong|Digital Dot Net|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
 |8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|16|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|18|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|103.149.238.106|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
+|13|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
