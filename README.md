@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
-|12|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|19|103.60.173.2|96|Bangladesh|Dhaka|Mazeda Networks Limited|
-|20|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|1.53.155.136|10018|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|27.76.233.178|10030|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|20|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
 
 
 
