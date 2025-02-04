@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |5|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|72.10.160.171|2611|Canada|Montreal|GloboTech Communications|
-|10|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|11|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|12|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|13|222.67.13.33|1080|China|Shanghai|China Telecom (Group)|
-|14|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|9|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|13|49.145.127.115|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|16|165.225.113.220|11197|Singapore|Singapore|ZSCALER, INC.|
+|17|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
 |18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|157.66.84.207|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|19|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 |20|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 
 
