@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
-|4|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|7|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
+|3|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|4|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
+|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|9|1.53.155.136|10018|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|15|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|18|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|118.113.244.5|2324|China|Shanghai|Chinanet|
-|20|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|103.69.106.210|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|118.113.244.5|2324|China|Shanghai|Chinanet|
+|18|138.0.143.119|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|19|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
+|20|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
