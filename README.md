@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.183.10.169|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|176.99.65.12|8080|Russia|Tosno|OtradnoeNet Ltd|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|6|118.193.32.18|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|9|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|81.90.149.186|3128|Iran|Tehran|Afranet|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|16|103.183.10.169|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|17|103.87.170.121|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 |20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 
 
