@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|170.64.151.251|3129|Australia|Sydney|DigitalOcean, LLC|
-|9|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
-|13|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|149.86.142.68|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|3|103.194.46.98|8082|Indonesia|Nagara Tengah|JABNET|
+|4|103.39.49.98|8080|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|5|103.130.182.85|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
+|6|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|170.64.151.251|3129|Australia|Sydney|DigitalOcean, LLC|
+|10|118.188.144.0|3128|United States|Los Angeles|Windstream Communications LLC|
+|11|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|12|162.239.194.73|8080|United States|Bardstown|AT&T Services, Inc.|
+|13|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|103.87.170.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|15|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
+|16|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|20|149.86.142.68|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 
 
 
