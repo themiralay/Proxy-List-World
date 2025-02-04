@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|6|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
-|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|125.25.19.184|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|16|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|20|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|106.115.87.35|9100|China|Handan|Chinanet|
+|17|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 
 
 
