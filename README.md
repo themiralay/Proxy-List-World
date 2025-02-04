@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|4|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
-|5|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|38.7.18.103|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
-|7|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
-|10|95.181.195.45|3128|Russia|Moscow|Dataline Ltd|
-|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|142.171.168.135|8888|United States|Los Angeles|Multacom Corporation|
-|13|35.219.34.120|3128|Indonesia|Jakarta|Google LLC|
-|14|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|15|2.58.54.153|3128|Germany|Frankfurt am Main|HKN GmbH|
+|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|38.7.18.103|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
+|5|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
+|8|95.181.195.45|3128|Russia|Moscow|Dataline Ltd|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|223.204.52.76|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|200.196.39.245|3128|Brazil|Uberlândia|MZ NET FIBRA|
 |16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|223.205.31.42|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|2.58.54.153|3128|Germany|Frankfurt am Main|HKN GmbH|
+|19|1.4.203.192|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
