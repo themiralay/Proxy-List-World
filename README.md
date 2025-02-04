@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.199.139.14|82|India|Pune|Syscon Infoway Pvt. Ltd.|
-|7|103.227.186.58|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
-|10|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|17|144.48.162.126|8080|Bangladesh|Dhaka|Cue Club Technology|
-|18|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|13.115.193.18|3128|Japan|Tokyo|Amazon Technologies Inc|
+|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|209.38.56.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|18|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|19|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|20|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
 
 
 
