@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|43.252.159.10|8080|Indonesia|Yogyakarta|PT Blip Integrator Provider|
-|5|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|8|115.72.41.32|10027|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|115.74.6.67|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|10|115.72.41.32|10027|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|12|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|13|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|14|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|118.113.246.110|2324|China|Shanghai|Chinanet|
+|7|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|8|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|9|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|10|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|11|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|12|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|13|125.25.19.184|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|14.226.218.49|8080|Vietnam|Bảo Lộc|VNPT|
+|15|115.74.6.67|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
 |16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
-|18|103.250.128.7|8082|Indonesia|Utan|PT Asri Global Investama|
-|19|67.43.227.226|17383|Canada|Montreal|GloboTech Communications|
-|20|106.115.87.35|9100|China|Handan|Chinanet|
+|17|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|19|101.51.76.159|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|115.72.41.32|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
