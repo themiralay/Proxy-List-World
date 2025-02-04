@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|4|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|12|123.20.155.148|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|14.168.101.27|8080|Vietnam|Bình Dương|VNPT-VNNIC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|178.178.100.188|8080|Russia|Moscow|PJSC MegaFon|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.155.65.71|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|8|102.209.136.202|8080|Kenya|Nairobi|Quick Fiber|
+|9|27.76.233.178|10030|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|14|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|17|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|18|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 
 
 
