@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|1|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.86.116.67|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|7|81.90.149.186|3128|Iran|Tehran|Afranet|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|91.217.179.174|8080|Ukraine|Kyiv|Startnet LTD|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|114.5.196.81|8080|Indonesia|Sukabumi|PT. INDOSAT Tbk|
-|14|37.187.149.223|8081|France|Roubaix|OVH SAS|
-|15|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
-|16|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
+|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|37.187.149.223|8081|France|Roubaix|OVH SAS|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|122.144.1.74|63123|Indonesia|Jakarta|Maxindo|
+|9|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|103.63.26.231|8080|Indonesia|Kresek|PT Global Media Data Prima|
+|11|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
+|14|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.70.4|8080|Japan|Chiyoda|InfoSphere|
+|18|3.137.121.80|8081|United States|Dublin|Amazon.com, Inc.|
+|19|67.43.236.18|3155|Canada|Montreal|GloboTech Communications|
+|20|165.225.113.220|10443|Singapore|Singapore|ZSCALER, INC.|
 
 
 
