@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.156.248.45|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|36.90.26.241|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|11|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
+|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|36.90.26.241|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 |12|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |13|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |14|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|15|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|16|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|17|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
-|18|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
-|19|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
+|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|16|67.43.228.250|12261|Canada|Montreal|GloboTech Communications|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|104.129.194.44|10443|United States|Reston|ZSCALER, INC.|
 
 
 
