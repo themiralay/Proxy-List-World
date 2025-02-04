@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
-|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|5|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|103.78.1.117|39114|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|7|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|85.194.244.91|57732|Poland|Warsaw|ECO-ATMAN|
-|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
-|16|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|18|118.113.244.5|2324|China|Shanghai|Chinanet|
-|19|104.129.192.180|30001|United States|San Jose|ZSCALER, INC.|
-|20|106.115.87.35|9100|China|Handan|Chinanet|
+|4|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|6|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.156.141.172|8081|Indonesia|Langsepan|PT Tekling Media Telematika|
+|10|175.100.70.72|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|222.96.176.66|3128|South Korea|Jinju|Korea Telecom|
+|13|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|104.129.192.180|30001|United States|San Jose|ZSCALER, INC.|
 
 
 
