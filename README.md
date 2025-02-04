@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **11966** proxies at the latest update. Usable proxies are below.
+> Scraper found **12008** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|197|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|4340|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|198|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|4381|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|516|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5987|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|3|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |4|81.169.226.197|8888|Germany|Berlin|Strato AG|
-|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|7|103.250.128.7|8082|Indonesia|Utan|PT Asri Global Investama|
-|8|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|9|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|10|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|11|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|12|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|5|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|6|36.68.33.214|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|7|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|8|49.48.97.230|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|115.72.41.32|10027|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|103.250.128.7|8082|Indonesia|Utan|PT Asri Global Investama|
+|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|12|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |13|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|14|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|125.25.19.184|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|15|115.74.6.67|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|16|115.72.41.32|10027|Vietnam|Ho Chi Minh City|VIETELmetro|
+|17|67.43.227.226|17383|Canada|Montreal|GloboTech Communications|
 |18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|20|118.173.237.199|8080|Thailand|Krathum Baen|TOT Public Company Limited|
+|19|14.226.218.49|8080|Vietnam|Bảo Lộc|VNPT|
+|20|125.87.82.231|2324|China|Chongqing|China Telecom|
 
 
 
