@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|101.108.4.250|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|142.171.168.135|8888|United States|Los Angeles|Multacom Corporation|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|72.10.160.90|23877|Canada|Montreal|GloboTech Communications|
+|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|14.39.239.79|62244|South Korea|Eunpyeong-gu|Korea Telecom|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|9|38.156.72.163|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|11|186.7.187.226|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |16|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 |17|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|18|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|19|72.10.160.170|22167|Canada|Montreal|GloboTech Communications|
-|20|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|18|223.204.22.191|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|19|14.39.239.79|62244|South Korea|Eunpyeong-gu|Korea Telecom|
+|20|178.178.100.188|8080|Russia|Moscow|PJSC MegaFon|
 
 
 
