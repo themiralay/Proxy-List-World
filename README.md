@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|13.115.193.18|3128|Japan|Tokyo|Amazon Technologies Inc|
-|7|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|181.114.62.1|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.209.88.72|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|17|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|123.24.49.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|219.93.111.125|9412|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
+|4|103.174.238.238|3125|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
+|7|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|14|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|20|103.35.108.186|5020|Bangladesh|Dhaka|Ranks ITT|
 
 
 
