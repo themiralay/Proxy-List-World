@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
-|4|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|5|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
-|6|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|37.32.127.162|8080|Iran|Tehran|Rayaneh Pardazan Baran Co. Ltd|
-|10|123.24.58.147|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
-|12|103.35.108.186|5020|Bangladesh|Dhaka|Ranks ITT|
-|13|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
-|14|103.144.144.43|3125|Indonesia|Muhajirin|PT Rinjani Citra Solusi|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.145.68.207|8181|Indonesia|Surabaya|ALFANET|
+|8|103.171.240.130|3131|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|9|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|37.32.127.162|8080|Iran|Tehran|Rayaneh Pardazan Baran Co. Ltd|
+|12|203.150.113.62|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|103.159.47.34|83|India|Ahmedabad|King Netsol Private Limited|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|186.232.59.146|54443|Brazil|Coração de Maria|Geeknet Provedor De Internet Ltda ME|
+|20|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
 
 
 
