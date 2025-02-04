@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|103.187.146.137|3128|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|4|38.99.82.51|3128|United States|New York|GTHost|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|38.99.82.51|3128|United States|New York|GTHost|
-|10|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|11|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|12|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|9|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|13|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|141.11.187.32|3128|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|193.70.74.44|3128|France|Lyon|OVH SAS|
-|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|18|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
-|19|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|18|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|38.99.82.51|3128|United States|New York|GTHost|
+|20|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
 
 
 
