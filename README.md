@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|3|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|4|27.76.233.178|18105|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
-|6|180.63.130.181|3128|Japan|Karashimachō|NTT Communications Corporation|
-|7|160.19.178.24|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|9|38.99.82.51|3128|United States|New York|GTHost|
-|10|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|4|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|5|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|6|177.93.44.30|999|Colombia|Tuta|TV AZTECA SUCURSAL COLOMBIA|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
-|16|51.75.65.222|80|Germany|Limburg an der Lahn|OVH SAS|
-|17|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|12|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|13|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|14|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|15|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|17|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
