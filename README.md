@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|14.39.239.241|63903|South Korea|Eunpyeong-gu|Korea Telecom|
-|14|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|203.150.128.148|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|12|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
+|13|103.179.46.49|6789|India|Thāne|Jeebr Cloud Solution PVT LTD|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 
 
 
