@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.187.146.137|3128|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|3|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|103.242.104.145|1080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|6|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|14|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
-|15|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|17|141.11.187.32|3128|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|18|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|193.70.74.44|3128|France|Lyon|OVH SAS|
-|20|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
+|4|1.53.155.136|10018|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|103.227.107.4|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|6|103.187.146.137|3128|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|7|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|11|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|195.226.194.131|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|15|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|193.70.74.44|3128|France|Lyon|OVH SAS|
+|17|38.99.82.51|3128|United States|New York|GTHost|
+|18|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
+|19|38.99.82.51|3128|United States|New York|GTHost|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
