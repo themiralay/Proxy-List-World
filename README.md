@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|46.180.173.250|3128|Russia|Kemerovo|Goodline.info|
-|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|106.115.87.35|9100|China|Handan|Chinanet|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
-|20|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|20|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
