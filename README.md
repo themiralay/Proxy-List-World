@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10319** proxies at the latest update. Usable proxies are below.
+> Scraper found **10320** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|79|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3712|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|613|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|6|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|190.2.214.137|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
-|13|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|95.181.195.45|3128|Russia|Moscow|Dataline Ltd|
-|16|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|104.129.192.180|30001|United States|San Jose|ZSCALER, INC.|
-|20|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|3|203.175.103.3|3125|Indonesia|Kuningan|PT. Mitra Kita Brilian|
+|4|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|5|103.247.23.187|8080|Indonesia|Baturaden|PT wifian Solution|
+|6|103.39.49.104|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|7|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|8|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
+|9|103.171.255.189|8080|Indonesia|Sleman|ZKI|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.87.170.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|16|149.86.142.68|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|17|138.0.140.17|9292|Brazil|Mirandópolis|F.B. BABETO ME|
+|18|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|19|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
