@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|185.103.102.125|3128|Finland|Helsinki|DpkgSoft International Limited|
-|4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|5|164.132.175.159|3128|France|Roubaix|OVH SAS|
+|3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|7|36.111.142.177|12700|China|Lipu|Cloud Computing Corporation|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|10|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|11|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|12|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
 |13|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 |14|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 |15|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
 |16|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|17|116.107.203.105|10018|Vietnam|Hanoi|Viettel Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|113.192.31.77|3128|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|113.128.132.112|12233|China|Jinan|Chinanet|
 
 
 
