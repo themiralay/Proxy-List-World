@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|4|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|115.147.34.99|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|5|103.101.216.244|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|14.168.101.27|8080|Vietnam|Bình Dương|VNPT-VNNIC|
-|10|1.55.0.31|8080|Vietnam|Hanoi|FPT Telecom Company|
-|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|12|84.241.51.51|8080|Iran|Tehran|SHATEL DSL Network|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|10|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|11|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|17|179.61.110.253|999|Chile|San Clemente|HomeNet LTDA|
+|18|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
