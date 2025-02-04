@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10137** proxies at the latest update. Usable proxies are below.
+> Scraper found **10138** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|919|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|38.7.18.103|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
-|5|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
-|8|95.181.195.45|3128|Russia|Moscow|Dataline Ltd|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|223.204.52.76|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|200.196.39.245|3128|Brazil|Uberlândia|MZ NET FIBRA|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|2.58.54.153|3128|Germany|Frankfurt am Main|HKN GmbH|
-|19|1.4.203.192|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|1|1.53.155.136|10018|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|54.255.140.44|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|4|27.79.71.211|10006|Vietnam|Tam Kỳ|Viettel Corporation|
+|5|209.97.167.61|10093|Singapore|Singapore|DigitalOcean, LLC|
+|6|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|7|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
+|8|36.82.197.172|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|9|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
+|10|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|11|52.176.154.7|3128|United States|Des Moines|Microsoft Corporation|
+|12|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|77.238.226.64|3129|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|52.176.154.7|3128|United States|Des Moines|Microsoft Corporation|
+|16|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
+|17|38.7.18.103|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
+|18|95.181.195.45|3128|Russia|Moscow|Dataline Ltd|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
