@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|4|103.183.10.169|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|5|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|103.131.19.27|8080|Indonesia|Lamongan|PT Global Media Data Prima|
 |9|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|10|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|164.163.1.140|2180|Brazil|Brasília|connectx serviços de telecomunicações ltda|
-|15|118.113.246.42|2324|China|Shanghai|Chinanet|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|176.99.65.12|8080|Russia|Tosno|OtradnoeNet Ltd|
-|20|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
+|19|203.111.253.130|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
