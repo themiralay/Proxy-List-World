@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|7|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |12|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|13|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
-|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|16|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|20|118.113.246.42|2324|China|Shanghai|Chinanet|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|15|2.58.54.153|3128|Germany|Frankfurt am Main|HKN GmbH|
+|16|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
+|17|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|106.115.87.35|9100|China|Handan|Chinanet|
+|19|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|177.93.36.74|3128|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
