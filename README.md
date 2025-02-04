@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|6|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|139.255.74.124|8080|Indonesia|Jakarta|PT. LINKNET|
+|7|103.76.149.14|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|13|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
-|14|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|45.4.1.196|999|Chile|Santiago|Tlink SPA|
+|13|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|14|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|15|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|16|123.24.58.147|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
+|19|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
