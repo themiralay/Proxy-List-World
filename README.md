@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|4|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|104.129.192.180|30001|United States|San Jose|ZSCALER, INC.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |12|104.129.192.180|30001|United States|San Jose|ZSCALER, INC.|
-|13|104.129.192.180|30001|United States|San Jose|ZSCALER, INC.|
-|14|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|15|39.61.54.80|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|16|43.134.229.33|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|18|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|15|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
+|16|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
+|18|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
+|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 |20|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
 
 
