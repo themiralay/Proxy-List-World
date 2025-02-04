@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|38.7.18.103|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
-|4|117.6.57.25|10001|Vietnam|Hanoi|VIETTEL|
-|5|116.107.203.105|10006|Vietnam|Hanoi|Viettel Corporation|
+|3|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|4|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|5|171.243.30.135|9081|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|103.160.202.30|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|200.196.39.245|3128|Brazil|Uberlândia|MZ NET FIBRA|
+|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|81.90.149.186|3128|Iran|Tehran|Afranet|
-|15|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|16|34.124.254.47|8888|Singapore|Singapore|Google LLC|
-|17|181.49.122.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|12|180.250.251.26|3131|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|14|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|103.160.202.30|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|103.172.71.140|8080|Indonesia|Karawang|AZNET|
 
 
 
