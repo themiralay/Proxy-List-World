@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|5|203.150.113.62|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|27.76.233.178|22129|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|68.225.17.237|4228|United States|Costa Mesa|Cox Communications Inc.|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
-|16|209.14.118.114|999|Colombia|Quinchía|AGIS|
-|17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|157.66.16.36|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|101.251.204.174|8080|China|Haidian|IDC, China Telecommunications Corporation|
+|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|20|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
+|19|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|20|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
 
 
 
