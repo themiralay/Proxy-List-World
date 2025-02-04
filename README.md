@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|6|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|103.175.238.174|9090|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|49.70.190.207|2324|China|Zhenjiang|Chinanet|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|103.250.128.7|8082|Indonesia|Utan|PT Asri Global Investama|
-|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|16|59.39.196.201|2324|China|Guangzhou|Chinanet|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|118.113.244.45|2324|China|Shanghai|Chinanet|
+|9|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|47.236.25.152|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|20|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 
 
 
