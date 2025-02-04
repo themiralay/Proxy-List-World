@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|8|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|103.162.54.151|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|11|118.113.244.234|2324|China|Shanghai|Chinanet|
-|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|7|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|16|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|20|67.43.228.250|29545|Canada|Montreal|GloboTech Communications|
 
 
 
