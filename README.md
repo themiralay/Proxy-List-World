@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|4|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|5|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|7|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|8|103.131.19.27|8080|Indonesia|Lamongan|PT Global Media Data Prima|
-|9|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|27.76.233.178|27563|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|203.111.253.130|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
+|6|103.191.196.155|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|171.4.68.116|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|217.28.132.206|8080|Russia|Moscow|NetOne Rus JSC|
+|13|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|164.163.1.140|2180|Brazil|Brasília|connectx serviços de telecomunicações ltda|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|18|201.182.85.13|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|19|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|20|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
 
 
 
