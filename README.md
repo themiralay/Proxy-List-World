@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|4|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|203.111.253.130|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
 |11|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|195.189.190.252|9090|Spain|San Bartolomé|Suballocated IT1|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|20|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|20|106.58.221.83|8008|China|Kunming|Chinanet|
 
 
 
