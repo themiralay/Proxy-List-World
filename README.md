@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|3|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|212.113.101.178|3128|Sweden|Stockholm|xorek.cloud International LTD|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|10|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|157.90.244.99|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
-|16|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|50.237.153.243|8081|United States|Gaithersburg|Comcast Cable Communications, LLC|
-|18|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|38.156.14.182|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|4|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|8|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|212.113.101.178|3128|Sweden|Stockholm|xorek.cloud International LTD|
+|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|81.90.149.186|3128|Iran|Tehran|Afranet|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|185.255.88.108|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|212.33.205.42|8118|Iran|Tehran|Asiatech Data Transmission company|
+|20|103.149.238.106|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
 
 
 
