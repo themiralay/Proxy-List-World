@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10212** proxies at the latest update. Usable proxies are below.
+> Scraper found **10115** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3630|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|919|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|798|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4681|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|180.63.130.181|3128|Japan|Karashimachō|NTT Communications Corporation|
-|3|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|4|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
-|5|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
-|8|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|9|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|61.5.103.48|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|177.93.44.30|999|Colombia|Tuta|TV AZTECA SUCURSAL COLOMBIA|
-|14|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
-|15|81.90.149.186|3128|Iran|Tehran|Afranet|
-|16|18.117.93.194|3128|United States|Dublin|Amazon.com, Inc.|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|101.255.165.166|1010|Indonesia|Jakarta|PT Remala Abadi|
-|19|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|2|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|3|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|4|27.76.233.178|18105|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|6|180.63.130.181|3128|Japan|Karashimachō|NTT Communications Corporation|
+|7|160.19.178.24|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|8|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|9|38.99.82.51|3128|United States|New York|GTHost|
+|10|38.54.108.173|3128|United States|Washington|Kaopu Cloud HK Limited|
+|11|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
+|16|51.75.65.222|80|Germany|Limburg an der Lahn|OVH SAS|
+|17|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|19|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
