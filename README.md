@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.179.27.181|8080|Indonesia|Tulangbawang|PT Primadona Media Digitalindo|
-|3|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|5|175.143.223.205|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|6|103.159.96.178|8055|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|7|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|8|103.164.192.66|8080|Indonesia|Kebonsari|PT Chayo Anugrah Teknologi|
-|9|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|157.20.50.238|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|15|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|16|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
-|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|4|114.9.27.178|10001|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|13|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|103.122.142.174|8080|Bangladesh|Lālmohan|Carnival Internet|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|20|31.7.70.215|3128|Iran|Tehran|Asiatech Data Transmission company|
 
 
 
