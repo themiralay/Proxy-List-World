@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10922** proxies at the latest update. Usable proxies are below.
+> Scraper found **10935** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|93|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3879|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3892|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|484|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5540|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
-|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|1|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |6|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|10|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|15|2.58.54.153|3128|Germany|Frankfurt am Main|HKN GmbH|
-|16|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
-|17|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|106.115.87.35|9100|China|Handan|Chinanet|
-|19|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|177.93.36.74|3128|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|9|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|81.90.149.186|3128|Iran|Tehran|Afranet|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|103.76.149.67|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|19|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
