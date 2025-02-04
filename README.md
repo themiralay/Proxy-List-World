@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **11149** proxies at the latest update. Usable proxies are below.
+> Scraper found **11715** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|4244|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|400|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5421|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5987|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|51.81.35.78|3128|United States|Reston|OVH SAS|
-|4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|51.81.35.78|3128|United States|Reston|OVH SAS|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|11|103.143.168.254|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|12|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|16|72.10.164.178|8387|Canada|Montreal|GloboTech Communications|
-|17|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|20|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|5|51.81.35.78|3128|United States|Reston|OVH SAS|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|51.81.35.78|3128|United States|Reston|OVH SAS|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|185.103.102.125|3128|Finland|Helsinki|DpkgSoft International Limited|
+|10|103.162.63.198|8181|Indonesia|Muara|PT Ring Media Nusantara|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|13|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|14|1.53.155.136|10006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 
 
 
