@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|19|181.78.82.65|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|41.65.174.42|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|186.24.9.204|9898|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|18|101.51.69.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|106.115.87.35|9100|China|Handan|Chinanet|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
