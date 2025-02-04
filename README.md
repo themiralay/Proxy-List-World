@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|201.159.107.165|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|16|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|13|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|106.115.87.35|9100|China|Handan|Chinanet|
 
 
 
