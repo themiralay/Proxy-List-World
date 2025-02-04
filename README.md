@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **11224** proxies at the latest update. Usable proxies are below.
+> Scraper found **11234** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|138|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|4105|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|4115|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5511|✅|
@@ -42,21 +42,21 @@ Click the file format that you want and copy the URL.
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.155.65.71|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|8|102.209.136.202|8080|Kenya|Nairobi|Quick Fiber|
-|9|27.76.233.178|10030|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|14|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|9|45.170.156.245|8080|Brazil|Ibicuitinga|BEZERRA E OLIVEIRA COMÉRCIO DE EQUIP DE INF LTDA|
+|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|11|1.20.203.41|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|84.241.51.51|8080|Iran|Tehran|SHATEL DSL Network|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|16|67.43.227.226|29193|Canada|Montreal|GloboTech Communications|
+|17|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|18|43.229.127.26|8080|Bhutan|Thimphu|NANO|
 |19|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 |20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 
