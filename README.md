@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|5|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
-|6|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|7|159.89.169.178|8080|India|Bengaluru|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|14|103.194.46.34|8082|Indonesia|Nagara Tengah|JABNET|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|103.164.192.66|8080|Indonesia|Kebonsari|PT Chayo Anugrah Teknologi|
+|5|124.122.1.67|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|9|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|11|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
+|12|138.0.140.186|9292|Brazil|Mirandópolis|F.B. BABETO ME|
+|13|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|14|89.232.202.108|3128|Russia|Khanty-Mansiysk|Rostelecom networks|
+|15|80.191.105.13|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|16|170.239.205.38|999|Colombia|Bogotá|FIBERNET|
+|17|181.39.12.225|999|Ecuador|Guayaquil|Telconet S.A|
+|18|114.9.27.178|10001|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|20|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
