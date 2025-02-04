@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
-|6|123.24.49.11|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|110.78.164.224|8888|Thailand|Pattaya|CAT-BB|
-|8|142.171.71.39|3128|United States|Los Angeles|Multacom Corporation|
-|9|124.120.45.220|8080|Thailand|Surat Thani|TRUEBB|
-|10|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|12|103.209.88.72|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|13|123.24.58.147|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
-|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|16|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|46.161.194.134|3128|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|19|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|20|87.120.125.88|3128|The Netherlands|Amsterdam|EKABI|
+|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|6|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
+|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|10|103.35.108.186|5020|Bangladesh|Dhaka|Ranks ITT|
+|11|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|12|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|18|49.146.243.166|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
