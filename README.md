@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|51.81.35.78|3128|United States|Reston|OVH SAS|
+|3|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|5|51.81.35.78|3128|United States|Reston|OVH SAS|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|164.132.175.159|3128|France|Roubaix|OVH SAS|
-|15|223.242.222.48|1080|China|Hefei|Chinanet|
-|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|18|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|19|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|103.162.54.151|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|122.3.102.216|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|15|51.81.35.78|3128|United States|Reston|OVH SAS|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|51.81.35.78|3128|United States|Reston|OVH SAS|
+|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|19|114.231.75.73|1080|China|Nanjing|Chinanet|
+|20|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
 
 
 
