@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|11|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |14|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|15|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|16|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
-|17|3.141.7.252|3128|United States|Dublin|Amazon.com, Inc.|
-|18|52.141.244.143|3128|United States|Des Moines|Microsoft Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|106.58.221.83|8008|China|Kunming|Chinanet|
+|16|106.58.210.74|8008|China|Kunming|Chinanet|
+|17|106.58.216.248|8008|China|Kunming|Chinanet|
+|18|104.129.192.180|10089|United States|San Jose|ZSCALER, INC.|
+|19|106.58.221.207|8008|China|Kunming|Chinanet|
+|20|165.225.113.220|80|Singapore|Singapore|ZSCALER, INC.|
 
 
 
