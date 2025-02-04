@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|13.115.193.18|3128|Japan|Tokyo|Amazon Technologies Inc|
-|6|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|13.115.193.18|3128|Japan|Tokyo|Amazon Technologies Inc|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|209.38.56.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|18|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|19|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
-|20|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
+|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|17|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
