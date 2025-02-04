@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|4|14.168.101.27|8080|Vietnam|Bình Dương|VNPT-VNNIC|
-|5|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|6|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|103.192.174.18|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|38.49.151.106|999|Mexico|Tlanchinol|Ientc S De RL De CV|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|20|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|7|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|11|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 
 
 
