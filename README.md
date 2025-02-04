@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|103.171.255.59|8080|Indonesia|Sleman|ZKI|
 |4|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|10|49.70.190.207|2324|China|Zhenjiang|Chinanet|
-|11|3.145.72.6|3128|United States|Dublin|Amazon.com, Inc.|
-|12|118.113.244.234|2324|China|Shanghai|Chinanet|
-|13|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|49.145.127.115|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|110.188.37.113|2324|China|Muping|Chinanet|
-|18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|27.76.233.178|22129|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
