@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|6|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|7|103.26.110.110|84|India|Chennai|Niss Networks|
-|8|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|9|103.78.9.210|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|10|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|67.43.227.226|12959|Canada|Montreal|GloboTech Communications|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|67.43.227.226|12959|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|16387|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|17201|Canada|Montreal|GloboTech Communications|
-|17|111.75.189.3|655|China|Taohua|Chinanet|
-|18|118.113.245.4|2324|China|Shanghai|Chinanet|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|121.227.118.158|8089|China|Nanjing|China Telecom|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
+|7|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|9|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|10|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|61.160.247.69|9999|China|Nanjing|China Telecom|
+|15|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|16|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|22509|Canada|Montreal|GloboTech Communications|
+|18|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|19|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|20|72.10.164.178|8423|Canada|Montreal|GloboTech Communications|
 
 
 
