@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|103.163.227.213|3125|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
-|15|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|16|223.206.60.98|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|121.232.181.140|8089|China|Nanjing|Chinanet|
-|20|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|1|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|103.180.123.93|8080|Indonesia|Ketanggungan|PT Indo Telemedia Solusi|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|103.106.219.204|8585|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|10|147.124.222.230|3128|United States|Dallas|Majestic Hosting Solutions, LLC|
+|11|118.113.246.249|2324|China|Shanghai|Chinanet|
+|12|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|119.12.165.151|55555|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|14|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|15|125.27.14.184|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
+|17|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
+|18|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
+|19|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|27.79.178.59|8080|Vietnam|Hanoi|Viettel Corporation|
 
 
 
