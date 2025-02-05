@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|182.253.234.26|8080|Indonesia|Jakarta|BIZNET|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|9|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
-|12|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|15|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|16|46.226.164.41|3128|Sweden|Stockholm|Aeza International LTD|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|45.167.95.146|999|Mexico|La Pradera|Lantointernet SA De CV|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|38.183.146.171|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|10|41.216.186.200|8080|Indonesia|Kuningan Barat|FASTHOSTING|
+|11|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
+|12|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|13|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|14|38.51.236.20|999|Venezuela|Cabimas|Colnetwork C.A.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|17|112.78.43.54|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|18|181.188.238.147|999|Ecuador|Quito|Otecel S.A.|
+|19|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|20|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 
 
 
