@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
-|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
+|7|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
+|8|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|13|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|14|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|17|103.85.159.174|8888|Bangladesh|Paltan|EarthTelecommunication|
-|18|20.246.132.177|3128|United States|Boydton|Microsoft Corporation|
-|19|118.113.244.157|2324|China|Shanghai|Chinanet|
-|20|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|16|118.113.244.157|2324|China|Shanghai|Chinanet|
+|17|101.69.252.123|8038|China|Hangzhou|China Unicom Zhejiang Province Network|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|20|89.109.43.125|3128|Russia|Nizhniy Novgorod|NMTS|
 
 
 
