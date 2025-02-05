@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|103.116.82.139|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|6|103.111.119.34|8080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
-|9|45.123.142.50|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|10|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.114.52.72|8086|Indonesia|Sukoharjo|Proxy-registered|
-|17|223.25.110.105|1056|Indonesia|Surabaya|SinergiNet|
-|18|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|113.192.31.139|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|60.188.49.53|1999|China|Taizhou|Chinanet|
+|12|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|13|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
+|14|38.194.251.246|999|Mexico|Jerécuaro|Ientc S De RL De CV|
+|15|160.20.165.231|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|16|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
+|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
