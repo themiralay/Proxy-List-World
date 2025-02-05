@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|6|13.246.93.29|3128|South Africa|Johannesburg|Amazon Technologies Inc|
-|7|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|8|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|9|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|10|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|13|67.43.228.250|21769|Canada|Montreal|GloboTech Communications|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|18|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
-|19|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|113.190.36.238|31300|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.227.187.1|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|6|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|186.215.43.164|3128|Brazil|Recife|TELEFÔNICA BRASIL S.A|
+|8|185.255.88.170|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|9|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|12|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
+|15|179.107.85.2|8180|Brazil|Belém|Pelc Servicos De Informatica|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
