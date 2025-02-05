@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5005** proxies at the latest update. Usable proxies are below.
+> Scraper found **4903** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|289|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|481|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2639|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|4|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|7|103.183.99.210|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|11|177.234.226.141|999|Ecuador|Manta|Ufinet Panama S.A.|
-|12|170.80.50.31|8080|Brazil|Jaboatão dos Guararapes|Ponte Digital|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|17|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
-|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|19|191.243.46.17|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|10|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|15|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|118.113.245.134|2324|China|Shanghai|Chinanet|
+|18|180.112.181.108|8089|China|Nanjing|Chinanet|
+|19|103.187.146.137|8082|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|20|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
 
 
 
