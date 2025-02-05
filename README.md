@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|103.106.219.204|8585|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|6|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|11|45.236.215.111|60955|Brazil|Querência|Ativa Telecom Ltda|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|17|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
-|18|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|19|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
+|1|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|2|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|6|61.160.247.69|9999|China|Nanjing|China Telecom|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|9|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|12|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
+|13|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
+|14|170.80.50.31|8080|Brazil|Jaboatão dos Guararapes|Ponte Digital|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|114.231.73.26|1080|China|Nanjing|Chinanet|
+|18|106.225.164.39|655|China|Beijing|China Telecom|
+|19|72.10.160.172|28241|Canada|Montreal|GloboTech Communications|
+|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
