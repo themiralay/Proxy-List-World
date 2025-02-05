@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|14|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|15|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|118.113.245.134|2324|China|Shanghai|Chinanet|
-|18|180.112.181.108|8089|China|Nanjing|Chinanet|
-|19|103.187.146.137|8082|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|20|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|6|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|7|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|8|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|37.211.86.186|8080|Qatar|Doha|Ooredoo Q.S.C|
+|11|58.137.174.101|8080|Thailand|Bangkok|AGC|
+|12|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
+|13|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|14|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|19|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
