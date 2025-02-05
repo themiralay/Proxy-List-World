@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4647** proxies at the latest update. Usable proxies are below.
+> Scraper found **4918** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|445|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|45.140.188.38|8000|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
-|11|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|13|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|14|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.100.223.33|12080|China|Shanghai|Addresses CNNIC|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|11|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|15|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|16|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|20|103.247.15.97|231|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
