@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|8|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
-|9|103.175.238.106|8082|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|10|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|11|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|103.172.197.235|8080|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
+|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|11|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
+|12|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |13|186.113.232.105|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP BIC|
-|14|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|17|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|18|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|19|177.73.69.247|3127|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
-|20|191.102.250.2|8085|Argentina|Rosario|IP·RED|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|16|179.107.85.2|8180|Brazil|Belém|Pelc Servicos De Informatica|
+|17|38.183.146.171|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
+|19|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 
 
 
