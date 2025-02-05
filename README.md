@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|14.39.239.241|50087|South Korea|Eunpyeong-gu|Korea Telecom|
-|10|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
-|11|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|12|72.10.160.170|8337|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|3647|Canada|Montreal|GloboTech Communications|
-|14|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|15|103.126.87.181|7777|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|16|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|190.52.100.8|999|Venezuela|Caracas|Gold Data USA Inc|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|14.39.239.241|50087|South Korea|Eunpyeong-gu|Korea Telecom|
+|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|14|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|15|72.10.160.170|8337|Canada|Montreal|GloboTech Communications|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|67.43.236.18|3647|Canada|Montreal|GloboTech Communications|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
 
 
 
