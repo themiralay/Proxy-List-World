@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|13|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|14|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
+|7|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
+|8|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|9|103.160.40.251|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|194.44.36.114|6868|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|13|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|14|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|103.176.97.195|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|18|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
 
 
 
