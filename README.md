@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4667** proxies at the latest update. Usable proxies are below.
+> Scraper found **4741** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|274|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|321|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2583|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|5|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|6|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|191.240.142.99|5128|Brazil|Tapiramutá|OGS INFORMATICA LTDA - ME|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|18|72.10.160.172|7507|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|118.113.245.246|2324|China|Shanghai|Chinanet|
+|10|95.216.241.223|40607|Finland|Helsinki|Hetzner Online GmbH|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|118.113.245.93|2324|China|Shanghai|Chinanet|
+|13|185.255.88.170|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|67.43.228.251|13657|Canada|Montreal|GloboTech Communications|
+|16|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
+|17|72.10.160.92|28859|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|27667|Canada|Montreal|GloboTech Communications|
+|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|20|67.43.236.20|13501|Canada|Montreal|GloboTech Communications|
 
 
 
