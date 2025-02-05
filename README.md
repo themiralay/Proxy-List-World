@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|103.69.106.210|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|209.38.56.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|20|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|119.47.90.114|8080|Indonesia|Kebumen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|14|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|15|202.57.25.91|1111|Indonesia|Semarang|announced of WINET|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|20|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
 
 
 
