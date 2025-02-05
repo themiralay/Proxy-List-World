@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|45.123.142.69|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|81.90.149.186|3128|Iran|Tehran|Afranet|
 |9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|14|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|67.43.227.226|16647|Canada|Montreal|GloboTech Communications|
+|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|17|43.250.147.180|29008|China|Shanghai|China Unicom CHINA169 Shanghai Network|
+|18|223.205.127.138|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 
 
 
