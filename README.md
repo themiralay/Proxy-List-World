@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5113** proxies at the latest update. Usable proxies are below.
+> Scraper found **4816** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|270|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|465|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2769|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.120.76.74|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|7|103.116.82.139|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|9|179.1.98.186|8080|Colombia|Bogotá|InterNexa Global Network|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|38.56.23.91|11201|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|12|203.150.128.44|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|16|118.113.245.134|2324|China|Shanghai|Chinanet|
-|17|118.113.244.236|2324|China|Shanghai|Chinanet|
-|18|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
-|19|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|90.188.37.75|1778|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
+|7|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|8|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|60.188.49.53|1999|China|Taizhou|Chinanet|
+|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|15|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|16|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|17|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
+|18|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
+|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |20|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
 
 
