@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|223.205.127.138|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|16|211.109.199.99|80|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|17|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|18|177.234.240.204|8080|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|19|49.146.184.189|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|20|27.189.132.222|8089|China|Langfang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|8|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
+|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|111.75.189.3|655|China|Taohua|Chinanet|
+|13|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|118.113.245.134|2324|China|Shanghai|Chinanet|
+|16|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|45.32.244.63|80|Australia|Sydney|Choopa|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
