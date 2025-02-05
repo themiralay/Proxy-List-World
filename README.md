@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4864** proxies at the latest update. Usable proxies are below.
+> Scraper found **4843** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|382|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|459|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2595|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|8|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|9|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|67.43.228.250|24933|Canada|Montreal|GloboTech Communications|
-|16|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
-|17|67.43.236.21|33195|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|5|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|7|118.99.109.221|8080|Indonesia|Jakarta|BIZNET|
+|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|11|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|12|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|17|106.58.220.215|8008|China|Kunming|Chinanet|
+|18|38.9.48.203|8080|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|19|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|20|118.113.246.193|2324|China|Shanghai|Chinanet|
 
 
 
