@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|4|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|5|202.137.155.184|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|17|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|18|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|2|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|8|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|103.157.58.235|8080|Indonesia|Bandung|PT. Eka Mas Republik|
+|14|45.252.183.239|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|15|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
