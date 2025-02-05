@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.199.117.162|771|Indonesia|Ungaran|PT Hepra Teknologi Indonesia|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 |8|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|9|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|67.43.236.21|33195|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|111.75.189.3|655|China|Taohua|Chinanet|
-|18|67.43.228.250|24933|Canada|Montreal|GloboTech Communications|
-|19|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|20|27.189.129.181|8089|China|Langfang|Chinanet|
+|15|67.43.228.250|24933|Canada|Montreal|GloboTech Communications|
+|16|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|17|67.43.236.21|33195|Canada|Montreal|GloboTech Communications|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
