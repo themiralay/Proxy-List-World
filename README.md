@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|67.43.227.230|29343|Canada|Montreal|GloboTech Communications|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|69.167.30.92|8118|United States|San Francisco|Paradise Networks LLC|
+|9|103.255.243.9|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|10|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|11|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 |14|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
 |17|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
 |18|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|19|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
-|20|180.107.218.46|8089|China|Nanjing|China Telecom|
+|19|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|20|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
 
 
 
