@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.237|3128|Japan|Chiyoda|InfoSphere|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.68.238|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.68.238|3128|Japan|Chiyoda|InfoSphere|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
 |5|157.230.241.216|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.182.38.27|8080|Vietnam|Hanoi|VNPT|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|6|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|24.172.82.94|53281|United States|Belmont|Spectrum|
+|13|67.43.228.251|11785|Canada|Montreal|GloboTech Communications|
+|14|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|18|171.6.80.146|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|200.37.187.59|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
