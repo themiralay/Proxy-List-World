@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|203.111.253.103|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|10|178.208.169.230|8118|United Kingdom|London|Powerhouse Management, Inc.|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|15|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.28.16.6|8080|Indonesia|Jakarta|PT Centrix Media Teknologi|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|149.129.194.142|3128|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|6|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|7|103.176.96.134|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|116.98.55.152|8080|Vietnam|Da Nang|Viettel Corporation|
+|10|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
+|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|16|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|17|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|18|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|19|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
