@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|4|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|5|60.188.49.53|1999|China|Taizhou|Chinanet|
+|3|118.175.30.26|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
+|5|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |6|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|7|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|10|147.45.76.102|3128|Sweden|Stockholm|Aeza International LTD|
-|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
-|14|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|72.10.160.91|12587|Canada|Montreal|GloboTech Communications|
-|17|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|18|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|19|67.43.236.20|13049|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|182.191.79.52|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|8|160.22.22.155|8080|Indonesia|Ciampea|PT Sarana Digital Network|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|11|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|12|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|13|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
+|14|38.51.236.20|999|Venezuela|Cabimas|Colnetwork C.A.|
+|15|72.10.160.91|21329|Canada|Montreal|GloboTech Communications|
+|16|106.225.138.224|50001|China|Taohua|CHINANET Jiangx province IDC network|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|104.129.192.180|10379|United States|San Jose|ZSCALER, INC.|
+|19|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
 
 
 
