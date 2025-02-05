@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4798** proxies at the latest update. Usable proxies are below.
+> Scraper found **4781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|282|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|281|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2639|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
-|2|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|6|124.121.2.243|8080|Thailand|Bangkok|TRUEBB|
-|7|103.146.38.11|3128|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|8|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
-|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.156.17.149|8818|Indonesia|Cikampek|RSTNET|
-|12|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|16|110.38.226.139|8080|Pakistan|Sahiwal|Wateen Telecom Limited|
-|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|18|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|19|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|20|103.67.84.78|8090|Indonesia|Kertosari|PT Tujuh Fondasi Teknologi|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
+|3|103.16.118.167|8080|Indonesia|Madiun|CV Trustnet Media|
+|4|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|103.124.97.12|8080|Nepal|Pokhara|Pokhara Internet Pvt. Ltd|
+|11|103.67.84.78|8090|Indonesia|Kertosari|PT Tujuh Fondasi Teknologi|
+|12|114.9.25.182|8080|Indonesia|Sangatta|PT. INDOSAT Tbk|
+|13|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|14|14.178.177.139|31836|Vietnam|Cao Bằng|VNPT|
+|15|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|91.185.56.83|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|18|27.65.235.236|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|61.160.247.69|9999|China|Nanjing|China Telecom|
+|20|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
