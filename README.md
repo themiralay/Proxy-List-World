@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|7|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|8|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|19|121.232.178.17|8089|China|Nanjing|Chinanet|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|2|51.81.153.203|3128|United States|Hillsboro|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|27.76.233.178|22129|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|159.65.56.88|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|12|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|13|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|14|106.115.87.35|9100|China|Handan|Chinanet|
+|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|16|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
