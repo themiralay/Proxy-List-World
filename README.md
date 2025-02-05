@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|90.188.37.75|1778|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
-|7|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|8|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|2|117.6.57.25|10003|Vietnam|Hanoi|VIETTEL|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|15|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|11|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|12|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|13|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|14|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|15|36.111.142.177|12792|China|Lipu|Cloud Computing Corporation|
 |16|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|17|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
-|18|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
-|19|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|17|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|18|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|190.52.100.233|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 
 
 
