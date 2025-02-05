@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|4|180.254.157.188|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
-|5|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|104.43.108.13|3128|Singapore|Singapore|Microsoft Corporation|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|157.15.62.99|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|14|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|15|72.10.164.178|4997|Canada|Montreal|GloboTech Communications|
-|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|20|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|180.254.157.188|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
+|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|86.98.222.71|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|17|72.10.164.178|4997|Canada|Montreal|GloboTech Communications|
+|18|203.190.117.97|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
 
 
 
