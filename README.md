@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4604** proxies at the latest update. Usable proxies are below.
+> Scraper found **4867** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|459|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|5|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
-|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|10|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|72.10.160.170|21783|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|31005|Canada|Montreal|GloboTech Communications|
-|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.172|1455|Canada|Montreal|GloboTech Communications|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|186.122.178.59|80|Argentina|Córdoba|Techtel LMDS Comunicaciones Interactivas S.A.|
-|18|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|72.10.164.178|16551|Canada|Montreal|GloboTech Communications|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|5|72.10.160.91|13219|Canada|Montreal|GloboTech Communications|
+|6|103.155.198.161|8037|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|102.36.152.26|8080|South Africa|Nelspruit|OCTOPI SMART SOLUTIONS (PTY) LTD|
+|11|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
+|12|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|27.79.178.59|8080|Vietnam|Hanoi|Viettel Corporation|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|18|111.72.193.214|2324|China|Taohua|Chinanet|
+|19|72.10.160.90|31005|Canada|Montreal|GloboTech Communications|
+|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
