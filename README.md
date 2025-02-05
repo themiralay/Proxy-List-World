@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|164.70.68.36|3128|Japan|Chiyoda|InfoSphere|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |6|98.8.195.160|443|United States|Orlando|Spectrum|
 |7|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
-|8|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|11|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
-|12|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|13|67.43.228.251|5053|Canada|Montreal|GloboTech Communications|
-|14|59.39.196.187|2324|China|Guangzhou|Chinanet|
-|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|16|67.43.236.18|11797|Canada|Montreal|GloboTech Communications|
-|17|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
-|18|111.72.198.114|2324|China|Taohua|Chinanet|
-|19|160.19.17.5|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|13|54.37.78.105|1080|Germany|Saarbrücken|OVH SAS|
+|14|38.255.85.138|999|Venezuela|Caracas|Galanet Solution C.A.|
+|15|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 
 
 
