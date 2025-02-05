@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|5|38.7.23.179|999|Mexico|Donato Guerra|Internet Telefonia Y TV De Michoacan SA De CV|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |9|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|10|67.43.236.18|3253|Canada|Montreal|GloboTech Communications|
-|11|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
-|12|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|17|72.10.160.172|9317|Canada|Montreal|GloboTech Communications|
-|18|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|19|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
-|20|72.10.160.170|8623|Canada|Montreal|GloboTech Communications|
+|10|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|11|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|12|41.65.67.167|1976|Egypt|Awsīm|Enterprise|
+|13|113.45.57.16|8080|China|Guangzhou|Huawei Cloud Service data center|
+|14|67.43.228.251|3255|Canada|Montreal|GloboTech Communications|
+|15|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|19|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
+|20|104.129.192.180|9480|United States|San Jose|ZSCALER, INC.|
 
 
 
