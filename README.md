@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|2|38.52.161.118|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|5|106.115.87.35|9100|China|Handan|Chinanet|
-|6|116.107.203.105|10002|Vietnam|Hanoi|Viettel Corporation|
-|7|118.113.245.134|2324|China|Shanghai|Chinanet|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|10|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|11|67.43.227.228|26525|Canada|Montreal|GloboTech Communications|
-|12|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|13|118.113.244.213|2324|China|Shanghai|Chinanet|
-|14|72.10.160.171|22113|Canada|Montreal|GloboTech Communications|
-|15|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
-|16|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|17|106.225.164.39|655|China|Beijing|China Telecom|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|67.43.227.226|3133|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|4001|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|7|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|217.61.105.211|4007|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|10|118.113.246.164|2324|China|Shanghai|Chinanet|
+|11|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
+|12|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|13|118.113.245.134|2324|China|Shanghai|Chinanet|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|16|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|19|72.10.160.171|2439|Canada|Montreal|GloboTech Communications|
+|20|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
