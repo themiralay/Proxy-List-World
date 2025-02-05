@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.229|3128|Japan|Chiyoda|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|4|186.97.182.202|999|Colombia|Medellín|Colombia Móvil|
-|5|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|6|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|67.43.227.226|18473|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|24905|Canada|Montreal|GloboTech Communications|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|106.225.164.39|655|China|Beijing|China Telecom|
-|14|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|17|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|18|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|19|192.248.95.1|3128|Sri Lanka|Matugama|Lanka Education and Research Network|
-|20|67.43.227.230|25521|Canada|Montreal|GloboTech Communications|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|8|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|179.136.248.40|3128|Brazil|Divinópolis|Claro NXT Telecomunicacoes Ltda|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 
 
 
