@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|116.107.203.105|10018|Vietnam|Hanoi|Viettel Corporation|
-|5|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|69.165.74.62|3128|Russia|Moscow|LLC Baxet|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|67.43.227.228|16385|Canada|Montreal|GloboTech Communications|
-|18|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|72.10.160.170|23127|Canada|Montreal|GloboTech Communications|
+|4|103.189.116.227|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|11|104.129.192.180|443|United States|San Jose|ZSCALER, INC.|
+|12|67.43.236.20|7575|Canada|Montreal|GloboTech Communications|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|118.193.32.18|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|18|67.43.227.229|29143|Canada|Montreal|GloboTech Communications|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
