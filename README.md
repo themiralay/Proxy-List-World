@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
-|2|202.57.25.91|1111|Indonesia|Semarang|announced of WINET|
-|3|202.137.155.184|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|4|209.38.105.195|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|2|222.96.176.66|3128|South Korea|Jinju|Korea Telecom|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|202.137.155.184|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|5|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|103.191.59.246|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
 |7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|38.51.232.181|999|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|10|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|11|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|11|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|103.155.196.104|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|15|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|210.165.227.43|8080|Japan|Tsurugamine|NTT PC Communications, Inc.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
 |16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|103.160.205.230|8080|Indonesia|Mataram|PRIME|
 
 
 
