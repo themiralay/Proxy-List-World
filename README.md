@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|103.153.246.142|8181|Indonesia|Kudus|PRIMAHOME|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|7|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|101.109.54.123|8080|Thailand|Pattaya|TOT Public Company Limited|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|186.96.97.180|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|177.93.44.27|999|Colombia|Tuta|TV AZTECA SUCURSAL COLOMBIA|
+|7|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|8|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|9|101.109.54.123|8080|Thailand|Pattaya|TOT Public Company Limited|
+|10|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|19|61.160.247.69|9999|China|Nanjing|China Telecom|
-|20|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|181.62.161.70|1999|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
+|17|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
