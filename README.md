@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
-|16|101.109.54.123|8080|Thailand|Pattaya|TOT Public Company Limited|
-|17|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|3|103.169.254.105|8080|Indonesia|Curahjati|PT Master Star Network|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|6|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
+|7|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|8|121.227.118.145|8089|China|Nanjing|China Telecom|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|19|103.113.152.62|11596|Bangladesh|Bhātāra|Md Ziaul Huque|
+|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
