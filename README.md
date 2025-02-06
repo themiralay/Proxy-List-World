@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|103.250.128.1|8082|Indonesia|Utan|PT Asri Global Investama|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|14|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|15|118.113.244.181|2324|China|Shanghai|Chinanet|
-|16|118.113.246.4|2324|China|Shanghai|Chinanet|
-|17|67.43.228.250|12839|Canada|Montreal|GloboTech Communications|
-|18|118.113.245.133|2324|China|Shanghai|Chinanet|
-|19|67.43.228.250|12839|Canada|Montreal|GloboTech Communications|
-|20|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|13|203.150.128.230|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|16|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|116.107.203.105|10002|Vietnam|Hanoi|Viettel Corporation|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|118.113.245.133|2324|China|Shanghai|Chinanet|
 
 
 
