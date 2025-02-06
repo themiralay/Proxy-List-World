@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
-|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
-|5|94.177.106.127|3128|Romania|Bucharest|ZetServers|
-|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
-|12|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
-|13|61.19.145.66|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|14|67.43.236.18|25795|Canada|Montreal|GloboTech Communications|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|170.80.50.31|8080|Brazil|Jaboatão dos Guararapes|Ponte Digital|
-|19|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
-|20|67.43.236.18|25795|Canada|Montreal|GloboTech Communications|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|61.160.247.69|9999|China|Nanjing|China Telecom|
+|11|94.177.106.127|3128|Romania|Bucharest|ZetServers|
+|12|36.92.107.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
+|14|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
