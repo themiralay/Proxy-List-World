@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|1.4.200.238|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|171.6.149.180|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|182.53.20.92|8080|Thailand|Si Racha|TOT Public Company Limited|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
-|20|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|219.93.111.125|9412|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|103.36.10.196|3125|Indonesia|Bangil|PT Awinet Global Mandiri|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|18|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
