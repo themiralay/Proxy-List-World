@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|203.150.113.111|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|210.79.146.178|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|31.135.214.29|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
-|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|37.211.86.186|8080|Qatar|Doha|Ooredoo Q.S.C|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|118.179.136.69|47417|Bangladesh|Dhaka|AmberIT Limited|
-|19|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|31.135.214.29|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|15|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|16|203.150.113.111|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|17|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
+|18|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
+|19|45.5.119.222|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|80.191.105.13|8080|Iran|Tehran|Iran Telecommunication Company PJS|
 
 
 
