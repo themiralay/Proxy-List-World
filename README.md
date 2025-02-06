@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
-|12|81.90.149.186|3128|Iran|Tehran|Afranet|
-|13|102.0.15.216|3346|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|15|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
-|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|19|58.147.190.147|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|20|110.77.244.68|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
+|3|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
+|4|103.82.132.178|15625|India|Faridabad|Cloudfly Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.82.37.172|15983|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|64.176.6.165|13920|Chile|Santiago|The Constant Company|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|116.105.61.40|10008|Vietnam|Hanoi|Viettel Corporation|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|125.163.137.245|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|16|110.77.244.68|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
+|17|58.147.190.147|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
+|18|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|19|178.124.72.180|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
