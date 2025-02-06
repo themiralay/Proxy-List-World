@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|168.196.112.254|56000|Argentina|Cruz del Eje|SAN GABRIEL VIDEO CABLE COLOR S.A.|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|118.113.244.157|2324|China|Shanghai|Chinanet|
-|6|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
-|7|38.7.1.254|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
-|17|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|18|95.216.3.236|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|72.10.160.172|5195|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|1233|Canada|Montreal|GloboTech Communications|
+|2|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|36.111.142.2|12798|China|Lipu|Cloud Computing Corporation|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|72.10.160.90|6321|Canada|Montreal|GloboTech Communications|
+|14|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|15|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|16|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|17|103.250.128.6|8082|Indonesia|Utan|PT Asri Global Investama|
+|18|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|19|116.98.85.20|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
 
 
 
