@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4848** proxies at the latest update. Usable proxies are below.
+> Scraper found **4847** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|296|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|477|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|125.25.27.49|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|103.39.51.73|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|10|103.54.80.162|1111|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|11|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
-|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|18|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|19|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|2|182.253.235.76|8082|Indonesia|Jakarta|BIZNET|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|34.207.148.141|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|66.94.112.69|8888|United States|Seattle|Nubes, LLC|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|66.94.112.69|8888|United States|Seattle|Nubes, LLC|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|10|171.7.34.118|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|15|58.69.125.145|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|16|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|17|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
