@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|2|144.48.162.126|8080|Bangladesh|Dhaka|Cue Club Technology|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|5|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|6|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|7|190.14.249.176|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|190.60.44.242|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
-|10|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|11|190.97.226.26|999|Venezuela|Caracas|Viginet C.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|203.150.113.68|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|124.121.2.178|8080|Thailand|Bangkok|TRUEBB|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|6|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
+|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|38.172.130.119|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |14|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|202.179.95.174|58080|India|Mumbai|Ankhnet|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|19005|Canada|Montreal|GloboTech Communications|
-|18|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|19|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|17|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|67.220.66.158|3128|Spain|Madrid|GTHost|
+|19|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
