@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|103.153.246.142|8181|Indonesia|Kudus|PRIMAHOME|
-|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|49.0.37.221|49481|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|9|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|103.228.243.58|8080|Indonesia|Jakarta|SpaceX Starlink|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|61.5.103.48|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
-|20|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|3|103.235.181.245|8080|Indonesia|Jakarta|PT Top Class Universal|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|6|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|160.22.24.42|1111|Indonesia|Kudus|PT Giga Media Internet|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|15|34.30.238.247|3128|United States|Council Bluffs|Google LLC|
+|16|181.62.161.70|1999|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
