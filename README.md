@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
-|2|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|120.51.210.247|8080|Japan|Adachi|ARTERIA Networks Corporation|
-|5|95.31.29.134|8080|Russia|Moscow|CORBINA-BROADBAND|
-|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|190.119.90.114|8080|Peru|Lima|America Movil Peru S.A.C.|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|12|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|15|212.68.38.121|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|2741|Canada|Montreal|GloboTech Communications|
-|20|180.105.244.215|1080|China|Nanjing|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|49.70.190.203|2324|China|Zhenjiang|Chinanet|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|103.87.148.40|1111|Indonesia|Pundong|Lintas Data Prima, PT|
+|16|72.10.164.178|28441|Canada|Montreal|GloboTech Communications|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|20|67.43.227.227|31177|Canada|Montreal|GloboTech Communications|
 
 
 
