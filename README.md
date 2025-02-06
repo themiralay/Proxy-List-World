@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.150.113.111|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|7|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|203.150.113.111|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|81.90.149.186|3128|Iran|Tehran|Afranet|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|118.113.246.164|2324|China|Shanghai|Chinanet|
-|16|125.87.81.181|2324|China|Chongqing|China Telecom|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|102.66.97.142|8865|South Africa|Trichardt|HERO TELECOMS (PTY) LTD|
 |19|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
