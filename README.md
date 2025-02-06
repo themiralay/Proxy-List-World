@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4729** proxies at the latest update. Usable proxies are below.
+> Scraper found **4728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|280|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|279|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|509|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|313|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.96.176.66|3128|South Korea|Jinju|Korea Telecom|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|6|38.56.23.91|11201|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|67.43.228.250|32029|Canada|Montreal|GloboTech Communications|
-|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|106.225.164.39|655|China|Beijing|China Telecom|
-|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|67.43.228.250|32029|Canada|Montreal|GloboTech Communications|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|2|16.16.239.210|8083|Sweden|Stockholm|Amazon.com|
+|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|6|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
+|7|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|101.69.252.123|8038|China|Hangzhou|China Unicom Zhejiang Province Network|
+|10|67.43.228.250|25167|Canada|Montreal|GloboTech Communications|
+|11|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|41.65.174.41|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|36.111.128.61|12798|China|Lipu|Cloud Computing Corporation|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|19|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|20|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
 
 
 
