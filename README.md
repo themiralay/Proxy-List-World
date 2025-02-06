@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.237|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|171.4.85.49|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|118.113.246.166|2324|China|Shanghai|Chinanet|
-|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|19|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
+|11|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
+|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|41.139.166.117|8080|Kenya|Nairobi|Converged services Eastern|
+|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|17|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|18|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|19|171.232.180.168|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
 
 
 
