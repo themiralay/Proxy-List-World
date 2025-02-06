@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.82.37.172|15983|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|8|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|1.53.155.136|10018|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|186.225.230.193|8080|Brazil|Tijucas|Unetvale Servicos e Equipamentos LTDA|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
-|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|20|118.113.244.236|2324|China|Shanghai|Chinanet|
+|6|103.122.1.62|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|7|101.109.122.50|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
+|13|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|14|119.95.170.157|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|36.92.150.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|19|106.115.87.35|9100|China|Handan|Chinanet|
+|20|180.254.145.225|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
 
 
 
