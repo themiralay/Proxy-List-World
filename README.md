@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|1.20.169.160|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|49.0.34.114|13715|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|9|103.126.87.220|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|94.74.131.191|8080|Iran|Shiraz|Farahoosh Dena PLC|
-|13|103.226.48.122|8080|Indonesia|Demak|Komunikasi Lintas Nusa|
-|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|223.242.222.69|1080|China|Hefei|Chinanet|
-|16|116.107.203.105|10002|Vietnam|Hanoi|Viettel Corporation|
-|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|20|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
+|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|36.129.129.215|9000|China|Shenyang|China Mobile Communications Corporation|
+|18|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
