@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|38.56.23.91|11201|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|177.39.218.202|3128|Brazil|Novo Hamburgo|ONE TELECOM TELECOMUNICACOES LTDA|
 |9|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|36.70.154.71|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|11|194.163.148.14|8081|Germany|Düsseldorf|Contabo GmbH|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|14|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|36.89.133.193|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|17|182.53.211.68|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
