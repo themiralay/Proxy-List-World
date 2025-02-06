@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 |3|180.180.133.24|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|5|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|44.238.106.82|443|United States|Portland|Amazon.com, Inc.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|35.207.225.242|80|India|Mumbai|Google LLC|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|121.227.118.169|8089|China|Nanjing|China Telecom|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|182.253.176.214|8090|Indonesia|Bogor|BIZNET|
+|12|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|13|191.243.46.17|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|89.232.202.108|3128|Russia|Khanty-Mansiysk|Rostelecom networks|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|77.52.178.157|32343|Ukraine|Kyiv|UMC|
+|19|103.148.44.125|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|20|222.96.176.66|3128|South Korea|Jinju|Korea Telecom|
 
 
 
