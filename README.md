@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4967** proxies at the latest update. Usable proxies are below.
+> Scraper found **5037** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|296|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|509|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|476|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2760|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|103.144.18.88|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|4|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|5|37.230.93.51|8060|Spain|Casariche|Servihosting|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|9|47.100.223.33|12080|China|Shanghai|Addresses CNNIC|
+|3|125.163.137.245|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|27.76.233.178|27792|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|14.39.239.79|62137|South Korea|Eunpyeong-gu|Korea Telecom|
+|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 |10|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|111.89.211.95|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |12|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|14.39.239.79|62137|South Korea|Eunpyeong-gu|Korea Telecom|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|16|49.70.190.203|2324|China|Zhenjiang|Chinanet|
-|17|178.124.72.180|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|13|103.113.3.22|8080|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|16|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|37.211.86.186|8080|Qatar|Doha|Ooredoo Q.S.C|
+|20|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
