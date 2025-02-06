@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|61.160.247.69|9999|China|Nanjing|China Telecom|
-|5|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|8|103.156.74.161|1111|Indonesia|Gianyar|PT Trika Global Media|
-|9|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|197.211.45.4|10000|Nigeria|Lagos|Globacom Limited|
-|14|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|72.10.160.170|23987|Canada|Montreal|GloboTech Communications|
-|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|175.29.199.6|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|38.50.166.179|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
+|10|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|37.211.86.186|8080|Qatar|Doha|Ooredoo Q.S.C|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|38.183.146.129|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|20|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
 
 
 
