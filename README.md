@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|3|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|188.227.206.178|65432|The Netherlands|Eindhoven|EK-Media B.V.|
-|6|49.70.190.201|2324|China|Zhenjiang|Chinanet|
-|7|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|8|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|9|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|67.43.228.250|10819|Canada|Montreal|GloboTech Communications|
-|12|188.127.253.162|3128|Russia|Moscow|LLC Smart Ape|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|67.43.236.19|2819|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|32025|Canada|Montreal|GloboTech Communications|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|19|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|20|159.89.239.166|18105|United States|North Bergen|DigitalOcean, LLC|
+|1|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|27.76.233.178|10034|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|6|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|7|103.83.97.238|3127|Indonesia|Pugeran Maguwoharjo|PT. Foxline Mediadata Indonusa|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|10|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|11|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|12|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|13|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|111.75.189.3|655|China|Taohua|Chinanet|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.10.164.178|25857|Canada|Montreal|GloboTech Communications|
+|20|14.178.177.86|10001|Vietnam|Cao Bằng|VNPT|
 
 
 
