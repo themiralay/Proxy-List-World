@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4905** proxies at the latest update. Usable proxies are below.
+> Scraper found **4859** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|418|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2702|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|7|101.109.56.252|8080|Thailand|Pattaya|TOT Public Company Limited|
-|8|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|9|103.174.145.46|82|India|Ahmedabad|Vaidik Netsol OPC PVT LTD|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|13|118.113.244.230|2324|China|Shanghai|Chinanet|
-|14|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|114.231.73.118|1080|China|Nanjing|Chinanet|
-|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|18|72.10.164.178|27829|Canada|Montreal|GloboTech Communications|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|180.125.186.146|1080|China|Nanjing|Chinanet|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|121.227.118.137|8089|China|Nanjing|China Telecom|
+|20|180.125.186.164|1080|China|Nanjing|Chinanet|
 
 
 
