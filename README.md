@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|124.121.2.208|8080|Thailand|Bangkok|TRUEBB|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|118.173.88.103|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|13|67.43.236.18|28801|Canada|Montreal|GloboTech Communications|
-|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|15|60.188.49.53|1999|China|Taizhou|Chinanet|
-|16|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
-|17|27.189.131.206|8089|China|Langfang|Chinanet|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|49.70.190.76|2324|China|Zhenjiang|Chinanet|
-|20|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|94.74.131.191|8080|Iran|Shiraz|Farahoosh Dena PLC|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|61.160.247.69|9999|China|Nanjing|China Telecom|
+|18|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|19|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
