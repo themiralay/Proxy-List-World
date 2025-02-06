@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|116.105.61.40|10008|Vietnam|Hanoi|Viettel Corporation|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|118.113.246.5|2324|China|Shanghai|Chinanet|
-|11|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|172.99.188.139|3128|Netherlands|Amsterdam|GTHost|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|49.70.190.141|2324|China|Zhenjiang|Chinanet|
-|16|134.195.157.250|3128|United States|Ashburn|AB E-Commerce|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.18.112.5|1111|Indonesia|Sedinginan|IDNIC|
-|19|118.188.144.0|3128|United States|Los Angeles|Windstream Communications LLC|
-|20|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|38.7.23.226|999|Mexico|Donato Guerra|Internet Telefonia Y TV De Michoacan SA De CV|
+|7|113.192.31.77|3128|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|8|91.196.168.139|65432|The Netherlands|Zoetermeer|Datafiber Telecom BV|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.169.33.30|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
+|11|222.96.176.66|3128|South Korea|Jinju|Korea Telecom|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|41.65.174.41|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|15|118.113.246.5|2324|China|Shanghai|Chinanet|
+|16|67.43.228.250|20151|Canada|Montreal|GloboTech Communications|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|19|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|67.43.228.250|20151|Canada|Montreal|GloboTech Communications|
 
 
 
