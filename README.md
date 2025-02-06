@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.237|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|185.195.71.218|37527|Switzerland|Hünenberg|Datasource AG|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|220.81.123.23|48678|South Korea|Chilgok-gun|Korea Telecom|
-|10|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|11|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|12|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|49.51.244.112|8888|United States|Santa Clara|OPHL|
-|15|103.171.244.136|8008|Indonesia|Madiun|PT Data Arta Sedaya|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|5|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|7|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|16|1.2.176.145|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|18|103.171.255.189|8080|Indonesia|Sleman|ZKI|
+|19|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|20|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
 
 
 
