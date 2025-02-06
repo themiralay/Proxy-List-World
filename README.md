@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.150.113.68|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|124.121.2.178|8080|Thailand|Bangkok|TRUEBB|
-|4|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|11|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|12|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|16|27.189.134.61|8089|China|Langfang|Chinanet|
-|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|2|124.121.2.178|8080|Thailand|Bangkok|TRUEBB|
+|3|203.150.113.68|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|182.253.121.75|8080|Indonesia|Bandung|BIZNET|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|9|80.78.128.94|8080|Spain|Finestrat|CLOUDWIFI, SL|
+|10|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|17|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|19|195.201.26.218|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
 
 
 
