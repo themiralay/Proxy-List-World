@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.243.238.36|43385|Bangladesh|Dhaka|Circle Network|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|14|67.43.227.226|3823|Canada|Montreal|GloboTech Communications|
-|15|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|16|61.160.247.69|9999|China|Nanjing|China Telecom|
-|17|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|18|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|47.100.223.33|12080|China|Shanghai|Addresses CNNIC|
+|11|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|61.160.247.69|9999|China|Nanjing|China Telecom|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|16|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|101.69.252.123|8038|China|Hangzhou|China Unicom Zhejiang Province Network|
+|18|61.160.247.69|9999|China|Nanjing|China Telecom|
+|19|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|20|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
 
 
 
