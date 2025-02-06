@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|67.43.236.21|14259|Canada|Montreal|GloboTech Communications|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|72.10.160.170|1669|Canada|Montreal|GloboTech Communications|
-|20|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
+|2|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|6|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|191.103.219.225|48612|Colombia|Sahagún|EPM Telecomunicaciones S.A. E.S.P.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|61.160.247.69|9999|China|Nanjing|China Telecom|
+|17|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
