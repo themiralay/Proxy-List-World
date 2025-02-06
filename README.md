@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|93.126.6.70|3128|Iran|Isfahan|AsmanFaraz- IUT|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|103.163.103.50|8070|Indonesia|Wonogiri|PT Mamura Inter Media|
+|9|103.189.116.182|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|61.160.247.69|9999|China|Nanjing|China Telecom|
+|15|177.234.240.204|8080|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |17|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
-|18|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|18|67.43.228.250|2175|Canada|Montreal|GloboTech Communications|
+|19|46.180.173.250|3128|Russia|Kemerovo|Goodline.info|
+|20|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
