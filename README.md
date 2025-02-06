@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|66.94.112.69|8888|United States|Seattle|Nubes, LLC|
-|3|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|5|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|7|65.21.234.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|9|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|38.253.88.242|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
-|12|66.94.112.69|8888|United States|Seattle|Nubes, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|4|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|66.94.112.69|8888|United States|Seattle|Nubes, LLC|
+|7|66.94.112.69|8888|United States|Seattle|Nubes, LLC|
+|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|222.127.220.113|8085|Philippines|Quezon City|GLBB|
+|10|65.21.234.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|14|191.81.200.116|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|15|190.94.213.210|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|103.220.23.55|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|18|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|38.194.233.169|1993|Mexico|Tepeji del Río de Ocampo|Ientc S De RL De CV|
+|14|103.39.49.98|8080|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|15|38.159.227.132|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|16|191.81.200.116|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|17|102.66.81.224|8080|South Africa|Fochville|HERO TELECOMS (PTY) LTD|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|172.94.36.219|80|United States|Houston|Datacamp Limited|
+|20|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
 
 
 
