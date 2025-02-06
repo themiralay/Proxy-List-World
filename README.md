@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|124.121.2.178|8080|Thailand|Bangkok|TRUEBB|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|197.248.86.237|32650|Kenya|Nairobi|Safaricom Limited|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|181.224.244.50|999|Peru|Lima region|Econocable Media SAC|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
-|14|168.228.204.46|80|Brazil|Santaluz|Advanx Informatica Ltda|
-|15|223.204.192.64|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|16|103.228.119.154|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|2|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|3|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|6|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|11|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|12|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|13|157.66.16.44|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|18|49.48.69.144|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
