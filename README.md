@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|2|223.205.103.4|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|7|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|8|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|17|67.43.236.22|30341|Canada|Montreal|GloboTech Communications|
-|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|72.10.164.178|28651|Canada|Montreal|GloboTech Communications|
-|20|27.189.128.138|8089|China|Langfang|Chinanet|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|51.81.153.203|3128|United States|Hillsboro|OVH SAS|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|101.109.54.123|8080|Thailand|Pattaya|TOT Public Company Limited|
+|12|103.188.175.35|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|45.58.147.27|3128|The Netherlands|Amsterdam|Sharktech|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|180.125.186.146|1080|China|Nanjing|Chinanet|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|186.96.97.180|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|20|72.10.164.178|9459|Canada|Montreal|GloboTech Communications|
 
 
 
