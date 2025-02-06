@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|64.110.83.46|3128|South Korea|Seoul|Oracle Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
-|6|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|12|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|13|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|38.253.84.12|999|Dominican Republic|Maimón|WIMAS, S.R.L.|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|38.253.84.12|999|Dominican Republic|Maimón|WIMAS, S.R.L.|
+|3|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|7|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|12|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|13|103.156.15.23|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|14|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|15|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|61.160.247.69|9999|China|Nanjing|China Telecom|
-|18|67.43.227.226|22601|Canada|Montreal|GloboTech Communications|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|190.97.231.201|999|Venezuela|Caracas|Viginet C.A|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
