@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4767** proxies at the latest update. Usable proxies are below.
+> Scraper found **4872** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|466|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|295|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|444|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2634|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|2|103.134.47.8|8080|India|Gorakhpur|Countrylink Communiction Pvt Ltd|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|111.75.189.3|655|China|Taohua|Chinanet|
-|9|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|10|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|12|103.228.243.58|8080|Indonesia|Jakarta|SpaceX Starlink|
-|13|59.39.196.222|2324|China|Guangzhou|Chinanet|
-|14|102.69.32.1|8080|Libya|Misratah|Libyan International Company Technology|
-|15|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|18|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|2|123.200.5.150|23884|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|61.5.103.48|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|121.227.109.28|8089|China|Nanjing|China Telecom|
+|15|72.10.160.170|28643|Canada|Montreal|GloboTech Communications|
+|16|121.227.109.54|8089|China|Nanjing|China Telecom|
+|17|180.125.186.164|1080|China|Nanjing|Chinanet|
+|18|121.227.109.38|8089|China|Nanjing|China Telecom|
+|19|114.231.74.154|1080|China|Nanjing|Chinanet|
+|20|60.208.20.82|12301|China|Jinan|CNC Group CHINA169 Shandong Province Network|
 
 
 
