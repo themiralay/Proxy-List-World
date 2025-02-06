@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |4|193.141.127.108|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|96.93.124.209|31060|United States|Seattle|Comcast Cable Communications, LLC|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
-|20|72.10.164.178|19753|Canada|Montreal|GloboTech Communications|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|7|41.93.63.66|8080|Tanzania|Dar es Salaam|Tanzania Education And Research Network|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|46.173.208.61|1194|Russia|Moscow|GPI|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|67.43.228.250|7827|Canada|Montreal|GloboTech Communications|
+|15|123.20.155.148|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|17|67.43.236.18|8537|Canada|Montreal|GloboTech Communications|
+|18|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|222.243.174.132|81|China|Xiangtan|Chinanet|
 
 
 
