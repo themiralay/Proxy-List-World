@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|3|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|103.191.196.155|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|5|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
-|6|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|187.190.113.197|999|Mexico|Cosoleacaque|Total Play Telecomunicaciones SA De CV|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|125.27.14.184|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.90|12405|Canada|Montreal|GloboTech Communications|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|177.234.240.204|8080|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|17|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|18|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|19|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|20|72.10.160.90|12405|Canada|Montreal|GloboTech Communications|
+|2|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|6|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|7|219.93.111.125|9412|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
+|8|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|10|45.6.1.97|999|Argentina|San Vicente|IP AMERICA TELECOM LTDA|
+|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|16|103.97.140.173|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|19|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|20|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
