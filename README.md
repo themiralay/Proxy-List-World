@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|10|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
-|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
-|17|202.5.37.104|17382|Bangladesh|Chittagong|BBTS-NEW|
-|18|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|19|72.10.160.170|25281|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|61.160.247.69|9999|China|Nanjing|China Telecom|
+|12|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|103.113.152.62|11596|Bangladesh|Bhātāra|Md Ziaul Huque|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|125.87.81.181|2324|China|Chongqing|China Telecom|
+|18|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|19|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
