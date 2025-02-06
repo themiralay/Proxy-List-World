@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|36.68.33.217|80|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|1|222.96.176.66|3128|South Korea|Jinju|Korea Telecom|
+|2|36.68.33.217|80|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
 |5|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|178.130.42.169|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|11|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|16|37.230.93.51|8060|Spain|Casariche|Servihosting|
-|17|27.76.233.178|27792|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|49.70.190.119|2324|China|Zhenjiang|Chinanet|
-|19|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|20|72.10.160.173|14009|Canada|Montreal|GloboTech Communications|
+|14|181.78.95.103|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|18|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
