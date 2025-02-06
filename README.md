@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|47.237.6.227|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.160.93|19405|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|25015|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|31277|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.19|16115|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|29197|Canada|Montreal|GloboTech Communications|
-|15|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|59.39.196.204|2324|China|Guangzhou|Chinanet|
-|17|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|18|134.236.8.104|8080|Thailand|Bang Rak|CAT-BB|
-|19|67.43.228.250|6017|Canada|Montreal|GloboTech Communications|
-|20|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|147.139.170.216|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
+|3|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|67.43.227.227|4577|Canada|Montreal|GloboTech Communications|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|9|67.43.236.18|18721|Canada|Montreal|GloboTech Communications|
+|10|203.207.56.57|80|Indonesia|Bandung|STARNET|
+|11|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
+|12|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|13|125.87.84.36|2324|China|Shanghai|China Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
+|16|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
