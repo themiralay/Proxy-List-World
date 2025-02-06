@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|14|118.113.244.181|2324|China|Shanghai|Chinanet|
-|15|118.113.245.63|2324|China|Shanghai|Chinanet|
-|16|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|61.160.247.69|9999|China|Nanjing|China Telecom|
-|18|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|20|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|3|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
+|4|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|177.234.226.141|999|Ecuador|Manta|Ufinet Panama S.A.|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|94.41.246.203|3128|Russia|Neftekamsk|JSC "Ufanet"|
+|18|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|180.125.186.146|1080|China|Nanjing|Chinanet|
 
 
 
