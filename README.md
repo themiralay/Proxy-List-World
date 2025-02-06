@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|180.125.186.146|1080|China|Nanjing|Chinanet|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|121.227.118.137|8089|China|Nanjing|China Telecom|
-|20|180.125.186.164|1080|China|Nanjing|Chinanet|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|8|45.4.1.196|999|Chile|Santiago|Tlink SPA|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|14.178.177.139|31836|Vietnam|Cao Bằng|VNPT|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|4.156.154.148|3128|United States|Boydton|Microsoft Corporation|
+|16|111.75.189.3|655|China|Taohua|Chinanet|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|58.147.190.147|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
+|19|37.230.93.51|8060|Spain|Casariche|Servihosting|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
