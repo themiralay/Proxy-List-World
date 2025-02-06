@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.68.237|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |5|107.150.41.226|33909|United States|Kansas City|Nocix, LLC|
-|6|107.150.41.226|33909|United States|Kansas City|Nocix, LLC|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|124.122.2.248|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|107.150.41.226|33909|United States|Kansas City|Nocix, LLC|
-|15|58.208.159.206|8089|China|Nanjing|China Telecom|
-|16|125.87.85.232|2324|China|Shanghai|China Telecom|
-|17|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|18|114.223.79.132|8089|China|Nanjing|Chinanet|
-|19|72.10.164.178|12109|Canada|Montreal|GloboTech Communications|
-|20|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|107.150.41.226|33909|United States|Kansas City|Nocix, LLC|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|220.81.123.23|48678|South Korea|Chilgok-gun|Korea Telecom|
+|15|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|16|124.122.2.248|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|17|171.4.116.231|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
+|18|107.150.41.226|33909|United States|Kansas City|Nocix, LLC|
+|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|20|4.156.154.148|3128|United States|Boydton|Microsoft Corporation|
 
 
 
