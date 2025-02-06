@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|14|119.12.165.151|55555|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|103.127.220.70|8181|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|2|203.150.113.111|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|203.150.128.96|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|189.124.91.145|7171|Brazil|Presidente Prudente|America-NET Ltda.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |18|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|19|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|19|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
 |20|67.43.227.226|6797|Canada|Montreal|GloboTech Communications|
 
 
