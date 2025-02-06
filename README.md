@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|3|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|7|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|101.109.56.252|8080|Thailand|Pattaya|TOT Public Company Limited|
+|8|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|9|103.174.145.46|82|India|Ahmedabad|Vaidik Netsol OPC PVT LTD|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|168.194.169.253|999|Peru|Lima|FASTNET|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|27.189.133.164|8089|China|Langfang|Chinanet|
+|12|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|13|118.113.244.230|2324|China|Shanghai|Chinanet|
+|14|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 |15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|67.43.227.226|25113|Canada|Montreal|GloboTech Communications|
-|18|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|19|67.43.228.250|33221|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|114.231.73.118|1080|China|Nanjing|Chinanet|
+|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|18|72.10.164.178|27829|Canada|Montreal|GloboTech Communications|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
