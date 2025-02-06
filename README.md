@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|2|147.45.49.234|3128|Japan|Tokyo|Global Connectivity Solutions LLP|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|5|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
-|6|172.99.188.139|3128|Netherlands|Amsterdam|GTHost|
-|7|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|20.246.132.177|3128|United States|Boydton|Microsoft Corporation|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
-|12|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|20|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|190.211.7.101|999|Chile|Chillán|Telefonica del Sur S.A.|
+|8|168.196.114.89|56000|Argentina|Añatuya|SAN GABRIEL VIDEO CABLE COLOR S.A.|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.250.128.7|8082|Indonesia|Utan|PT Asri Global Investama|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 
 
 
