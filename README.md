@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|2|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|3|103.189.116.182|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|103.171.255.189|8080|Indonesia|Sleman|ZKI|
-|10|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|11|118.113.247.130|2324|China|Shanghai|Chinanet|
-|12|118.113.246.164|2324|China|Shanghai|Chinanet|
-|13|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|5|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|103.189.116.182|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|15|118.113.247.130|2324|China|Shanghai|Chinanet|
+|16|103.153.246.50|8080|Indonesia|Kudus|PRIMAHOME|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|20|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|20|45.61.50.146|3128|United States|Seattle|Kamatera, Inc.|
 
 
 
