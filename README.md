@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|120.51.210.247|8080|Japan|Adachi|ARTERIA Networks Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|81.90.149.186|3128|Iran|Tehran|Afranet|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|11|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|14|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|15|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|16|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|17|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|18|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|1|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|2|192.121.245.110|8118|Canada|Toronto|PVDataNet AB|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|16|72.10.164.178|12143|Canada|Montreal|GloboTech Communications|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|18|125.87.94.37|2324|China|Chongqing|China Telecom|
 |19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
