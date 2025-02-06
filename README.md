@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|147.139.170.216|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|157.173.112.73|80|Germany|Düsseldorf|Contabo GmbH|
-|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.250.128.1|8082|Indonesia|Utan|PT Asri Global Investama|
+|3|147.139.170.216|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|209.38.82.4|3128|Australia|Sydney|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|118.113.246.164|2324|China|Shanghai|Chinanet|
-|13|223.206.192.72|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|14|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|118.113.244.251|2324|China|Shanghai|Chinanet|
-|16|49.70.190.201|2324|China|Zhenjiang|Chinanet|
-|17|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|18|34.100.253.96|80|India|Mumbai|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|101.69.252.123|8038|China|Hangzhou|China Unicom Zhejiang Province Network|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|142.171.135.28|8888|United States|Los Angeles|Multacom Corporation|
+|14|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|15|103.16.118.167|8080|Indonesia|Madiun|CV Trustnet Media|
+|16|27.76.233.178|18105|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|67.43.228.250|6017|Canada|Montreal|GloboTech Communications|
+|19|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|20|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
 
 
 
