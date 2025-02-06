@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|14.39.239.79|62137|South Korea|Eunpyeong-gu|Korea Telecom|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
-|6|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|7|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|11|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
-|12|183.97.65.56|3128|South Korea|Dongducheon-si|Korea Telecom|
-|13|203.111.253.130|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|14|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|121.177.17.179|3055|South Korea|Changnyeong-gun|Korea Telecom|
-|17|165.255.94.163|8080|South Africa|Randburg|Afrihost (Pty) Ltd|
-|18|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|72.10.164.178|22135|Canada|Montreal|GloboTech Communications|
-|20|123.20.155.148|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|14.39.239.79|62137|South Korea|Eunpyeong-gu|Korea Telecom|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.158.253.29|8382|Indonesia|Dukuhturi|Rapid Network|
+|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|180.125.186.146|1080|China|Nanjing|Chinanet|
+|12|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|13|72.10.164.178|30013|Canada|Montreal|GloboTech Communications|
+|14|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|19|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
 
 
 
