@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
-|3|18.119.164.151|3128|United States|Dublin|Amazon.com, Inc.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|15|101.109.54.123|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|211.109.199.99|80|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|13|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|38.56.23.91|11201|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|103.113.152.62|11596|Bangladesh|Bhātāra|Md Ziaul Huque|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
