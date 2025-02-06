@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5008** proxies at the latest update. Usable proxies are below.
+> Scraper found **4986** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|289|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|425|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2760|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|101.109.122.50|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|77.52.178.157|32343|Ukraine|Kyiv|UMC|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|8|101.109.122.50|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|106.120.183.118|12700|China|Beijing|IDC, China Telecommunications Corporation|
-|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|58.144.141.26|12700|China|Chongqing|CNC Group CHINA169 Chongqing Province Network|
-|19|43.224.116.125|8080|Bangladesh|Kāfrul|Next Online Limited|
-|20|181.209.95.205|999|Argentina|Concepción del Bermejo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|47.46.112.210|8080|United States|Los Angeles|Charter Communications|
+|13|103.181.255.221|1080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|14|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|103.85.159.174|8888|Bangladesh|Paltan|EarthTelecommunication|
+|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|19|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
