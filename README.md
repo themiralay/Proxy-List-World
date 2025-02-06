@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|9|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 |10|36.68.27.39|8080|Indonesia|Tangerang|PT. TELKOM INDONESIA|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|13|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|14|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|15|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|91.107.196.104|8585|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|36.150.4.6|12700|China|Beijing|China Mobile Communications Corporation|
+|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|15|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.160.90|13897|Canada|Montreal|GloboTech Communications|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
