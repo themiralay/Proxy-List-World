@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|5|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|6|134.35.133.121|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|9|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|10|180.125.186.157|1080|China|Nanjing|Chinanet|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|72.10.160.170|11567|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|11567|Canada|Montreal|GloboTech Communications|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|121.227.118.149|8089|China|Nanjing|China Telecom|
-|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|20|67.43.228.250|12277|Canada|Montreal|GloboTech Communications|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|101.69.252.123|8038|China|Hangzhou|China Unicom Zhejiang Province Network|
+|12|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|13|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|58.59.61.200|10991|China|Jinan|Chinanet|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|67.43.228.253|13325|Canada|Montreal|GloboTech Communications|
+|20|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
