@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|2|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|175.29.199.6|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|5|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|15|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|16|111.72.195.17|2324|China|Taohua|Chinanet|
-|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|67.43.227.227|17085|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|3|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|103.148.130.42|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|72.10.160.92|32363|Canada|Montreal|GloboTech Communications|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
 
 
 
