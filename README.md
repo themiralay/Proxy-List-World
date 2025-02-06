@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|9|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|10|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|12|186.96.68.66|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|15|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|16|121.227.146.74|8089|China|Nanjing|China Telecom|
-|17|67.43.236.18|20111|Canada|Montreal|GloboTech Communications|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|8|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|13|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
+|14|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|15|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|16|103.157.78.162|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|180.191.40.45|9999|Philippines|Tarlac City|Globe Telecom|
 |19|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
-|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
