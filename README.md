@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4791** proxies at the latest update. Usable proxies are below.
+> Scraper found **4765** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|500|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|474|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|262|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2803|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.190.43.51|8181|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|2|38.183.146.129|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|3|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|118.175.138.141|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|180.169.50.59|809|China|Shanghai|China Telecom (Group)|
-|7|43.160.196.25|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
-|9|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|12|116.254.98.184|8080|Indonesia|Jakarta|SpaceX Starlink|
-|13|125.87.80.161|2324|China|Chongqing|China Telecom|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|180.173.62.186|1085|China|Shanghai|China Telecom (Group)|
-|17|125.71.134.114|466|China|Chengdu|Chinanet|
-|18|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|19|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
-|20|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|8.215.0.148|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|201.159.99.37|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.150.196.146|8080|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|8|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
+|9|4.156.154.148|3128|United States|Boydton|Microsoft Corporation|
+|10|72.10.160.90|28311|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|21597|Canada|Montreal|GloboTech Communications|
+|12|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|72.10.160.94|5765|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|21597|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|1091|Canada|Montreal|GloboTech Communications|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|72.10.160.171|19507|Canada|Montreal|GloboTech Communications|
 
 
 
