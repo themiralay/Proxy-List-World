@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|190.61.44.100|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|101.109.58.35|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|49.70.190.227|2324|China|Zhenjiang|Chinanet|
-|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|67.43.227.226|4519|Canada|Montreal|GloboTech Communications|
-|12|114.231.72.44|1080|China|Nanjing|Chinanet|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|18|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|19|72.10.160.171|5733|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|16|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|18|154.126.209.146|8080|South Africa|Newcastle|JENNY Network|
+|19|222.215.137.26|11527|China|Deyang|Chinanet|
+|20|72.10.160.90|21519|Canada|Montreal|GloboTech Communications|
 
 
 
