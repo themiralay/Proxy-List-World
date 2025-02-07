@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.70.68.36|3128|Japan|Chiyoda|InfoSphere|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|6|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|7|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|17|67.43.236.21|26877|Canada|Montreal|GloboTech Communications|
-|18|49.70.190.88|2324|China|Zhenjiang|Chinanet|
-|19|67.43.228.252|7039|Canada|Montreal|GloboTech Communications|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
+|3|103.152.93.157|8080|Indonesia|Gemiring|PT. JAYA LINTAS INDONESIA|
+|4|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|7|58.136.170.198|8080|Thailand|Bangkok|AIS-Fibre|
+|8|36.64.6.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|138.121.114.142|999|Argentina|Formosa|Refsa Telecomunicaciones|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|200.125.171.254|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|20|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
