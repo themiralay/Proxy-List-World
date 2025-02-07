@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|141.136.56.104|999|Venezuela|Zulia|RED SERVITEL, CA|
-|5|202.57.26.150|8888|Indonesia|Bandung|WANET|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|171.248.205.98|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|45.224.153.55|999|Ecuador|Muisne|Ufinet Panama S.A.|
-|13|57.155.178.81|3128|Singapore|Singapore|MICROSOFT|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|20|67.43.236.19|7625|Canada|Montreal|GloboTech Communications|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|45.224.153.55|999|Ecuador|Muisne|Ufinet Panama S.A.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.174.108.198|999|Mexico|Almoloya del Río|Iptvtel Comunicaciones S De RL De CV|
+|11|103.97.140.159|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|12|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|202.57.26.150|8888|Indonesia|Bandung|WANET|
 
 
 
