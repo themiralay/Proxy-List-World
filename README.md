@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.153.134.22|8089|Indonesia|Cikupa|WMINET|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.192.30.249|8999|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|12|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|13|67.43.228.250|30085|Canada|Montreal|GloboTech Communications|
-|14|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|15|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|118.113.244.230|2324|China|Shanghai|Chinanet|
+|6|190.60.55.47|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|7|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
+|8|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|181.209.77.162|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
+|16|103.133.26.7|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|18|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|19|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
