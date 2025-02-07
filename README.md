@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
-|3|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
+|2|27.79.216.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|49.48.43.105|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|8.215.57.236|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.157.58.235|8080|Indonesia|Bandung|PT. Eka Mas Republik|
-|10|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|11|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|12|202.136.89.28|43770|Bangladesh|Dhaka|Circle Network|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
-|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|19|103.153.246.54|8181|Indonesia|Kudus|PRIMAHOME|
-|20|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|7|8.215.57.236|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|103.158.252.79|8080|Indonesia|Brebes|Rapid Network|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|180.125.186.146|1080|China|Nanjing|Chinanet|
+|15|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|114.80.40.130|3081|China|Shanghai|China Telecom (Group)|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|218.77.106.10|10150|China|Changsha|Chinanet|
+|19|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|20|49.70.190.88|2324|China|Zhenjiang|Chinanet|
 
 
 
