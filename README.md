@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.178.111.221|14456|Vietnam|Thái Nguyên|VNPT|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|8|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|14.178.111.221|14456|Vietnam|Thái Nguyên|VNPT|
+|9|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|10|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
+|11|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
 |16|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|17|61.160.247.69|9999|China|Nanjing|China Telecom|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
+|17|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|38.183.146.171|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
 |20|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
 
 
