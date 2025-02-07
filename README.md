@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|31.135.214.29|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|47.100.223.33|12080|China|Shanghai|Addresses CNNIC|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|12|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|13|38.172.128.190|999|Peru|Lima|Conex TV E.I.R.L.|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|19|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|20|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|8|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|16|14.178.111.221|14456|Vietnam|Thái Nguyên|VNPT|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|20|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
 
 
 
