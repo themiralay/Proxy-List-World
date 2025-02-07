@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|157.66.16.33|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|195.209.114.87|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|5|103.171.240.138|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
 |6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|9|103.133.61.197|8181|Indonesia|Pringsewu|TLINK|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|12|49.0.39.101|12030|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|9|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|103.155.198.93|8181|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
