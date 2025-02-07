@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|61.7.168.107|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|124.122.114.85|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.82.37.46|22813|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|9|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|10|103.234.31.0|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|118.113.246.62|2324|China|Shanghai|Chinanet|
-|15|116.172.92.16|12701|China|Jinrongjie|China Unicom CHINA169 Network|
-|16|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|17|125.87.80.161|2324|China|Chongqing|China Telecom|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|20|72.10.160.91|2125|Canada|Montreal|GloboTech Communications|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|101.255.64.243|8080|Indonesia|Jakarta|PT Remala Abadi|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|8|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|9|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|10|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
+|11|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|12|177.234.240.204|8080|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|13|125.71.134.114|466|China|Chengdu|Chinanet|
+|14|72.10.160.93|13107|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.19|1779|Canada|Montreal|GloboTech Communications|
+|16|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|17|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|18|111.72.196.136|2324|China|Taohua|Chinanet|
+|19|67.43.227.227|2205|Canada|Montreal|GloboTech Communications|
+|20|125.87.80.161|2324|China|Chongqing|China Telecom|
 
 
 
