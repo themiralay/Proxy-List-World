@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|8|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|181.78.211.95|999|Colombia|Espinal|IFX Networks Argentina S.R.L|
-|11|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.163.103.81|1212|Indonesia|Wonogiri|PT Mamura Inter Media|
-|16|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|19|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|177.93.59.54|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|9|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|188.227.206.178|65432|The Netherlands|Eindhoven|EK-Media B.V.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|19|67.43.236.18|22611|Canada|Montreal|GloboTech Communications|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
