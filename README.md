@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|202.57.26.150|8888|Indonesia|Bandung|WANET|
-|10|103.160.205.230|8080|Indonesia|Mataram|PRIME|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
-|13|37.211.86.186|8080|Qatar|Doha|Ooredoo Q.S.C|
-|14|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|15|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|16|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|17|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|72.10.164.178|4617|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|18391|Canada|Montreal|GloboTech Communications|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|103.97.140.159|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|10|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
+|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|12|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|187.1.16.36|92|Brazil|Barueri|America-NET Ltda.|
+|15|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|16|103.220.22.81|8095|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|200.205.60.2|8080|Brazil|São Paulo|Vivo|
+|19|188.132.222.134|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
 
 
 
