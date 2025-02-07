@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|103.112.144.46|1111|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
 |5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|14.39.239.241|54761|South Korea|Eunpyeong-gu|Korea Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.245.109.219|53334|Bangladesh|Comilla|ACE IT Networks Limited|
-|15|103.112.144.46|1111|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|16|190.61.44.102|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.171.165.214|2122|Indonesia|Jakarta|MYREPUBLIC|
-|20|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|81.90.149.186|3128|Iran|Tehran|Afranet|
+|10|202.5.37.104|17382|Bangladesh|Chittagong|BBTS-NEW|
+|11|103.245.109.219|53334|Bangladesh|Comilla|ACE IT Networks Limited|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|116.254.96.189|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|18|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|19|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
 
 
 
