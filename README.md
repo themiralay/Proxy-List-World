@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|157.66.85.76|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|3|61.7.168.107|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|185.35.130.23|60982|Russia|Moscow|Plazmatelekom LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|113.11.179.182|8080|Indonesia|Jakarta|BIZNET|
-|14|36.88.148.139|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|67.43.228.250|5431|Canada|Montreal|GloboTech Communications|
+|5|61.7.168.107|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.193.144.75|8080|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
+|8|103.159.96.148|1080|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.82.37.46|22813|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|11|103.134.246.71|1111|Indonesia|Tabanan|Wisuandha Network Globalindo|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|185.35.130.23|60982|Russia|Moscow|Plazmatelekom LLC|
+|15|210.79.30.193|8080|Australia|Sydney|Australia Power Control Systems|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|67.43.228.250|3055|Canada|Montreal|GloboTech Communications|
 |18|61.160.247.69|9999|China|Nanjing|China Telecom|
-|19|27.189.128.186|8089|China|Langfang|Chinanet|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|211.144.194.122|10704|United States|Los Angeles|DSNET|
+|20|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
 
 
 
