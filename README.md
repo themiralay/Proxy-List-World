@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|188.125.169.195|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|15|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|103.153.191.210|8080|Indonesia|Malang|WANET|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|131.0.234.179|55555|Argentina|Villa José León Suárez|MUSURIT|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|49.70.190.203|2324|China|Zhenjiang|Chinanet|
+|14|103.171.240.130|3131|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|45.236.106.86|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|103.18.77.87|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
