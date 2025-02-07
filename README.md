@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|6|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|103.175.83.185|8080|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|8|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
 |9|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|91.217.179.174|8080|Ukraine|Kyiv|Startnet LTD|
-|19|188.132.221.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|17|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
+|20|67.43.227.226|8545|Canada|Montreal|GloboTech Communications|
 
 
 
