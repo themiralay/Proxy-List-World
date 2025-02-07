@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|2|183.97.65.56|3128|South Korea|Dongducheon-si|Korea Telecom|
 |3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|45.235.16.121|27234|Brazil|Curitiba|Acessoline Telecom|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|211.225.214.241|80|South Korea|Boeun-gun|Korea Telecom|
-|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|16|209.14.119.198|999|Colombia|Chinácota|AGIS|
-|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|124.105.24.80|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|15|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
+|16|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|103.124.137.150|20|Indonesia|Kebumen Satu|Global Media Data Prima|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
