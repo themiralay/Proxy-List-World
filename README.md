@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4399** proxies at the latest update. Usable proxies are below.
+> Scraper found **4699** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|454|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|307|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|101.109.58.35|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|72.10.160.170|19905|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|11|59.39.197.15|2324|China|Guangzhou|Chinanet|
-|12|67.43.228.250|17057|Canada|Montreal|GloboTech Communications|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|103.133.222.220|1044|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|17|164.70.68.35|3128|Japan|Chiyoda|InfoSphere|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|20|103.227.186.73|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|101.109.58.35|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|114.9.53.102|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|12|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|14|180.191.22.27|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|154.126.209.146|8080|South Africa|Newcastle|JENNY Network|
+|16|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|17|218.77.106.10|10150|China|Changsha|Chinanet|
+|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|19|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
