@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.36|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
-|5|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|218.77.106.10|10150|China|Changsha|Chinanet|
-|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|9|103.18.204.181|56715|Australia|Melbourne|MD SHOHEL RANA|
-|10|67.43.228.251|2413|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|12547|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|67.43.236.18|3079|Canada|Montreal|GloboTech Communications|
-|14|110.76.145.22|89|Indonesia|Surabaya|PT Pika Media Komunika|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|188.136.208.253|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|18|72.10.164.178|6521|Canada|Montreal|GloboTech Communications|
-|19|118.113.244.191|2324|China|Shanghai|Chinanet|
-|20|157.20.50.238|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
+|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.75.199.121|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|12|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|103.113.152.62|11596|Bangladesh|Bhātāra|Md Ziaul Huque|
+|14|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|15|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|16|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
+|19|103.110.11.221|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|20|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
 
 
 
