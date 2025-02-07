@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|118.175.206.51|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|36.67.105.109|8581|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.133.26.117|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|18|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|19|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|72.10.160.90|15785|Canada|Montreal|GloboTech Communications|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|210.5.104.126|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|103.133.61.197|8181|Indonesia|Pringsewu|TLINK|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|112.78.43.54|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|13|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|14|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|16|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
