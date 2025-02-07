@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|4|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|45.6.100.46|8080|Brazil|Rio de Janeiro|Golden Link|
-|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|9|14.39.239.241|54761|South Korea|Eunpyeong-gu|Korea Telecom|
-|10|41.65.174.43|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|11|115.72.33.226|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|159.255.163.102|8080|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
-|13|85.206.13.20|80|Lithuania|Vilnius|Telia Lietuva, AB|
-|14|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|15|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
-|16|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|17|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|18|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|45.6.100.46|8080|Brazil|Rio de Janeiro|Golden Link|
+|7|103.112.144.46|1111|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.115.20.87|8099|Indonesia|Subang|PMYNET|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.156.15.23|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|17|111.72.196.195|2324|China|Taohua|Chinanet|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|20|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|49.70.190.88|2324|China|Zhenjiang|Chinanet|
 
 
 
