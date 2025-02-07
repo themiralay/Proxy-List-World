@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.215.0.148|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|102.0.16.124|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|12|59.39.196.222|2324|China|Guangzhou|Chinanet|
-|13|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|14|103.247.23.73|3125|Indonesia|Baturaden|PT wifian Solution|
-|15|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|190.52.100.211|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|218.77.106.10|10150|China|Changsha|Chinanet|
+|14|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|15|72.10.164.178|12851|Canada|Montreal|GloboTech Communications|
+|16|103.235.181.245|8080|Indonesia|Jakarta|PT Top Class Universal|
+|17|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|18|180.184.205.59|12798|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
+|19|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|103.132.53.54|8080|Indonesia|Semarang|PT Adeaksa Indo Jayatama|
 
 
 
