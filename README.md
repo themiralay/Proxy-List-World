@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|60.50.128.61|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|142.171.5.35|3128|United States|Los Angeles|Multacom Corporation|
+|7|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|8|116.107.203.105|10018|Vietnam|Hanoi|Viettel Corporation|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|15|38.194.251.82|3128|Mexico|Jerécuaro|Ientc S De RL De CV|
-|16|103.180.123.19|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|17|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|19|36.93.140.71|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.18.77.87|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|180.125.186.146|1080|China|Nanjing|Chinanet|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|41.65.174.41|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
