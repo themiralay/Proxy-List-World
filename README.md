@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4859** proxies at the latest update. Usable proxies are below.
+> Scraper found **4868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|552|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|316|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2765|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|202.57.26.150|8888|Indonesia|Bandung|WANET|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|18|91.217.179.174|8080|Ukraine|Kyiv|Startnet LTD|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|6|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|13|103.79.155.210|8080|Indonesia|Depok|MORATELINDO|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
+|17|67.43.227.226|26231|Canada|Montreal|GloboTech Communications|
+|18|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|19|114.223.79.162|8089|China|Nanjing|Chinanet|
+|20|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
