@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.148.47.253|999|Chile|Rancagua|TELEFÓNICA CHILE S.A.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|117.3.64.126|10002|Vietnam|Da Nang|VIETTEL|
-|4|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|11|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|12|72.10.160.91|22111|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|8721|Canada|Montreal|GloboTech Communications|
-|14|118.113.244.144|2324|China|Shanghai|Chinanet|
-|15|67.43.236.18|8721|Canada|Montreal|GloboTech Communications|
-|16|27.189.135.117|8089|China|Langfang|Chinanet|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|67.43.227.227|19829|Canada|Montreal|GloboTech Communications|
-|19|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|58.59.61.200|10991|China|Jinan|Chinanet|
+|1|164.70.68.36|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|43.159.45.207|13128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.75.199.121|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.162.141.85|8888|Indonesia|Batam|PT Filltech Antar Nusa|
+|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
+|13|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|14|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|18|72.10.160.90|29531|Canada|Montreal|GloboTech Communications|
+|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
