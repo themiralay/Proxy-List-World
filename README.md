@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|11|67.43.227.226|6703|Canada|Montreal|GloboTech Communications|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|67.43.228.250|24121|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23257|Canada|Montreal|GloboTech Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.10.160.92|27051|Canada|Montreal|GloboTech Communications|
-|17|118.113.245.134|2324|China|Shanghai|Chinanet|
-|18|49.145.182.147|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|115.147.34.99|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|49.70.190.88|2324|China|Zhenjiang|Chinanet|
+|5|61.160.247.69|9999|China|Nanjing|China Telecom|
+|6|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|125.71.134.114|466|China|Chengdu|Chinanet|
+|11|183.66.135.142|22222|China|Chongqing|Chinanet|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|72.10.164.178|25001|Canada|Montreal|GloboTech Communications|
+|14|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|43.246.201.92|9080|Bangladesh|Rāipur|Asiatel Network Limited|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|102.209.148.2|8080|Ghana|Abesim|Sunyani Technical University|
+|19|72.10.160.90|15611|Canada|Montreal|GloboTech Communications|
+|20|181.129.171.156|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
