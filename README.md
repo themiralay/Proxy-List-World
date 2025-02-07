@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|103.160.202.125|89|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|8|81.90.149.186|3128|Iran|Tehran|Afranet|
-|9|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|13|103.160.40.253|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|14|113.11.179.182|8080|Indonesia|Jakarta|BIZNET|
-|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|41.65.174.41|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|18|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|19|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|10|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|11|49.70.190.88|2324|China|Zhenjiang|Chinanet|
+|12|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|211.144.194.122|10704|United States|Los Angeles|DSNET|
+|15|59.63.205.36|655|China|Taohua|Chinanet|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|38.7.18.146|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
