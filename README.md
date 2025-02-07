@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.229|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |6|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
 |7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|78.85.34.42|38080|Russia|Izhevsk|Rostelecom networks|
-|10|67.43.228.250|6363|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
-|14|222.215.137.26|11527|China|Deyang|Chinanet|
-|15|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|61.160.247.69|9999|China|Nanjing|China Telecom|
+|9|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|125.71.134.114|466|China|Chengdu|Chinanet|
+|12|222.215.137.26|11527|China|Deyang|Chinanet|
+|13|164.70.68.226|3128|Japan|Chiyoda|InfoSphere|
+|14|185.58.16.1|8080|Ireland|Dublin|Carnsore Broadband Limited|
+|15|67.43.227.226|14459|Canada|Montreal|GloboTech Communications|
+|16|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
 |17|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|18|36.95.176.38|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|157.20.253.28|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|180.184.205.59|12798|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
 
 
 
