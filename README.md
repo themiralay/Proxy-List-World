@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|103.183.10.169|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|149.129.253.248|3128|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|201.168.209.251|999|Mexico|San Miguel el Alto|Marcatel Com, S.A. de C.V.|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|111.125.242.34|80|India|Mumbai|NIXI|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|180.125.186.146|1080|China|Nanjing|Chinanet|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|72.10.160.94|3573|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|114.231.72.62|1080|China|Nanjing|Chinanet|
+|10|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|11|177.234.194.70|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|180.127.149.224|1080|China|Nanjing|Chinanet|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|72.10.160.172|32317|Canada|Montreal|GloboTech Communications|
+|16|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|17|72.10.160.170|25553|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9547|Canada|Montreal|GloboTech Communications|
+|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
