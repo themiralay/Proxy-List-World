@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|61.7.168.107|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|101.255.64.243|8080|Indonesia|Jakarta|PT Remala Abadi|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|8|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|9|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
-|10|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|11|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|12|177.234.240.204|8080|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|13|125.71.134.114|466|China|Chengdu|Chinanet|
-|14|72.10.160.93|13107|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|1779|Canada|Montreal|GloboTech Communications|
-|16|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|17|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|18|111.72.196.136|2324|China|Taohua|Chinanet|
-|19|67.43.227.227|2205|Canada|Montreal|GloboTech Communications|
-|20|125.87.80.161|2324|China|Chongqing|China Telecom|
+|4|103.193.144.75|8080|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|185.35.130.23|60982|Russia|Moscow|Plazmatelekom LLC|
+|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|147.139.215.158|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
+|12|36.88.148.139|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|13|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|14|186.166.142.82|999|Venezuela|Guanare|TELEFONICA VENEZOLANA, C.A.|
+|15|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|16|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|17|32.140.234.250|83|United States|Dallas|AT&T Services, Inc.|
+|18|114.224.74.224|8089|China|Wuxi|Chinanet|
+|19|41.65.174.41|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|20|119.147.8.252|4129|China|Guangzhou|Chinanet|
 
 
 
