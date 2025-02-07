@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.229|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|121.227.178.81|8089|China|Nanjing|China Telecom|
-|10|67.43.227.226|2891|Canada|Montreal|GloboTech Communications|
-|11|180.107.218.48|8089|China|Nanjing|China Telecom|
-|12|72.10.160.90|23547|Canada|Montreal|GloboTech Communications|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|67.43.236.19|20079|Canada|Montreal|GloboTech Communications|
-|15|89.169.55.200|3128|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|16|114.231.72.252|1080|China|Nanjing|Chinanet|
-|17|41.65.174.41|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|18|218.1.197.91|2324|China|Shanghai|China Telecom (Group)|
-|19|72.10.164.178|6293|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|2303|Canada|Montreal|GloboTech Communications|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|6|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|106.58.221.200|8008|China|Kunming|Chinanet|
+|9|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|67.43.236.19|20079|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|203.192.217.6|8080|India|Nagpur|Entire In2Cable|
+|14|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|15|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|16|115.127.133.74|62664|Bangladesh|Dhaka|BRACNet Limited|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|19|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
 
 
 
