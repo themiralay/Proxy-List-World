@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|103.167.68.90|8181|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|180.184.205.59|12798|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
-|14|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|118.113.246.216|2324|China|Shanghai|Chinanet|
-|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|18|67.43.227.226|7665|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|32237|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|15391|Canada|Montreal|GloboTech Communications|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|12|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|17|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
