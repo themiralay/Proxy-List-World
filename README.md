@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|121.227.146.74|8089|China|Nanjing|China Telecom|
-|11|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|12|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|72.10.160.92|7811|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|32037|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5967|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|1643|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6731|Canada|Montreal|GloboTech Communications|
-|20|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|3|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|67.43.227.227|27981|Canada|Montreal|GloboTech Communications|
+|5|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|6|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|114.9.26.34|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|12|121.227.178.93|8089|China|Nanjing|China Telecom|
+|13|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|14|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
+|15|67.43.236.18|28959|Canada|Montreal|GloboTech Communications|
+|16|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
