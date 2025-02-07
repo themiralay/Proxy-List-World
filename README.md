@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|3|27.76.233.178|10008|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
 |4|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|60.50.128.61|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|36.92.107.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|84.241.51.51|8080|Iran|Tehran|SHATEL DSL Network|
+|17|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|106.120.217.4|18080|China|Beijing|China Networks Inter-Exchange|
 
 
 
