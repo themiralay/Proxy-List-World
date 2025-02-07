@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|93.112.23.201|8080|Saudi Arabia|Riyadh|Saudi Telecom Company JSC|
-|5|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.232.21.139|3127|India|Haldwani|PT Terabyte Network Indonesia|
-|8|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|12|49.70.190.201|2324|China|Zhenjiang|Chinanet|
-|13|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|14|186.46.57.126|8888|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|67.43.227.227|23521|Canada|Montreal|GloboTech Communications|
-|16|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
-|18|177.135.39.43|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|103.18.204.181|56715|Australia|Melbourne|MD SHOHEL RANA|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|10|36.92.107.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|72.10.164.178|16923|Canada|Montreal|GloboTech Communications|
+|15|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|171.221.200.146|8920|China|Chengdu|Chinanet|
+|17|218.77.106.10|10150|China|Changsha|Chinanet|
+|18|67.43.228.254|31117|Canada|Montreal|GloboTech Communications|
+|19|65.20.188.244|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
