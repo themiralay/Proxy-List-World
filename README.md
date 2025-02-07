@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.212.77.169|3128|United States|Boydton|MICROSOFT|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|27.76.233.178|10013|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|103.250.128.2|8082|Indonesia|Utan|PT Asri Global Investama|
+|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|14|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|16|116.105.61.40|10002|Vietnam|Hanoi|Viettel Corporation|
-|17|203.161.30.140|8070|Indonesia|Bandar Lampung|PT. Trimitra Usaha Sejahtera|
-|18|113.11.183.15|8082|Indonesia|Bandung|BIZNET|
-|19|72.10.160.171|9119|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|18|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|19|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|20|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
 
 
 
