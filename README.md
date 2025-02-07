@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4824** proxies at the latest update. Usable proxies are below.
+> Scraper found **4425** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|347|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2712|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2313|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|49.48.44.131|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
-|5|101.109.49.185|8080|Thailand|Pattaya|TOT Public Company Limited|
-|6|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|172.235.29.87|3128|India|Chennai|Akamai Technologies, Inc.|
+|5|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|6|41.65.174.43|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|11|112.78.39.252|8080|Indonesia|Semarang|PT Media Sarana Data|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|15|183.136.139.76|1999|China|Ningbo|China Telecom|
-|16|124.70.151.29|9010|China|Shanghai|Huawei Cloud Service data center|
-|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|18|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|19|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
-|20|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|10|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|11|61.160.247.69|9999|China|Nanjing|China Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|49.48.43.105|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|16|180.127.149.224|1080|China|Nanjing|Chinanet|
+|17|103.158.252.79|8080|Indonesia|Brebes|Rapid Network|
+|18|218.77.106.10|10150|China|Changsha|Chinanet|
+|19|183.136.139.76|1999|China|Ningbo|China Telecom|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
