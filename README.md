@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|4|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|116.105.61.40|10008|Vietnam|Hanoi|Viettel Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|45.174.95.242|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|2.50.142.185|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|45.174.95.242|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|113.11.183.15|8082|Indonesia|Bandung|BIZNET|
+|9|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|10|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|160.19.18.39|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|13|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|103.97.224.239|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|19|38.51.207.98|999|Venezuela|Maracaibo|Tecnoven Services CA|
-|20|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
+|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 
 
 
