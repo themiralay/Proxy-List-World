@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
-|6|38.52.161.118|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|38.183.146.178|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|103.36.10.27|1080|Indonesia|Bangil|PT Awinet Global Mandiri|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|177.234.226.141|999|Ecuador|Manta|Ufinet Panama S.A.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|217.66.215.86|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|115.127.133.74|62664|Bangladesh|Dhaka|BRACNet Limited|
-|18|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|149.51.37.177|3128|United States|Ashburn|Rackdog|
+|6|45.71.3.54|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|11|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|12|103.124.137.150|20|Indonesia|Kebumen Satu|Global Media Data Prima|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|14.97.32.152|80|India|Chennai|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
+|18|115.241.225.44|80|India|Kochi|Reliance Jio Infocomm Limited|
+|19|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
