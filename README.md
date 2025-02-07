@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|125.26.188.46|8080|Thailand|Hat Yai|TOT Public Company Limited|
+|2|113.53.61.102|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |3|98.8.195.160|443|United States|Orlando|Spectrum|
 |4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|8|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|6|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|186.154.204.157|999|Colombia|Bogotá|ETB - Colombia|
 |9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|186.154.204.157|999|Colombia|Bogotá|ETB - Colombia|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|13|160.30.110.237|8082|Philippines|Quezon City|Cyber Peers Wireless Internet Services Co.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|113.53.61.102|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|17|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|11|103.171.255.246|8080|Indonesia|Sleman|ZKI|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
