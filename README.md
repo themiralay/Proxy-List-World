@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |6|195.209.114.87|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|9|27.71.26.42|8080|Vietnam|Hanoi|VIETTEL|
-|10|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|171.4.68.116|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|13|102.164.252.150|8080|Equatorial Guinea|Bata|Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial|
-|14|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|27717|Canada|Montreal|GloboTech Communications|
-|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|180.112.180.143|8089|China|Nanjing|Chinanet|
+|15|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|16|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|17|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|18|72.10.160.90|23049|Canada|Montreal|GloboTech Communications|
+|19|195.209.114.87|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|20|188.132.222.39|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
