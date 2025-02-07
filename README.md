@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|202.5.37.104|17382|Bangladesh|Chittagong|BBTS-NEW|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|38.250.127.73|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
 |10|49.48.44.131|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|101.109.49.185|8080|Thailand|Pattaya|TOT Public Company Limited|
-|14|38.250.127.73|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|124.70.151.29|9010|China|Shanghai|Huawei Cloud Service data center|
-|18|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
-|19|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|12|103.82.37.46|22813|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|41.65.174.43|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|19|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
 |20|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
