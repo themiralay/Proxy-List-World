@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|5|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|10|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|11|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|12|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
-|13|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|13|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 |15|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.227.226|1515|Canada|Montreal|GloboTech Communications|
-|20|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|49.0.39.101|12030|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|18|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
+|19|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|20|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
 
 
 
