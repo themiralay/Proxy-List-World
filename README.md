@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|2|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|103.175.238.174|9090|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|9|142.171.5.35|3128|United States|Los Angeles|Multacom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.227.226|7327|Canada|Montreal|GloboTech Communications|
-|15|103.169.132.70|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|16|72.10.160.90|26729|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31423|Canada|Montreal|GloboTech Communications|
-|18|27.189.134.244|8089|China|Langfang|Chinanet|
-|19|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|67.43.236.19|3505|Canada|Montreal|GloboTech Communications|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|19|103.88.239.197|84|India|Hyderabad|Mana Communications|
+|20|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
 
 
 
