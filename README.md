@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|72.10.160.90|9559|Canada|Montreal|GloboTech Communications|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|137.59.12.212|8080|Indonesia|Labansari|CROSSNET|
-|7|114.231.74.161|1080|China|Nanjing|Chinanet|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|121.227.146.123|8089|China|Nanjing|China Telecom|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|24.172.82.94|53281|United States|Belmont|Spectrum|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|72.10.160.90|9559|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|17699|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|27325|Canada|Montreal|GloboTech Communications|
-|18|103.131.19.27|8080|Indonesia|Lamongan|PT Global Media Data Prima|
-|19|125.87.90.132|2324|China|Chongqing|China Telecom|
-|20|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|210.87.125.14|8088|Indonesia|Kediri|CV Brawijaya Giga Network|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|24.172.82.94|53281|United States|Belmont|Spectrum|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|202.136.89.28|43770|Bangladesh|Dhaka|Circle Network|
+|11|186.0.144.81|9797|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
+|12|72.10.160.90|15273|Canada|Montreal|GloboTech Communications|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|180.184.205.59|12798|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
+|19|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
