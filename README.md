@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|118.113.246.164|2324|China|Shanghai|Chinanet|
-|8|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|11|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|12|38.172.129.27|999|Peru|Lima|Conex TV E.I.R.L.|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|72.10.160.174|28273|Canada|Montreal|GloboTech Communications|
-|15|49.70.190.88|2324|China|Zhenjiang|Chinanet|
-|16|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|18|72.10.164.178|9941|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|10411|Canada|Montreal|GloboTech Communications|
-|20|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|1|103.82.132.206|36729|India|Faridabad|Cloudfly Corporation|
+|2|103.82.36.159|21503|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|3|203.190.43.51|8181|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.82.132.103|18209|India|Faridabad|Cloudfly Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|118.113.246.164|2324|China|Shanghai|Chinanet|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|103.227.187.1|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|218.77.106.10|10150|China|Changsha|Chinanet|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|72.10.160.174|28273|Canada|Montreal|GloboTech Communications|
+|19|49.70.190.88|2324|China|Zhenjiang|Chinanet|
+|20|67.43.228.250|7671|Canada|Montreal|GloboTech Communications|
 
 
 
