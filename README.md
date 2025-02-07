@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
-|3|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
-|4|103.189.197.29|8787|Indonesia|Serang|PT Graha Sumber Teknologi|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|103.67.46.243|8080|Indonesia|Jakarta|PT JARINGANKU SARANA NUSANTARA|
-|7|38.137.252.6|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
-|8|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|36.77.212.238|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|8|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|9|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|197.250.7.153|8080|Tanzania|Dar es Salaam|Vodacom Tanzania Ltd|
-|19|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|118.193.32.18|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|59.39.196.222|2324|China|Guangzhou|Chinanet|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|18|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
+|19|205.164.192.114|999|Mexico|Ayotlán|Jose De Jesus Vazquez Ponce|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
