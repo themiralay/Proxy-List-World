@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.220.22.81|8095|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|38.183.146.153|7878|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
-|7|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|8|61.160.247.69|9999|China|Nanjing|China Telecom|
-|9|62.3.30.118|8080|Georgia|Tbilisi|Enbinet Ltd.|
-|10|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|11|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|12|67.43.227.226|4509|Canada|Montreal|GloboTech Communications|
-|13|49.70.190.88|2324|China|Zhenjiang|Chinanet|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|16|27.189.131.197|8089|China|Langfang|Chinanet|
-|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|18|72.10.160.171|30291|Canada|Montreal|GloboTech Communications|
-|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.211.107.114|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|7|103.245.109.219|53334|Bangladesh|Comilla|ACE IT Networks Limited|
+|8|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|9|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|10|180.127.149.216|1080|China|Nanjing|Chinanet|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|15|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|16|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|18|49.70.190.88|2324|China|Zhenjiang|Chinanet|
+|19|72.10.160.171|30291|Canada|Montreal|GloboTech Communications|
+|20|146.120.174.235|8080|Ukraine|Ivano-Frankivsk|Gargat Igor Vasilevich|
 
 
 
