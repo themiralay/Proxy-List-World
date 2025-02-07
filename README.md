@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.147.30.65|3128|Indonesia|Bandung|PT Semesta Teknologi Informatika|
-|5|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|9|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|10|147.93.114.223|3128|United States|Boston|Hostinger International Limited|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|14|190.121.138.211|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|45.71.3.54|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|19|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|20|118.113.246.212|2324|China|Shanghai|Chinanet|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|177.137.238.242|8080|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
+|10|45.235.16.121|27234|Brazil|Curitiba|Acessoline Telecom|
+|11|177.154.37.197|9090|Brazil|Promissão|America-NET Ltda.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|180.112.181.108|8089|China|Nanjing|Chinanet|
+|17|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|101.69.252.123|8038|China|Hangzhou|China Unicom Zhejiang Province Network|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
