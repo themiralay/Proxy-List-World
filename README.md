@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.36|3128|Japan|Chiyoda|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|103.75.199.121|3128|Germany|Frankfurt am Main|BitCommand LLC|
-|8|103.67.88.77|8081|Indonesia|Pati|PT Clara Network Engineer|
-|9|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|116.107.203.105|10028|Vietnam|Hanoi|Viettel Corporation|
-|12|176.88.175.242|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|13|103.151.226.148|8080|Indonesia|Bandung|URBANACCESS|
-|14|195.209.112.203|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
+|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|138.121.121.223|8080|Brazil|Fortaleza|Smart Solucoes em Telecomunicacoes|
+|10|180.250.143.189|9333|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |16|181.48.126.34|36413|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|17|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|20|103.151.226.148|8080|Indonesia|Bandung|URBANACCESS|
 
 
 
