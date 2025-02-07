@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
 |5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|167.71.48.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|72.10.164.178|20359|Canada|Montreal|GloboTech Communications|
-|17|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|18|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|19|49.70.190.88|2324|China|Zhenjiang|Chinanet|
-|20|72.10.164.178|20359|Canada|Montreal|GloboTech Communications|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|95.217.219.87|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
+|20|80.194.38.106|3333|United Kingdom|Leeds|Virgin Media Limited|
 
 
 
