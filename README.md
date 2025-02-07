@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.215.0.148|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|147.139.174.107|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
-|5|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|147.139.174.107|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
+|4|8.215.0.148|3128|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|38.183.146.97|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|106.251.66.243|61170|South Korea|Gangdong-gu|LG DACOM Corporation|
-|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|12|72.10.164.178|29055|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|32095|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|8841|Canada|Montreal|GloboTech Communications|
-|15|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|16|222.215.137.18|3218|China|Deyang|Chinanet|
-|17|72.10.160.170|8841|Canada|Montreal|GloboTech Communications|
-|18|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|19|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|20|118.113.247.156|2324|China|Shanghai|Chinanet|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|218.77.106.10|10150|China|Changsha|Chinanet|
+|12|116.107.203.105|10002|Vietnam|Hanoi|Viettel Corporation|
+|13|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|72.10.160.170|8841|Canada|Montreal|GloboTech Communications|
+|16|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|103.178.23.6|8080|Indonesia|Salatiga|Universitas Kristen Satya Wacana|
+|19|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|20|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
 
 
 
