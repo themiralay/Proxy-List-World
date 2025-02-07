@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|164.70.68.36|3128|Japan|Chiyoda|InfoSphere|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|49.0.34.114|13715|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.162.54.250|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|67.43.227.226|25189|Canada|Montreal|GloboTech Communications|
-|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|17|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|5|81.90.149.186|3128|Iran|Tehran|Afranet|
+|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
+|10|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|118.113.244.251|2324|China|Shanghai|Chinanet|
+|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
-|20|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|19|102.22.106.6|8080|Sierra Leone|Freetown|Cajutel (SL) Sarl Limited|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
