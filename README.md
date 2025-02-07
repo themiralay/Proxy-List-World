@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.252.183.239|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|3|118.175.30.26|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|179.1.98.186|8080|Colombia|Bogotá|InterNexa Global Network|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|12|103.176.97.195|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|13|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|14|61.160.247.69|9999|China|Nanjing|China Telecom|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.228.250|28731|Canada|Montreal|GloboTech Communications|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|177.137.238.242|8080|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|45.71.3.54|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|16|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
