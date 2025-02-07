@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
-|6|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
-|7|103.245.109.219|53334|Bangladesh|Comilla|ACE IT Networks Limited|
-|8|217.15.175.137|80|United States|Boston|HOSTINGER US|
-|9|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|12|180.173.62.186|1085|China|Shanghai|China Telecom (Group)|
-|13|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|67.43.228.250|27505|Canada|Montreal|GloboTech Communications|
-|15|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|27.189.134.12|8089|China|Langfang|Chinanet|
-|18|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
-|19|72.10.160.171|9291|Canada|Montreal|GloboTech Communications|
-|20|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|5|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|6|103.211.107.114|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|7|38.183.146.153|7878|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
+|10|180.173.62.186|1085|China|Shanghai|China Telecom (Group)|
+|11|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|12|160.19.17.36|9898|Indonesia|Bengkalis|PT Media Balai Nusa|
+|13|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|14|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|18|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
