@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
-|5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|178.236.247.252|3128|United States|Los Angeles|xorek.cloud International LTD|
-|12|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|13|36.93.140.71|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|3|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|49.0.91.7|8080|Thailand|Nonthaburi|AIS-Fibre|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|27.76.233.178|26411|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|103.180.118.138|1111|Indonesia|Setro|PT Persada Data Multimedia|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|27.76.233.178|22129|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|45.178.174.132|3128|Brazil|Vitória do Mearim|Atex NET Telecomunicacoes Ltda|
-|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|178.236.247.252|3128|United States|Los Angeles|xorek.cloud International LTD|
+|16|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|17|160.25.196.17|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|18|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
