@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|38.199.6.77|56123|Peru|Lima|Loa Network|
-|12|170.233.193.129|999|Chile|Santiago|MI INTERNET SPA|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|211.144.194.122|10704|United States|Los Angeles|DSNET|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|123.58.249.100|10809|China|Beijing|China Unicom IP network|
-|18|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|19|67.43.228.250|4089|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|13659|Canada|Montreal|GloboTech Communications|
+|3|103.153.62.86|8090|Indonesia|Weleri|IMEDIANET|
+|4|160.30.110.189|8088|Philippines|Quezon City|Cyber Peers Wireless Internet Services Co.|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.53.78.123|8050|Indonesia|Surabaya|INTI|
+|9|190.239.208.30|999|Peru|Puente Viru|Telefonica del Peru|
+|10|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|180.112.182.217|8089|China|Nanjing|Chinanet|
+|13|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|14|103.162.16.53|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
