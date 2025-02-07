@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|101.109.58.35|8080|Thailand|Pattaya|TOT Public Company Limited|
-|9|202.137.155.184|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|138.59.227.248|999|Paraguay|Asunción|Aranda Cardozo Lider Ramon|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|49.70.190.203|2324|China|Zhenjiang|Chinanet|
-|14|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|15|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|16|117.84.72.223|8089|China|Nanjing|Chinanet|
-|17|180.97.220.151|11080|China|Nanjing|Chinanet|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|2|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|9|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
+|10|49.70.190.203|2324|China|Zhenjiang|Chinanet|
+|11|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|15|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|17|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|18|218.77.106.10|10150|China|Changsha|Chinanet|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|116.172.92.16|12701|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
 
