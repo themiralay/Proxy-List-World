@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|61.7.168.107|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|182.253.39.205|8080|Indonesia|Jakarta|BIZNET|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|61.160.247.69|9999|China|Nanjing|China Telecom|
-|10|67.43.228.250|18791|Canada|Montreal|GloboTech Communications|
-|11|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|12|144.76.97.102|12316|Germany|Falkenstein|Hetzner Online GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
-|15|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|16|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|67.43.236.18|20209|Canada|Montreal|GloboTech Communications|
-|18|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|67.43.227.230|8623|Canada|Montreal|GloboTech Communications|
-|20|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|124.122.114.85|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.82.37.46|22813|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|9|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|10|103.234.31.0|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|118.113.246.62|2324|China|Shanghai|Chinanet|
+|15|116.172.92.16|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|125.87.80.161|2324|China|Chongqing|China Telecom|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|20|72.10.160.91|2125|Canada|Montreal|GloboTech Communications|
 
 
 
