@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|27.76.233.178|10030|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|178.115.230.100|8080|Austria|Graz|customers with static IP|
-|13|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|16|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|196.216.133.237|8865|South Africa|Schweizer-Reneke|HERO TELECOMS (PTY) LTD|
+|12|180.184.205.59|12798|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|17|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|18|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
+|19|185.239.2.66|5001|Iran|Tehran|Web Dadeh Paydar Co (Ltd)|
+|20|183.136.139.57|1999|China|Ningbo|China Telecom|
 
 
 
