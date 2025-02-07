@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|103.183.10.169|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|3|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|121.227.178.81|8089|China|Nanjing|China Telecom|
-|6|72.10.160.170|6875|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|6443|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.230|6025|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|28051|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|30175|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|67.43.227.226|21225|Canada|Montreal|GloboTech Communications|
-|13|125.87.80.161|2324|China|Chongqing|China Telecom|
-|14|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|15|67.43.236.18|20409|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|21105|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|9079|Canada|Montreal|GloboTech Communications|
-|18|118.113.245.42|2324|China|Shanghai|Chinanet|
-|19|72.10.164.178|30175|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|21105|Canada|Montreal|GloboTech Communications|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.165.222.190|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|6|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|72.10.160.170|25553|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|9547|Canada|Montreal|GloboTech Communications|
+|10|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|11|115.85.78.91|8111|Indonesia|Jakarta|Sudirman Central Business District|
+|12|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|13|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|14|125.87.80.161|2324|China|Chongqing|China Telecom|
+|15|118.113.245.186|2324|China|Shanghai|Chinanet|
+|16|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|17|103.91.62.193|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
+|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|19|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
+|20|111.34.87.64|80|China|Jinan|China Mobile communications corporation|
 
 
 
