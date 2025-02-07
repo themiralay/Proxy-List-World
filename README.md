@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4497** proxies at the latest update. Usable proxies are below.
+> Scraper found **4797** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|361|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.82.37.46|22813|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.122.1.26|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
-|9|180.191.36.128|8181|Philippines|Cabanatuan City|Globe Telecom|
-|10|67.43.227.226|3665|Canada|Montreal|GloboTech Communications|
-|11|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|12|203.190.43.51|8181|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|13|118.113.244.37|2324|China|Shanghai|Chinanet|
-|14|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|118.113.245.30|2324|China|Shanghai|Chinanet|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|180.184.205.59|12798|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|203.190.43.51|8181|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|157.15.139.132|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|5|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.82.132.206|36729|India|Faridabad|Cloudfly Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|106.251.66.243|61170|South Korea|Gangdong-gu|LG DACOM Corporation|
+|15|103.147.247.100|8080|Indonesia|Tangerang|PLBNET|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|49.70.190.88|2324|China|Zhenjiang|Chinanet|
+|18|59.39.196.222|2324|China|Guangzhou|Chinanet|
+|19|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
