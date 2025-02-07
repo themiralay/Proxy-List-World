@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|38.183.146.173|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|4|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|9|103.156.248.48|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|10|45.71.3.54|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|121.187.164.253|3128|South Korea|Gangdong-gu|Korea Telecom|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|186.208.81.214|3129|Brazil|Tapejara|RazaoInfo Internet Ltda|
-|18|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|35.200.70.116|8080|Japan|Tokyo|Google LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.176.97.195|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|9|138.121.114.142|999|Argentina|Formosa|Refsa Telecomunicaciones|
+|10|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|16|45.252.183.239|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|157.15.62.100|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|19|198.145.118.87|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|78.129.155.52|8081|United Kingdom|Maidenhead|Iomart Hosting Ltd|
 
 
 
