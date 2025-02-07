@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|186.148.175.118|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|187.1.16.36|92|Brazil|Barueri|America-NET Ltda.|
-|10|202.57.26.150|8888|Indonesia|Bandung|WANET|
-|11|118.113.244.157|2324|China|Shanghai|Chinanet|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.227.230|12917|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|13701|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|13375|Canada|Montreal|GloboTech Communications|
-|20|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.181.255.219|7777|Indonesia|Tuban|PT Giga Digital Nusantara|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|141.136.56.104|999|Venezuela|Zulia|RED SERVITEL, CA|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.97.140.159|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|12|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|13|38.9.48.203|8080|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|14|103.175.202.182|8090|Indonesia|Batulicin|PT Ameera Mega Buana|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|103.79.155.210|8080|Indonesia|Depok|MORATELINDO|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
