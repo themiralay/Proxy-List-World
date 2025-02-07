@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
+|2|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
 |3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|195.209.114.87|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
-|9|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|38.7.3.18|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|195.209.114.87|8090|Russia|Novocherkassk|Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)"|
+|12|103.220.22.81|8095|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
 |13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
-|15|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|185.239.2.66|5001|Iran|Tehran|Web Dadeh Paydar Co (Ltd)|
-|17|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|163.44.181.230|7788|Japan|Chiyoda|GMO Internet, Inc|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|18|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
 
 
 
