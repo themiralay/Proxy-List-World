@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|171.224.29.1|8080|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.114.145.173|32650|India|Jaipur|Tejays Dynamic Limited|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|11|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|72.10.160.170|18511|Canada|Montreal|GloboTech Communications|
-|13|121.232.181.140|8089|China|Nanjing|Chinanet|
-|14|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|118.113.245.14|2324|China|Shanghai|Chinanet|
-|18|121.227.178.64|8089|China|Nanjing|China Telecom|
-|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|20|125.87.92.39|2324|China|Chongqing|China Telecom|
+|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|103.160.145.161|3128|India|Hyderabad|M/S HARVIL MEDIA|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|49.70.190.141|2324|China|Zhenjiang|Chinanet|
+|18|67.43.227.226|29807|Canada|Montreal|GloboTech Communications|
+|19|118.193.39.85|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
 
 
 
