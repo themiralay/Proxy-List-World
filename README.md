@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|2|67.43.236.19|8585|Canada|Montreal|GloboTech Communications|
+|1|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|45.188.167.25|999|Mexico|Ahuacatlán|Velocom SA De CV|
 |3|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|27.189.134.75|8089|China|Langfang|Chinanet|
-|6|27.189.132.88|8089|China|Langfang|Chinanet|
-|7|67.43.236.18|3963|Canada|Montreal|GloboTech Communications|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.236.18|3963|Canada|Montreal|GloboTech Communications|
-|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|24.199.115.37|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|17|27.189.129.236|8089|China|Langfang|Chinanet|
-|18|72.10.160.170|27675|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|28861|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|171.33.247.20|3128|Russia|Krasnoyarsk|NETNAME|
+|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.170|4149|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|24621|Canada|Montreal|GloboTech Communications|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
+|14|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|67.43.227.226|8941|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|3963|Canada|Montreal|GloboTech Communications|
+|17|180.254.148.60|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
+|18|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
+|19|181.39.12.225|999|Ecuador|Guayaquil|Telconet S.A|
+|20|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
 
 
 
