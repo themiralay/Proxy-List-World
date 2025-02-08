@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4504** proxies at the latest update. Usable proxies are below.
+> Scraper found **4804** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|98.81.238.220|3128|United States|Ashburn|BellSouth.net Inc.|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|45.160.179.15|80|Brazil|Santana do Araguaia|P.A THOMAZ MARCELINO & CIA EPP LTDA|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|58.69.125.145|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|13|118.113.244.251|2324|China|Shanghai|Chinanet|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|11|118.113.245.205|2324|China|Shanghai|Chinanet|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
 |14|118.113.244.157|2324|China|Shanghai|Chinanet|
-|15|116.105.61.40|10004|Vietnam|Hanoi|Viettel Corporation|
-|16|72.10.164.178|29071|Canada|Montreal|GloboTech Communications|
-|17|203.150.128.41|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|18|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|19|103.46.10.100|3125|Indonesia|Malang|Lintas Data Prima, PT|
-|20|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|59.39.196.222|2324|China|Guangzhou|Chinanet|
+|16|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|17|72.10.164.178|4701|Canada|Montreal|GloboTech Communications|
+|18|118.113.244.234|2324|China|Shanghai|Chinanet|
+|19|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
+|20|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
 
 
 
