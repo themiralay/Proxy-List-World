@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4819** proxies at the latest update. Usable proxies are below.
+> Scraper found **4921** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|577|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|492|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2524|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|43.228.92.6|8080|India|Hyderabad|Pioneer Elabs Ltd.|
-|6|103.148.28.218|3125|Indonesia|Palu|DEWATA|
-|7|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|8|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
-|9|69.167.30.92|8118|United States|San Francisco|Paradise Networks LLC|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|1.55.183.79|8080|Vietnam|Hanoi|FPT Telecom Company|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|118.113.246.42|2324|China|Shanghai|Chinanet|
-|14|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
-|15|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
-|16|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|18|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|20|72.10.160.170|3645|Canada|Montreal|GloboTech Communications|
+|2|116.107.203.105|10008|Vietnam|Hanoi|Viettel Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|201.77.107.0|8084|Brazil|Porto Alegre|TURBONET - Provedor de Acesso a Internet|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|111.132.16.6|3389|China|Beijing|China TieTong Telecommunications Corporation|
+|12|103.171.244.136|8008|Indonesia|Madiun|PT Data Arta Sedaya|
+|13|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|16|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|17|116.90.165.206|8080|Indonesia|South Tangerang|Dwi Tunggal Putra|
+|18|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|19|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|20|119.147.8.252|4129|China|Guangzhou|Chinanet|
 
 
 
