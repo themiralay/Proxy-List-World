@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.205.61.4|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|7|72.10.160.170|3733|Canada|Montreal|GloboTech Communications|
-|8|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
-|9|67.43.227.226|25819|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|3733|Canada|Montreal|GloboTech Communications|
-|11|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|12|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|13|89.38.129.15|3128|Spain|Valencia|Mvps LTD|
-|14|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|15|67.43.236.18|27211|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|27211|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|9271|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|121.227.118.151|8089|China|Nanjing|China Telecom|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|72.10.160.170|3733|Canada|Montreal|GloboTech Communications|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|12|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|13|101.109.176.89|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|82.200.205.126|8081|Kazakhstan|Ekibastuz|JSC Kazakhtelecom|
+|15|72.10.160.170|3733|Canada|Montreal|GloboTech Communications|
+|16|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|17|188.132.150.70|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|119.93.145.82|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
