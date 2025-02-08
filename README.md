@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|190.181.29.114|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|202.137.31.186|8080|Indonesia|Tangerang|LINKNET|
-|12|27.147.218.18|63680|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|13|118.113.244.157|2324|China|Shanghai|Chinanet|
-|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|15|67.43.236.19|27693|Canada|Montreal|GloboTech Communications|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|177.81.25.226|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|18|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
-|19|180.125.186.148|1080|China|Nanjing|Chinanet|
-|20|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|1|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|172.172.166.46|3128|United States|Boydton|Microsoft|
+|3|116.203.36.93|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|4|172.172.166.46|3128|United States|Boydton|Microsoft|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|121.227.118.145|8089|China|Nanjing|China Telecom|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|31.56.78.186|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|14|115.245.181.50|3128|India|New Delhi|Reliance Jio Infocomm Limited|
+|15|103.171.83.55|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
+|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|20|94.153.163.226|81|Ukraine|Kyiv|Kyivstar UA|
 
 
 
