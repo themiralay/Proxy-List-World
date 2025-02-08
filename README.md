@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|5|45.162.126.17|999|Colombia|San Agustín|Enter Telecomunicaciones Banda Ancha SAS|
-|6|188.136.160.222|7060|Iran|Abrīsham|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|9|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|67.43.236.18|10733|Canada|Montreal|GloboTech Communications|
-|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
-|15|67.43.228.253|26043|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|103.243.238.36|43385|Bangladesh|Dhaka|Circle Network|
-|18|67.43.236.18|10733|Canada|Montreal|GloboTech Communications|
-|19|118.113.246.216|2324|China|Shanghai|Chinanet|
-|20|67.43.236.18|10733|Canada|Montreal|GloboTech Communications|
+|2|103.160.145.161|3128|India|Hyderabad|M/S HARVIL MEDIA|
+|3|103.67.88.77|8081|Indonesia|Pati|PT Clara Network Engineer|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|8|67.43.228.253|26043|Canada|Montreal|GloboTech Communications|
+|9|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
+|10|72.10.164.178|20769|Canada|Montreal|GloboTech Communications|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|67.43.236.18|5947|Canada|Montreal|GloboTech Communications|
+|16|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|103.179.182.212|1080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|116.171.20.136|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
