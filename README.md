@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|117.3.200.164|8080|Vietnam|Phan Thiết|VIETTEL|
+|2|202.93.244.194|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
 |3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|45.114.144.244|32650|India|Jaipur|Tejays Dynamic Limited|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
-|9|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|10|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|11|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|12|59.39.196.40|2324|China|Guangzhou|Chinanet|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|15|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|17|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|18|72.10.160.170|17291|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|2345|Canada|Montreal|GloboTech Communications|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|45.114.144.244|32650|India|Jaipur|Tejays Dynamic Limited|
+|10|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|11|118.113.244.157|2324|China|Shanghai|Chinanet|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|14|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|103.169.33.30|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|118.113.244.157|2324|China|Shanghai|Chinanet|
 
 
 
