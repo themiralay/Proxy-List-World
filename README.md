@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|6|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|7|103.110.11.221|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|8|45.252.183.240|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
-|11|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|121.232.73.250|1080|China|Shanghai|Chinanet|
-|14|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|15|72.10.160.170|28643|Canada|Montreal|GloboTech Communications|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|111.75.189.3|655|China|Taohua|Chinanet|
-|18|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|19|72.10.160.90|5837|Canada|Montreal|GloboTech Communications|
-|20|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.157.78.162|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|6|116.107.203.105|10015|Vietnam|Hanoi|Viettel Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|16|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|17|164.70.117.24|3128|Japan|Chiyoda|InfoSphere|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|218.77.106.10|10150|China|Changsha|Chinanet|
+|20|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
 
 
 
