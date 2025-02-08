@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|4|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|6|200.106.124.222|999|Peru|Tacna|Telefonica del Peru|
-|7|103.141.149.194|8080|Indonesia|Banda Aceh|PT Acehlink Media|
-|8|157.15.80.32|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|9|103.133.61.161|8181|Indonesia|Pringsewu|TLINK|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|103.177.176.62|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|185.4.229.132|8080|Finland|Helsinki|Datalahti Oy|
-|15|45.236.171.76|999|Ecuador|Guayaquil|Codgrec S.A.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|19|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|20|190.211.172.178|999|Chile|San Fernando|InterNexa Global Network|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.106.124.222|999|Peru|Tacna|Telefonica del Peru|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|6|103.67.88.77|8081|Indonesia|Pati|PT Clara Network Engineer|
+|7|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|122.54.193.69|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|106.58.218.165|8008|China|Kunming|Chinanet|
+|14|67.43.227.228|4035|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|8749|Canada|Montreal|GloboTech Communications|
+|16|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|67.43.227.227|11831|Canada|Montreal|GloboTech Communications|
+|18|118.113.244.108|2324|China|Shanghai|Chinanet|
+|19|67.43.228.250|28123|Canada|Montreal|GloboTech Communications|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
