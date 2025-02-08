@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|106.58.218.165|8008|China|Kunming|Chinanet|
-|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|213.142.149.86|4433|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|180.112.182.245|8089|China|Nanjing|Chinanet|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|16|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
-|18|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|72.10.160.171|1517|Canada|Montreal|GloboTech Communications|
+|1|103.121.39.150|8080|Bangladesh|Chittagong|DDNBD|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|5.252.21.13|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|213.148.11.76|3128|Kazakhstan|Almaty|Haicom Limited|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
+|8|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|14|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|15|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|72.10.160.172|30569|Canada|Montreal|GloboTech Communications|
+|17|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|18|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
