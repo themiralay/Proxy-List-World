@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |6|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|137.59.12.209|8080|Indonesia|Labansari|CROSSNET|
-|12|202.138.249.241|5234|Indonesia|Bandung|PT Melvar Lintasnusa|
-|13|106.251.66.243|53455|South Korea|Gangdong-gu|LG DACOM Corporation|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|170.80.234.145|8080|Brazil|Olinda|Agility Telecom Ltda|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|180.125.186.146|1080|China|Nanjing|Chinanet|
-|18|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|19|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
-|20|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|7|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|38.194.254.30|999|Mexico|Zapopan|Ientc S De RL De CV|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|14.178.125.93|10001|Vietnam|Thái Nguyên|VNPT|
+|16|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|17|103.111.136.110|8081|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
+|18|179.108.228.50|8080|Brazil|Barbacena|Conecta Ltda.|
+|19|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|20|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
 
 
 
