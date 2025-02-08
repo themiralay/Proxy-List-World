@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.148.44.197|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|6|103.153.190.218|8081|Indonesia|Malang|WANET|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.235.181.1|8080|Indonesia|Jakarta|PT Top Class Universal|
-|10|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|200.69.92.98|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|67.43.227.227|9881|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|24835|Canada|Montreal|GloboTech Communications|
-|16|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|18|114.218.167.1|8089|China|Nanjing|China Telecom|
-|19|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|2|103.235.181.1|8080|Indonesia|Jakarta|PT Top Class Universal|
+|3|103.148.44.197|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|6|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|103.189.116.133|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|9|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|12|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
+|13|190.121.138.211|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|67.43.227.227|9881|Canada|Montreal|GloboTech Communications|
+|16|118.113.244.188|2324|China|Shanghai|Chinanet|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|20|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
