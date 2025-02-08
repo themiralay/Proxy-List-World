@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|85.143.202.33|8080|Russia|St Petersburg|GlavTel ltd|
-|3|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|60.54.8.222|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|5|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|6|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|8|72.10.160.90|24967|Canada|Montreal|GloboTech Communications|
-|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|10|72.10.160.90|24967|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|18069|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|7661|Canada|Montreal|GloboTech Communications|
-|13|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|14|67.43.228.251|10781|Canada|Montreal|GloboTech Communications|
-|15|222.127.71.148|8082|Philippines|Lahug|INNOVE|
-|16|67.43.227.226|7661|Canada|Montreal|GloboTech Communications|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|67.43.228.250|30601|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26969|Canada|Montreal|GloboTech Communications|
-|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|114.9.27.178|10001|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|6|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|7|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|8|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.160.90|24967|Canada|Montreal|GloboTech Communications|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|17|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|19|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
