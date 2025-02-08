@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|6|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|10|121.227.109.43|8089|China|Nanjing|China Telecom|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|14|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|121.227.146.123|8089|China|Nanjing|China Telecom|
-|19|67.43.227.226|30863|Canada|Montreal|GloboTech Communications|
-|20|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|12|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|13|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|16|101.36.125.154|887|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|20|67.43.227.226|12923|Canada|Montreal|GloboTech Communications|
 
 
 
