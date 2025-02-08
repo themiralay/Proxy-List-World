@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.172.120.37|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
-|6|43.247.33.182|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
-|7|191.52.236.39|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|8|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
-|9|185.133.36.103|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|10|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|67.43.236.18|4037|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.19|8515|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|14405|Canada|Montreal|GloboTech Communications|
-|15|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|186.249.187.207|80|Brazil|Fortaleza|VAS Freitas Servicos de Internet Ltda|
-|18|45.235.252.39|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
-|19|111.75.190.5|655|China|Taohua|Chinanet|
-|20|222.215.137.26|11527|China|Deyang|Chinanet|
+|2|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|43.247.33.182|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|157.66.122.245|8080|Indonesia|Selat Panjang|PT Solusi Digital Manira|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|103.166.11.198|2024|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|12|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|13|58.59.61.200|10991|China|Jinan|Chinanet|
+|14|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|72.10.160.90|25015|Canada|Montreal|GloboTech Communications|
+|18|114.198.244.28|8080|Indonesia|Kediri|PT Sumber Data Indonesia|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|67.43.236.21|10761|Canada|Montreal|GloboTech Communications|
 
 
 
