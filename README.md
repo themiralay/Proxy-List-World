@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
-|2|120.51.210.247|8080|Japan|Adachi|ARTERIA Networks Corporation|
+|1|164.70.68.238|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|110.77.171.169|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.169.131.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|8|49.0.39.101|12030|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|9|36.50.56.71|8080|Indonesia|Cibinong|PT Andromega Data Nusantara|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|12|103.166.178.221|8080|Indonesia|Sangkalputung|GSM|
-|13|43.246.200.142|9080|Bangladesh|Sonargaon|HelloTech Limited|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|18|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|19|103.191.155.70|8080|Indonesia|Cikampek|PT Ilham Wifi Solution|
-|20|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|110.77.171.169|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|120.51.210.247|8080|Japan|Adachi|ARTERIA Networks Corporation|
+|10|190.61.116.154|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|13|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|220.81.123.23|48678|South Korea|Chilgok-gun|Korea Telecom|
+|16|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|125.87.80.161|2324|China|Chongqing|China Telecom|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|82.138.124.138|8085|Türkiye|Istanbul|VEGANET-CGNT|
+|20|72.10.164.178|20155|Canada|Montreal|GloboTech Communications|
 
 
 
