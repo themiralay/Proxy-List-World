@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
-|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|5|103.48.71.46|82|India|Pargi|Country Online Services PVT LTD|
-|6|72.10.164.178|31395|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|17467|Canada|Montreal|GloboTech Communications|
-|8|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|9|103.112.144.46|1111|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|10|103.144.18.85|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|11|67.43.227.226|3417|Canada|Montreal|GloboTech Communications|
-|12|102.0.15.216|3346|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|14.178.124.35|32647|Vietnam|Thái Nguyên|VNPT|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|6|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|7|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|117.103.71.77|8715|Indonesia|Malang|NARATEL|
+|13|72.10.160.170|6847|Canada|Montreal|GloboTech Communications|
+|14|202.58.77.228|8080|Indonesia|Cirebon|PT Data Buana Nusantara|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|14.178.124.35|32647|Vietnam|Thái Nguyên|VNPT|
 |17|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|19|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|20|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|19|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|14.245.192.19|8080|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
