@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4641** proxies at the latest update. Usable proxies are below.
+> Scraper found **4614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|499|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|274|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2615|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|3|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|4|67.43.228.253|10357|Canada|Montreal|GloboTech Communications|
-|5|67.43.228.250|29003|Canada|Montreal|GloboTech Communications|
-|6|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
-|7|67.43.227.226|10445|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|26449|Canada|Montreal|GloboTech Communications|
-|9|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|10|45.174.249.7|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|72.10.164.178|25963|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|72.10.160.90|4361|Canada|Montreal|GloboTech Communications|
-|20|116.107.203.105|10027|Vietnam|Hanoi|Viettel Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|125.87.82.68|2324|China|Chongqing|China Telecom|
+|6|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|7|72.10.160.171|9677|Canada|Montreal|GloboTech Communications|
+|8|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|9|112.209.51.118|8082|Philippines|Cadiz|Philippine Long Distance Telephone Co.|
+|10|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|11|103.129.93.151|8080|Indonesia|Malang|PT. Eka Mas Republik|
+|12|27.189.130.203|8089|China|Langfang|Chinanet|
+|13|72.10.160.170|8097|Canada|Montreal|GloboTech Communications|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|18|67.43.236.18|26449|Canada|Montreal|GloboTech Communications|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 
 
 
