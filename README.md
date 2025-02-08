@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
 |3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|178.208.169.230|8118|United Kingdom|London|Powerhouse Management, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|116.171.20.136|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|14|121.227.109.35|8089|China|Nanjing|China Telecom|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|188.227.206.178|65432|The Netherlands|Eindhoven|EK-Media B.V.|
-|18|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
-|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|4|103.153.246.130|8282|Indonesia|Kudus|PRIMAHOME|
+|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|9|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|49.0.39.101|12030|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|103.171.255.59|8080|Indonesia|Sleman|ZKI|
+|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|14|106.15.58.17|9003|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|15|36.50.56.71|8080|Indonesia|Cibinong|PT Andromega Data Nusantara|
+|16|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|17|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|18|223.204.86.114|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
