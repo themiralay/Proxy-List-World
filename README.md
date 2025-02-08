@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
 |3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|49.70.190.201|2324|China|Zhenjiang|Chinanet|
-|10|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.146.197.82|8080|Indonesia|Banyuwangi|RIYADNETWORK|
-|12|181.48.126.34|36413|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|111.75.189.3|655|China|Taohua|Chinanet|
-|15|111.34.87.64|80|China|Jinan|China Mobile communications corporation|
-|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|19|38.183.146.25|3333|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|4|101.255.165.166|1010|Indonesia|Jakarta|PT Remala Abadi|
+|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|106.58.218.165|8008|China|Kunming|Chinanet|
+|9|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|10|103.48.71.126|83|India|Pargi|Country Online Services PVT LTD|
+|11|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.255.132.212|1111|Indonesia|Banjarnegara|PT Sarana Kawan Setia|
+|17|190.2.214.137|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|61.19.145.66|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|19|106.115.87.35|9100|China|Handan|Chinanet|
+|20|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
 
 
 
