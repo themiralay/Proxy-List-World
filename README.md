@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|2|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.181.255.227|3128|Indonesia|Tuban|PT Giga Digital Nusantara|
-|7|118.113.244.157|2324|China|Shanghai|Chinanet|
-|8|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|9|27.189.133.58|8089|China|Langfang|Chinanet|
-|10|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|72.10.164.178|25903|Canada|Montreal|GloboTech Communications|
-|12|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|13|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|14|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
-|15|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|67.43.227.226|6523|Canada|Montreal|GloboTech Communications|
-|18|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|19|38.156.14.165|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|20|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|207.180.248.212|3128|France|Lauterbourg|Contabo GmbH|
+|11|72.10.160.170|24033|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|118.113.244.157|2324|China|Shanghai|Chinanet|
+|14|125.87.86.202|2324|China|Shanghai|China Telecom|
+|15|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|222.215.137.26|11527|China|Deyang|Chinanet|
+|18|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|19|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|20|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
 
 
 
