@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.114.144.179|32650|India|Jaipur|Tejays Dynamic Limited|
-|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|7|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|67.43.228.252|33211|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|22015|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|31759|Canada|Montreal|GloboTech Communications|
-|12|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|13|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|72.10.160.90|31211|Canada|Montreal|GloboTech Communications|
-|16|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|17|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|18|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|20|67.43.228.251|9221|Canada|Montreal|GloboTech Communications|
+|2|103.121.39.150|8080|Bangladesh|Chittagong|DDNBD|
+|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|23.105.218.190|3128|United States|Los Angeles|IT7 Networks Inc|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|12|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|118.113.245.63|2324|China|Shanghai|Chinanet|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|72.10.160.90|7725|Canada|Montreal|GloboTech Communications|
+|16|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|17|72.10.160.91|31723|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|77.245.99.164|81|Kazakhstan|Oral|JSC "KazTransCom"|
+|20|67.43.228.252|33211|Canada|Montreal|GloboTech Communications|
 
 
 
