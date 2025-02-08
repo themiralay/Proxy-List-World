@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.68.33.217|80|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
-|5|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|12|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|15|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|16|67.43.227.227|24509|Canada|Montreal|GloboTech Communications|
-|17|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|67.43.227.226|19029|Canada|Montreal|GloboTech Communications|
-|19|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|20|121.101.133.81|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|1|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|2|164.70.117.11|3128|Japan|Chiyoda|InfoSphere|
+|3|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|36.68.33.217|80|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|10|67.43.228.252|5105|Canada|Montreal|GloboTech Communications|
+|11|38.137.252.6|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
+|12|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|16|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|17|67.43.227.226|19421|Canada|Montreal|GloboTech Communications|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|20|103.190.171.33|8080|Indonesia|Jakarta|WMS|
 
 
 
