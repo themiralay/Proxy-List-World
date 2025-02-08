@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|3|110.77.171.169|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|220.81.123.23|48678|South Korea|Chilgok-gun|Korea Telecom|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|223.204.86.114|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|5.202.31.11|8090|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|12|116.105.61.40|10008|Vietnam|Hanoi|Viettel Corporation|
+|1|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|4|110.77.171.169|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|6|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|88.42.237.102|8080|Italy|Piovene Rocchette|Telecom Italia S.p.A.|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|200.106.167.228|999|Mexico|Cortazar|Cybernetworks S.A De C.V|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|43.252.107.103|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|18|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
+|14|43.252.107.103|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|15|157.20.50.238|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|49.0.39.101|12030|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|18|106.115.87.35|9100|China|Handan|Chinanet|
+|19|202.162.213.180|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
 
 
 
