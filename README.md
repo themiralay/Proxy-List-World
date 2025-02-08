@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|124.121.2.139|8080|Thailand|Bangkok|TRUEBB|
-|3|200.106.124.222|999|Peru|Tacna|Telefonica del Peru|
-|4|45.114.145.173|32650|India|Jaipur|Tejays Dynamic Limited|
-|5|180.178.103.67|8213|Indonesia|Jakarta|PT Hipernet Indodata|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|188.136.160.222|7060|Iran|Abrīsham|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|185.4.229.132|8080|Finland|Helsinki|Datalahti Oy|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|103.147.73.35|3088|Indonesia|Depok|ALFATINDO|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|223.206.198.69|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|14|27.189.129.45|8089|China|Langfang|Chinanet|
-|15|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|14.39.239.241|56523|South Korea|Eunpyeong-gu|Korea Telecom|
-|17|36.92.107.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|18|118.113.244.187|2324|China|Shanghai|Chinanet|
-|19|119.95.107.16|8081|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|20|67.43.236.19|23593|Canada|Montreal|GloboTech Communications|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.106.124.222|999|Peru|Tacna|Telefonica del Peru|
+|6|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|45.162.126.17|999|Colombia|San Agustín|Enter Telecomunicaciones Banda Ancha SAS|
+|8|121.227.118.145|8089|China|Nanjing|China Telecom|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|14.241.39.169|8080|Vietnam|Bắc Giang|VNPT|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|45.236.171.76|999|Ecuador|Guayaquil|Codgrec S.A.|
+|15|160.22.206.37|8080|Indonesia|Bekasi|PT Teradata Bintang Selaras|
+|16|118.113.244.251|2324|China|Shanghai|Chinanet|
+|17|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|118.113.247.38|2324|China|Shanghai|Chinanet|
+|19|67.43.228.251|3273|Canada|Montreal|GloboTech Communications|
+|20|49.70.190.203|2324|China|Zhenjiang|Chinanet|
 
 
 
