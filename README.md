@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
-|4|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|5|67.43.227.226|17777|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.18|21279|Canada|Montreal|GloboTech Communications|
-|7|125.87.88.227|2324|China|Chongqing|China Telecom|
-|8|67.43.228.250|16351|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|4873|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|10357|Canada|Montreal|GloboTech Communications|
-|11|157.15.144.250|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|12|124.120.45.220|8080|Thailand|Surat Thani|TRUEBB|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|16|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|17|67.43.236.19|14203|Canada|Montreal|GloboTech Communications|
-|18|200.205.60.2|8080|Brazil|São Paulo|Vivo|
-|19|222.215.137.26|11527|China|Deyang|Chinanet|
-|20|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|1|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|98.81.238.220|3128|United States|Ashburn|BellSouth.net Inc.|
+|4|85.143.202.33|8080|Russia|St Petersburg|GlavTel ltd|
+|5|98.81.238.220|3128|United States|Ashburn|BellSouth.net Inc.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|8|45.152.112.217|3128|France|Paris|CGI GLOBAL LIMITED|
+|9|1.4.203.192|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|67.43.228.250|16351|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|13087|Canada|Montreal|GloboTech Communications|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|49.70.190.203|2324|China|Zhenjiang|Chinanet|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|159.89.239.166|18087|United States|North Bergen|DigitalOcean, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|18|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
