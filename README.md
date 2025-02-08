@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|115.74.0.227|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|4|38.50.166.179|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.39.51.20|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|7|31.161.38.233|8090|The Netherlands|Rijswijk|KPN B.V|
+|1|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|2|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|103.127.220.222|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|5|118.113.245.140|2324|China|Shanghai|Chinanet|
+|6|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|7|72.10.164.178|9795|Canada|Montreal|GloboTech Communications|
 |8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|9|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|67.43.236.18|23631|Canada|Montreal|GloboTech Communications|
-|11|183.136.139.57|1999|China|Ningbo|China Telecom|
-|12|180.103.19.242|1080|China|Nanjing|Chinanet|
-|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|14|72.10.164.178|3497|Canada|Montreal|GloboTech Communications|
-|15|61.160.247.69|9999|China|Nanjing|China Telecom|
-|16|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|67.43.227.226|27591|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|8161|Canada|Montreal|GloboTech Communications|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|9|72.10.160.90|8161|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.230|17607|Canada|Montreal|GloboTech Communications|
+|11|118.113.245.133|2324|China|Shanghai|Chinanet|
+|12|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
+|13|118.113.246.42|2324|China|Shanghai|Chinanet|
+|14|67.43.228.250|31927|Canada|Montreal|GloboTech Communications|
+|15|190.90.39.72|999|Colombia|Arauca|InterNexa Global Network|
+|16|190.60.44.234|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|17|123.184.72.182|1181|China|Shenyang|Chinanet|
+|18|118.113.245.247|2324|China|Shanghai|Chinanet|
+|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
