@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.190.43.51|8181|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|3|45.114.144.244|32650|India|Jaipur|Tejays Dynamic Limited|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|45.114.144.244|32650|India|Jaipur|Tejays Dynamic Limited|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |6|118.113.244.157|2324|China|Shanghai|Chinanet|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|10|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|11|121.227.118.170|8089|China|Nanjing|China Telecom|
-|12|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|13|72.10.160.170|32679|Canada|Montreal|GloboTech Communications|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|111.72.133.52|2324|China|Taohua|Chinanet|
-|16|121.227.146.99|8089|China|Nanjing|China Telecom|
-|17|116.105.61.40|10002|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.164.178|21521|Canada|Montreal|GloboTech Communications|
-|19|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|36.93.140.71|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|103.60.173.2|96|Bangladesh|Dhaka|Mazeda Networks Limited|
+|12|45.174.108.198|999|Mexico|Almoloya del Río|Iptvtel Comunicaciones S De RL De CV|
+|13|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|16|72.10.160.170|32679|Canada|Montreal|GloboTech Communications|
+|17|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|20|67.43.228.250|19351|Canada|Montreal|GloboTech Communications|
 
 
 
