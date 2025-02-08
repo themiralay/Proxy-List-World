@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|5.202.31.11|8090|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|10|103.172.120.178|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
-|11|177.234.226.141|999|Ecuador|Manta|Ufinet Panama S.A.|
-|12|106.115.87.35|9100|China|Handan|Chinanet|
-|13|72.10.160.91|2739|Canada|Montreal|GloboTech Communications|
-|14|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|111.72.134.53|2324|China|Taohua|Chinanet|
-|16|114.231.73.120|8089|China|Nanjing|Chinanet|
-|17|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
-|18|72.10.160.90|19755|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|29597|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|29559|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|4|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|49.48.89.70|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|12|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
+|13|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|15|67.43.227.226|29937|Canada|Montreal|GloboTech Communications|
+|16|103.82.246.251|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|19|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|20|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
 
 
 
