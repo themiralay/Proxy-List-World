@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|15.188.143.160|3128|France|Paris|Amazon.com, Inc.|
-|7|72.10.164.178|10319|Canada|Montreal|GloboTech Communications|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|72.10.164.178|10319|Canada|Montreal|GloboTech Communications|
-|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|12|67.43.227.230|17607|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|3147|Canada|Montreal|GloboTech Communications|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|67.43.228.254|32673|Canada|Montreal|GloboTech Communications|
-|16|118.113.245.140|2324|China|Shanghai|Chinanet|
-|17|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|18|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|19|49.148.51.61|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|20|94.177.106.127|3128|Romania|Bucharest|ZetServers|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|4|200.69.92.98|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|118.113.245.140|2324|China|Shanghai|Chinanet|
+|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|7|223.206.196.173|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|10|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|11|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|12|200.233.147.14|3128|Brazil|Ribeirão Preto|ALGAR TELECOM S/A|
+|13|119.47.90.114|8080|Indonesia|Kebumen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|72.10.164.178|10319|Canada|Montreal|GloboTech Communications|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|67.43.227.226|29771|Canada|Montreal|GloboTech Communications|
+|20|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
 
 
 
