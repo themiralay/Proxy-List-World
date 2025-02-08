@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|213.35.124.192|3128|Singapore|Singapore|Oracle Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.36.10.213|3125|Indonesia|Bangil|PT Awinet Global Mandiri|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|1.20.169.59|8080|Thailand|Pattaya|TOT Public Company Limited|
-|12|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|13|67.43.228.250|24611|Canada|Montreal|GloboTech Communications|
-|14|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|15|67.43.227.226|5003|Canada|Montreal|GloboTech Communications|
-|16|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|72.10.160.90|20237|Canada|Montreal|GloboTech Communications|
-|18|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.236.18|22945|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|30139|Canada|Montreal|GloboTech Communications|
+|2|203.150.128.14|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|67.43.227.226|10445|Canada|Montreal|GloboTech Communications|
+|7|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|8|103.195.65.209|8080|Indonesia|Purbalingga|PT Perwira Pedjoeang Nusantara|
+|9|67.43.227.228|30139|Canada|Montreal|GloboTech Communications|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|67.43.227.226|10445|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|20485|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.22|2925|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|20161|Canada|Montreal|GloboTech Communications|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|72.10.160.90|7869|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|25963|Canada|Montreal|GloboTech Communications|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
