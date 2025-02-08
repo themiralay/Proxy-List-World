@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.151.226.131|8080|Indonesia|Bandung|URBANACCESS|
-|4|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|103.141.149.194|8080|Indonesia|Banda Aceh|PT Acehlink Media|
-|6|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|118.113.244.187|2324|China|Shanghai|Chinanet|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|67.43.227.226|10003|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|25533|Canada|Montreal|GloboTech Communications|
-|13|114.223.62.123|8089|China|Nanjing|Chinanet|
-|14|180.173.62.186|1085|China|Shanghai|China Telecom (Group)|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|67.43.236.18|26229|Canada|Montreal|GloboTech Communications|
-|17|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|67.43.236.18|26229|Canada|Montreal|GloboTech Communications|
-|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|20|72.10.164.178|18133|Canada|Montreal|GloboTech Communications|
+|2|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|10|72.10.164.178|18133|Canada|Montreal|GloboTech Communications|
+|11|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|125.87.86.202|2324|China|Shanghai|China Telecom|
+|15|160.19.16.10|9870|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|16|72.10.160.90|25533|Canada|Montreal|GloboTech Communications|
+|17|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|18|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|19|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|20|72.10.160.173|25043|Canada|Montreal|GloboTech Communications|
 
 
 
