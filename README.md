@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|160.22.193.142|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
-|7|103.242.104.195|8090|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|160.22.193.142|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
+|4|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|103.242.104.195|8090|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
 |9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|103.171.240.82|1000|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|12|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|13|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|14|27.189.128.165|8089|China|Langfang|Chinanet|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
-|17|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
-|18|117.44.64.85|655|China|Taohua|Chinanet|
-|19|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
-|20|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|12|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|13|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|16|121.232.178.17|8089|China|Nanjing|Chinanet|
+|17|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|18|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|20|118.113.244.157|2324|China|Shanghai|Chinanet|
 
 
 
