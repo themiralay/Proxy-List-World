@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|3|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|8|67.43.236.19|22411|Canada|Montreal|GloboTech Communications|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|12|67.43.227.226|28595|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|27187|Canada|Montreal|GloboTech Communications|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|27.189.129.93|8089|China|Langfang|Chinanet|
-|16|72.10.164.178|10319|Canada|Montreal|GloboTech Communications|
-|17|118.113.244.64|2324|China|Shanghai|Chinanet|
-|18|67.43.236.18|6585|Canada|Montreal|GloboTech Communications|
-|19|121.232.181.147|8089|China|Nanjing|Chinanet|
-|20|49.70.190.82|2324|China|Zhenjiang|Chinanet|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|4|103.39.51.20|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|182.52.229.165|8080|Thailand|Phuket|TOT Public Company Limited|
+|7|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|9|118.113.245.140|2324|China|Shanghai|Chinanet|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|121.232.178.17|8089|China|Nanjing|Chinanet|
+|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|72.10.160.90|19445|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|27591|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|12825|Canada|Montreal|GloboTech Communications|
+|17|114.9.26.34|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|18|72.10.160.94|28621|Canada|Montreal|GloboTech Communications|
+|19|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|20|89.38.129.15|3128|Spain|Valencia|Mvps LTD|
 
 
 
