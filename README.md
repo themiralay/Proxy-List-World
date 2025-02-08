@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4797** proxies at the latest update. Usable proxies are below.
+> Scraper found **4782** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2564|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|3|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
-|4|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|5|190.60.36.25|999|Colombia|San Cristóbal|IFX NETWORKS COLOMBIA|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.147.246.222|8080|Indonesia|Tangerang|PLBNET|
-|10|103.247.15.97|231|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|115.127.139.106|48134|Bangladesh|Dhaka|BRACNet Limited|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.213.218.83|26841|Vietnam|Haiphong|V9ERP|
-|14|203.150.128.41|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
-|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|121.232.178.12|8089|China|Nanjing|Chinanet|
-|19|74.208.17.185|3128|United States|Chicago|IONOS SE|
-|20|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|103.147.246.222|8080|Indonesia|Tangerang|PLBNET|
+|6|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
+|7|121.232.178.12|8089|China|Nanjing|Chinanet|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|10|27.189.135.54|8089|China|Langfang|Chinanet|
+|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|12|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
+|13|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|67.43.236.18|6797|Canada|Montreal|GloboTech Communications|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|180.112.180.173|8089|China|Nanjing|Chinanet|
+|18|118.113.244.188|2324|China|Shanghai|Chinanet|
+|19|49.0.33.131|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|20|190.52.100.8|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
