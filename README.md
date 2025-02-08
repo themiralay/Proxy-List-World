@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.250.128.1|8082|Indonesia|Utan|PT Asri Global Investama|
-|2|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|3|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|64.23.226.118|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|7|113.53.191.30|8080|Thailand|Bang Pakong|TOT Public Company Limited|
-|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|10|59.39.196.222|2324|China|Guangzhou|Chinanet|
-|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|12|114.231.75.235|1080|China|Nanjing|Chinanet|
-|13|114.231.75.252|1080|China|Nanjing|Chinanet|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|91.84.100.3|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|17|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|18|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|103.250.128.1|8082|Indonesia|Utan|PT Asri Global Investama|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|200.37.187.59|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|10|171.4.16.41|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|11|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|12|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|15|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|16|106.115.87.35|9100|China|Handan|Chinanet|
+|17|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|18|219.128.76.8|6128|China|Foshan|Chinanet|
+|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|20|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
 
 
 
