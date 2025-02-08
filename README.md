@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|103.112.144.27|1111|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
-|12|103.195.65.209|8080|Indonesia|Purbalingga|PT Perwira Pedjoeang Nusantara|
-|13|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.121.39.150|8080|Bangladesh|Chittagong|DDNBD|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|14|54.255.103.78|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |15|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.236.18|12771|Canada|Montreal|GloboTech Communications|
-|18|49.70.190.194|2324|China|Zhenjiang|Chinanet|
-|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|18|118.113.245.133|2324|China|Shanghai|Chinanet|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
