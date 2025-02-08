@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|164.70.68.238|3128|Japan|Chiyoda|InfoSphere|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|8|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|9|175.29.199.6|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|10|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.80.88.77|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
-|14|82.65.98.35|3128|France|Paris|Proxad / Free SAS|
-|15|103.18.77.25|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|8|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|82.65.98.35|3128|France|Paris|Proxad / Free SAS|
+|13|103.227.107.4|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|14|147.139.174.107|3128|Indonesia|Jakarta|Alibaba Cloud LLC|
+|15|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|36.50.56.71|8080|Indonesia|Cibinong|PT Andromega Data Nusantara|
-|19|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|20|164.70.68.227|3128|Japan|Chiyoda|InfoSphere|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
+|19|103.18.77.25|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
