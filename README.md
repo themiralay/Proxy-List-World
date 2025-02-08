@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|6|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|7|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|121.227.118.145|8089|China|Nanjing|China Telecom|
-|11|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|20|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
+|2|172.235.29.87|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|8|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|9|103.155.196.153|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.252.183.242|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|72.10.164.178|15923|Canada|Montreal|GloboTech Communications|
+|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|17|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|61.160.247.69|9999|China|Nanjing|China Telecom|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
