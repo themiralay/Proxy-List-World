@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4882** proxies at the latest update. Usable proxies are below.
+> Scraper found **4550** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|446|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|420|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2615|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|157.66.122.245|8080|Indonesia|Selat Panjang|PT Solusi Digital Manira|
-|3|185.133.36.115|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|4|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|5|185.133.36.103|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|6|61.160.247.69|9999|China|Nanjing|China Telecom|
-|7|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|8|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|9|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|10|191.52.236.39|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|11|103.148.93.106|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|12|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|139.159.97.82|10900|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|5|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|6|183.136.139.34|1999|China|Ningbo|China Telecom|
+|7|125.87.82.210|2324|China|Chongqing|China Telecom|
+|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|9|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|10|72.10.164.178|1463|Canada|Montreal|GloboTech Communications|
+|11|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|12|38.41.4.136|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|13|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|149.19.175.243|8081|Brazil|Sao Paulo|SpaceX Starlink|
+|15|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|16|27.189.129.166|8089|China|Langfang|Chinanet|
+|17|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
+|18|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|19|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|20|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
 
 
 
