@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.163.80.70|8090|Indonesia|Ngawi|PT Data Arta Sedaya|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|118.113.244.187|2324|China|Shanghai|Chinanet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|118.113.244.157|2324|China|Shanghai|Chinanet|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|72.10.160.93|30865|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.171.240.82|1000|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|82.213.29.203|18000|Palestine|Ramallah|Corporate -PALTEL|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|118.113.244.157|2324|China|Shanghai|Chinanet|
+|16|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|67.43.236.18|32937|Canada|Montreal|GloboTech Communications|
+|19|118.113.244.157|2324|China|Shanghai|Chinanet|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
