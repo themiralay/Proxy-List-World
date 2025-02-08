@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|4|36.68.33.217|80|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|5|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|36.68.33.217|80|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|3|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.245.36.15|8090|Indonesia|Kenali Asam|PT Mitra Bestari Prima Solusi|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|205.235.1.27|999|Ecuador|Gima|Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.|
-|16|103.245.36.15|8090|Indonesia|Kenali Asam|PT Mitra Bestari Prima Solusi|
-|17|1.2.176.104|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|121.227.180.134|8089|China|Nanjing|China Telecom|
-|19|67.43.236.18|21441|Canada|Montreal|GloboTech Communications|
-|20|190.119.76.150|8080|Peru|Lima region|America Movil Peru S.A.C.|
+|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|12|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|13|94.177.106.127|3128|Romania|Bucharest|ZetServers|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|121.101.131.142|8181|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|16|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|17|204.157.251.234|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
