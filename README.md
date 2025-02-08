@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.127.220.186|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|3|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|4|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|103.169.139.13|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
-|12|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|16|121.232.181.162|8089|China|Nanjing|Chinanet|
-|17|121.227.146.67|8089|China|Nanjing|China Telecom|
-|18|72.10.164.178|18279|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|16339|Canada|Montreal|GloboTech Communications|
-|20|114.224.74.248|8089|China|Wuxi|Chinanet|
+|2|14.178.124.35|32647|Vietnam|Thái Nguyên|VNPT|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|5|117.103.71.77|8715|Indonesia|Malang|NARATEL|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.226.232.197|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|9|72.10.164.178|18279|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|25449|Canada|Montreal|GloboTech Communications|
+|11|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|27.189.132.16|8089|China|Langfang|Chinanet|
+|15|114.80.40.130|3081|China|Shanghai|China Telecom (Group)|
+|16|61.160.247.69|9999|China|Nanjing|China Telecom|
+|17|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|72.10.160.172|30553|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18279|Canada|Montreal|GloboTech Communications|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
