@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|3|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.46.186.58|1515|Indonesia|Jakarta|PT Air Lintas Komunikasi|
-|8|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
-|12|103.144.161.65|8088|Bangladesh|Dhaka|Bismillah Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.133.27.247|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|182.253.38.179|3128|Indonesia|Jakarta|BIZNET|
-|18|118.99.104.108|80|Indonesia|Jakarta|Biznet Networks|
-|19|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|20|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|43.228.92.6|8080|India|Hyderabad|Pioneer Elabs Ltd.|
+|6|103.148.28.218|3125|Indonesia|Palu|DEWATA|
+|7|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|8|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|9|69.167.30.92|8118|United States|San Francisco|Paradise Networks LLC|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|1.55.183.79|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|118.113.246.42|2324|China|Shanghai|Chinanet|
+|14|116.107.203.105|10001|Vietnam|Hanoi|Viettel Corporation|
+|15|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|16|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|18|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|20|72.10.160.170|3645|Canada|Montreal|GloboTech Communications|
 
 
 
