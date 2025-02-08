@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
-|3|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|4|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|49.13.3.4|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|9|67.43.228.252|28475|Canada|Montreal|GloboTech Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|118.113.245.32|2324|China|Shanghai|Chinanet|
-|12|72.10.160.171|19921|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|19921|Canada|Montreal|GloboTech Communications|
-|14|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|3|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|4|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|49.13.3.4|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|12|67.43.228.250|3823|Canada|Montreal|GloboTech Communications|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |15|125.71.134.114|466|China|Chengdu|Chinanet|
-|16|222.119.167.76|3128|South Korea|Jinju|Korea Telecom|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|20|74.208.17.185|3128|United States|Chicago|IONOS SE|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.164.178|25265|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|27403|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|21731|Canada|Montreal|GloboTech Communications|
 
 
 
