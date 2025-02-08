@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|103.147.246.222|8080|Indonesia|Tangerang|PLBNET|
-|6|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
-|7|121.232.178.12|8089|China|Nanjing|Chinanet|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
-|10|27.189.135.54|8089|China|Langfang|Chinanet|
-|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|12|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|13|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|67.43.236.18|6797|Canada|Montreal|GloboTech Communications|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|180.112.180.173|8089|China|Nanjing|Chinanet|
-|18|118.113.244.188|2324|China|Shanghai|Chinanet|
-|19|49.0.33.131|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|20|190.52.100.8|999|Venezuela|Caracas|Gold Data USA Inc|
+|2|203.150.128.41|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|102.209.191.10|8080|South Africa|Sandton|Mavoni Telecoms (Pty) Ltd|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.157.64.22|8080|Indonesia|Utan|PT Graha Anugrah Sejahtera|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|17|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
+|18|58.59.61.200|10991|China|Jinan|Chinanet|
+|19|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
