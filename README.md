@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 |4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|190.211.163.20|999|Chile|San Fernando|INTERNEXA Chile S.A.|
-|10|118.113.244.157|2324|China|Shanghai|Chinanet|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
-|13|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|14|125.87.88.227|2324|China|Chongqing|China Telecom|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|72.10.160.170|22063|Canada|Montreal|GloboTech Communications|
-|17|157.66.50.33|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|18|121.232.181.188|8089|China|Nanjing|Chinanet|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|67.43.228.251|18943|Canada|Montreal|GloboTech Communications|
+|5|103.171.255.189|8080|Indonesia|Sleman|ZKI|
+|6|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|7|45.177.16.131|999|Paraguay|Ciudad del Este|MSW S.A.|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|59.153.98.121|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|13|125.71.134.114|466|China|Chengdu|Chinanet|
+|14|118.113.246.134|2324|China|Shanghai|Chinanet|
+|15|118.113.244.157|2324|China|Shanghai|Chinanet|
+|16|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|17|67.43.236.19|27977|Canada|Montreal|GloboTech Communications|
+|18|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|19|72.10.160.92|17769|Canada|Montreal|GloboTech Communications|
+|20|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
 
 
 
