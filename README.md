@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|45.205.2.64|8088|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|13|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|14|27.189.133.197|8089|China|Langfang|Chinanet|
-|15|67.43.236.18|10123|Canada|Montreal|GloboTech Communications|
-|16|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|17|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
-|18|118.113.247.45|2324|China|Shanghai|Chinanet|
-|19|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
-|20|67.43.228.250|3965|Canada|Montreal|GloboTech Communications|
+|1|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.127.220.222|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|186.96.96.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|45.236.107.159|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|154.0.157.198|8080|Tanzania|Arusha|Habari Node PLC Dar TIX|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|178.212.53.26|41258|Poland|Gmina Świebodzin|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|118.113.247.66|2324|China|Shanghai|Chinanet|
+|15|72.10.160.171|24785|Canada|Montreal|GloboTech Communications|
+|16|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|102.209.148.2|8080|Ghana|Abesim|Sunyani Technical University|
+|18|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
+|19|182.160.114.214|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|67.43.228.250|24087|Canada|Montreal|GloboTech Communications|
 
 
 
