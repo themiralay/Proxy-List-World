@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|49.48.90.68|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|125.87.82.68|2324|China|Chongqing|China Telecom|
-|6|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|7|72.10.160.171|9677|Canada|Montreal|GloboTech Communications|
-|8|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|9|112.209.51.118|8082|Philippines|Cadiz|Philippine Long Distance Telephone Co.|
-|10|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|11|103.129.93.151|8080|Indonesia|Malang|PT. Eka Mas Republik|
-|12|27.189.130.203|8089|China|Langfang|Chinanet|
-|13|72.10.160.170|8097|Canada|Montreal|GloboTech Communications|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
-|18|67.43.236.18|26449|Canada|Montreal|GloboTech Communications|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|2|103.176.96.134|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|3|119.95.185.114|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|4|103.112.144.46|1111|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|5|72.10.160.90|10529|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.226|17777|Canada|Montreal|GloboTech Communications|
+|7|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|8|183.136.139.34|1999|China|Ningbo|China Telecom|
+|9|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|10|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|67.43.236.18|26449|Canada|Montreal|GloboTech Communications|
+|13|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|14|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|125.87.82.68|2324|China|Chongqing|China Telecom|
+|18|188.132.222.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
