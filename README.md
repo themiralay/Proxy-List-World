@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.181.190.221|3128|Canada|Vancouver|Total Server Solutions L.L.C.|
-|2|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|3|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|45.63.8.76|80|United States|Piscataway|The Constant Company|
-|6|103.174.81.10|80|India|Nalgonda|Panduranga Cable & Networks|
+|1|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
+|2|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|175.103.33.126|7777|Indonesia|Jakarta|Maxindo Mintra Solusi|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|9|45.63.8.76|80|United States|Piscataway|The Constant Company|
-|10|67.43.227.226|17725|Canada|Montreal|GloboTech Communications|
-|11|116.107.203.105|10015|Vietnam|Hanoi|Viettel Corporation|
-|12|61.160.247.69|9999|China|Nanjing|China Telecom|
-|13|118.113.246.118|2324|China|Shanghai|Chinanet|
-|14|67.43.227.226|17725|Canada|Montreal|GloboTech Communications|
-|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|125.87.84.206|2324|China|Shanghai|China Telecom|
-|17|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|18|61.174.243.24|9532|China|Yanguan|China Telecom|
-|19|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|20|67.43.228.250|2865|Canada|Montreal|GloboTech Communications|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|195.133.81.188|1080|France|Vélizy-villacoublay|UniversCloud|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|186.148.181.65|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|67.43.227.226|23001|Canada|Montreal|GloboTech Communications|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|67.43.227.227|30039|Canada|Montreal|GloboTech Communications|
+|16|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|18|72.10.160.91|12883|Canada|Montreal|GloboTech Communications|
+|19|118.113.246.118|2324|China|Shanghai|Chinanet|
+|20|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
 
 
 
