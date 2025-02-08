@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|3|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|4|103.82.246.1|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|8|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|9|67.43.227.229|30569|Canada|Montreal|GloboTech Communications|
-|10|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
-|12|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|4|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|5|103.124.137.99|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|116.107.203.105|10019|Vietnam|Hanoi|Viettel Corporation|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |13|72.10.160.170|6465|Canada|Montreal|GloboTech Communications|
-|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|16|67.43.227.226|13485|Canada|Montreal|GloboTech Communications|
-|17|27.74.212.35|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|18|117.44.64.85|655|China|Taohua|Chinanet|
-|19|157.10.88.114|8181|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|20|67.43.228.250|1337|Canada|Montreal|GloboTech Communications|
+|14|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|15|67.43.236.18|16075|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.230|12209|Canada|Montreal|GloboTech Communications|
+|17|185.217.131.28|80|Uzbekistan|Tashkent|Best Internet Solution XK|
+|18|67.43.227.226|13485|Canada|Montreal|GloboTech Communications|
+|19|217.66.215.86|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|20|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
 
 
 
