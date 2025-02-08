@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|2|74.208.17.185|3128|United States|Chicago|IONOS SE|
-|3|74.208.17.185|3128|United States|Chicago|IONOS SE|
-|4|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|203.150.128.41|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|8|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|9|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|27.189.133.80|8089|China|Langfang|Chinanet|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|118.113.245.205|2324|China|Shanghai|Chinanet|
-|14|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
-|15|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|16|27.189.130.206|8089|China|Langfang|Chinanet|
-|17|118.113.245.205|2324|China|Shanghai|Chinanet|
-|18|183.136.139.76|1999|China|Ningbo|China Telecom|
-|19|27.189.132.119|8089|China|Langfang|Chinanet|
-|20|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|180.180.18.252|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
+|3|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|8|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|12|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|13|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|14|167.249.228.19|8080|Brazil|Coromandel|Telecomunicações Netcoro Ltda|
+|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
+|18|183.136.139.34|1999|China|Ningbo|China Telecom|
+|19|183.136.139.76|1999|China|Ningbo|China Telecom|
+|20|118.113.244.234|2324|China|Shanghai|Chinanet|
 
 
 
