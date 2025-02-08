@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|4|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|7|5.190.104.100|8084|Iran|Shiraz|Iran Telecommunication Company PJS|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|10|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|72.10.160.91|2125|Canada|Montreal|GloboTech Communications|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|67.43.236.18|28499|Canada|Montreal|GloboTech Communications|
-|14|138.204.233.189|58080|Brazil|Cabo de Santo Agostinho|Nossarede Telecom LTDA ME|
-|15|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|67.43.236.20|17891|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|9921|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|28499|Canada|Montreal|GloboTech Communications|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|72.10.164.178|20359|Canada|Montreal|GloboTech Communications|
+|1|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|14|106.58.213.177|8008|China|Kunming|Chinanet|
+|15|103.133.25.101|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|16|67.43.227.229|9921|Canada|Montreal|GloboTech Communications|
+|17|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|116.172.92.16|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
 
 
 
