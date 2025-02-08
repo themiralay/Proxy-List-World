@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|103.36.11.21|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|7|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|2|24.53.40.150|80|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.171.255.189|8080|Indonesia|Sleman|ZKI|
+|5|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
+|6|103.106.34.49|4995|Bangladesh|Nārāyanganj|ProgotiIT|
+|7|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
 |8|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|10|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|154.73.28.157|8080|Libya|Tripoli|Rawafed|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|160.22.195.228|8080|Indonesia|Muarauya|PT Aiira Media Solution|
-|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|20|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|45.160.179.15|80|Brazil|Santana do Araguaia|P.A THOMAZ MARCELINO & CIA EPP LTDA|
+|11|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|154.73.28.157|8080|Libya|Tripoli|Rawafed|
+|13|61.160.247.69|9999|China|Nanjing|China Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|17|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|18|103.63.26.78|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
