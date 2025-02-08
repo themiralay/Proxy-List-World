@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|5|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.154.230.84|8080|Indonesia|Lamongan|DIGITNET|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|49.70.190.201|2324|China|Zhenjiang|Chinanet|
-|13|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
-|14|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|72.10.164.178|11115|Canada|Montreal|GloboTech Communications|
-|17|121.232.178.13|8089|China|Nanjing|Chinanet|
-|18|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|67.43.227.226|3473|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|3473|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.155.198.128|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|5|194.87.82.165|1080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|106.58.218.165|8008|China|Kunming|Chinanet|
+|13|36.95.142.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|14|95.216.3.236|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|20|67.43.227.226|27019|Canada|Montreal|GloboTech Communications|
 
 
 
