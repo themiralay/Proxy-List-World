@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4526** proxies at the latest update. Usable proxies are below.
+> Scraper found **4826** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|554|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|488|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|4|72.10.160.170|25775|Canada|Montreal|GloboTech Communications|
-|5|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|118.113.244.204|2324|China|Shanghai|Chinanet|
-|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|118.113.244.149|2324|China|Shanghai|Chinanet|
-|11|121.227.118.186|8089|China|Nanjing|China Telecom|
-|12|49.70.190.119|2324|China|Zhenjiang|Chinanet|
-|13|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
-|14|72.10.160.171|21839|Canada|Montreal|GloboTech Communications|
-|15|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|16|111.34.87.64|80|China|Jinan|China Mobile communications corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|103.162.54.121|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|139.9.62.87|8080|China|Guangzhou|Huawei Cloud Service data center|
+|11|103.134.246.71|1111|Indonesia|Tabanan|Wisuandha Network Globalindo|
+|12|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|13|164.70.116.191|3128|Japan|Chiyoda|InfoSphere|
+|14|3.91.233.113|8118|United States|Ashburn|Amazon Technologies Inc.|
+|15|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|18|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|19|72.10.160.170|25775|Canada|Montreal|GloboTech Communications|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
