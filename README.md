@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
-|2|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|8|160.22.22.157|8080|Indonesia|Ciampea|PT Sarana Digital Network|
-|9|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|118.113.244.188|2324|China|Shanghai|Chinanet|
-|16|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|61.160.247.69|9999|China|Nanjing|China Telecom|
+|3|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|103.213.218.83|26841|Vietnam|Haiphong|V9ERP|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|8|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|103.60.173.2|96|Bangladesh|Dhaka|Mazeda Networks Limited|
+|11|94.185.122.254|8880|Italy|Forlì|ZAL NETWORK|
+|12|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|190.94.213.131|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.160.15.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 |17|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.228.253|27589|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|27855|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|27855|Canada|Montreal|GloboTech Communications|
+|19|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
