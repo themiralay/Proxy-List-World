@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4579** proxies at the latest update. Usable proxies are below.
+> Scraper found **4548** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2696|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|110.139.21.204|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|3|222.127.71.148|8082|Philippines|Lahug|INNOVE|
-|4|109.94.228.82|3128|Serbia|Belgrade|TELEKOM SRBIJA a.d|
-|5|103.215.80.48|8888|Hong Kong|San Po Kong|Cloudie Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|181.78.107.139|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|10|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|11|124.122.114.85|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|15|125.87.92.132|2324|China|Chongqing|China Telecom|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|72.10.160.173|20161|Canada|Montreal|GloboTech Communications|
-|18|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|19|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|20|67.43.227.226|29381|Canada|Montreal|GloboTech Communications|
+|2|124.122.114.85|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|121.232.181.164|8089|China|Nanjing|Chinanet|
+|5|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|6|103.215.80.48|8888|Hong Kong|San Po Kong|Cloudie Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.187.165.6|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|9|118.113.247.201|2324|China|Shanghai|Chinanet|
+|10|110.139.21.204|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|67.43.227.229|18003|Canada|Montreal|GloboTech Communications|
+|13|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|14|121.227.118.166|8089|China|Nanjing|China Telecom|
+|15|67.43.227.226|24047|Canada|Montreal|GloboTech Communications|
+|16|207.174.202.218|8080|United States|Kingsland|432 INTERNET, LLC|
+|17|118.113.247.239|2324|China|Shanghai|Chinanet|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|67.43.227.228|19163|Canada|Montreal|GloboTech Communications|
+|20|112.209.51.118|8082|Philippines|Cadiz|Philippine Long Distance Telephone Co.|
 
 
 
