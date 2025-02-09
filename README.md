@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|3|109.207.33.210|8080|Serbia|Kraljevo|TRUF d.o.o|
 |4|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|157.66.16.36|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|118.113.246.201|2324|China|Shanghai|Chinanet|
-|11|109.207.33.210|8080|Serbia|Kraljevo|TRUF d.o.o|
-|12|78.189.12.176|19053|Türkiye|Istanbul|TTNet A.S.|
-|13|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|67.43.227.230|19633|Canada|Montreal|GloboTech Communications|
-|17|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
-|18|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|19|113.45.57.16|8085|China|Guangzhou|Huawei Cloud Service data center|
-|20|180.94.80.18|8080|Afghanistan|Kabul|Government Communications Network|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|103.251.8.255|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|113.11.183.15|8082|Indonesia|Bandung|BIZNET|
+|10|116.105.61.40|10000|Vietnam|Hanoi|Viettel Corporation|
+|11|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|111.75.189.3|655|China|Taohua|Chinanet|
+|19|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|20|111.72.196.68|2324|China|Taohua|Chinanet|
 
 
 
