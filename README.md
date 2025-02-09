@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|37.53.79.237|3128|Ukraine|Dnipro|UKRTELECOM|
-|4|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|7|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|72.10.164.178|20707|Canada|Montreal|GloboTech Communications|
-|10|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|11|180.105.244.215|1080|China|Nanjing|Chinanet|
-|12|121.227.109.43|8089|China|Nanjing|China Telecom|
-|13|114.218.167.30|8089|China|Nanjing|China Telecom|
-|14|121.227.178.107|8089|China|Nanjing|China Telecom|
-|15|180.125.186.137|1080|China|Nanjing|Chinanet|
-|16|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|17|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|18|180.112.181.68|8089|China|Nanjing|Chinanet|
-|19|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|20|67.43.227.226|15853|Canada|Montreal|GloboTech Communications|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|116.107.203.105|10011|Vietnam|Hanoi|Viettel Corporation|
+|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|5|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|6|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|8|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|9|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|10|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|11|222.215.137.26|11527|China|Deyang|Chinanet|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|113.45.57.16|8085|China|Guangzhou|Huawei Cloud Service data center|
+|14|72.10.160.173|5119|Canada|Montreal|GloboTech Communications|
+|15|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
