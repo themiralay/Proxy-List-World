@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.228.243.189|8080|Indonesia|Jakarta|SpaceX Starlink|
-|7|103.183.10.172|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|10|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
-|12|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|179.107.85.2|8180|Brazil|Belém|Pelc Servicos De Informatica|
-|16|67.43.227.227|6525|Canada|Montreal|GloboTech Communications|
-|17|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
-|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.228.250|19579|Canada|Montreal|GloboTech Communications|
-|20|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.133.27.237|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|14|170.78.144.41|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
+|15|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
+|18|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
 
 
 
