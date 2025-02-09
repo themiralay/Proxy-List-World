@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|6|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|7|185.105.88.231|3128|Russia|Moscow|First Server Limited|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|37.60.232.250|3128|Germany|Düsseldorf|Contabo GmbH|
-|10|149.86.142.68|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|11|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|74.129.184.185|3128|United States|Columbus|Charter Communications|
-|14|190.189.249.108|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|15|74.129.184.185|3128|United States|Columbus|Charter Communications|
-|16|45.184.103.116|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|103.13.204.89|8083|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|19|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|20|58.59.61.200|10991|China|Jinan|Chinanet|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|7|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|8|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
+|9|103.254.106.73|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|10|36.253.18.38|8181|Nepal|Patan|Ncell Pty. Ltd.|
+|11|47.100.223.33|12080|China|Shanghai|Addresses CNNIC|
+|12|118.113.245.140|2324|China|Shanghai|Chinanet|
+|13|180.125.186.146|1080|China|Nanjing|Chinanet|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|121.232.178.12|8089|China|Nanjing|Chinanet|
+|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|116.172.92.16|12701|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|49.84.34.137|8089|China|Nanjing|Chinanet|
 
 
 
