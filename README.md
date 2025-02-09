@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.137.167|80|Indonesia|Jakarta|Google LLC|
-|2|103.174.81.10|80|India|Nalgonda|Panduranga Cable & Networks|
-|3|193.106.175.101|3128|Russia|Moscow|IQHost Ltd|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|103.179.182.212|1080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|10|171.244.129.3|3128|Vietnam|Hanoi|VIETEL|
-|11|207.180.248.212|3128|France|Lauterbourg|Contabo GmbH|
-|12|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|13|103.215.229.233|8899|Indonesia|Surabaya|Herza Cloud|
-|14|72.10.160.170|5791|Canada|Montreal|GloboTech Communications|
-|15|103.174.81.10|80|India|Nalgonda|Panduranga Cable & Networks|
-|16|36.92.107.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
-|19|185.133.36.103|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|20|27.189.130.88|8089|China|Langfang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|49.145.182.147|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|9|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|58.136.170.198|8080|Thailand|Bangkok|AIS-Fibre|
+|11|49.70.190.203|2324|China|Zhenjiang|Chinanet|
+|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|13|72.10.160.170|5791|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|16|118.113.247.29|2324|China|Shanghai|Chinanet|
+|17|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
+|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|122.54.193.69|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|20|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 
 
 
