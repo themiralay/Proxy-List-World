@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|4|194.163.187.170|3128|Germany|Düsseldorf|Contabo GmbH|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|7|121.101.134.202|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|8|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|9|67.43.236.18|4271|Canada|Montreal|GloboTech Communications|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|13|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|14|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|16|49.70.190.194|2324|China|Zhenjiang|Chinanet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|5|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|7|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|8|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|9|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
+|10|95.31.215.177|8000|Russia|Ulyanovsk|CORBINA-BROADBAND|
+|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|110.136.95.23|8080|Indonesia|Ciamis|PT. TELKOM INDONESIA|
+|14|67.43.236.18|4271|Canada|Montreal|GloboTech Communications|
+|15|122.54.193.69|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|16|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
 |17|147.161.146.13|11035|Norway|Oslo|Zscaler Switzerland GmbH|
-|18|106.225.164.39|655|China|Beijing|China Telecom|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
 
 
 
