@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|4|118.113.244.157|2324|China|Shanghai|Chinanet|
-|5|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|6|81.30.196.146|8080|Russia|Ufa|JSC "Ufanet"|
-|7|67.43.228.253|8643|Canada|Montreal|GloboTech Communications|
-|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|165.225.72.38|10207|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|11|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|72.10.160.172|25363|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|8785|Canada|Montreal|GloboTech Communications|
-|16|116.105.61.40|10013|Vietnam|Hanoi|Viettel Corporation|
-|17|72.10.160.91|21465|Canada|Montreal|GloboTech Communications|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
-|20|27.189.134.111|8089|China|Langfang|Chinanet|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|27.70.135.212|9087|Vietnam|Hanoi|Viettel Group|
+|5|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|6|185.142.131.113|8080|Portugal|Mafra|LigaT Telecom Sociedade Unipessoal LDA|
+|7|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|10|102.22.106.6|8080|Sierra Leone|Freetown|Cajutel (SL) Sarl Limited|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|72.10.164.178|1365|Canada|Montreal|GloboTech Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|118.113.244.108|2324|China|Shanghai|Chinanet|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|118.113.244.157|2324|China|Shanghai|Chinanet|
+|18|67.43.228.253|8643|Canada|Montreal|GloboTech Communications|
+|19|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
