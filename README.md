@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
-|3|109.207.33.210|8080|Serbia|Kraljevo|TRUF d.o.o|
+|2|109.207.33.210|8080|Serbia|Kraljevo|TRUF d.o.o|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|171.6.13.158|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|121.227.118.160|8089|China|Nanjing|China Telecom|
-|9|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|14.39.239.241|53925|South Korea|Eunpyeong-gu|Korea Telecom|
-|13|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|14|114.141.54.75|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|15|72.10.160.170|12043|Canada|Montreal|GloboTech Communications|
-|16|111.72.196.68|2324|China|Taohua|Chinanet|
-|17|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|18|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|19|58.59.61.200|10991|China|Jinan|Chinanet|
-|20|101.109.176.89|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|113.11.183.15|8082|Indonesia|Bandung|BIZNET|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|10|72.10.160.90|13103|Canada|Montreal|GloboTech Communications|
+|11|95.217.123.244|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|16|67.43.228.250|19523|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|30789|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|20667|Canada|Montreal|GloboTech Communications|
+|19|103.81.223.161|8080|Indonesia|Bandung|STARNET|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
