@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|77.90.41.102|3128|Germany|Frankfurt am Main|dataforest GmbH|
 |3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|139.255.33.242|8080|Indonesia|Jakarta|PT. LINKNET|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|9|72.10.160.170|1979|Canada|Montreal|GloboTech Communications|
-|10|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|183.97.65.56|3128|South Korea|Dongducheon-si|Korea Telecom|
+|6|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|67.43.228.251|20201|Canada|Montreal|GloboTech Communications|
-|13|147.161.146.13|11035|Norway|Oslo|Zscaler Switzerland GmbH|
-|14|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
-|15|103.191.58.61|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|16|67.43.227.227|20757|Canada|Montreal|GloboTech Communications|
-|17|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|67.43.236.18|18595|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|20757|Canada|Montreal|GloboTech Communications|
+|12|38.52.157.87|999|Colombia|Bogotá|Giga Fibra SAS|
+|13|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|14|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
+|15|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
+|16|111.75.189.3|655|China|Taohua|Chinanet|
+|17|185.133.36.103|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|18|147.161.146.13|11035|Norway|Oslo|Zscaler Switzerland GmbH|
+|19|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
