@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|160.22.24.83|8080|Indonesia|Kudus|PT Giga Media Internet|
-|6|81.30.196.146|8080|Russia|Ufa|JSC "Ufanet"|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|61.160.247.69|9999|China|Nanjing|China Telecom|
-|16|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|72.10.164.178|1365|Canada|Montreal|GloboTech Communications|
-|18|49.70.190.89|2324|China|Zhenjiang|Chinanet|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|118.113.244.122|2324|China|Shanghai|Chinanet|
+|2|209.97.172.137|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|223.206.88.220|8080|Thailand|Bang Pahan|Triple T Broadband Public Company Limited|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|12|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
+|15|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|16|72.10.160.92|13619|Canada|Montreal|GloboTech Communications|
+|17|106.58.221.83|8008|China|Kunming|Chinanet|
+|18|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
 
 
 
