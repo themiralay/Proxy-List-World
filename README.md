@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|5|36.91.15.241|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|6|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|7|72.10.160.91|32385|Canada|Montreal|GloboTech Communications|
-|8|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.160.90|8891|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|27167|Canada|Montreal|GloboTech Communications|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|67.43.228.251|27167|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|30443|Canada|Montreal|GloboTech Communications|
-|15|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
-|16|72.10.160.92|27959|Canada|Montreal|GloboTech Communications|
-|17|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|18|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|19|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|20|67.43.236.19|13809|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|103.105.57.92|8080|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|116.107.203.105|10019|Vietnam|Hanoi|Viettel Corporation|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|11|165.225.72.38|10960|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|12|72.10.160.91|26825|Canada|Montreal|GloboTech Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|16|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|17|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|18|67.43.236.20|18535|Canada|Montreal|GloboTech Communications|
+|19|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|20|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
 
 
 
