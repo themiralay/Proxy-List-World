@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|103.88.90.18|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|103.189.197.117|3125|Indonesia|Serang|PT Graha Sumber Teknologi|
-|13|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|72.10.160.91|33037|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|4693|Canada|Montreal|GloboTech Communications|
-|16|114.224.74.225|8089|China|Wuxi|Chinanet|
-|17|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|18|125.71.204.238|9788|China|Chengdu|Chinanet|
-|19|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|20|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|1|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|4|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|67.43.236.18|4693|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|33037|Canada|Montreal|GloboTech Communications|
+|12|125.71.204.238|9788|China|Chengdu|Chinanet|
+|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|14|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|15|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|16|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|17|181.129.250.43|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|222.215.137.26|11527|China|Deyang|Chinanet|
 
 
 
