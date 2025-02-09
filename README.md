@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4593** proxies at the latest update. Usable proxies are below.
+> Scraper found **4678** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|21|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|650|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|430|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2651|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.208|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|103.165.157.246|1080|Indonesia|Banyumas|MEGADATA-ISP|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|49.84.34.137|8089|China|Nanjing|Chinanet|
-|9|213.14.175.93|19053|Türkiye|Istanbul|SOL-DSL|
-|10|179.1.95.213|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|15|157.66.2.153|1111|Indonesia|Jagabaya Dua|PT Ashyla Karya Abadi|
-|16|113.45.57.16|8085|China|Guangzhou|Huawei Cloud Service data center|
-|17|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|114.225.152.243|8089|China|Changzhou|Chinanet|
-|19|72.10.160.92|28923|Canada|Montreal|GloboTech Communications|
-|20|49.70.190.245|2324|China|Zhenjiang|Chinanet|
+|2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|180.254.148.191|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
+|12|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|13|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|15|103.180.122.116|9090|Indonesia|Kroya|PT Indo Telemedia Solusi|
+|16|72.10.160.92|3593|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|11649|Canada|Montreal|GloboTech Communications|
+|18|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|19|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|20|122.154.75.204|8080|Thailand|Samut Songkhram|CAT Telecom Public Company Limited|
 
 
 
