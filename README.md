@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|4|222.215.137.26|11527|China|Deyang|Chinanet|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
-|7|116.105.61.40|10006|Vietnam|Hanoi|Viettel Corporation|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|7|65.1.244.232|80|India|Mumbai|Amazon.com|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|67.43.236.18|8161|Canada|Montreal|GloboTech Communications|
-|10|188.136.142.81|7060|Iran|Tehran|Ariana Gostar Spadana|
-|11|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|12|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
-|13|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|14|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|193.105.123.195|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|9|209.97.172.137|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|65.182.3.154|8080|Honduras|Tegucigalpa|Amnet US LLC|
+|11|222.215.137.26|11527|China|Deyang|Chinanet|
+|12|116.105.61.40|10006|Vietnam|Hanoi|Viettel Corporation|
+|13|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|14|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|15|67.43.236.18|8161|Canada|Montreal|GloboTech Communications|
+|16|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
 |17|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|116.105.61.40|10006|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.160.90|15289|Canada|Montreal|GloboTech Communications|
-|20|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|72.10.160.90|20957|Canada|Montreal|GloboTech Communications|
+|20|180.191.14.66|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
