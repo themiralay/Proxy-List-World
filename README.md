@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|7|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|68.168.31.157|3128|United Kingdom|London|GTHost|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|12|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
-|13|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|15|165.16.97.245|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|118.113.245.23|2324|China|Shanghai|Chinanet|
+|20|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
 
 
 
