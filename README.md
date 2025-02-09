@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|201.159.99.37|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
-|5|118.113.245.86|2324|China|Shanghai|Chinanet|
-|6|182.53.22.211|8080|Thailand|Si Racha|TOT Public Company Limited|
-|7|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|101.109.176.89|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|49.70.190.245|2324|China|Zhenjiang|Chinanet|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|8|113.45.57.16|8085|China|Guangzhou|Huawei Cloud Service data center|
+|9|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.228.251|2399|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.254|26949|Canada|Montreal|GloboTech Communications|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|72.10.160.92|3709|Canada|Montreal|GloboTech Communications|
-|15|118.113.246.223|2324|China|Shanghai|Chinanet|
-|16|38.56.23.109|8080|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|17|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|18|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|19|72.10.160.173|7695|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|6091|Canada|Montreal|GloboTech Communications|
+|11|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|12|171.4.17.219|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|14|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|72.10.160.173|20161|Canada|Montreal|GloboTech Communications|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|59.39.226.120|2324|China|Guangzhou|Chinanet|
+|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|20|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
 
 
 
