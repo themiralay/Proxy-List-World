@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|8|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|9|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|10|83.229.73.113|13554|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|11|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|103.80.88.77|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
-|14|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|15|103.167.114.208|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
-|16|72.10.160.91|9009|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|23067|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|116.107.203.105|10015|Vietnam|Hanoi|Viettel Corporation|
+|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|171.7.21.41|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|11|103.162.54.243|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
+|12|107.172.89.110|49268|United States|Santa Clara|HostPapa|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|38.7.0.40|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|15|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.179.46.49|6789|India|Thāne|Jeebr Cloud Solution PVT LTD|
+|18|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|19|107.172.89.110|49268|United States|Santa Clara|HostPapa|
 |20|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
 
 
