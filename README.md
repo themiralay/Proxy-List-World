@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|103.214.103.22|8083|Indonesia|Batam|SMARTPLUS|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
-|9|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|223.206.115.57|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|15|188.125.169.82|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|223.205.203.91|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
-|17|67.43.227.226|22315|Canada|Montreal|GloboTech Communications|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|117.90.195.28|8089|China|Zhenjiang|Chinanet|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|8|185.231.183.41|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|49.48.43.105|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|89.104.102.209|58080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
