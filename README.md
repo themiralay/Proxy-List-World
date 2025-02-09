@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|4|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|5|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|67.43.227.226|14957|Canada|Montreal|GloboTech Communications|
-|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|12|72.10.160.171|6635|Canada|Montreal|GloboTech Communications|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|15|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|16|27.189.135.214|8089|China|Langfang|Chinanet|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|67.43.228.250|23659|Canada|Montreal|GloboTech Communications|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|67.43.227.226|14957|Canada|Montreal|GloboTech Communications|
+|2|203.150.113.150|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|8|38.49.144.250|999|Mexico|Tecozautla|Ientc S De RL De CV|
+|9|38.51.236.20|999|Venezuela|Cabimas|Colnetwork C.A.|
+|10|103.228.243.189|8080|Indonesia|Jakarta|SpaceX Starlink|
+|11|103.160.202.125|89|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|12|111.132.16.6|3389|China|Beijing|China TieTong Telecommunications Corporation|
+|13|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|14|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|67.43.227.226|31441|Canada|Montreal|GloboTech Communications|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|119.147.8.252|4129|China|Guangzhou|Chinanet|
 
 
 
