@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.7.1.250|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|5|72.10.160.90|27233|Canada|Montreal|GloboTech Communications|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|103.243.82.26|100|Bangladesh|Cox's Bazar|Aamra Outsourcing Ltd.|
-|8|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|9|116.105.61.40|10011|Vietnam|Hanoi|Viettel Corporation|
-|10|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
-|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|103.86.116.67|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|15|72.10.160.90|27233|Canada|Montreal|GloboTech Communications|
-|16|116.105.61.40|10011|Vietnam|Hanoi|Viettel Corporation|
-|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|18|116.105.61.40|10011|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.160.92|25257|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|17607|Canada|Montreal|GloboTech Communications|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|157.20.238.247|8080|Indonesia|Buduran|PT Era Network Indonesia|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|187.87.206.102|3128|Brazil|Salvador|Screen Saver Informática LTDA|
+|7|103.18.77.67|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|8|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|9|103.76.109.98|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|10|72.10.160.90|26025|Canada|Montreal|GloboTech Communications|
+|11|149.14.76.99|8080|Mexico|Fuentes del Valle|Cogent Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|15|72.10.160.90|26025|Canada|Montreal|GloboTech Communications|
+|16|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|116.107.203.105|10004|Vietnam|Hanoi|Viettel Corporation|
+|19|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|20|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 
 
 
