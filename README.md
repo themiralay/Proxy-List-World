@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
-|4|170.79.182.150|999|Argentina|Mendoza|Techtron Argentina S.A.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|101.109.97.166|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|9|1.4.250.21|8080|Thailand|Laem Ngop|TOT Public Company Limited|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
-|12|203.175.102.80|8080|Indonesia|Sukasari|PT. Mitra Kita Brilian|
-|13|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|16|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|17|202.137.8.147|8080|Indonesia|Tangerang|LINKNET|
-|18|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|131.72.89.53|9500|Brazil|Jesuítas|MR Telecom|
+|9|49.48.121.129|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|15|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|18|202.154.18.168|8088|Indonesia|Bojonegoro|DIGITNET|
 |19|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|20|67.43.227.230|9331|Canada|Montreal|GloboTech Communications|
+|20|193.95.53.129|3128|Tunisia|Tunis|3S INF|
 
 
 
