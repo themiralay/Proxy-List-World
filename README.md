@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |3|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 |4|118.70.178.55|8888|Vietnam|Hanoi|FPT Telecom Company|
-|5|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|37.78.64.169|3128|Russia|Krasnodar|PAO Rostelecom|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
-|11|159.223.61.184|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.105.61.40|10013|Vietnam|Hanoi|Viettel Corporation|
-|13|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|14|49.0.1.157|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|118.113.246.216|2324|China|Shanghai|Chinanet|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|95.181.160.188|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|67.43.228.250|4483|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|20093|Canada|Montreal|GloboTech Communications|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
+|7|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|118.113.245.170|2324|China|Shanghai|Chinanet|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|103.106.180.97|83|India|Amalāpuram|Inet Fiber India Private Limited|
+|15|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|67.43.228.250|20381|Canada|Montreal|GloboTech Communications|
+|18|36.129.129.215|9000|China|Shenyang|China Mobile Communications Corporation|
+|19|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
+|20|116.105.61.40|10014|Vietnam|Hanoi|Viettel Corporation|
 
 
 
