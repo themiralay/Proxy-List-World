@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|190.61.44.132|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|7|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|11|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|14|118.113.246.255|2324|China|Shanghai|Chinanet|
-|15|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|16|67.43.228.253|27321|Canada|Montreal|GloboTech Communications|
-|17|188.227.206.178|65432|The Netherlands|Eindhoven|EK-Media B.V.|
-|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|72.10.160.170|16791|Canada|Montreal|GloboTech Communications|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|58.136.170.198|8080|Thailand|Bangkok|AIS-Fibre|
+|5|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|6|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
+|11|200.205.60.2|8080|Brazil|São Paulo|Vivo|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|103.184.180.21|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|15|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|16|111.75.190.5|655|China|Taohua|Chinanet|
+|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|19|67.43.228.252|30391|Canada|Montreal|GloboTech Communications|
+|20|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 
 
 
