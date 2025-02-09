@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|183.97.65.56|3128|South Korea|Dongducheon-si|Korea Telecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|77.90.41.102|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|9|186.148.180.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|16|59.39.226.118|2324|China|Guangzhou|Chinanet|
-|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|20|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|6|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|181.198.120.212|999|Ecuador|Gonzanamá|Telconet S.A|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|16|191.240.142.99|5128|Brazil|Tapiramutá|OGS INFORMATICA LTDA - ME|
+|17|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|18|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|19|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|20|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
