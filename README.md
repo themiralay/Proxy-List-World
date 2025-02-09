@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|7|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|67.43.228.253|27747|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|4705|Canada|Montreal|GloboTech Communications|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|67.43.227.226|1727|Canada|Montreal|GloboTech Communications|
-|13|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
-|14|72.10.160.90|4705|Canada|Montreal|GloboTech Communications|
-|15|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|16|72.10.164.178|26951|Canada|Montreal|GloboTech Communications|
-|17|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
-|18|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|19|222.215.137.26|11527|China|Deyang|Chinanet|
-|20|27.189.135.188|8089|China|Langfang|Chinanet|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|6|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|7|103.156.16.245|8080|Indonesia|Jatibarang|RSTNET|
+|8|181.129.158.133|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|11|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|14|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|147.161.146.15|10002|Norway|Oslo|Zscaler Switzerland GmbH|
+|17|72.10.160.90|5045|Canada|Montreal|GloboTech Communications|
+|18|94.185.122.254|8880|Italy|Forlì|ZAL NETWORK|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|67.43.228.254|17687|Canada|Montreal|GloboTech Communications|
 
 
 
