@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|95.217.123.244|443|Finland|Helsinki|Hetzner Online GmbH|
-|6|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|8|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
 |10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|36.88.148.139|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|121.227.118.171|8089|China|Nanjing|China Telecom|
-|16|67.43.236.18|18913|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|72.10.160.91|30231|Canada|Montreal|GloboTech Communications|
+|16|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|17|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|18|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|19|78.189.12.176|19053|Türkiye|Istanbul|TTNet A.S.|
+|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
