@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.194.46.34|8080|Indonesia|Nagara Tengah|JABNET|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
-|6|49.48.51.32|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|38.156.238.67|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|183.136.139.76|1999|China|Ningbo|China Telecom|
-|14|67.43.227.226|30031|Canada|Montreal|GloboTech Communications|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|17|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|18|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|19|72.10.160.173|13735|Canada|Montreal|GloboTech Communications|
-|20|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|1|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
+|2|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|182.253.10.20|8080|Indonesia|Jakarta|BIZNET|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|10|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|13|178.178.100.188|8080|Russia|Moscow|PJSC MegaFon|
+|14|112.207.130.214|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|103.194.46.34|8080|Indonesia|Nagara Tengah|JABNET|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|19|67.43.227.226|30031|Canada|Montreal|GloboTech Communications|
+|20|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
