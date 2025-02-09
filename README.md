@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|116.105.61.40|10015|Vietnam|Hanoi|Viettel Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
-|11|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|165.225.72.38|11747|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|14|116.107.203.105|10019|Vietnam|Hanoi|Viettel Corporation|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|165.225.72.38|11747|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|103.250.128.2|8082|Indonesia|Utan|PT Asri Global Investama|
-|19|165.225.72.38|11747|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|4|103.144.18.91|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|188.136.142.81|7060|Iran|Tehran|Ariana Gostar Spadana|
+|13|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
+|14|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|15|157.15.139.132|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|116.105.61.40|10006|Vietnam|Hanoi|Viettel Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|103.220.23.113|2080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|20|201.230.137.101|8080|Peru|Lima|Telefonica del Peru|
 
 
 
