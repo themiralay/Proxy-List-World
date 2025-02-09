@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|2|103.191.59.246|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.162.16.115|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|8|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|103.228.119.77|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|45.114.144.156|32650|India|Jaipur|Tejays Dynamic Limited|
-|12|177.136.12.160|55443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|13|157.66.16.36|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|15|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
-|16|59.63.205.36|655|China|Taohua|Chinanet|
-|17|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|18|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|2|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|9|103.171.245.165|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|10|200.24.139.47|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|103.189.110.52|3125|Indonesia|Bandung|PT Pratama Komunika Sejahtera|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|190.97.243.20|999|Venezuela|Punto Fijo|Viginet C.A|
+|15|111.75.189.3|655|China|Taohua|Chinanet|
+|16|58.23.152.29|7080|China|Xiamen|CNCGroup CHINA169 FuJian province network|
+|17|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
+|18|121.232.178.12|8089|China|Nanjing|Chinanet|
+|19|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
