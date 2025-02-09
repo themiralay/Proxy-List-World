@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|2|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
-|3|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|4|124.158.146.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|5|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
-|6|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|4.156.154.148|3128|United States|Boydton|Microsoft Corporation|
-|10|157.66.16.36|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|196.216.133.237|8865|South Africa|Schweizer-Reneke|HERO TELECOMS (PTY) LTD|
-|14|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|61.160.247.69|9999|China|Nanjing|China Telecom|
-|17|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|20|222.215.137.26|11527|China|Deyang|Chinanet|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|103.163.227.178|8080|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
+|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|36.67.105.109|8581|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|9|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|10|223.25.110.41|8085|Indonesia|Surabaya|SinergiNet|
+|11|61.160.247.69|9999|China|Nanjing|China Telecom|
+|12|61.160.247.69|9999|China|Nanjing|China Telecom|
+|13|161.49.84.142|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|14|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|218.87.232.108|655|China|Nanchangshi|Chinanet|
+|20|157.20.253.28|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
 
 
 
