@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|2|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|3|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|4|103.179.182.212|1080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|7|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|194.124.37.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|157.230.215.88|8888|United States|North Bergen|DigitalOcean, LLC|
-|15|72.10.160.90|17929|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|13541|Canada|Montreal|GloboTech Communications|
-|17|147.161.146.13|11035|Norway|Oslo|Zscaler Switzerland GmbH|
-|18|67.43.236.19|13655|Canada|Montreal|GloboTech Communications|
-|19|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|10|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|116.107.203.105|10004|Vietnam|Hanoi|Viettel Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|103.127.220.62|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|17|86.98.139.208|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|18|103.133.61.161|8181|Indonesia|Pringsewu|TLINK|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|120.55.101.33|10080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
 
 
 
