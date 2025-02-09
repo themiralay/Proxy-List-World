@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.169.138.23|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
+|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
-|8|103.227.187.1|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|11|79.106.231.17|8080|Albania|Lushnjë|ONE ALBANIA SH.A.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|103.163.227.178|8080|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
-|17|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|18|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|41.111.167.61|80|Algeria|Kouba|Algerie Telecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|182.52.47.91|8080|Thailand|Bang Kruai|TOT Public Company Limited|
+|12|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|13|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|14|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|15|118.113.244.251|2324|China|Shanghai|Chinanet|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|18|118.113.247.239|2324|China|Shanghai|Chinanet|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
