@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.111.92.254|8080|Indonesia|Gubengairlangga|PT Mitra Lintas Multimedia|
-|8|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|38.156.238.67|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|11|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
-|12|72.10.160.92|9775|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.230|30601|Canada|Montreal|GloboTech Communications|
-|14|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|15|49.74.145.131|5200|China|Nanjing|Chinanet|
-|16|94.74.131.191|8080|Iran|Shiraz|Farahoosh Dena PLC|
-|17|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|18|72.10.160.92|9775|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|1163|Canada|Montreal|GloboTech Communications|
-|20|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|154.222.28.11|3128|Hong Kong|Hong Kong|I LAYER LIMITED|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.111.92.254|8080|Indonesia|Gubengairlangga|PT Mitra Lintas Multimedia|
+|9|94.74.131.191|8080|Iran|Shiraz|Farahoosh Dena PLC|
+|10|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|13|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.82.246.1|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|18|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|101.71.157.214|8882|China|Hangzhou|China Unicom Zhejiang Province Network|
+|20|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
 
 
 
