@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|203.150.128.253|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|8|77.90.41.102|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|9|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|10|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|13|121.227.118.136|8089|China|Nanjing|China Telecom|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.160.94|22607|Canada|Montreal|GloboTech Communications|
-|16|180.254.148.60|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
-|17|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|18|67.43.227.230|6271|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15997|Canada|Montreal|GloboTech Communications|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|5|203.150.128.253|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|16|72.10.160.94|2585|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|24625|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|16367|Canada|Montreal|GloboTech Communications|
+|19|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
 
 
 
