@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|103.169.139.13|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|198.145.118.87|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|7|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.243.238.188|21360|Bangladesh|Dhaka|Circle Network|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|72.10.160.93|15715|Canada|Montreal|GloboTech Communications|
-|12|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|38.96.254.34|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|17|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|72.10.164.178|26951|Canada|Montreal|GloboTech Communications|
-|20|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|103.75.84.181|7788|Indonesia|Klaten|MEGADATA|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|9|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|10|103.156.16.245|8080|Indonesia|Jatibarang|RSTNET|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|13|186.121.234.93|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|15|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|16|111.75.189.3|655|China|Taohua|Chinanet|
+|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|72.10.164.178|9895|Canada|Montreal|GloboTech Communications|
+|20|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
 
