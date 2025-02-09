@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4655** proxies at the latest update. Usable proxies are below.
+> Scraper found **4256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|503|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|565|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2730|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2569|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|203.150.128.253|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|16|72.10.160.94|2585|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|24625|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|16367|Canada|Montreal|GloboTech Communications|
-|19|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|77.90.41.102|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|5|103.76.151.114|8080|Indonesia|Karangsono|PT. Java Digital Nusantara|
+|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|104.129.194.45|11065|United States|Reston|ZSCALER, INC.|
+|11|104.129.194.45|11065|United States|Reston|ZSCALER, INC.|
+|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|13|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|121.227.178.94|8089|China|Nanjing|China Telecom|
+|20|118.113.246.134|2324|China|Shanghai|Chinanet|
 
 
 
