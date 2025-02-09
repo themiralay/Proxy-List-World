@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|41.254.63.18|8080|Libya|Tripoli|LTT Network Backbone and POPs|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
-|10|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|11|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|12|179.49.237.12|999|Chile|Santiago|Sitelco SPA|
-|13|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|14|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|103.151.226.148|8080|Indonesia|Bandung|URBANACCESS|
-|16|202.131.159.222|80|India|Bengaluru|Karuturi Telecom Pvt Ltd|
-|17|88.198.121.95|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|18|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|19|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|11|103.163.227.178|8080|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
+|12|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|15|45.239.48.66|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|17|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|18|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|19|116.68.162.18|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
