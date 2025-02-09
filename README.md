@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|113.11.183.30|8181|Indonesia|Bandung|BIZNET|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|38.45.43.6|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|9|104.129.194.45|11733|United States|Reston|ZSCALER, INC.|
-|10|67.43.236.18|2579|Canada|Montreal|GloboTech Communications|
-|11|104.129.194.45|11733|United States|Reston|ZSCALER, INC.|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|13|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
-|14|27.189.129.156|8089|China|Langfang|Chinanet|
-|15|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|16|49.70.190.83|2324|China|Zhenjiang|Chinanet|
-|17|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|18|67.43.236.19|8141|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|2179|Canada|Montreal|GloboTech Communications|
-|20|114.231.75.96|1080|China|Nanjing|Chinanet|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|4|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|36.129.129.215|9000|China|Shenyang|China Mobile Communications Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|8|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
+|12|111.75.189.3|655|China|Taohua|Chinanet|
+|13|118.113.245.170|2324|China|Shanghai|Chinanet|
+|14|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|15|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|17|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
