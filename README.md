@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|154.222.28.11|3128|Hong Kong|Hong Kong|I LAYER LIMITED|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|121.227.109.54|8089|China|Nanjing|China Telecom|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|27.70.135.212|9057|Vietnam|Hanoi|Viettel Group|
-|13|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|14|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
-|15|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|16|119.95.123.229|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|67.43.227.226|12619|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|3497|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|38.183.146.157|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|3|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|4|223.206.198.72|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|5|223.206.125.197|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|6|160.22.24.83|8080|Indonesia|Kudus|PT Giga Media Internet|
+|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|200.6.179.53|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|12|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|13|117.102.75.210|8081|Indonesia|Jakarta|Biznet Networks|
+|14|94.74.131.191|8080|Iran|Shiraz|Farahoosh Dena PLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|217.24.162.52|8080|Ukraine|Dnipro|PrJSC "VF UKRAINE"|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|183.136.139.34|1999|China|Ningbo|China Telecom|
+|19|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|58.59.61.200|10991|China|Jinan|Chinanet|
 
 
 
