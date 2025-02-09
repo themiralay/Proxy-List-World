@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
 |2|209.97.172.137|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.40.8.14|8888|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|188.136.142.81|7060|Iran|Tehran|Ariana Gostar Spadana|
-|7|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
-|8|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|9|67.220.66.158|3128|Spain|Madrid|GTHost|
-|10|121.146.251.63|3128|South Korea|Jinju|Korea Telecom|
-|11|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|12|67.43.227.226|14265|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.164.178|12811|Canada|Montreal|GloboTech Communications|
-|15|125.87.89.201|2324|China|Chongqing|China Telecom|
-|16|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
-|17|67.43.236.18|2425|Canada|Montreal|GloboTech Communications|
-|18|116.105.61.40|10014|Vietnam|Hanoi|Viettel Corporation|
-|19|118.113.245.14|2324|China|Shanghai|Chinanet|
-|20|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
+|3|27.70.135.212|9057|Vietnam|Hanoi|Viettel Group|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|103.40.8.14|8888|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|6|157.15.166.74|8090|Indonesia|Metro|PT Kartika Siger Network|
+|7|223.205.20.118|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|49.70.190.194|2324|China|Zhenjiang|Chinanet|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|17|103.184.62.10|8099|Indonesia|Bajo|PT NKNET Data Media|
+|18|125.71.134.114|466|China|Chengdu|Chinanet|
+|19|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
 
 
 
