@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.223.61.184|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
-|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
+|3|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.156.15.114|3127|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|11|43.252.236.234|8080|Indonesia|Tangerang|NET|
-|12|116.105.61.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|14.178.124.51|12772|Vietnam|Thái Nguyên|VNPT|
-|14|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|103.130.116.39|8090|Indonesia|Sembung|Lintas Data Prima, PT|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
-|19|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
-|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|185.35.130.23|60982|Russia|Moscow|Plazmatelekom LLC|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|118.70.125.169|8888|Vietnam|Hanoi|FPT Telecom Company|
+|13|118.113.245.205|2324|China|Shanghai|Chinanet|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|58.59.61.200|10991|China|Jinan|Chinanet|
+|17|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|18|72.10.160.91|12667|Canada|Montreal|GloboTech Communications|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|118.113.245.32|2324|China|Shanghai|Chinanet|
 
 
 
