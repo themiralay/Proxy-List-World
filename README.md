@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|103.191.58.61|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|117.3.253.31|9050|Vietnam|Kon Tum|VIETTEL|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|16|222.215.137.26|11527|China|Deyang|Chinanet|
-|17|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|19|94.185.122.254|8880|Italy|Forlì|ZAL NETWORK|
-|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|202.154.18.180|8090|Indonesia|Bojonegoro|DIGITNET|
+|13|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|14|103.55.224.122|8080|Indonesia|Karawang|PT Gapura Era Digital|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|116.172.92.16|12700|China|Jinrongjie|China Unicom CHINA169 Network|
+|20|165.225.113.220|18080|Singapore|Singapore|ZSCALER, INC.|
 
 
 
