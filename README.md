@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|2|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|116.105.61.40|10013|Vietnam|Hanoi|Viettel Corporation|
-|5|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.169.187.137|8787|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|8|67.43.227.226|10563|Canada|Montreal|GloboTech Communications|
-|9|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|67.43.228.252|13883|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|67.43.236.18|7283|Canada|Montreal|GloboTech Communications|
-|15|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|143.255.147.130|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
-|17|72.10.160.172|28029|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|7283|Canada|Montreal|GloboTech Communications|
-|19|116.105.61.40|10013|Vietnam|Hanoi|Viettel Corporation|
+|1|45.11.44.16|35385|Japan|Tokyo|xTom Japan Co., Ltd.|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|203.161.50.34|9876|United States|New York|Namecheap, Inc.|
+|4|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|165.225.72.38|10005|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|13|202.154.18.180|8090|Indonesia|Bojonegoro|DIGITNET|
+|14|72.10.160.170|13201|Canada|Montreal|GloboTech Communications|
+|15|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|16|157.100.63.90|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|17|125.71.134.114|466|China|Chengdu|Chinanet|
+|18|116.105.61.40|10003|Vietnam|Hanoi|Viettel Corporation|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
