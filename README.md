@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.152.238.178|1080|Indonesia|Bekasi|APRIN|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|6|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|11|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|12|89.109.213.206|8080|Russia|Moscow|CTC-JNPR|
-|13|41.93.63.66|8080|Tanzania|Dar es Salaam|Tanzania Education And Research Network|
-|14|49.70.190.237|2324|China|Zhenjiang|Chinanet|
-|15|67.43.228.250|15759|Canada|Montreal|GloboTech Communications|
-|16|180.94.80.18|8080|Afghanistan|Kabul|Government Communications Network|
-|17|118.113.245.225|2324|China|Shanghai|Chinanet|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|67.43.228.250|15759|Canada|Montreal|GloboTech Communications|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|103.99.136.42|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|14|67.43.228.250|9331|Canada|Montreal|GloboTech Communications|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
+|18|116.105.61.40|10008|Vietnam|Hanoi|Viettel Corporation|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
