@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|54.38.159.12|3128|Germany|Limburg an der Lahn|OVH SAS|
-|4|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|67.43.236.18|20843|Canada|Montreal|GloboTech Communications|
-|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
-|10|67.43.227.226|16265|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.94|26127|Canada|Montreal|GloboTech Communications|
-|12|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|13|49.84.34.139|8089|China|Nanjing|Chinanet|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|72.10.160.90|1133|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|59.39.226.135|2324|China|Guangzhou|Chinanet|
-|18|121.232.181.140|8089|China|Nanjing|Chinanet|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|95.78.239.111|20171|Russia|Orenburg|CJSC "ER-Telecom Holding" Orenburg branch|
+|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|5|54.38.159.12|3128|Germany|Limburg an der Lahn|OVH SAS|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
+|8|118.99.109.218|8080|Indonesia|Jakarta|BIZNET|
+|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|10|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
+|14|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|17|125.87.87.98|2324|China|Shanghai|China Telecom|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|186.96.160.204|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
 
 
 
