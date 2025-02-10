@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |2|18.168.197.25|3128|United Kingdom|London|Amazon Technologies Inc.|
 |3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|6|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|116.105.61.40|10000|Vietnam|Hanoi|Viettel Corporation|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|45.77.48.243|80|Australia|Sydney|The Constant Company|
-|12|72.10.164.178|11861|Canada|Montreal|GloboTech Communications|
-|13|116.107.203.105|10015|Vietnam|Hanoi|Viettel Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|16|20.41.118.5|3128|South Korea|Seoul|Microsoft Corporation|
-|17|180.112.182.226|8089|China|Nanjing|Chinanet|
-|18|72.10.160.90|12217|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|28179|Canada|Montreal|GloboTech Communications|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|4|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|67.43.236.18|27523|Canada|Montreal|GloboTech Communications|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|10|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|11|112.207.130.214|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|14|67.43.227.228|28179|Canada|Montreal|GloboTech Communications|
+|15|116.105.61.40|10002|Vietnam|Hanoi|Viettel Corporation|
+|16|67.43.236.18|27523|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|13263|Canada|Montreal|GloboTech Communications|
+|18|160.19.18.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|19|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|20|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
 
 
 
