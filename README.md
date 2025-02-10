@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|38.183.144.89|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|72.10.160.170|31221|Canada|Montreal|GloboTech Communications|
-|11|91.241.21.17|9812|Iran|Bandar Abbas|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|12|67.43.236.18|29655|Canada|Montreal|GloboTech Communications|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|67.43.228.253|23391|Canada|Montreal|GloboTech Communications|
-|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|17|72.10.160.171|11185|Canada|Montreal|GloboTech Communications|
-|18|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|19|72.10.160.90|6029|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|2|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|72.10.160.171|11185|Canada|Montreal|GloboTech Communications|
+|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|223.204.192.64|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|16|171.232.187.216|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|67.43.228.250|30085|Canada|Montreal|GloboTech Communications|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|59.63.205.36|655|China|Taohua|Chinanet|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
