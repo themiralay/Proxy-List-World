@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|54.38.159.12|3128|Germany|Limburg an der Lahn|OVH SAS|
-|5|144.34.187.90|3128|United States|Los Angeles|IT7 Networks Inc|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|144.34.187.90|3128|United States|Los Angeles|IT7 Networks Inc|
-|9|12.165.234.129|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|11|103.157.59.239|8090|Indonesia|Malang|PT. Eka Mas Republik|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|14|182.253.176.23|8090|Indonesia|Bogor|BIZNET|
-|15|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
-|16|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|102.132.154.234|3128|South Africa|Johannesburg|Cool Ideas Service Provider (Pty) Ltd|
-|20|185.221.166.54|85|Russia|Moscow|NetOne Rus JSC|
+|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|54.38.159.12|3128|Germany|Limburg an der Lahn|OVH SAS|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|11|72.10.160.170|16911|Canada|Montreal|GloboTech Communications|
+|12|222.215.137.26|11527|China|Deyang|Chinanet|
+|13|202.136.89.28|43770|Bangladesh|Dhaka|Circle Network|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|17|72.10.160.90|6979|Canada|Montreal|GloboTech Communications|
+|18|188.127.82.194|62244|United Kingdom|Manchester|Vaioni Group Ltd|
+|19|59.39.226.124|2324|China|Guangzhou|Chinanet|
+|20|67.43.236.18|15391|Canada|Montreal|GloboTech Communications|
 
 
 
