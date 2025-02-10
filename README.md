@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|212.68.38.120|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|6|49.70.190.223|2324|China|Zhenjiang|Chinanet|
-|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|59.39.227.197|2324|China|Guangzhou|Chinanet|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.187.165.6|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
-|14|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|125.87.85.209|2324|China|Shanghai|China Telecom|
-|18|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
-|19|67.43.228.252|10533|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|29183|Canada|Montreal|GloboTech Communications|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|59.39.252.233|2324|China|Guangzhou|Chinanet|
+|9|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|12|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|13|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|16|67.43.228.252|6639|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|26321|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|28053|Canada|Montreal|GloboTech Communications|
+|19|103.165.155.161|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|20|72.10.160.170|28053|Canada|Montreal|GloboTech Communications|
 
 
 
