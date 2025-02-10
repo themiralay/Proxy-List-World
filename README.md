@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|4|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|11|103.176.97.195|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
-|19|67.43.236.18|30831|Canada|Montreal|GloboTech Communications|
-|20|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
+|8|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|14|67.43.236.18|30831|Canada|Montreal|GloboTech Communications|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|17|72.10.160.93|26541|Canada|Montreal|GloboTech Communications|
+|18|118.113.244.226|2324|China|Shanghai|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
 
 
 
