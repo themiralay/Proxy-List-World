@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|101.255.169.126|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|12|162.239.194.73|8080|United States|Bardstown|AT&T Services, Inc.|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|121.227.146.102|8089|China|Nanjing|China Telecom|
-|15|72.10.160.90|4687|Canada|Montreal|GloboTech Communications|
-|16|183.136.139.57|1999|China|Ningbo|China Telecom|
-|17|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|72.10.160.173|9523|Canada|Montreal|GloboTech Communications|
-|20|118.113.246.148|2324|China|Shanghai|Chinanet|
+|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|101.255.169.126|8080|Indonesia|Jakarta|PT Remala Abadi|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|9|27.147.249.17|38947|Bangladesh|Chittagong|Link3 Technologies Limited|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|12|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|13|183.136.139.57|1999|China|Ningbo|China Telecom|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|20|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
 
 
 
