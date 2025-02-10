@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4446** proxies at the latest update. Usable proxies are below.
+> Scraper found **4518** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|512|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|584|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|294|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2692|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|18.168.197.25|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|5|72.10.160.170|9859|Canada|Montreal|GloboTech Communications|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|27.189.130.194|8089|China|Langfang|Chinanet|
-|9|118.113.246.118|2324|China|Shanghai|Chinanet|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|12|72.10.160.170|9859|Canada|Montreal|GloboTech Communications|
-|13|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|14|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|16|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|17|162.43.33.87|3128|Japan|Chiyoda|XSERVER Inc.|
-|18|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|19|72.10.160.91|6391|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11861|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|18.168.197.25|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|141.136.36.17|3128|United Kingdom|Manchester|Hostinger International Limited|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
+|6|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|7|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|8|103.155.199.63|8080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|9|121.227.118.171|8089|China|Nanjing|China Telecom|
+|10|103.36.11.21|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|118.113.245.15|2324|China|Shanghai|Chinanet|
+|14|67.43.236.18|13457|Canada|Montreal|GloboTech Communications|
+|15|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|16|49.73.4.98|8089|China|Nanjing|China Telecom|
+|17|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|18|121.227.118.158|8089|China|Nanjing|China Telecom|
+|19|67.43.228.254|18617|Canada|Montreal|GloboTech Communications|
+|20|121.227.118.160|8089|China|Nanjing|China Telecom|
 
 
 
