@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|157.66.122.245|8080|Indonesia|Selat Panjang|PT Solusi Digital Manira|
-|7|157.66.50.111|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|8|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|9|67.43.227.226|21705|Canada|Montreal|GloboTech Communications|
-|10|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|11|67.43.227.226|21705|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|6|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|113.11.179.182|8080|Indonesia|Jakarta|BIZNET|
+|11|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
+|12|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
 |13|72.10.160.90|29041|Canada|Montreal|GloboTech Communications|
-|14|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
-|15|72.10.160.90|29041|Canada|Montreal|GloboTech Communications|
-|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|17|118.113.244.182|2324|China|Shanghai|Chinanet|
-|18|72.10.160.173|25849|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29041|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|15849|Canada|Montreal|GloboTech Communications|
+|14|103.125.16.97|8080|Indonesia|Tangerang|JAVAMEDIA|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|19|180.191.14.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
 
 
 
