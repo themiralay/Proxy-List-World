@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4469** proxies at the latest update. Usable proxies are below.
+> Scraper found **4525** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|587|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|643|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|300|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2584|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|114.129.19.139|8080|Indonesia|Bualu|PT Hipernet Indodata|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|117.103.68.38|9941|Indonesia|Malang|NARATEL|
-|10|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|72.10.160.93|14297|Canada|Montreal|GloboTech Communications|
-|16|218.1.197.96|2324|China|Shanghai|China Telecom (Group)|
-|17|72.10.160.90|20855|Canada|Montreal|GloboTech Communications|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|67.43.236.18|7747|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|5775|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|103.176.97.195|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|203.190.46.103|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.126.87.181|7777|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|15|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|16|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|103.194.46.34|8080|Indonesia|Nagara Tengah|JABNET|
+|20|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
 
 
 
