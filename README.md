@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|125.25.238.56|8080|Thailand|Uttaradit|TOT Public Company Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|8|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.160.170|29775|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|27893|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|28873|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|24283|Canada|Montreal|GloboTech Communications|
-|14|118.113.247.13|2324|China|Shanghai|Chinanet|
-|15|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
-|16|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
-|17|27.189.130.224|8089|China|Langfang|Chinanet|
-|18|67.43.227.226|9167|Canada|Montreal|GloboTech Communications|
-|19|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
-|20|72.10.160.90|9463|Canada|Montreal|GloboTech Communications|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|7|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|154.73.109.241|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|16|183.136.139.76|1999|China|Ningbo|China Telecom|
+|17|103.115.164.71|8080|Indonesia|Prapen|CV. NATANETWORK SOLUTION|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
