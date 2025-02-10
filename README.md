@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|7|72.10.160.170|17929|Canada|Montreal|GloboTech Communications|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|14.29.168.215|1080|China|Guangzhou|Chinanet|
-|10|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|11|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|121.232.181.159|8089|China|Nanjing|Chinanet|
-|14|121.227.109.18|8089|China|Nanjing|China Telecom|
-|15|121.227.109.24|8089|China|Nanjing|China Telecom|
-|16|67.43.236.18|27737|Canada|Montreal|GloboTech Communications|
-|17|121.227.109.63|8089|China|Nanjing|China Telecom|
-|18|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|19|72.10.160.171|24029|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|27381|Canada|Montreal|GloboTech Communications|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|7|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|14|67.43.228.253|27381|Canada|Montreal|GloboTech Communications|
+|15|182.40.96.33|808|China|Jinan|China Telecom|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|106.225.164.39|655|China|Beijing|China Telecom|
+|18|27.147.219.198|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|14.29.116.148|727|China|Guangzhou|Chinanet|
+|20|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
 
 
 
