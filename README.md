@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|2|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|37.152.172.1|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|72.10.160.90|7465|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.174|10041|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.174|10041|Canada|Montreal|GloboTech Communications|
-|9|118.113.247.230|2324|China|Shanghai|Chinanet|
-|10|41.57.34.92|6060|South Africa|Delmas|FTH Scr P5|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|182.204.181.103|1080|China|Shenyang|Chinanet|
+|9|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|10|116.172.66.186|12701|China|Jinrongjie|China Unicom CHINA169 Network|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|72.10.160.93|12991|Canada|Montreal|GloboTech Communications|
-|16|182.204.181.103|1080|China|Shenyang|Chinanet|
-|17|67.43.228.251|12335|Canada|Montreal|GloboTech Communications|
-|18|118.180.21.78|8765|China|Zhangyelu|Chinanet|
-|19|121.227.118.186|8089|China|Nanjing|China Telecom|
-|20|72.10.160.170|10041|Canada|Montreal|GloboTech Communications|
+|12|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|67.43.228.251|24231|Canada|Montreal|GloboTech Communications|
+|16|38.194.254.30|999|Mexico|Zapopan|Ientc S De RL De CV|
+|17|106.115.87.35|9100|China|Handan|Chinanet|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|72.10.160.90|13391|Canada|Montreal|GloboTech Communications|
+|20|202.138.243.42|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
 
 
 
