@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
+|4|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |6|86.98.90.168|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|9|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|10|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|11|185.133.36.103|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|12|116.107.203.105|10013|Vietnam|Hanoi|Viettel Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|16|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|17|27.189.128.179|8089|China|Langfang|Chinanet|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|7|120.51.210.247|8080|Japan|Adachi|ARTERIA Networks Corporation|
+|8|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|9|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|10|185.133.36.103|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|11|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|12|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
+|15|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|20|72.10.160.90|14939|Canada|Montreal|GloboTech Communications|
 
 
 
