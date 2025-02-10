@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|125.87.83.107|2324|China|Chongqing|China Telecom|
-|6|171.232.187.216|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|8|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|9|112.207.130.214|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|103.160.202.125|89|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|38.45.247.139|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
-|16|103.242.104.233|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|17|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|103.214.103.22|8083|Indonesia|Batam|SMARTPLUS|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|182.150.116.147|1436|China|Muping|Chinanet|
+|4|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|5|67.43.227.227|8083|Canada|Montreal|GloboTech Communications|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|14.39.239.241|52919|South Korea|Eunpyeong-gu|Korea Telecom|
+|10|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|11|72.10.160.94|15941|Canada|Montreal|GloboTech Communications|
+|12|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|14|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|49.146.248.18|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|16|103.141.105.74|55|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|17|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
+|18|72.10.160.90|5783|Canada|Montreal|GloboTech Communications|
+|19|118.99.109.221|8080|Indonesia|Jakarta|BIZNET|
+|20|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
 
 
 
