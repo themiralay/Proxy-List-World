@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|14.39.239.241|52919|South Korea|Eunpyeong-gu|Korea Telecom|
-|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|72.10.160.170|11529|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|30553|Canada|Montreal|GloboTech Communications|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|72.10.160.171|11377|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|4007|Canada|Montreal|GloboTech Communications|
-|11|125.87.83.107|2324|China|Chongqing|China Telecom|
-|12|67.43.236.18|4007|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|21785|Canada|Montreal|GloboTech Communications|
-|14|27.189.133.164|8089|China|Langfang|Chinanet|
-|15|171.232.187.216|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|27.189.130.245|8089|China|Langfang|Chinanet|
-|17|72.10.160.172|11377|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|31915|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|17197|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|18601|Canada|Montreal|GloboTech Communications|
+|1|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|125.87.83.107|2324|China|Chongqing|China Telecom|
+|6|171.232.187.216|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|8|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|9|112.207.130.214|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|103.160.202.125|89|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|38.45.247.139|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
+|16|103.242.104.233|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|17|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|18|103.214.103.22|8083|Indonesia|Batam|SMARTPLUS|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|182.150.116.147|1436|China|Muping|Chinanet|
 
 
 
