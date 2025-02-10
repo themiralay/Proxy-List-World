@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|8|103.167.87.67|39064|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
-|9|45.235.16.121|27234|Brazil|Curitiba|Acessoline Telecom|
+|1|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
+|5|103.96.116.246|8080|Indonesia|Medan|PT Media Alvina Sejati|
+|6|45.187.105.213|8080|Brazil|Bertópolis|GPR NET COMUNICACOES EIRELI|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|104.237.232.203|8080|United States|Buffalo|DedFiberCo|
+|9|102.68.79.231|8080|Kenya|Ruiru|Unwired Communications Ltd|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.228.250|8133|Canada|Montreal|GloboTech Communications|
-|12|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
-|15|118.99.104.108|80|Indonesia|Jakarta|Biznet Networks|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|18|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|223.206.138.138|8080|Thailand|Ratchaburi|Triple T Broadband Public Company Limited|
-|20|27.189.135.85|8089|China|Langfang|Chinanet|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|13|185.133.36.120|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|14|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|15|118.113.244.94|2324|China|Shanghai|Chinanet|
+|16|59.39.226.60|2324|China|Guangzhou|Chinanet|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|19|45.5.92.54|8137|Mexico|Frontera|Señal Interactiva, S.A De C.V|
+|20|212.109.224.71|8080|Turkey|Istanbul|Tekstilbank|
 
 
 
