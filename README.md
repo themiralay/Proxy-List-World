@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.229.33.246|999|Dominican Republic|Santo Domingo|Gold Data USA Inc|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|43.230.129.54|3333|Indonesia|Banjar Sandinggianyar|Internet Ini Saja|
-|7|72.10.160.90|30165|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|30165|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.226|20329|Canada|Montreal|GloboTech Communications|
-|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|11|118.113.247.97|2324|China|Shanghai|Chinanet|
-|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|15|67.43.228.250|29081|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|94.177.106.127|3128|Romania|Bucharest|ZetServers|
-|18|72.10.160.170|19461|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|29081|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|19461|Canada|Montreal|GloboTech Communications|
+|14|116.172.92.11|12798|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|179.109.156.19|8080|Brazil|Alegre|Digital NET RJ Telecom Eireli|
+|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|49.0.39.101|12030|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|195.54.160.142|9595|Italy|Palermo|BlueVPS OU|
 
 
 
