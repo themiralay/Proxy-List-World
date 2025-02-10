@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|7|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|103.105.57.63|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|157.119.222.23|8080|Indonesia|Semarang|DESNET|
-|18|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|49.70.190.218|2324|China|Zhenjiang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|116.107.203.105|10015|Vietnam|Hanoi|Viettel Corporation|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
