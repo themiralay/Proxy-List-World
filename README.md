@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.165.254.83|17855|United States|Los Angeles|Internet Utilities NA LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|5|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|61.160.247.69|9999|China|Nanjing|China Telecom|
-|9|72.10.164.178|10515|Canada|Montreal|GloboTech Communications|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|119.147.8.252|4129|China|Guangzhou|Chinanet|
-|12|72.10.160.91|6833|Canada|Montreal|GloboTech Communications|
-|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|14|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|67.43.228.250|9075|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|19|67.43.228.250|9075|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|6833|Canada|Montreal|GloboTech Communications|
+|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|2.194.65.234|8080|Italy|Montalto di Castro|Telecom Italia Mobile|
+|6|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|119.147.8.252|4129|China|Guangzhou|Chinanet|
+|9|75.8.34.207|8080|United States|Coppell|AT&T Services, Inc.|
+|10|1.20.169.59|8080|Thailand|Pattaya|TOT Public Company Limited|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|72.10.164.178|10515|Canada|Montreal|GloboTech Communications|
+|13|185.133.36.104|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
+|17|185.133.36.117|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|18|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|165.16.22.150|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 
