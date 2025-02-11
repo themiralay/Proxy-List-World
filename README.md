@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
-|4|115.77.246.15|10004|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|116.108.5.81|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|171.232.182.214|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|116.108.24.73|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|115.72.10.236|10007|Vietnam|Vũng Tàu|VIETELmetro|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|171.232.182.214|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|116.108.5.81|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|27.70.234.140|10004|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|115.77.246.15|10004|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|116.97.172.38|10007|Vietnam|Hanoi|Viettel Corporation|
+|4|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
+|5|27.70.234.140|10006|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|115.77.133.56|10004|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|115.77.139.144|10009|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
+|14|171.232.182.214|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|116.108.5.81|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |17|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
-|18|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
-|19|221.132.12.130|10008|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|116.97.172.38|10007|Vietnam|Hanoi|Viettel Corporation|
+|18|27.70.234.140|10006|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
+|20|115.77.139.144|10009|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
