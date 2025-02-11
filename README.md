@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|103.99.136.66|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|103.155.65.65|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|59.39.196.122|2324|China|Guangzhou|Chinanet|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|188.127.82.194|62244|United Kingdom|Manchester|Vaioni Group Ltd|
-|20|72.10.164.178|13229|Canada|Montreal|GloboTech Communications|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.23.195.41|1231|Malaysia|Semenyih|Extreme Broadband|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|8|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|9|103.253.18.6|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|177.234.247.234|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|67.43.227.226|28453|Canada|Montreal|GloboTech Communications|
 
 
 
