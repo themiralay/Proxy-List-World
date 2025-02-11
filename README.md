@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|103.169.132.38|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|4|103.156.248.124|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|5|113.192.31.221|3125|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|103.189.197.162|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|103.180.118.99|8044|Indonesia|Setro|PT Persada Data Multimedia|
-|9|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|10|103.133.61.179|3127|Indonesia|Pringsewu|TLINK|
-|11|103.172.71.166|3125|Indonesia|Karawang|AZNET|
-|12|124.121.87.72|8080|Thailand|Bangkok|TRUEBB|
-|13|103.217.224.49|3125|Indonesia|Ungaran|PT Nesta Indo Media|
-|14|23.95.240.19|6789|United States|Los Angeles|HostPapa|
-|15|103.180.126.108|8181|Indonesia|Jakarta|PT Alam Media Data|
-|16|103.155.196.105|8181|Indonesia|Sukabumi|JEMBATANDATA|
-|17|103.172.71.25|9090|Indonesia|Karawang|AZNET|
-|18|103.242.106.153|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
-|19|157.66.84.29|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|20|103.180.126.52|3125|Indonesia|Jakarta|PT Alam Media Data|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.156.248.124|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|4|23.95.240.19|6789|United States|Los Angeles|HostPapa|
+|5|103.133.61.179|3127|Indonesia|Pringsewu|TLINK|
+|6|103.180.126.108|8181|Indonesia|Jakarta|PT Alam Media Data|
+|7|103.155.196.105|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|8|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|9|103.217.224.49|3125|Indonesia|Ungaran|PT Nesta Indo Media|
+|10|103.242.106.153|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
+|11|157.10.97.239|8096|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|12|159.223.42.24|8100|Singapore|Singapore|DigitalOcean, LLC|
+|13|124.121.87.72|8080|Thailand|Bangkok|TRUEBB|
+|14|103.242.106.155|3125|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
+|15|157.66.84.29|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|16|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|17|103.70.93.68|8085|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|18|23.95.240.19|6789|United States|Los Angeles|HostPapa|
+|19|59.98.3.132|8042|India|Shillong|BSNL Internet|
+|20|103.189.197.162|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
 
 
 
