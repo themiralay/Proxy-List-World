@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|14|67.43.227.230|30075|Canada|Montreal|GloboTech Communications|
-|15|58.59.61.200|10991|China|Jinan|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.214.9.99|3128|Vietnam|Thanh Xuân|MEGACORE|
+|4|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|49.48.121.129|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|183.136.139.34|1999|China|Ningbo|China Telecom|
+|11|61.160.247.69|9999|China|Nanjing|China Telecom|
+|12|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|116.108.44.176|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
 |16|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|17|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|19|67.43.227.226|5725|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|28757|Canada|Montreal|GloboTech Communications|
+|17|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|18|116.107.203.105|10006|Vietnam|Hanoi|Viettel Corporation|
+|19|121.28.141.158|10050|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|20|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
