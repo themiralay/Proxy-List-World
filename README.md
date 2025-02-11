@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4344** proxies at the latest update. Usable proxies are below.
+> Scraper found **4362** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|456|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|474|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|342|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2531|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|5|8.217.59.198|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
-|7|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|8|160.25.196.16|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
-|9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|15|188.72.6.154|8083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|67.43.227.226|29911|Canada|Montreal|GloboTech Communications|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|67.43.227.227|16651|Canada|Montreal|GloboTech Communications|
+|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|15|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
+|16|72.10.164.178|6951|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|16651|Canada|Montreal|GloboTech Communications|
+|18|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
+|19|72.10.160.90|4185|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|2075|Canada|Montreal|GloboTech Communications|
 
 
 
