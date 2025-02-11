@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|122.3.55.18|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|8|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|23.95.240.19|6789|United States|Los Angeles|HostPapa|
-|11|72.10.160.91|29217|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.22|18323|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|177.54.147.174|3128|Brazil|São Paulo|Maxihost LTDA|
-|16|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
-|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|72.10.160.90|15849|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|29217|Canada|Montreal|GloboTech Communications|
-|20|200.59.184.169|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.36.11.21|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|58.59.61.200|10991|China|Jinan|Chinanet|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|177.54.147.174|3128|Brazil|São Paulo|Maxihost LTDA|
+|9|67.43.236.22|18323|Canada|Montreal|GloboTech Communications|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|223.206.125.197|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
+|19|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|20|59.39.196.63|2324|China|Guangzhou|Chinanet|
 
 
 
