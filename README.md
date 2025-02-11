@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|67.43.236.18|31009|Canada|Montreal|GloboTech Communications|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|72.10.164.178|32817|Canada|Montreal|GloboTech Communications|
-|18|27.189.129.0|8089|China|Langfang|Chinanet|
-|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|20|27.189.133.40|8089|China|Langfang|Chinanet|
+|4|103.87.171.150|32650|India|Jaipur|Tejays|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|223.205.25.95|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|72.10.164.178|21859|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|72.10.160.92|17053|Canada|Montreal|GloboTech Communications|
+|17|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
+|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
 
 
 
