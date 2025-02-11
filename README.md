@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|67.43.236.18|26465|Canada|Montreal|GloboTech Communications|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|116.203.253.63|80|Germany|Falkenstein|Hetzner Online GmbH|
-|12|193.37.68.203|3128|The Netherlands|Dronten|Individual Entrepreneur Anton Levin|
-|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|67.43.228.250|22235|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|21605|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|31647|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|13799|Canada|Montreal|GloboTech Communications|
-|20|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|13|181.78.13.204|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|14|14.29.116.148|727|China|Guangzhou|Chinanet|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|67.43.236.18|26465|Canada|Montreal|GloboTech Communications|
+|17|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|111.75.190.5|655|China|Taohua|Chinanet|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
