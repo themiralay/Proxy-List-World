@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|117.0.132.51|10030|Vietnam|Hanoi|Viettel Group|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|91.220.109.197|50000|Russia|St Petersburg|TimeWeb Ltd.|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|38.159.223.18|999|Dominican Republic|Cristo Rey|REYNOSO, S.R.L.|
-|10|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
-|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|103.169.41.243|8080|Indonesia|Mata Ie|Telnet Indonesia|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|18|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
-|19|27.189.129.162|8089|China|Langfang|Chinanet|
-|20|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|8|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|103.247.20.106|1111|Indonesia|Bekasi|PT Yasmin Amanah Media|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
 
 
 
