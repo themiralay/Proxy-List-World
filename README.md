@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|109.160.62.192|8080|Bulgaria|Burgas|Vision 2008 Ltd|
-|4|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|103.44.19.198|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|7|180.178.103.67|8213|Indonesia|Jakarta|PT Hipernet Indodata|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|118.113.246.164|2324|China|Shanghai|Chinanet|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.236.18|7587|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|7491|Canada|Montreal|GloboTech Communications|
-|14|139.59.28.254|9090|India|Bengaluru|DigitalOcean, LLC|
-|15|116.107.203.105|10006|Vietnam|Hanoi|Viettel Corporation|
-|16|67.43.236.18|7587|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|6561|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|103.162.54.151|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|6|109.160.62.192|8080|Bulgaria|Burgas|Vision 2008 Ltd|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.160.202.30|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|177.234.240.204|8080|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|12|72.10.160.170|7491|Canada|Montreal|GloboTech Communications|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|118.113.247.230|2324|China|Shanghai|Chinanet|
+|15|1.2.176.197|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|72.10.160.92|29889|Canada|Montreal|GloboTech Communications|
+|17|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |18|72.10.160.171|3433|Canada|Montreal|GloboTech Communications|
-|19|118.113.247.230|2324|China|Shanghai|Chinanet|
-|20|72.10.160.92|29889|Canada|Montreal|GloboTech Communications|
+|19|115.245.46.172|8080|India|Visakhapatnam|Reliance Jio Infocomm Limited|
+|20|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
 
 
 
