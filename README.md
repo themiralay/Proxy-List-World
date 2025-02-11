@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|103.158.121.38|8080|Indonesia|Indramayu|CDN|
-|9|91.220.109.197|50000|Russia|St Petersburg|TimeWeb Ltd.|
-|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.126.87.220|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|14|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
-|15|131.255.227.99|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
-|16|176.88.175.170|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|7|91.220.109.197|50000|Russia|St Petersburg|TimeWeb Ltd.|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|181.78.13.205|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|59.39.252.232|2324|China|Guangzhou|Chinanet|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|20|72.10.160.90|18333|Canada|Montreal|GloboTech Communications|
 
 
 
