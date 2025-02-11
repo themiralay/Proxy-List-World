@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|27.73.115.101|10002|Vietnam|Hanoi|Newass2011xDSLHN|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|117.0.132.51|10030|Vietnam|Hanoi|Viettel Group|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|5.190.104.100|8084|Iran|Shiraz|Iran Telecommunication Company PJS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
-|11|177.73.162.176|8080|Brazil|Japeri|SM Networks|
-|12|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|13|118.68.118.11|10006|Vietnam|Hanoi|FPT Telecom Company|
-|14|27.73.115.101|10002|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|67.43.227.226|26837|Canada|Montreal|GloboTech Communications|
-|16|49.70.190.214|2324|China|Zhenjiang|Chinanet|
-|17|27.73.115.101|10002|Vietnam|Hanoi|Newass2011xDSLHN|
-|18|67.43.236.19|4467|Canada|Montreal|GloboTech Communications|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|116.108.44.176|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|116.108.5.81|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|27.73.115.101|10006|Vietnam|Hanoi|Newass2011xDSLHN|
+|8|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|9|116.107.203.105|10007|Vietnam|Hanoi|Viettel Corporation|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|14|103.76.151.114|8080|Indonesia|Karangsono|PT. Java Digital Nusantara|
+|15|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|16|67.43.236.19|4467|Canada|Montreal|GloboTech Communications|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|67.43.227.226|26837|Canada|Montreal|GloboTech Communications|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|115.72.10.236|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|20|118.113.244.117|2324|China|Shanghai|Chinanet|
 
 
 
