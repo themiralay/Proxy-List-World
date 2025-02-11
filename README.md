@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.36.11.21|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|67.43.236.18|25879|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|16753|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|16753|Canada|Montreal|GloboTech Communications|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|67.43.227.227|30055|Canada|Montreal|GloboTech Communications|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|72.10.160.90|14723|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|27.189.134.224|8089|China|Langfang|Chinanet|
-|18|72.10.160.90|14723|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|16753|Canada|Montreal|GloboTech Communications|
-|20|183.80.16.130|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.148.44.125|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|5|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|6|103.227.186.68|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|72.10.160.170|3557|Canada|Montreal|GloboTech Communications|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|14|160.22.92.3|8080|Indonesia|Ketanggungan|IDNIC-3MEDIASOLUSI|
+|15|49.70.190.213|2324|China|Zhenjiang|Chinanet|
+|16|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|67.43.227.226|3969|Canada|Montreal|GloboTech Communications|
+|19|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|20|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
 
 
 
