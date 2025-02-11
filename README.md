@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|159.192.226.244|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|202.40.180.145|38423|Bangladesh|Dhaka|Ranks ITT|
-|7|148.233.136.213|80|Mexico|Santa María Chimalhuacán|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|10|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|12|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
-|13|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|58.59.61.200|10991|China|Jinan|Chinanet|
+|2|103.76.109.144|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|14.178.111.12|14456|Vietnam|Thái Nguyên|VNPT|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|103.192.174.18|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|148.233.136.213|80|Mexico|Santa María Chimalhuacán|Uninet S.A. de C.V.|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|121.227.109.52|8089|China|Nanjing|China Telecom|
+|15|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
