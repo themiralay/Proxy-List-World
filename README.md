@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|119.12.165.151|55555|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|11|72.10.160.90|25911|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|12675|Canada|Montreal|GloboTech Communications|
-|13|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|72.10.160.170|33135|Canada|Montreal|GloboTech Communications|
-|16|59.39.196.186|2324|China|Guangzhou|Chinanet|
-|17|67.43.228.253|23845|Canada|Montreal|GloboTech Communications|
-|18|49.70.190.123|2324|China|Zhenjiang|Chinanet|
-|19|182.150.116.137|1436|China|Muping|Chinanet|
-|20|67.43.236.18|26419|Canada|Montreal|GloboTech Communications|
+|2|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|3|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|103.160.202.125|89|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|27.76.202.227|1011|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|103.82.246.49|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|58.59.61.200|10991|China|Jinan|Chinanet|
+|14|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|15|67.43.227.226|12675|Canada|Montreal|GloboTech Communications|
+|16|188.127.82.194|62244|United Kingdom|Manchester|Vaioni Group Ltd|
+|17|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|72.10.160.170|20511|Canada|Montreal|GloboTech Communications|
+|19|103.159.195.33|3128|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|20|103.82.246.1|6080|Indonesia|Kedungrejo|PT Master Star Network|
 
 
 
