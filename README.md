@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|6|116.68.162.22|1111|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.227.226|29911|Canada|Montreal|GloboTech Communications|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|67.43.227.227|16651|Canada|Montreal|GloboTech Communications|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
-|16|72.10.164.178|6951|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|16651|Canada|Montreal|GloboTech Communications|
-|18|103.193.126.199|3140|Singapore|Singapore|Zenlayer Inc|
-|19|72.10.160.90|4185|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|2075|Canada|Montreal|GloboTech Communications|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|43.252.107.103|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|9|38.250.127.73|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|38.56.70.45|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|67.43.227.226|29911|Canada|Montreal|GloboTech Communications|
+|17|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
+|18|157.119.222.23|8080|Indonesia|Semarang|DESNET|
+|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
