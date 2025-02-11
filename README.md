@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|114.141.50.211|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|191.97.15.101|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|38.183.146.173|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|186.180.79.21|999|Colombia|Cúcuta|Colombia Móvil|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|67.43.227.228|18191|Canada|Montreal|GloboTech Communications|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|49.48.94.33|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|101.255.117.194|8095|Indonesia|Jakarta|PT Remala Abadi|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|14|223.205.102.134|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.242.106.153|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|138.124.90.252|3128|Austria|Vienna|Aeza International LTD|
+|20|116.107.203.105|10006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
