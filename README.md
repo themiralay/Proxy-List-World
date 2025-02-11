@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.217.59.198|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|200.110.104.3|999|Mexico|Río Grande|Wistarip S De RL De CV|
-|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|8.217.59.198|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
+|7|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|8|160.25.196.16|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
 |9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|175.119.50.166|3128|South Korea|Yongin-si|SK Broadband Co Ltd|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|188.72.6.154|8083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
