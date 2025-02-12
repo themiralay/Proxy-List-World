@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|103.155.197.190|3128|Indonesia|Sukabumi|JEMBATANDATA|
-|6|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|65.1.244.232|80|India|Mumbai|Amazon.com|
-|9|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|118.113.245.134|2324|China|Shanghai|Chinanet|
-|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|67.43.227.229|16851|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
-|19|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|15833|Canada|Montreal|GloboTech Communications|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|3041|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|27675|Canada|Montreal|GloboTech Communications|
+|17|103.138.26.101|8080|Bangladesh|Rāipur|HelloTech Limited|
+|18|72.10.160.91|31737|Canada|Montreal|GloboTech Communications|
+|19|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
