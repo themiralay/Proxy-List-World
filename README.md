@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
-|7|36.82.203.121|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|8|178.73.192.11|3128|Sweden|Staffanstorp|Portlane Network|
-|9|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
-|12|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|13|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|23.147.112.74|8080|United States|Nogales|NGX Networks|
-|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|177.234.247.234|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|18|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|156.155.29.119|8080|South Africa|Port Elizabeth|AxxessNetworks|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|10|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|11|35.89.226.197|3128|United States|Portland|Amazon.com, Inc.|
+|12|35.89.226.197|3128|United States|Portland|Amazon.com, Inc.|
+|13|46.10.229.243|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|14|36.73.202.151|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|181.188.238.149|999|Ecuador|Quito|Otecel S.A.|
+|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|101.109.215.168|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|27.147.219.198|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
