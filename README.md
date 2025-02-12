@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|7|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
-|8|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|186.96.69.136|999|Venezuela|Caracas|Gold Data USA Inc|
-|12|138.118.104.33|8080|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|13|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|72.10.160.172|1315|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14563|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|28459|Canada|Montreal|GloboTech Communications|
+|2|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|103.155.197.190|3128|Indonesia|Sukabumi|JEMBATANDATA|
+|5|45.237.75.6|8080|Brazil|Maricá|Westlink Tecnologia E Comunicacao Ltda. - ME|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|157.66.16.33|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|38.255.21.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
+|15|118.113.245.134|2324|China|Shanghai|Chinanet|
+|16|72.10.164.178|14563|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|8109|Canada|Montreal|GloboTech Communications|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
