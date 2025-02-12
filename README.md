@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.150.128.143|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|200.37.187.58|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|12|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|160.22.193.142|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
-|15|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|190.223.60.131|3128|Peru|Lima|America Movil Peru S.A.C.|
-|17|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|113.11.183.43|8181|Indonesia|Bandung|BIZNET|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|202.129.185.195|8080|Indonesia|Bandung|PT Media Akses Global Indo|
+|14|190.12.49.222|8082|Ecuador|Cuenca|Puntonet S.A|
+|15|150.107.244.109|8088|Indonesia|Bogor|Infrastruktur STARNET|
+|16|113.11.183.43|8181|Indonesia|Bandung|BIZNET|
+|17|160.22.193.142|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
