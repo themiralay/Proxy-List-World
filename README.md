@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
 |4|35.89.230.110|3128|United States|Portland|Amazon.com, Inc.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|35.89.230.110|3128|United States|Portland|Amazon.com, Inc.|
-|7|200.106.124.216|999|Peru|Pocollay|Telefonica del Peru|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|118.113.245.134|2324|China|Shanghai|Chinanet|
-|14|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|15|103.156.17.56|8181|Indonesia|Jatiwangi|RSTNET|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|18|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|35.89.230.110|3128|United States|Portland|Amazon.com, Inc.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.235.181.245|8080|Indonesia|Jakarta|PT Top Class Universal|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|157.66.85.78|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|103.172.71.222|8081|Indonesia|Karawang|AZNET|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
