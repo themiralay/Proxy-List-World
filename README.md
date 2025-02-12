@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.173.228.235|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|45.173.228.235|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|67.43.236.18|28871|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12769|Canada|Montreal|GloboTech Communications|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|72.10.160.171|20257|Canada|Montreal|GloboTech Communications|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|101.255.132.211|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
