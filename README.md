@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|10|181.39.48.118|999|Ecuador|Quito|Telconet S.A|
-|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|115.77.172.78|8080|Vietnam|Vũng Tàu|Viettel Group|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|116.98.122.240|10007|Vietnam|Hanoi|Viettel Corporation|
-|17|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
-|18|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|19|103.172.71.222|8081|Indonesia|Karawang|AZNET|
-|20|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.207.56.115|8080|Indonesia|Bandung|STARNET|
+|5|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|8|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|9|190.8.184.149|9600|Argentina|La Plata|Cooperativa Telefónica de Abasto|
+|10|193.105.123.196|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|181.39.48.118|999|Ecuador|Quito|Telconet S.A|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|72.10.160.173|24721|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|118.113.244.117|2324|China|Shanghai|Chinanet|
+|19|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|20|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
 
 
 
