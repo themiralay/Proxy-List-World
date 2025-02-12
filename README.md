@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|187.145.45.227|8118|Mexico|Querétaro City|Uninet S.A. de C.V.|
-|6|103.139.99.29|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|7|113.192.48.34|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|181.114.224.181|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|3|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|4|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|5|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|6|103.191.218.211|1111|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|9|187.103.105.22|8999|Brazil|Florianópolis|BR.Digital Provider|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|157.66.16.36|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc|
-|18|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|103.155.246.69|8080|Indonesia|Sukoharjo|AMANNA|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|13|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|14|188.125.169.67|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|16|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|17|58.59.61.200|10991|China|Jinan|Chinanet|
+|18|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|19|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
