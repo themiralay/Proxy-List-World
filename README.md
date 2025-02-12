@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|103.76.108.40|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|6|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
-|7|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|8|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|9|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|10|35.89.226.197|3128|United States|Portland|Amazon.com, Inc.|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
-|13|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|35.89.226.197|3128|United States|Portland|Amazon.com, Inc.|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|117.68.110.16|9443|China|Hefei|China Telecom|
-|17|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|103.81.221.14|8080|Indonesia|Bandung|STARNET|
-|19|158.69.122.49|3129|Canada|Montreal|OVH SAS|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
+|8|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|103.155.62.141|8081|Pakistan|Lahore|Z COM NETWORKS|
+|12|121.230.8.144|1080|China|Nanjing|Chinanet|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|103.76.108.40|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|16|158.69.122.49|3129|Canada|Montreal|OVH SAS|
+|17|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|18|118.113.245.199|2324|China|Shanghai|Chinanet|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|59.39.225.79|2324|China|Humen|Chinanet|
 
 
 
