@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|177.93.44.27|999|Colombia|Tuta|TV AZTECA SUCURSAL COLOMBIA|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|10|24.152.55.35|999|Guatemala|Guatemala City|TV CABLE UNIVERSAL S.A|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|72.10.160.170|29103|Canada|Montreal|GloboTech Communications|
-|16|177.174.126.203|8080|Brazil|São Paulo|Vivo|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|19|72.10.160.173|6335|Canada|Montreal|GloboTech Communications|
+|2|157.66.16.33|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|117.0.132.51|10030|Vietnam|Hanoi|Viettel Group|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|12|134.236.17.184|8080|Thailand|Phra Nakhon Si Ayutthaya|CAT-BB|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|15|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|16|84.241.51.51|8080|Iran|Tehran|SHATEL DSL Network|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
