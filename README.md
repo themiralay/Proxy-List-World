@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|11|160.22.24.116|1111|Indonesia|Kudus|PT Giga Media Internet|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|16|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|17|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|170.245.132.86|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
-|20|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|121.101.129.108|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.76.108.40|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|12|47.100.223.33|12080|China|Shanghai|Addresses CNNIC|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.166.158.107|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|223.205.33.131|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
