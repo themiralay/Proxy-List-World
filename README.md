@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|3|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|209.14.119.229|999|Colombia|Chinácota|AGIS|
-|6|38.49.151.106|999|Mexico|Tlanchinol|Ientc S De RL De CV|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|9|182.253.176.254|80|Indonesia|Bogor|BIZNET|
-|10|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|11|188.132.222.17|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|6|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|8|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
 |14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|103.164.229.149|8080|Indonesia|Kudus|PT Muria Data Utama|
-|17|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|18|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|27.189.131.49|8089|China|Langfang|Chinanet|
-|20|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
