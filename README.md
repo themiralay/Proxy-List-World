@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|201.49.193.249|7171|Brazil|Presidente Prudente|America-NET Ltda.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|17|67.43.227.226|19345|Canada|Montreal|GloboTech Communications|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|72.10.160.170|3021|Canada|Montreal|GloboTech Communications|
-|20|157.20.50.218|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|203.190.117.189|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|12|72.10.160.91|12889|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|18785|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.94|23871|Canada|Montreal|GloboTech Communications|
+|15|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
+|16|67.43.227.226|18785|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
+|18|177.54.147.174|3128|Brazil|São Paulo|Maxihost LTDA|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|67.43.236.18|15143|Canada|Montreal|GloboTech Communications|
 
 
 
