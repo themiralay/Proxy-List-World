@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.155.197.190|3128|Indonesia|Sukabumi|JEMBATANDATA|
+|7|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
 |9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|203.190.117.189|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|12|72.10.160.91|12889|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|18785|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.94|23871|Canada|Montreal|GloboTech Communications|
-|15|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
-|16|67.43.227.226|18785|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|18|177.54.147.174|3128|Brazil|São Paulo|Maxihost LTDA|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|67.43.236.18|15143|Canada|Montreal|GloboTech Communications|
+|10|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|72.10.160.94|23871|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|10275|Canada|Montreal|GloboTech Communications|
+|18|101.255.208.62|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
 
 
 
