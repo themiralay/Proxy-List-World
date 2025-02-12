@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|203.150.128.11|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|11|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|12|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|4|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|115.77.133.56|10008|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|10|110.42.51.242|3128|China|Ningbo|China Telecom|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|14|67.43.227.227|12097|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|12439|Canada|Montreal|GloboTech Communications|
-|16|125.87.95.151|2324|China|Chongqing|China Telecom|
-|17|110.42.51.242|3128|China|Ningbo|China Telecom|
-|18|72.10.164.178|12439|Canada|Montreal|GloboTech Communications|
-|19|121.232.181.149|8089|China|Nanjing|Chinanet|
-|20|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|14|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|16|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|17|72.10.164.178|12439|Canada|Montreal|GloboTech Communications|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|72.10.160.171|8617|Canada|Montreal|GloboTech Communications|
+|20|222.215.137.18|3218|China|Deyang|Chinanet|
 
 
 
