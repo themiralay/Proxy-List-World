@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|9|49.70.190.141|2324|China|Zhenjiang|Chinanet|
-|10|38.52.157.87|999|Colombia|Bogotá|Giga Fibra SAS|
-|11|72.10.160.90|29679|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|29697|Canada|Montreal|GloboTech Communications|
-|13|125.87.95.183|2324|China|Chongqing|China Telecom|
-|14|67.43.236.18|29697|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|9655|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|18565|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|3925|Canada|Montreal|GloboTech Communications|
-|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|157.20.50.238|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
-|20|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|11|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
+|12|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|15|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|16|118.113.244.75|2324|China|Shanghai|Chinanet|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
