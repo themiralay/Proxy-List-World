@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|5|115.77.133.56|10008|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|160.22.24.83|8080|Indonesia|Kudus|PT Giga Media Internet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|13|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|72.10.160.90|32037|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26767|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|72.10.164.178|26767|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|27495|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|5507|Canada|Montreal|GloboTech Communications|
-|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|3|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|115.77.133.56|10009|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|160.22.24.83|8080|Indonesia|Kudus|PT Giga Media Internet|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|41.59.227.49|3128|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|14|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|15|185.58.16.1|8080|Ireland|Dublin|Carnsore Broadband Limited|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|20|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
 
 
 
