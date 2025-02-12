@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|171.248.207.202|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|200.106.124.40|999|Peru|Pocollay|Telefonica del Peru|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|101.255.167.50|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|188.136.142.81|7060|Iran|Tehran|Ariana Gostar Spadana|
-|11|124.13.232.210|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.148.131.87|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|14|102.135.144.234|12354|South Africa|Sandton|Session Telecoms|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|81.90.149.186|3128|Iran|Tehran|Afranet|
+|7|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|72.10.160.174|4787|Canada|Montreal|GloboTech Communications|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|67.43.227.228|2181|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|3469|Canada|Montreal|GloboTech Communications|
+|20|168.196.114.89|56000|Argentina|Añatuya|SAN GABRIEL VIDEO CABLE COLOR S.A.|
 
 
 
