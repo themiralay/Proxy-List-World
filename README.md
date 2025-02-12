@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|176.124.199.31|3128|Netherlands|Amsterdam|xorek.cloud International LTD|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|36.68.33.180|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.255.132.213|1111|Indonesia|Banjarnegara|PT Sarana Kawan Setia|
-|9|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|10|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|15|72.10.160.172|5995|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|6923|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|2157|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24545|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|30377|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24545|Canada|Montreal|GloboTech Communications|
+|8|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|36.64.6.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.133.26.45|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|18|152.228.206.96|14561|France|Roubaix|OVH SAS|
+|19|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|20|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
 
 
 
