@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|41.216.178.113|3128|Indonesia|Jakarta|FASTHOSTING|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|103.144.147.18|8080|Indonesia|Tulungagung|Lexxa Data|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|103.235.181.1|8080|Indonesia|Jakarta|PT Top Class Universal|
-|12|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|13|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|17|38.156.75.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
-|20|177.93.44.27|999|Colombia|Tuta|TV AZTECA SUCURSAL COLOMBIA|
+|4|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|76.50.80.32|8182|United States|Tarzana|Spectrum|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.160.205.38|8181|Indonesia|Mataram|PRIME|
+|15|46.161.194.76|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|18|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|27.70.234.140|10014|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
