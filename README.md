@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|49.147.133.61|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|4|181.39.48.118|999|Ecuador|Quito|Telconet S.A|
-|5|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|6|185.125.169.24|8118|Norway|Sandefjord|TERRAHOST|
-|7|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
-|8|121.227.118.145|8089|China|Nanjing|China Telecom|
-|9|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|168.243.89.65|999|El Salvador|San Salvador|Telenetwork de El Salvador|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|15|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|158.69.122.49|3129|Canada|Montreal|OVH SAS|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
+|3|181.39.48.118|999|Ecuador|Quito|Telconet S.A|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|58.59.61.200|10991|China|Jinan|Chinanet|
+|13|190.223.60.131|3128|Peru|Lima|America Movil Peru S.A.C.|
+|14|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|16|158.69.122.49|3129|Canada|Montreal|OVH SAS|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |20|72.10.160.170|8907|Canada|Montreal|GloboTech Communications|
 
 
