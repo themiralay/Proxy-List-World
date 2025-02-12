@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|10|121.101.129.108|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|11|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|157.20.244.38|1111|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|14|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|15|190.121.207.161|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|16|206.81.25.30|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.76.108.40|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|8|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|9|8.219.3.41|10008|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|157.20.244.38|1111|Indonesia|Tulungagung|PT.Global Media Data Prima|
+|12|121.101.129.108|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|18|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|19|170.245.132.86|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
+|20|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
 
 
 
