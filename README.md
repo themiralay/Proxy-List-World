@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|103.196.179.81|8080|Indonesia|Batam|PT Usyel Media Net|
-|6|65.1.244.232|80|India|Mumbai|Amazon.com|
-|7|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|23.94.131.233|1080|United States|Elk Grove Village|HostPapa|
-|10|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|101.255.158.41|8080|Indonesia|Jakarta|PT Remala Abadi|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.60.173.2|96|Bangladesh|Dhaka|Mazeda Networks Limited|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|188.245.213.14|443|Germany|Nuremberg|Hetzner Online GmbH|
+|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|8|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|125.163.137.245|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|187.188.169.169|8080|Mexico|Acatzingo|Total Play Telecomunicaciones SA De CV|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|80.190.82.58|14624|United Kingdom|Portsmouth|Contabo GmbH|
+|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|15|190.69.157.208|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP BIC|
+|16|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |18|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|19|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
 
 
 
