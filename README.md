@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|10|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|11|187.145.45.227|8118|Mexico|Querétaro City|Uninet S.A. de C.V.|
-|12|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|13|125.25.228.150|8080|Thailand|Uttaradit|TOT Public Company Limited|
-|14|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|15|103.159.96.148|1080|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|16|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|17|103.162.17.195|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|18|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|5|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|6|157.66.16.44|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
+|8|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|125.71.204.238|9788|China|Chengdu|Chinanet|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|17|103.179.84.254|8080|Indonesia|Boyolali|PT CYB Media Group|
+|18|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|19|72.10.160.90|10555|Canada|Montreal|GloboTech Communications|
+|20|158.69.122.49|3129|Canada|Montreal|OVH SAS|
 
 
 
