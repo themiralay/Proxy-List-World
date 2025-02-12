@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|128.199.9.16|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.9.16|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|202.138.243.205|9876|Indonesia|Bandung|PT Melvar Lintasnusa|
-|11|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|12|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|13|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|43.134.88.212|13128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.160.173|32939|Canada|Montreal|GloboTech Communications|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|20|27.70.234.140|10009|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|203.150.128.11|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|72.10.160.173|32939|Canada|Montreal|GloboTech Communications|
+|7|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|8|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|67.43.228.250|21141|Canada|Montreal|GloboTech Communications|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|13|139.255.64.140|80|Indonesia|Jakarta|PT. LINKNET|
+|14|67.43.227.226|13955|Canada|Montreal|GloboTech Communications|
+|15|183.136.139.57|1999|China|Ningbo|China Telecom|
+|16|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|17|72.10.160.90|3279|Canada|Montreal|GloboTech Communications|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|72.10.160.171|8617|Canada|Montreal|GloboTech Communications|
+|20|101.255.208.62|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
