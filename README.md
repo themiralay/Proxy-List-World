@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|202.93.244.242|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|89.109.43.125|3128|Russia|Nizhniy Novgorod|NMTS|
-|12|67.43.236.18|2377|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.172|15789|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|6603|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|17197|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.21|9407|Canada|Montreal|GloboTech Communications|
-|18|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
-|19|72.10.160.171|14295|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|9407|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|177.54.147.206|3128|Brazil|São Paulo|Maxihost LTDA|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|67.43.236.18|2377|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|14295|Canada|Montreal|GloboTech Communications|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|102.135.157.33|12354|South Africa|Durbanville|Session Telecoms(PTY) Ltd|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
