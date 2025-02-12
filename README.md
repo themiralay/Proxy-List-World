@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|49.48.118.9|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|67.43.227.226|18051|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|29791|Canada|Montreal|GloboTech Communications|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|103.160.182.72|8088|Indonesia|Jember|PT Internusa Duta Makmur|
-|13|67.43.227.226|18051|Canada|Montreal|GloboTech Communications|
-|14|125.87.90.113|2324|China|Chongqing|China Telecom|
-|15|72.10.160.172|32143|Canada|Montreal|GloboTech Communications|
-|16|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|17|118.113.245.134|2324|China|Shanghai|Chinanet|
-|18|27.189.131.219|8089|China|Langfang|Chinanet|
-|19|27.189.128.139|8089|China|Langfang|Chinanet|
-|20|72.10.160.90|26829|Canada|Montreal|GloboTech Communications|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|49.48.118.9|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|11|67.43.236.18|20111|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|29333|Canada|Montreal|GloboTech Communications|
+|13|185.73.103.23|3128|Czechia|Ostrov|ISP Alliance a.s.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|118.113.245.134|2324|China|Shanghai|Chinanet|
+|16|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|118.113.244.191|2324|China|Shanghai|Chinanet|
+|20|49.70.190.194|2324|China|Zhenjiang|Chinanet|
 
 
 
