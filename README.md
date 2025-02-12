@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|4|114.9.25.190|1010|Indonesia|Sangatta|PT. INDOSAT Tbk|
-|5|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|2|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|8|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|9|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 |11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|138.59.227.248|999|Paraguay|Asunción|Aranda Cardozo Lider Ramon|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|49.173.179.134|14886|South Korea|Dalseo-gu|LG POWERCOMM|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|110.137.24.126|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|85.15.21.102|8080|Iran|Tehran|SHATEL Network|
+|18|38.156.72.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
