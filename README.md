@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|6|181.129.250.43|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|9|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.171.244.136|8008|Indonesia|Madiun|PT Data Arta Sedaya|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|81.90.149.186|3128|Iran|Tehran|Afranet|
-|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|137.184.132.235|8192|United States|North Bergen|DigitalOcean, LLC|
-|17|202.154.18.168|8088|Indonesia|Bojonegoro|DIGITNET|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
-|20|144.34.187.90|3128|United States|Los Angeles|IT7 Networks Inc|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|124.121.2.229|8080|Thailand|Bangkok|TRUEBB|
+|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|160.22.24.83|8080|Indonesia|Kudus|PT Giga Media Internet|
+|6|102.213.248.17|8080|Kenya|Nairobi|Optinode Group LLP|
+|7|185.172.214.59|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|60.188.49.53|1999|China|Taizhou|Chinanet|
+|12|115.77.133.56|10008|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|15|67.43.236.19|23077|Canada|Montreal|GloboTech Communications|
+|16|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|118.113.247.59|2324|China|Shanghai|Chinanet|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|138.124.90.252|3128|Austria|Vienna|Aeza International LTD|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
