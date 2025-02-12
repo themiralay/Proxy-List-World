@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4608** proxies at the latest update. Usable proxies are below.
+> Scraper found **4607** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|154|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|480|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|361|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2686|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|6|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|8|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|67.43.236.18|29697|Canada|Montreal|GloboTech Communications|
-|13|125.87.92.149|2324|China|Chongqing|China Telecom|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|118.113.244.128|2324|China|Shanghai|Chinanet|
-|16|106.115.87.35|9100|China|Handan|Chinanet|
-|17|72.10.160.91|16811|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|5969|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|23743|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|22521|Canada|Montreal|GloboTech Communications|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|83.118.60.147|8213|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|18|125.71.204.238|9788|China|Chengdu|Chinanet|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
 
 
 
