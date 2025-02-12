@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4627** proxies at the latest update. Usable proxies are below.
+> Scraper found **4626** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|155|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|154|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|491|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|447|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|171.248.207.202|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.192.48.34|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
-|12|45.4.0.60|999|Chile|Santiago|Tlink SPA|
-|13|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.160.90|22903|Canada|Montreal|GloboTech Communications|
-|19|196.216.134.32|8865|South Africa|Schweizer-Reneke|HERO TELECOMS (PTY) LTD|
-|20|67.43.236.18|19851|Canada|Montreal|GloboTech Communications|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|157.66.85.65|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|9|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|12|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|13|200.6.179.53|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|17|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|18|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|19|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
