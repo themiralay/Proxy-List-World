@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|4|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|5|181.39.48.118|999|Ecuador|Quito|Telconet S.A|
-|6|157.66.16.44|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|13|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|14|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|15|191.97.96.208|8080|Argentina|General Roca|Vision NET|
-|16|121.227.118.145|8089|China|Nanjing|China Telecom|
-|17|67.43.228.253|24071|Canada|Montreal|GloboTech Communications|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|157.66.16.44|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|10|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|11|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|15|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|16|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|17|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
 |20|58.59.61.200|10991|China|Jinan|Chinanet|
 
 
