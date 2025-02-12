@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|41.216.178.113|3128|Indonesia|Jakarta|FASTHOSTING|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|190.144.101.30|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|103.75.84.237|8080|Indonesia|Klaten|MEGADATA|
-|14|181.188.238.150|999|Ecuador|Quito|Otecel S.A.|
-|15|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|2|41.216.178.113|3128|Indonesia|Jakarta|FASTHOSTING|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|190.144.101.30|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|45.159.113.153|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|181.188.238.150|999|Ecuador|Quito|Otecel S.A.|
+|13|177.93.44.27|999|Colombia|Tuta|TV AZTECA SUCURSAL COLOMBIA|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|146.196.109.237|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|223.204.50.217|3128|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|20|67.43.228.252|17497|Canada|Montreal|GloboTech Communications|
+|17|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|20|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
 
 
 
