@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.190.117.189|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|4|103.155.197.190|3128|Indonesia|Sukabumi|JEMBATANDATA|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|213.148.10.80|3128|Kazakhstan|Almaty|Haicom Limited|
-|7|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
-|8|186.96.69.136|999|Venezuela|Caracas|Gold Data USA Inc|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|103.217.224.201|8080|Indonesia|Ungaran|PT Nesta Indo Media|
-|15|118.113.245.134|2324|China|Shanghai|Chinanet|
-|16|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|45.174.77.1|999|Mexico|Chihuahua City|Raul Duarte Urita|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|84.241.51.51|8080|Iran|Tehran|SHATEL DSL Network|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|116.254.96.111|8080|Indonesia|Jakarta|SpaceX Starlink|
+|12|72.10.164.178|31531|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|29721|Canada|Montreal|GloboTech Communications|
+|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|15|67.43.227.228|16255|Canada|Montreal|GloboTech Communications|
+|16|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|17|106.115.87.35|9100|China|Handan|Chinanet|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|191.37.41.142|42999|Brazil|Chavantes|Cednet Provedor Internet|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
