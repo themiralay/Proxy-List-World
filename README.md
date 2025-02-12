@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5042** proxies at the latest update. Usable proxies are below.
+> Scraper found **5041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|177|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|176|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|607|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|6|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.147.73.35|3088|Indonesia|Depok|ALFATINDO|
-|10|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|58.59.61.200|10991|China|Jinan|Chinanet|
-|14|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|15|103.138.185.1|83|India|Chittorgarh|Mahrth Internet Service Private Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|189.165.191.62|8080|Mexico|Puebla City|UNINET|
-|18|67.43.227.230|7143|Canada|Montreal|GloboTech Communications|
-|19|27.189.132.211|8089|China|Langfang|Chinanet|
-|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|4|187.145.45.227|8118|Mexico|Querétaro City|Uninet S.A. de C.V.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
+|9|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|10|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|16|49.70.190.237|2324|China|Zhenjiang|Chinanet|
+|17|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|125.87.93.29|2324|China|Chongqing|China Telecom|
+|20|67.43.227.227|3153|Canada|Montreal|GloboTech Communications|
 
 
 
