@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|223.206.58.117|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|51.81.153.203|3128|United States|Hillsboro|OVH SAS|
-|6|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
-|7|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|8|178.73.192.11|3128|Sweden|Staffanstorp|Portlane Network|
-|9|195.140.213.5|3128|United Kingdom|London|Hydra Communications Ltd|
-|10|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|5|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
+|6|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
+|7|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
+|9|36.73.202.151|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
+|10|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |14|35.89.149.27|3128|United States|Portland|Amazon.com, Inc.|
-|15|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|20|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|15|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|16|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|17|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|18|35.89.149.27|3128|United States|Portland|Amazon.com, Inc.|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
