@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|171.6.112.164|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|5|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|8|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|103.35.108.244|2024|Bangladesh|Dhaka|Ranks ITT|
-|15|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|16|58.59.61.200|10991|China|Jinan|Chinanet|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|183.96.85.167|65001|South Korea|Gangbuk-gu|Korea Telecom|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|121.232.181.168|8089|China|Nanjing|Chinanet|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|12|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|58.59.61.200|10991|China|Jinan|Chinanet|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|17|121.232.181.168|8089|China|Nanjing|Chinanet|
+|18|67.43.236.20|23083|Canada|Montreal|GloboTech Communications|
+|19|177.54.147.174|3128|Brazil|São Paulo|Maxihost LTDA|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
