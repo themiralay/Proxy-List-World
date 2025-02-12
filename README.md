@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|49.70.190.194|2324|China|Zhenjiang|Chinanet|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|12|67.43.227.228|12455|Canada|Montreal|GloboTech Communications|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|103.154.77.48|89|Indonesia|Sleman|T2NET|
-|15|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|16|67.43.236.18|29489|Canada|Montreal|GloboTech Communications|
-|17|180.105.244.247|1080|China|Nanjing|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|72.10.160.91|21379|Canada|Montreal|GloboTech Communications|
-|20|160.19.18.93|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|11|72.10.160.173|18869|Canada|Montreal|GloboTech Communications|
+|12|36.103.167.209|7890|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|13|58.59.61.200|10991|China|Jinan|Chinanet|
+|14|138.204.233.188|58080|Brazil|Cabo de Santo Agostinho|Nossarede Telecom LTDA ME|
+|15|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|16|72.10.160.91|21379|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|12455|Canada|Montreal|GloboTech Communications|
+|18|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
