@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |4|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
-|5|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|103.165.155.171|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|12|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
-|13|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|38.10.69.98|9090|Türkiye|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|18|72.10.160.90|24311|Canada|Montreal|GloboTech Communications|
-|19|58.59.61.200|10991|China|Jinan|Chinanet|
-|20|27.189.134.35|8089|China|Langfang|Chinanet|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|157.131.18.67|3128|United States|Oakland|Sonic Telecom LLC|
+|7|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|8|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|9|128.199.150.47|8989|Singapore|Singapore|DigitalOcean, LLC|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|138.124.90.252|3128|Austria|Vienna|Aeza International LTD|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|49.51.244.112|8888|United States|Santa Clara|OPHL|
+|18|106.115.87.35|9100|China|Handan|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
 
 
 
