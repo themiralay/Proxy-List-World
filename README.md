@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
-|7|195.182.25.32|3128|The Netherlands|Amsterdam|Ferdinand Zink trading as Tube-Hosting|
-|8|158.69.122.49|3129|Canada|Montreal|OVH SAS|
-|9|38.7.23.177|999|Mexico|Donato Guerra|Internet Telefonia Y TV De Michoacan SA De CV|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|195.140.213.5|3128|United Kingdom|London|Hydra Communications Ltd|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|157.66.51.35|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|15|103.111.39.85|8080|Pakistan|Rawalpindi|GH Wireless Internet Service|
-|16|117.0.132.51|27563|Vietnam|Hanoi|Viettel Group|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|116.203.36.93|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|20|113.11.183.112|8080|Indonesia|Bandung|BIZNET|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|158.69.122.49|3129|Canada|Montreal|OVH SAS|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
+|6|35.89.149.27|3128|United States|Portland|Amazon.com, Inc.|
+|7|178.73.192.11|3128|Sweden|Staffanstorp|Portlane Network|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|180.125.186.190|1080|China|Nanjing|Chinanet|
+|13|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
+|16|67.43.236.19|15195|Canada|Montreal|GloboTech Communications|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
