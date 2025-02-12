@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|103.97.140.179|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|6|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|7|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|203.190.46.37|3125|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|15|101.255.208.110|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|18|35.89.149.27|3128|United States|Portland|Amazon.com, Inc.|
-|19|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|141.98.198.16|1080|Japan|Tokyo|xTom Japan Co., Ltd.|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|10|35.89.149.27|3128|United States|Portland|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|13|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|34.215.203.185|3128|United States|Portland|Amazon.com, Inc.|
+|16|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|17|35.89.226.197|3128|United States|Portland|Amazon.com, Inc.|
+|18|35.89.213.107|3128|United States|Portland|Amazon.com, Inc.|
+|19|179.49.156.56|999|Peru|San Juan de Lurigancho|Vemax S.A.C|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
