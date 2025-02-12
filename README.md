@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|171.248.207.202|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|67.43.236.18|12591|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|4079|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|3307|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|25617|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|13819|Canada|Montreal|GloboTech Communications|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|45.236.106.244|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|67.43.236.18|12591|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|12591|Canada|Montreal|GloboTech Communications|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|6|27.70.234.140|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|84.241.51.51|8080|Iran|Tehran|SHATEL DSL Network|
+|13|200.24.136.41|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|14|138.118.104.33|8080|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|157.66.16.33|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
