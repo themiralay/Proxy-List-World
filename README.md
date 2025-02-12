@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.134.88.212|13128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|211.225.214.241|80|South Korea|Boeun-gun|Korea Telecom|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|62.171.147.240|8000|France|Lauterbourg|Contabo GmbH|
-|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|172.232.121.132|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|9|43.134.88.212|13128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|103.131.219.26|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc|
-|16|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
+|11|168.196.161.5|8080|Brazil|Monte Azul|JJVA Provedor de Internet ME LTDA|
+|12|177.234.192.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|181.209.82.196|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 |17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|67.43.228.252|14523|Canada|Montreal|GloboTech Communications|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|180.112.182.220|8089|China|Nanjing|Chinanet|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
