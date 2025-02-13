@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|124.121.2.140|8080|Thailand|Bangkok|TRUEBB|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|124.121.2.140|8080|Thailand|Bangkok|TRUEBB|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
-|7|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|13|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|14|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|20|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|5|103.169.254.105|8080|Indonesia|Curahjati|PT Master Star Network|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|103.162.66.10|8080|India|Pune|Imperium Digital Network|
+|8|35.89.230.110|3128|United States|Portland|Amazon.com, Inc.|
+|9|35.89.230.110|3128|United States|Portland|Amazon.com, Inc.|
+|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|124.121.87.72|8080|Thailand|Bangkok|TRUEBB|
+|15|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|16|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|17|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|18|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|103.209.187.98|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
+|20|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
