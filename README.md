@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|10|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|11|116.98.122.240|10021|Vietnam|Hanoi|Viettel Corporation|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|27.189.135.156|8089|China|Langfang|Chinanet|
-|15|67.43.227.226|13485|Canada|Montreal|GloboTech Communications|
-|16|36.88.98.12|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|72.10.160.90|26281|Canada|Montreal|GloboTech Communications|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|160.30.133.128|8080|Myanmar|Mandalay|T-Link Group Company Limited|
-|20|72.10.164.178|29967|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|94.159.102.2|53895|Germany|Frankfurt am Main|H2nexus LTD|
+|5|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|67.43.227.226|3499|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|8015|Canada|Montreal|GloboTech Communications|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|158.69.122.49|3128|Canada|Montreal|OVH SAS|
+|12|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|13|72.10.160.174|16029|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|29889|Canada|Montreal|GloboTech Communications|
+|15|116.98.122.240|10021|Vietnam|Hanoi|Viettel Corporation|
+|16|116.98.122.240|10021|Vietnam|Hanoi|Viettel Corporation|
+|17|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|18|116.98.122.240|10021|Vietnam|Hanoi|Viettel Corporation|
+|19|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|20|116.98.122.240|10021|Vietnam|Hanoi|Viettel Corporation|
 
 
 
