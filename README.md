@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4992** proxies at the latest update. Usable proxies are below.
+> Scraper found **5173** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|753|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|482|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.79.141.119|3128|Vietnam|Văn Quán|CADI|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
-|7|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|8|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|37.78.64.169|3128|Russia|Krasnodar|PAO Rostelecom|
-|11|27.70.234.140|10015|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|16|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|17|27.70.234.140|10015|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|67.43.227.226|8723|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|115.77.164.41|10001|Vietnam|Vũng Tàu|Viettel Group|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|103.133.61.165|1111|Indonesia|Pringsewu|TLINK|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|103.167.170.63|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|12|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|13|201.220.112.98|999|Chile|Concepción|Telefonica del Sur S.A.|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|18|116.98.122.240|10003|Vietnam|Hanoi|Viettel Corporation|
+|19|159.255.163.102|8080|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
+|20|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
 
 
 
