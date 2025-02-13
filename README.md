@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|182.52.231.44|8080|Thailand|Phuket|TOT Public Company Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|101.109.176.62|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|116.98.122.240|10012|Vietnam|Hanoi|Viettel Corporation|
-|9|113.11.179.228|8181|Indonesia|Jakarta|BIZNET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
-|15|45.233.169.57|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|16|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|188.127.82.194|62244|United Kingdom|Manchester|Vaioni Group Ltd|
-|18|162.55.149.221|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|116.98.122.240|10012|Vietnam|Hanoi|Viettel Corporation|
+|3|50.64.42.173|3128|Canada|Vancouver|Shaw Communications Inc.|
+|4|147.45.173.192|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|5|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|58.59.61.200|10991|China|Jinan|Chinanet|
+|12|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|14|103.18.77.118|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|17|116.98.122.240|10009|Vietnam|Hanoi|Viettel Corporation|
+|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|72.10.160.91|10397|Canada|Montreal|GloboTech Communications|
 
 
 
