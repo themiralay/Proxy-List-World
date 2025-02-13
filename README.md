@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.228.246.146|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|116.98.122.240|10003|Vietnam|Hanoi|Viettel Corporation|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
-|7|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|8|103.194.46.34|8080|Indonesia|Nagara Tengah|JABNET|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|12|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.252.183.239|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|15|38.9.48.214|8080|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|16|72.10.160.172|27331|Canada|Montreal|GloboTech Communications|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|72.10.164.178|3013|Canada|Montreal|GloboTech Communications|
-|19|45.252.183.242|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|20|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|6|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
+|7|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.184.62.11|8099|Indonesia|Bajo|PT NKNET Data Media|
+|13|200.106.124.161|999|Peru|Tacna|Telefonica del Peru|
+|14|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|15|60.188.49.53|1999|China|Taizhou|Chinanet|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|20|72.10.160.172|27331|Canada|Montreal|GloboTech Communications|
 
 
 
