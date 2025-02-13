@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|126.209.17.228|8080|Philippines|Koronadal|Infinivan Incorporated|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|123.200.22.70|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|19|117.68.110.16|9443|China|Hefei|China Telecom|
-|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|4|116.108.35.57|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|6|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|12|171.4.17.219|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|27.70.234.140|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|115.72.173.73|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|15|106.115.87.35|9100|China|Handan|Chinanet|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|103.76.109.144|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|18|171.232.179.235|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
 
 
 
