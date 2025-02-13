@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|101.51.161.145|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|94.159.102.2|53895|Germany|Frankfurt am Main|H2nexus LTD|
+|3|103.230.81.110|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|10|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
-|11|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|72.10.160.174|20923|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.230|30125|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|116.98.122.240|10001|Vietnam|Hanoi|Viettel Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|67.43.227.230|30125|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|116.98.122.240|10013|Vietnam|Hanoi|Viettel Corporation|
+|17|77.253.127.143|8080|Poland|Warsaw|INTERNETIA|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|157.66.37.20|8080|Indonesia|Kalianda|PT Speed Network Indonesia|
+|20|119.92.188.29|8080|Philippines|West Rembo|Philippine Long Distance Telephone Co.|
 
 
 
