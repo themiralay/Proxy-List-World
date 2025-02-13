@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|1|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|12|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|172.99.188.139|3128|Netherlands|Amsterdam|GTHost|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|172.99.188.139|3128|Netherlands|Amsterdam|GTHost|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|177.234.209.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|15|157.66.219.176|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|16|125.229.149.168|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |17|111.75.189.3|655|China|Taohua|Chinanet|
-|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|19|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|20|103.250.128.9|8082|Indonesia|Utan|PT Asri Global Investama|
+|18|115.72.5.224|10021|Vietnam|Vũng Tàu|VIETELmetro|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|103.113.152.62|11596|Bangladesh|Bhātāra|Md Ziaul Huque|
 
 
 
