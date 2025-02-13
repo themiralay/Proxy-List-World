@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|67.43.227.226|32803|Canada|Montreal|GloboTech Communications|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|72.10.164.178|25001|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|12373|Canada|Montreal|GloboTech Communications|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|67.43.236.18|32821|Canada|Montreal|GloboTech Communications|
-|11|195.133.17.26|3128|The Netherlands|Amsterdam|Individual Entrepreneur Anton Levin|
-|12|67.43.236.19|12373|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|5|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|49.148.51.61|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|10|134.209.74.222|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|72.10.164.178|25001|Canada|Montreal|GloboTech Communications|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |13|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|14|27.189.131.62|8089|China|Langfang|Chinanet|
-|15|116.98.122.240|10015|Vietnam|Hanoi|Viettel Corporation|
-|16|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|17|67.43.228.250|4853|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25001|Canada|Montreal|GloboTech Communications|
-|19|116.98.122.240|10015|Vietnam|Hanoi|Viettel Corporation|
-|20|157.66.219.176|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|113.192.31.139|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|67.43.227.226|2803|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|11353|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|2803|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|31513|Canada|Montreal|GloboTech Communications|
 
 
 
