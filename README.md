@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|118.113.245.134|2324|China|Shanghai|Chinanet|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|34.100.253.96|80|India|Mumbai|Google LLC|
-|16|67.43.236.18|6751|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|6751|Canada|Montreal|GloboTech Communications|
-|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|19|103.214.9.99|3128|Vietnam|Thanh Xuân|MEGACORE|
-|20|27.189.130.75|8089|China|Langfang|Chinanet|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|94.159.102.2|53895|Germany|Frankfurt am Main|H2nexus LTD|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|14|67.43.236.18|21373|Canada|Montreal|GloboTech Communications|
+|15|162.55.149.221|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|118.113.245.134|2324|China|Shanghai|Chinanet|
+|17|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
+|18|125.71.204.238|9788|China|Chengdu|Chinanet|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
