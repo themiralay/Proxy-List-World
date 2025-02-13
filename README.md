@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|180.191.51.58|8082|Philippines|Tarlac City|Globe Telecom|
 |6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|158.69.122.49|3128|Canada|Montreal|OVH SAS|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|116.98.122.240|10005|Vietnam|Hanoi|Viettel Corporation|
-|14|190.121.157.141|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|15|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|16|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|17|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|171.232.179.235|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|20|177.234.209.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|13|162.243.49.27|3128|United States|New York|DigitalOcean, LLC|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|162.243.49.27|3128|United States|New York|DigitalOcean, LLC|
+|17|38.156.74.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|158.69.122.49|3129|Canada|Montreal|OVH SAS|
+|19|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
