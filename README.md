@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|101.51.130.252|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|36.77.219.255|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|8|157.66.219.176|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|9|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
-|10|67.43.227.226|22823|Canada|Montreal|GloboTech Communications|
-|11|177.53.154.6|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|12|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|13|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|14|67.43.228.251|25687|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|19023|Canada|Montreal|GloboTech Communications|
-|16|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
-|17|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
-|18|67.43.228.250|32017|Canada|Montreal|GloboTech Communications|
-|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.170|12941|Canada|Montreal|GloboTech Communications|
+|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|4|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|5|116.98.122.240|10009|Vietnam|Hanoi|Viettel Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|8|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|9|125.71.204.238|9788|China|Chengdu|Chinanet|
+|10|183.136.139.57|1990|China|Ningbo|China Telecom|
+|11|67.43.228.250|18171|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|18171|Canada|Montreal|GloboTech Communications|
+|13|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|72.10.160.170|12941|Canada|Montreal|GloboTech Communications|
+|16|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|72.10.160.173|12589|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
