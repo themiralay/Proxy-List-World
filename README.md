@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|160.22.92.10|8080|Indonesia|Ketanggungan|IDNIC-3MEDIASOLUSI|
-|7|72.10.160.170|2125|Canada|Montreal|GloboTech Communications|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|7|72.10.164.178|9937|Canada|Montreal|GloboTech Communications|
 |8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|72.10.164.178|9937|Canada|Montreal|GloboTech Communications|
-|10|103.60.90.39|8181|Indonesia|Bogor|PT Meta Tekhnologi Nusantara|
-|11|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|61.155.242.150|5566|China|Nanjing|Chinanet|
-|14|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|15|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|16|72.10.160.172|32957|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|8781|Canada|Montreal|GloboTech Communications|
-|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|19|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|72.10.160.90|9161|Canada|Montreal|GloboTech Communications|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|72.10.160.170|18269|Canada|Montreal|GloboTech Communications|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|118.113.244.103|2324|China|Shanghai|Chinanet|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|15|118.113.246.13|2324|China|Shanghai|Chinanet|
+|16|27.124.83.173|8080|Indonesia|Pamulang|PT.Global Media Data Prima|
+|17|45.61.50.146|3128|United States|Seattle|Kamatera, Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|115.72.161.73|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|20|67.43.228.250|15937|Canada|Montreal|GloboTech Communications|
 
 
 
