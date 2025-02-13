@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|9|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|13|67.43.227.226|31699|Canada|Montreal|GloboTech Communications|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|67.43.236.19|31337|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|27705|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|15873|Canada|Montreal|GloboTech Communications|
-|18|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|19|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.252.183.252|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|14|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|15|103.147.246.222|8080|Indonesia|Tangerang|PLBNET|
+|16|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|27.70.234.140|10015|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
