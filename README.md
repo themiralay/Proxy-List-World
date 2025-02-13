@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4736** proxies at the latest update. Usable proxies are below.
+> Scraper found **4278** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|314|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2700|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2242|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|5|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|6|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|8|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|67.43.228.250|26833|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.251|13393|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.254|13393|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|4077|Canada|Montreal|GloboTech Communications|
-|13|118.113.245.134|2324|China|Shanghai|Chinanet|
-|14|72.10.160.90|5625|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|17087|Canada|Montreal|GloboTech Communications|
-|16|187.85.157.210|8080|Argentina|Puerto Iguazú|Ggnet Telecom Backbone|
-|17|67.43.227.226|22823|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|26005|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5625|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|26833|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|67.43.236.18|11017|Canada|Montreal|GloboTech Communications|
+|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|10|67.43.228.250|32017|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.18|11017|Canada|Montreal|GloboTech Communications|
+|12|116.98.122.240|10035|Vietnam|Hanoi|Viettel Corporation|
+|13|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|116.98.122.240|10035|Vietnam|Hanoi|Viettel Corporation|
+|16|122.3.55.18|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
 
 
 
