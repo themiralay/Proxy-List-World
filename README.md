@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|12|115.72.173.73|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|14|118.175.206.51|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|116.98.122.240|10009|Vietnam|Hanoi|Viettel Corporation|
-|17|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|20|67.43.227.226|23047|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.105.53.110|7777|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|115.72.173.73|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|12|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|13|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|116.98.122.240|10005|Vietnam|Hanoi|Viettel Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|158.69.122.49|3129|Canada|Montreal|OVH SAS|
+|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
