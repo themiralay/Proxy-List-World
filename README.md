@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|7|203.161.50.34|8877|United States|New York|Namecheap, Inc.|
-|8|103.227.186.68|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|9|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|10|185.49.165.129|3128|Georgia|Tbilisi|Odrex Software LLC|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|195.133.64.234|3128|Germany|Goslar|Cloud Hosting Solutions, Limited.|
-|14|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
-|15|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|16|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
-|17|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|67.43.236.18|15653|Canada|Montreal|GloboTech Communications|
-|20|195.140.213.230|3128|United Kingdom|London|Hydra Communications Ltd|
+|6|203.161.50.34|8877|United States|New York|Namecheap, Inc.|
+|7|171.224.29.1|8080|Vietnam|Hanoi|Viettel Corporation|
+|8|195.140.213.203|3128|United Kingdom|London|Hydra Communications Ltd|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|195.133.64.234|3128|Germany|Goslar|Cloud Hosting Solutions, Limited.|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|14|200.24.141.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|16|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|17|67.43.228.250|3867|Canada|Montreal|GloboTech Communications|
+|18|103.137.218.65|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|116.98.122.240|10007|Vietnam|Hanoi|Viettel Corporation|
 
 
 
