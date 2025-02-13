@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|171.232.179.235|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|115.77.170.206|10001|Vietnam|Vũng Tàu|Viettel Group|
-|8|116.108.24.72|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|110.78.147.248|8080|Thailand|Phi Phi Don|CAT-BB|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|115.74.4.180|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|115.77.170.206|10001|Vietnam|Vũng Tàu|Viettel Group|
-|17|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|18|116.108.35.57|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|115.74.11.237|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|7|110.78.147.248|8080|Thailand|Phi Phi Don|CAT-BB|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|38.183.146.173|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.111.119.34|8080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|103.173.139.89|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|20|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
 
 
 
