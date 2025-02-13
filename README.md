@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|5|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.93.93.220|3127|Indonesia|Sempu|MYRISE|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|67.43.227.228|31547|Canada|Montreal|GloboTech Communications|
-|10|103.171.255.189|8080|Indonesia|Sleman|ZKI|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|115.72.161.73|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|103.195.65.209|8080|Indonesia|Purbalingga|PT Perwira Pedjoeang Nusantara|
+|12|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
 |15|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
-|16|67.43.227.227|27869|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|31547|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|18451|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|17893|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|23541|Canada|Montreal|GloboTech Communications|
+|16|103.125.16.99|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.10.160.91|7655|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|27869|Canada|Montreal|GloboTech Communications|
 
 
 
