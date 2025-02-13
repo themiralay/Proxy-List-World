@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|6|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|157.10.52.230|60009|Vietnam|Quận Chín|Digi Success Service Company Limited|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|118.113.245.134|2324|China|Shanghai|Chinanet|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|114.9.26.194|3128|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|20|27.70.234.140|10017|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|124.121.2.140|8080|Thailand|Bangkok|TRUEBB|
+|3|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.217.224.49|3125|Indonesia|Ungaran|PT Nesta Indo Media|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|35.89.230.110|3128|United States|Portland|Amazon.com, Inc.|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|18|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|58.59.61.200|10991|China|Jinan|Chinanet|
 
 
 
