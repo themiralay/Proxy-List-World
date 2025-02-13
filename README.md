@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.36.10.102|7777|Indonesia|Bangil|PT Awinet Global Mandiri|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|5|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|6|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|45.224.149.109|999|Ecuador|Borbón|Ufinet Panama S.A.|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|190.121.151.165|3128|Colombia|Cartago|Media Commerce Partners S.A|
-|11|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
-|14|77.243.15.85|3246|Russia|Kursk|Sovtest-Internet|
-|15|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|16|103.75.84.72|8080|Indonesia|Klaten|MEGADATA|
-|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|20|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|10|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
+|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|160.20.165.229|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|13|103.35.109.205|58080|Bangladesh|Kāfrul|Ranks ITT|
+|14|194.124.36.248|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|158.69.122.49|3129|Canada|Montreal|OVH SAS|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
