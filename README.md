@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|5|103.172.122.64|3125|Indonesia|Timba Timuk|PRIME|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|213.142.149.86|4433|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|18|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|19|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|146.196.40.165|8080|Indonesia|Karawang|UNINA|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|146.59.32.105|443|Poland|Warsaw|OVH SAS|
+|6|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|195.248.243.242|8080|Germany|Nuremberg|BitCommand LLC|
+|9|31.135.214.29|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|10|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
+|11|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|12|103.181.255.221|1080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|15|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
