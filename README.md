@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|101.51.161.145|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|67.43.227.230|20389|Canada|Montreal|GloboTech Communications|
-|10|157.66.37.20|8080|Indonesia|Kalianda|PT Speed Network Indonesia|
-|11|118.113.246.255|2324|China|Shanghai|Chinanet|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|121.227.109.45|8089|China|Nanjing|China Telecom|
-|14|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|72.10.164.178|31391|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31391|Canada|Montreal|GloboTech Communications|
-|19|103.156.16.59|8181|Indonesia|Pamanukan|RSTNET|
-|20|20.233.255.93|3128|United Arab Emirates|Dubai|Microsoft Corporation|
+|9|198.7.116.47|3128|Germany|Karlsruhe|Contabo GmbH|
+|10|183.136.139.57|1990|China|Ningbo|China Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|15.235.141.213|10002|Singapore|Singapore|OVH SAS|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|172.236.62.76|3128|Australia|Melbourne|Akamai Technologies, Inc.|
+|15|20.233.255.93|3128|United Arab Emirates|Dubai|Microsoft Corporation|
+|16|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|34.73.89.173|3128|United States|North Charleston|Google LLC|
+|19|195.140.213.5|3128|United Kingdom|London|Hydra Communications Ltd|
+|20|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
