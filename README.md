@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
-|6|171.232.179.235|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|11|116.98.122.240|10024|Vietnam|Hanoi|Viettel Corporation|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|157.66.219.215|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|14|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|6|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|116.98.122.240|10024|Vietnam|Hanoi|Viettel Corporation|
+|9|157.66.219.215|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|38.159.223.18|999|Dominican Republic|Cristo Rey|REYNOSO, S.R.L.|
+|12|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|13|67.43.227.226|5545|Canada|Montreal|GloboTech Communications|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 |15|116.98.122.240|10024|Vietnam|Hanoi|Viettel Corporation|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|67.43.227.226|16701|Canada|Montreal|GloboTech Communications|
-|18|183.136.139.76|1990|China|Ningbo|China Telecom|
-|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|116.98.122.240|10024|Vietnam|Hanoi|Viettel Corporation|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.236.19|9879|Canada|Montreal|GloboTech Communications|
+|19|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|106.115.87.35|9100|China|Handan|Chinanet|
 
 
 
