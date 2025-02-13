@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|125.71.204.238|9788|China|Chengdu|Chinanet|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|38.183.146.25|3333|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|17|116.98.122.240|10034|Vietnam|Hanoi|Viettel Corporation|
-|18|116.98.122.240|10034|Vietnam|Hanoi|Viettel Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|116.98.122.240|10034|Vietnam|Hanoi|Viettel Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|195.133.17.26|3128|The Netherlands|Amsterdam|Individual Entrepreneur Anton Levin|
+|12|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|16|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|118.113.245.134|2324|China|Shanghai|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|125.71.204.238|9788|China|Chengdu|Chinanet|
 
 
 
