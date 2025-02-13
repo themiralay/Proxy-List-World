@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|61.152.132.35|8788|China|Shanghai|China Telecom (Group)|
-|12|67.43.228.253|1145|Canada|Montreal|GloboTech Communications|
-|13|125.87.93.147|2324|China|Chongqing|China Telecom|
-|14|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|16|46.4.246.198|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|121.232.181.176|8089|China|Nanjing|Chinanet|
-|18|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|19|121.177.104.201|3097|South Korea|Changwon|Korea Telecom|
-|20|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|116.98.122.240|10012|Vietnam|Hanoi|Viettel Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|16|24.152.49.250|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
