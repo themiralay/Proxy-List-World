@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.150.113.37|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|87.118.84.144|3128|Germany|Erfurt|Keyweb AG IP Network|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|10|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|11|116.98.122.240|10013|Vietnam|Hanoi|Viettel Corporation|
-|12|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|67.43.236.18|19087|Canada|Montreal|GloboTech Communications|
-|18|121.227.118.188|8089|China|Nanjing|China Telecom|
-|19|121.227.203.131|8089|China|Nanjing|China Telecom|
-|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.191.196.155|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|5|87.118.84.144|3128|Germany|Erfurt|Keyweb AG IP Network|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|9|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|10|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|203.150.113.37|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|12|114.141.54.75|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|72.10.160.90|26805|Canada|Montreal|GloboTech Communications|
+|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|16|67.43.227.227|24805|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|177.190.189.16|44443|Brazil|Pinheiros|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
+|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|20|67.43.228.254|21697|Canada|Montreal|GloboTech Communications|
 
 
 
