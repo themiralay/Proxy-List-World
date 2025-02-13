@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.104.75.104|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|3|5.250.179.40|3128|France|Paris|IONOS SE|
-|4|162.243.49.27|3128|United States|New York|DigitalOcean, LLC|
-|5|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
-|9|180.166.128.182|11010|China|Shanghai|China Telecom (Group)|
-|10|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|23.131.24.81|3128|Japan|Tokyo|WebHorizon Internet Services|
-|14|180.127.149.224|1080|China|Nanjing|Chinanet|
-|15|72.10.164.178|21005|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|13353|Canada|Montreal|GloboTech Communications|
-|17|5.250.179.40|3128|France|Paris|IONOS SE|
-|18|67.43.228.250|24421|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|16265|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|13353|Canada|Montreal|GloboTech Communications|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|15|67.43.228.250|30413|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|30413|Canada|Montreal|GloboTech Communications|
+|17|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
+|18|72.10.160.94|26969|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|28473|Canada|Montreal|GloboTech Communications|
+|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
