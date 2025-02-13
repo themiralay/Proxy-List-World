@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|4|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|4|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 |6|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|67.43.227.227|30055|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|11459|Canada|Montreal|GloboTech Communications|
-|11|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
-|12|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|13|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|14|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|15|72.10.160.90|4771|Canada|Montreal|GloboTech Communications|
-|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|7|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|11|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|12|67.43.227.227|30055|Canada|Montreal|GloboTech Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|15|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
+|16|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
 |17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|116.98.122.240|10035|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.160.170|31807|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|4771|Canada|Montreal|GloboTech Communications|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|160.22.92.10|8080|Indonesia|Ketanggungan|IDNIC-3MEDIASOLUSI|
+|20|72.10.164.178|11459|Canada|Montreal|GloboTech Communications|
 
 
 
