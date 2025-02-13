@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|5|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|116.98.122.240|10030|Vietnam|Hanoi|Viettel Corporation|
-|8|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|13|118.113.245.134|2324|China|Shanghai|Chinanet|
-|14|157.66.16.36|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|103.76.109.120|8088|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|36.68.24.113|8080|Indonesia|Tangerang|PT. TELKOM INDONESIA|
-|19|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
+|3|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
+|6|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|116.203.36.93|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|116.98.122.240|10033|Vietnam|Hanoi|Viettel Corporation|
+|13|47.51.51.190|8080|United States|Norwalk|Charter Communications|
+|14|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|15|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|72.10.164.178|24003|Canada|Montreal|GloboTech Communications|
+|19|116.98.122.240|10033|Vietnam|Hanoi|Viettel Corporation|
+|20|103.194.175.18|8080|Indonesia|Banyuwangi|MYNET|
 
 
 
