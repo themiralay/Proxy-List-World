@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|182.52.231.44|8080|Thailand|Phuket|TOT Public Company Limited|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|5|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|158.69.122.49|3128|Canada|Montreal|OVH SAS|
-|12|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|13|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|72.10.160.172|30643|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|28595|Canada|Montreal|GloboTech Communications|
-|16|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|67.43.228.250|4341|Canada|Montreal|GloboTech Communications|
-|20|103.194.175.18|8080|Indonesia|Banyuwangi|MYNET|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|158.69.122.49|3128|Canada|Montreal|OVH SAS|
+|14|102.135.157.33|12354|South Africa|Durbanville|Session Telecoms(PTY) Ltd|
+|15|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|17|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|19|186.148.180.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
 
 
 
