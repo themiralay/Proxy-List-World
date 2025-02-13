@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.152.86.161|3128|United States|Fremont|CGI GLOBAL LIMITED|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.152.86.161|3128|United States|Fremont|CGI GLOBAL LIMITED|
-|5|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|6|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|91.205.172.113|3120|Germany|Munich|Contabo GmbH|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|114.9.52.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|13|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|15|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|67.43.228.251|6325|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|15919|Canada|Montreal|GloboTech Communications|
-|19|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|14.53.55.65|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|67.43.228.251|32075|Canada|Montreal|GloboTech Communications|
+|11|116.98.122.240|10010|Vietnam|Hanoi|Viettel Corporation|
+|12|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|13|177.54.147.174|3128|Brazil|São Paulo|Maxihost LTDA|
+|14|177.54.147.173|3129|Brazil|São Paulo|Maxihost LTDA|
+|15|118.113.245.134|2324|China|Shanghai|Chinanet|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|183.136.139.57|1990|China|Ningbo|China Telecom|
+|18|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|115.72.161.73|10021|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
