@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4698** proxies at the latest update. Usable proxies are below.
+> Scraper found **4688** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|184|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|537|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|372|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2679|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|101.109.160.215|8080|Thailand|Bangkok|TOT Public Company Limited|
 |5|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|6|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|9|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|13|107.172.151.172|8888|United States|Buffalo|HostPapa|
-|14|115.74.11.237|10017|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|157.66.16.44|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|116.98.122.240|10024|Vietnam|Hanoi|Viettel Corporation|
+|6|171.232.179.235|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|10|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|12|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|19|116.98.122.240|10024|Vietnam|Hanoi|Viettel Corporation|
+|20|157.66.219.176|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
 
 
 
