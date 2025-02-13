@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|67.43.228.250|26369|Canada|Montreal|GloboTech Communications|
-|7|116.98.122.240|10019|Vietnam|Hanoi|Viettel Corporation|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|67.43.228.250|26369|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|14419|Canada|Montreal|GloboTech Communications|
-|15|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|3.120.177.93|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|116.98.122.240|10019|Vietnam|Hanoi|Viettel Corporation|
-|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|2|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|8|67.43.228.250|20249|Canada|Montreal|GloboTech Communications|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|72.10.164.178|31695|Canada|Montreal|GloboTech Communications|
+|13|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|14|116.98.122.240|10007|Vietnam|Hanoi|Viettel Corporation|
+|15|119.204.64.219|41019|South Korea|Seo-gu|Korea Telecom|
+|16|218.1.197.10|2324|China|Shanghai|China Telecom (Group)|
+|17|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|18|72.10.160.170|8341|Canada|Montreal|GloboTech Communications|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|67.43.227.226|24943|Canada|Montreal|GloboTech Communications|
 
 
 
