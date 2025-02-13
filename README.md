@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|27.189.134.114|8089|China|Langfang|Chinanet|
-|6|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|67.43.228.250|3739|Canada|Montreal|GloboTech Communications|
-|9|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
-|10|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|11|72.10.160.171|2759|Canada|Montreal|GloboTech Communications|
-|12|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|20.206.147.182|3128|Brazil|São Paulo|Microsoft Corporation|
-|14|72.10.160.90|3287|Canada|Montreal|GloboTech Communications|
-|15|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|125.87.89.116|2324|China|Chongqing|China Telecom|
-|17|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.228.251|9797|Canada|Montreal|GloboTech Communications|
-|20|49.70.190.237|2324|China|Zhenjiang|Chinanet|
+|3|124.121.2.239|8080|Thailand|Bangkok|TRUEBB|
+|4|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|121.36.246.206|8191|China|Shanghai|Huawei Cloud Service data center|
+|7|91.107.136.65|45630|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|9|75.128.125.149|8080|United States|Kalamazoo|Charter Communications|
+|10|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|11|67.43.228.251|18601|Canada|Montreal|GloboTech Communications|
+|12|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|67.43.236.18|19285|Canada|Montreal|GloboTech Communications|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
