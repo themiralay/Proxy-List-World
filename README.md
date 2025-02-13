@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|71.228.14.203|3128|United States|Lisle|Comcast Cable Communications, LLC|
-|4|71.228.14.203|3128|United States|Lisle|Comcast Cable Communications, LLC|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|183.136.139.57|1990|China|Ningbo|China Telecom|
-|11|20.206.147.182|3128|Brazil|São Paulo|Microsoft Corporation|
-|12|149.129.194.142|3128|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|190.97.243.20|999|Venezuela|Punto Fijo|Viginet C.A|
-|16|72.10.164.178|18301|Canada|Montreal|GloboTech Communications|
-|17|113.192.30.217|8081|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|18|188.127.83.241|62244|United Kingdom|Manchester|Vaioni Group Ltd|
-|19|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|24.233.1.196|3128|Russia|Moscow|Century Communications - CableHigh Speed Data Division|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|12|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|20.206.147.182|3128|Brazil|São Paulo|Microsoft Corporation|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|183.136.139.57|1990|China|Ningbo|China Telecom|
+|19|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|20|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
