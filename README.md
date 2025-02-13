@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|5|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|6|72.10.160.90|10855|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|27.66.229.81|5104|Vietnam|Kỳ Anh|Viettel Group|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |7|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
-|8|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|35.92.100.187|3128|United States|Portland|Amazon.com, Inc.|
+|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |11|116.98.122.240|10033|Vietnam|Hanoi|Viettel Corporation|
-|12|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|116.98.122.240|10033|Vietnam|Hanoi|Viettel Corporation|
-|15|116.98.122.240|10033|Vietnam|Hanoi|Viettel Corporation|
-|16|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|35.89.114.25|3128|United States|Portland|Amazon.com, Inc.|
-|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|45.123.142.9|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|72.10.160.170|30377|Canada|Montreal|GloboTech Communications|
+|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|107.172.151.172|8888|United States|Buffalo|HostPapa|
+|18|183.136.139.57|1990|China|Ningbo|China Telecom|
+|19|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
