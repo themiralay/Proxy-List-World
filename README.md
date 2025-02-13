@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4637** proxies at the latest update. Usable proxies are below.
+> Scraper found **4728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|640|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|275|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2609|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2700|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|101.109.176.62|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|147.45.173.192|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|2|113.11.179.228|8181|Indonesia|Jakarta|BIZNET|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|185.255.89.165|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
 |7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.125.174.72|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|12|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
-|13|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|14|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
-|15|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|16|103.214.9.98|3128|Vietnam|Thanh Xuân|MEGACORE|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|195.182.25.32|3128|The Netherlands|Amsterdam|Ferdinand Zink trading as Tube-Hosting|
-|20|157.66.219.193|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|205.164.183.154|999|Mexico|Tehuacán|Cesar Flores Barbosa|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|72.10.160.93|6767|Canada|Montreal|GloboTech Communications|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|162.55.149.221|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
