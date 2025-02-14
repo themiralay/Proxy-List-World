@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|103.82.39.237|15500|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|115.73.108.233|80|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|10|114.224.74.251|2324|China|Wuxi|Chinanet|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|160.20.165.230|8587|Ecuador|Naranjal|Ufinet Panama S.A.|
-|14|67.43.228.250|18365|Canada|Montreal|GloboTech Communications|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|72.10.160.170|15591|Canada|Montreal|GloboTech Communications|
-|18|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|19|115.74.10.144|10002|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|114.224.74.251|2324|China|Wuxi|Chinanet|
+|10|115.77.172.78|8080|Vietnam|Vũng Tàu|Viettel Group|
+|11|103.191.59.246|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|71.42.125.219|4444|United States|Leander|Spectrum|
+|16|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
+|17|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|18|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|19|118.113.245.3|2324|China|Shanghai|Chinanet|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
