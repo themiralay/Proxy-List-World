@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|6|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|45.114.144.22|32650|India|Jaipur|Tejays Dynamic Limited|
-|10|67.43.227.226|26213|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|67.43.227.226|26213|Canada|Montreal|GloboTech Communications|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|103.36.11.21|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|16|111.72.195.92|2324|China|Taohua|Chinanet|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|67.43.236.19|19377|Canada|Montreal|GloboTech Communications|
-|19|116.108.4.166|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|185.255.88.177|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|9|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|10|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|190.235.185.34|999|Peru|Lima|TDP-GRS|
+|17|118.113.244.2|2324|China|Shanghai|Chinanet|
+|18|101.109.159.138|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|19|103.167.87.48|39045|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
