@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|49.48.97.35|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|139.84.141.242|22002|India|Bengaluru|The Constant Company|
-|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|14|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
-|15|220.84.149.169|3040|South Korea|Busan|Korea Telecom|
-|16|67.43.236.19|10139|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|26069|Canada|Montreal|GloboTech Communications|
-|18|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|20|67.43.228.250|7879|Canada|Montreal|GloboTech Communications|
+|2|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|190.61.116.246|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|10|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|67.43.228.250|15471|Canada|Montreal|GloboTech Communications|
+|16|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|18|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
