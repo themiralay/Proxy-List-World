@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|43.198.14.73|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|6|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|103.101.193.46|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|10|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.228.252|21595|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|115.72.39.218|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
-|16|27.189.133.57|8089|China|Langfang|Chinanet|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|2|43.198.14.73|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|8|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
+|9|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|10|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|67.43.236.18|1643|Canada|Montreal|GloboTech Communications|
+|13|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|189.89.186.178|44443|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
 
 
 
