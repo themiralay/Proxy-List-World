@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4583** proxies at the latest update. Usable proxies are below.
+> Scraper found **4569** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|494|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|480|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|274|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2642|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|10|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|101.255.208.62|8080|Indonesia|Bekasi|PT Remala Abadi|
-|13|125.87.85.91|2324|China|Shanghai|China Telecom|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|16|72.10.160.90|21937|Canada|Montreal|GloboTech Communications|
-|17|125.87.90.169|2324|China|Chongqing|China Telecom|
-|18|118.113.245.205|2324|China|Shanghai|Chinanet|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|125.87.89.149|2324|China|Chongqing|China Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|4|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|10|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|116.254.96.111|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|17|72.10.164.178|30521|Canada|Montreal|GloboTech Communications|
+|18|61.160.247.69|9999|China|Nanjing|China Telecom|
+|19|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|20|72.10.160.91|23549|Canada|Montreal|GloboTech Communications|
 
 
 
