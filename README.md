@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|116.108.16.29|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|157.66.16.42|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|11|171.232.184.156|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|116.108.16.29|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|115.77.243.105|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
-|15|171.232.184.156|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|115.74.6.48|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|17|180.112.182.205|8089|China|Nanjing|Chinanet|
-|18|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|19|115.72.169.175|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|222.127.52.20|8082|Philippines|Lahug|INNOVE|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|115.72.160.210|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|8|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|9|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|10|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|11|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|115.72.169.175|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|14|115.127.81.142|58080|Bangladesh|Dhaka|BRACNet Limited|
+|15|116.108.4.166|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|67.43.236.18|27829|Canada|Montreal|GloboTech Communications|
+|17|116.108.4.166|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|115.72.173.161|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
