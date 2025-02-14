@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|160.19.178.45|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|12|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
+|13|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.87.148.40|1111|Indonesia|Pundong|Lintas Data Prima, PT|
+|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|4.208.81.164|3128|Ireland|Dublin|Microsoft Corporation|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
