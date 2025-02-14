@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|3|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.133.26.117|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|8|152.200.179.6|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|15|157.66.219.223|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|58.59.61.200|10991|China|Jinan|Chinanet|
-|19|67.43.236.18|14085|Canada|Montreal|GloboTech Communications|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|5.53.23.106|8080|Russia|Surgut|Metroset Ltd|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|102.164.252.150|8080|Equatorial Guinea|Bata|Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial|
+|10|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|118.113.245.8|2324|China|Shanghai|Chinanet|
+|15|116.98.122.240|10007|Vietnam|Hanoi|Viettel Corporation|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|67.43.228.251|6323|Canada|Montreal|GloboTech Communications|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|20|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
 
 
 
