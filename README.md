@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|157.66.219.227|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|3|132.145.212.19|3128|United States|Ashburn|Oracle Corporation|
-|4|157.66.219.201|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|5|157.66.219.179|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|6|157.66.219.218|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|7|132.145.212.19|3128|United States|Ashburn|Oracle Corporation|
-|8|157.66.219.225|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.176.96.136|8080|Indonesia|Karawang|PT Global Sarana Elektronika|
+|2|157.66.219.218|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|3|157.66.219.227|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|4|157.66.219.213|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|5|157.66.219.190|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|6|157.66.219.201|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|157.66.219.179|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|10|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|94.159.102.2|53895|Germany|Frankfurt am Main|H2nexus LTD|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|157.66.219.225|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|94.159.102.2|53895|Germany|Frankfurt am Main|H2nexus LTD|
-|17|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|18|67.43.227.229|13845|Canada|Montreal|GloboTech Communications|
-|19|157.66.219.193|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|20|67.43.228.250|24909|Canada|Montreal|GloboTech Communications|
+|14|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.125.16.99|8080|Indonesia|Tangerang|JAVAMEDIA|
+|16|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.55.123.126|8080|United States|Clifton|DigitalOcean, LLC|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
 
 
 
