@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|11|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|24.144.80.59|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|16|59.39.225.121|2324|China|Humen|Chinanet|
-|17|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|72.10.164.178|5041|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|116.108.13.254|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|59.39.225.121|2324|China|Humen|Chinanet|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|14.29.116.148|727|China|Guangzhou|Chinanet|
+|15|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|16|67.43.236.18|31391|Canada|Montreal|GloboTech Communications|
+|17|118.113.244.2|2324|China|Shanghai|Chinanet|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
 
 
 
