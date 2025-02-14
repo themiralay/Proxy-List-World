@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|7|67.43.227.226|3777|Canada|Montreal|GloboTech Communications|
-|8|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|9|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|10|67.43.228.250|15961|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|6961|Canada|Montreal|GloboTech Communications|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|67.43.227.226|3777|Canada|Montreal|GloboTech Communications|
-|14|157.66.219.202|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|157.66.219.223|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|17|157.66.219.176|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|18|157.66.219.193|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|19|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|157.66.219.229|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|49.49.58.98|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|116.98.122.240|10032|Vietnam|Hanoi|Viettel Corporation|
+|11|190.106.118.221|999|Dominican Republic|Santo Domingo|Estrela Telecom|
+|12|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|67.43.227.226|3777|Canada|Montreal|GloboTech Communications|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|72.10.160.170|22693|Canada|Montreal|GloboTech Communications|
+|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|20|67.43.227.226|3777|Canada|Montreal|GloboTech Communications|
 
 
 
