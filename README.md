@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.198.14.73|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|27.189.131.244|8089|China|Langfang|Chinanet|
-|11|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|12|202.40.185.145|100|Bangladesh|Dhaka|Ranks ITT|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|15|182.105.82.38|655|China|Taohua|Chinanet|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|27.189.134.62|8089|China|Langfang|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
-|20|125.25.43.96|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|222.215.137.18|3218|China|Deyang|Chinanet|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|185.255.88.181|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|13|103.172.120.37|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
+|14|188.125.169.142|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|67.43.228.250|25447|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.162.54.117|2233|Indonesia|Subang|PT Pratama Asia Globalindo|
+|18|67.43.227.226|22129|Canada|Montreal|GloboTech Communications|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
