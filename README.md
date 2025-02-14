@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.191.218.87|8089|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|131.221.140.225|8080|Brazil|Barcarena Nova|MVM PINTO COMERCIO E SERVICOS ME|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|9|200.233.147.14|3128|Brazil|Ribeirão Preto|ALGAR TELECOM S/A|
-|10|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
-|11|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|13|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
-|15|72.10.164.178|7537|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|31.129.107.149|3128|Russia|St Petersburg|Beget LLC|
-|19|203.192.199.158|53|India|Pune|Entire In2Cable|
-|20|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|5.101.44.155|8118|The Netherlands|Haarlem|LLHost Inc NL|
+|4|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|5|72.10.164.178|6485|Canada|Montreal|GloboTech Communications|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|202.93.245.18|8080|Indonesia|Jagirsidosermo|DWPNAP|
+|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|10|72.10.164.178|6485|Canada|Montreal|GloboTech Communications|
+|11|200.233.147.14|3128|Brazil|Ribeirão Preto|ALGAR TELECOM S/A|
+|12|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|13|204.199.140.23|999|Chile|Santiago|Ingbell Chile SPA|
+|14|118.179.136.69|47417|Bangladesh|Dhaka|AmberIT Limited|
+|15|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|19|67.43.227.226|6871|Canada|Montreal|GloboTech Communications|
+|20|103.156.249.86|8080|Indonesia|Surabaya|Trans Media Telekomunikasi|
 
 
 
