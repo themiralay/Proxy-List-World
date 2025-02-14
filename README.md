@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
-|6|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|20.41.84.221|3128|South Korea|Seoul|Microsoft Corporation|
-|10|157.66.219.193|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|11|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|12|27.189.135.85|8089|China|Langfang|Chinanet|
-|13|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|14|195.140.213.5|3129|United Kingdom|London|Hydra Communications Ltd|
-|15|67.43.236.20|1031|Canada|Montreal|GloboTech Communications|
-|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|17|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|18|209.146.18.230|8082|Philippines|Manila|Cogent Communications|
-|19|72.10.160.173|10269|Canada|Montreal|GloboTech Communications|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|11|103.187.114.100|8082|Indonesia|Teluknaga|PT Victory Network Indonesia|
+|12|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|13|103.155.116.239|8085|Indonesia|Serang|IOSYS|
+|14|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|15|116.98.122.240|10007|Vietnam|Hanoi|Viettel Corporation|
+|16|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
+|19|121.227.118.145|8089|China|Nanjing|China Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
