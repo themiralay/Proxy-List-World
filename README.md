@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|47.251.164.195|3128|United States|Minkler|Alibaba Cloud LLC|
+|2|47.251.164.195|3128|United States|Minkler|Alibaba Cloud LLC|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |4|195.140.213.230|3128|United Kingdom|London|Hydra Communications Ltd|
 |5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.139.99.29|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|12|72.10.160.91|3811|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|3811|Canada|Montreal|GloboTech Communications|
-|14|45.152.112.178|3128|France|Paris|CGI GLOBAL LIMITED|
-|15|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|115.72.161.181|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|69.167.30.207|8118|United States|San Francisco|Paradise Networks LLC|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|72.10.160.173|19837|Canada|Montreal|GloboTech Communications|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
