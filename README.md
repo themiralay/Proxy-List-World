@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|116.108.16.29|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|186.148.184.130|8087|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.238.127.84|10009|Vietnam|Ninh Bình|Viettel Corporation|
+|4|116.108.16.29|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|115.72.173.161|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|10|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|11|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|171.232.184.156|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|115.77.253.116|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|115.77.243.105|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|67.43.228.250|10685|Canada|Montreal|GloboTech Communications|
-|20|116.108.4.166|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|115.77.243.105|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|13|171.232.184.156|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|115.77.243.105|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|45.114.144.231|32650|India|Jaipur|Tejays Dynamic Limited|
+|16|116.108.16.29|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|115.74.6.48|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|19|115.72.173.161|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
