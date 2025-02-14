@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|115.77.164.18|10007|Vietnam|Vũng Tàu|Viettel Group|
-|8|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
-|9|119.96.72.199|59394|China|Wuhan|CHINANET Hubei province network|
-|10|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|11|111.75.189.3|655|China|Taohua|Chinanet|
-|12|27.189.135.44|8089|China|Langfang|Chinanet|
-|13|103.175.240.67|8080|Indonesia|Banyumas|LDP|
-|14|72.10.160.173|20313|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.236.18|7293|Canada|Montreal|GloboTech Communications|
-|17|87.107.121.108|3128|Iran|Tehran|Soroush Rasanheh Company Ltd|
-|18|72.10.164.178|16731|Canada|Montreal|GloboTech Communications|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
+|8|103.171.255.246|8080|Indonesia|Sleman|ZKI|
+|9|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|72.10.164.178|4903|Canada|Montreal|GloboTech Communications|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|115.74.10.144|10009|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|115.77.164.18|10003|Vietnam|Vũng Tàu|Viettel Group|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|67.43.236.18|29103|Canada|Montreal|GloboTech Communications|
+|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
