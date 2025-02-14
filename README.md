@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|5|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|6|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.126.173.165|8080|Indonesia|Bandar Lampung|MEGARAP|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|13|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|14|104.129.194.38|11265|United States|Reston|ZSCALER, INC.|
-|15|104.129.194.43|11197|United States|Reston|ZSCALER, INC.|
-|16|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
-|17|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
-|18|104.129.194.46|11065|United States|Reston|ZSCALER, INC.|
-|19|104.129.194.45|10945|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.43|11197|United States|Reston|ZSCALER, INC.|
+|2|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|62.171.147.126|8000|France|Lauterbourg|Contabo GmbH|
+|6|20.121.228.60|3128|United States|Boydton|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|9|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|12|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|13|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
+|14|104.129.194.43|11197|United States|Reston|ZSCALER, INC.|
+|15|104.129.194.46|11065|United States|Reston|ZSCALER, INC.|
+|16|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|17|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
+|18|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|104.129.194.46|11065|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.45|18080|United States|Reston|ZSCALER, INC.|
 
 
 
