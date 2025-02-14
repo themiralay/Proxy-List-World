@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|101.36.117.83|12366|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.153.96.147|8181|Indonesia|Serang|NITNET|
-|9|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
-|10|20.41.84.221|3128|South Korea|Seoul|Microsoft Corporation|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|14|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|15|67.43.236.20|29889|Canada|Montreal|GloboTech Communications|
-|16|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|3|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
+|4|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|5|157.15.166.74|8090|Indonesia|Metro|PT Kartika Siger Network|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|8|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|9|103.147.247.171|8080|Indonesia|Tangerang|PLBNET|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|157.66.219.214|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|12|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|13|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|116.98.122.240|10016|Vietnam|Hanoi|Viettel Corporation|
+|16|170.80.64.199|8080|Brazil|Vespasiano|BTT TELECOMUNICACOES S.A.|
+|17|2.188.229.150|7020|Iran|Tabriz|Ofogh Koroush Chain Store Public Joint Stock|
+|18|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
+|19|182.150.116.147|1436|China|Muping|Chinanet|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
