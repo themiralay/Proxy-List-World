@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|157.66.219.229|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|3|139.0.27.91|80|Indonesia|Tangerang|PT. First Media, Tbk|
-|4|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|5|193.181.35.75|8118|Sweden|Stockholm|PVDataNet AB|
-|6|102.0.17.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|10|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|11|114.31.15.190|2024|Bangladesh|Dimla|BDCOM Online Limited|
-|12|14.143.130.210|1111|India|Chennai|Tata Communications Limited|
-|13|91.107.123.242|33717|United Kingdom|Bromley|JSC IOT|
-|14|190.61.55.138|999|Colombia|Fundación|Ufinet Panama S.A.|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|62.171.147.126|8000|France|Lauterbourg|Contabo GmbH|
-|17|67.43.236.20|24269|Canada|Montreal|GloboTech Communications|
-|18|49.70.190.237|2324|China|Zhenjiang|Chinanet|
-|19|116.98.122.240|10032|Vietnam|Hanoi|Viettel Corporation|
-|20|125.87.86.52|2324|China|Shanghai|China Telecom|
+|2|103.125.16.97|8080|Indonesia|Tangerang|JAVAMEDIA|
+|3|157.66.219.229|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|209.14.113.2|999|Colombia|Bogotá|AGIS|
+|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.227.187.11|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|10|190.104.134.145|3128|Paraguay|Asunción|Núcleo S.A.|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|103.125.160.178|83|India|Hyderabad|CtrlS|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.175.46.13|8080|Indonesia|Arjawinangun|PT Internet Keluarga Indonesia|
+|17|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|18|121.227.146.113|8089|China|Nanjing|China Telecom|
+|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
