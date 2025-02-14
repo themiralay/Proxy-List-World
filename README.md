@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
 |4|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|147.45.173.192|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|19|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|6|125.26.188.46|8080|Thailand|Hat Yai|TOT Public Company Limited|
+|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|185.255.88.157|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|13|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|17|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|19|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
