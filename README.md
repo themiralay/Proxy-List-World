@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|4|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|116.108.4.166|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
 |8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|13|91.107.123.242|33717|United Kingdom|Bromley|JSC IOT|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|18|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
-|19|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|20|118.113.245.8|2324|China|Shanghai|Chinanet|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
+|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|16|195.140.213.5|3129|United Kingdom|London|Hydra Communications Ltd|
+|17|36.68.33.233|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|20|103.242.106.119|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
 
 
 
