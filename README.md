@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|8|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|12|54.39.17.146|8080|Canada|Beauharnois|OVH SAS|
-|13|103.147.118.142|7777|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|222.68.42.242|2324|China|Shanghai|China Telecom (Group)|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|223.242.222.72|1080|China|Hefei|Chinanet|
-|19|12.165.234.129|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|116.109.208.14|9050|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|10|123.20.146.41|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|222.68.42.242|2324|China|Shanghai|China Telecom (Group)|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|149.86.140.131|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|20.215.134.12|3128|Poland|Warsaw|Microsoft Corporation|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|103.61.240.198|9090|Bangladesh|Dhaka|HelloTech Limited|
+|19|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
