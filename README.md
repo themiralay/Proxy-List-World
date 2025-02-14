@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
 |3|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|4|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
-|5|147.45.173.192|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|12|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|19|36.68.33.233|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|4|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
