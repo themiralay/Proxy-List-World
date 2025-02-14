@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
-|3|203.150.113.235|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|9|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|15.184.167.62|3128|Bahrain|Manama|Amazon Technologies Inc.|
-|15|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|58.59.61.200|10991|China|Jinan|Chinanet|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.150.113.235|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|43.153.133.123|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|8|15.184.167.62|3128|Bahrain|Manama|Amazon Technologies Inc.|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|115.77.164.18|10006|Vietnam|Vũng Tàu|Viettel Group|
+|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|18|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
