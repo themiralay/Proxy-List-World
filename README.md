@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|81.90.149.186|3128|Iran|Tehran|Afranet|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|11|67.43.236.21|20491|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|14|67.43.228.250|23043|Canada|Montreal|GloboTech Communications|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|116.108.4.166|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|72.10.160.91|31265|Canada|Montreal|GloboTech Communications|
-|18|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
-|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|20|115.72.163.206|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|2|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|15.184.167.62|3128|Bahrain|Manama|Amazon Technologies Inc.|
+|8|115.74.6.48|10009|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|115.72.163.206|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|67.43.228.250|30409|Canada|Montreal|GloboTech Communications|
+|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|14|115.77.164.18|10008|Vietnam|Vũng Tàu|Viettel Group|
+|15|116.108.4.166|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|59.39.226.21|2324|China|Guangzhou|Chinanet|
+|18|115.72.160.210|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
