@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|115.72.173.161|10009|Vietnam|Vũng Tàu|VIETELmetro|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|67.43.236.19|15685|Canada|Montreal|GloboTech Communications|
-|10|115.72.169.175|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|72.10.160.90|20877|Canada|Montreal|GloboTech Communications|
-|13|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|67.43.236.18|8781|Canada|Montreal|GloboTech Communications|
-|16|121.227.203.138|8089|China|Nanjing|China Telecom|
-|17|72.10.160.171|5885|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
-|20|115.72.160.210|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|3|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|6|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|101.109.176.62|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|115.72.173.161|10009|Vietnam|Vũng Tàu|VIETELmetro|
+|13|111.75.189.3|655|China|Taohua|Chinanet|
+|14|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|115.72.169.175|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|20|171.238.127.84|10007|Vietnam|Ninh Bình|Viettel Corporation|
 
 
 
