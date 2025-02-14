@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|115.77.164.18|10005|Vietnam|Vũng Tàu|Viettel Group|
-|8|67.43.227.226|4257|Canada|Montreal|GloboTech Communications|
-|9|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
-|10|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|11|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|13|67.43.236.19|12553|Canada|Montreal|GloboTech Communications|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|67.43.236.18|25879|Canada|Montreal|GloboTech Communications|
-|16|168.196.114.16|56000|Argentina|Añatuya|SAN GABRIEL VIDEO CABLE COLOR S.A.|
-|17|115.74.9.194|10005|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.236.18|25879|Canada|Montreal|GloboTech Communications|
-|20|59.39.226.34|2324|China|Guangzhou|Chinanet|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|168.196.114.16|56000|Argentina|Añatuya|SAN GABRIEL VIDEO CABLE COLOR S.A.|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|14|115.72.163.206|10009|Vietnam|Vũng Tàu|VIETELmetro|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|115.74.9.194|10007|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|17|27.70.238.241|10008|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
