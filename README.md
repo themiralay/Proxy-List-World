@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|157.66.219.223|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
-|14|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|62.171.147.126|8000|France|Lauterbourg|Contabo GmbH|
+|5|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|9|103.18.77.110|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|12|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|103.125.38.70|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|71.42.125.218|4444|United States|Leander|Spectrum|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|71.42.125.218|4444|United States|Leander|Spectrum|
+|20|185.200.37.246|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
