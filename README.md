@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|115.74.10.144|10004|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|8|185.255.89.169|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|185.255.89.169|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|12|67.43.236.18|29523|Canada|Montreal|GloboTech Communications|
-|13|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|16|115.74.6.48|10004|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|18|67.43.228.250|12909|Canada|Montreal|GloboTech Communications|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|9|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|115.77.164.18|10006|Vietnam|Vũng Tàu|Viettel Group|
+|12|103.127.220.5|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|13|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|115.77.164.18|10006|Vietnam|Vũng Tàu|Viettel Group|
+|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|116.108.1.126|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
