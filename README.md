@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.156.249.86|8080|Indonesia|Surabaya|Trans Media Telekomunikasi|
-|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|12|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|13|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|14|103.156.16.59|8181|Indonesia|Pamanukan|RSTNET|
-|15|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|16|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|17|118.113.245.134|2324|China|Shanghai|Chinanet|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|72.10.160.171|18203|Canada|Montreal|GloboTech Communications|
-|20|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|194.190.70.200|3128|Russia|Moscow|ServTech LTD|
+|3|47.245.63.175|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|202.93.245.18|8080|Indonesia|Jagirsidosermo|DWPNAP|
+|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
+|9|103.191.218.87|8089|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|10|186.65.107.2|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|11|103.106.79.236|7979|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|12|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|15|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|16|117.68.110.16|9443|China|Hefei|China Telecom|
+|17|72.10.160.90|28881|Canada|Montreal|GloboTech Communications|
+|18|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|19|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
