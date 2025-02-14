@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|181.129.250.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|7|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|10|103.176.97.12|1111|Indonesia|Karawang|PT Global Sarana Elektronika|
-|11|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|4|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|5|181.129.250.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|6|103.155.246.69|8080|Indonesia|Sukoharjo|AMANNA|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.124.254.47|8888|Singapore|Singapore|Google LLC|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|45.87.153.219|3130|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|213.74.115.216|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|17|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|18|72.10.160.173|16939|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.228.254|5657|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|18|103.176.97.12|1111|Indonesia|Karawang|PT Global Sarana Elektronika|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
