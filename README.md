@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|116.98.122.240|10013|Vietnam|Hanoi|Viettel Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.15.88.60|39058|Vietnam|Thủ Đức|WIXCLOUD|
-|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|223.204.50.217|3128|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|16|32.140.234.250|83|United States|Dallas|AT&T Services, Inc.|
-|17|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|103.186.204.42|8085|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|19|67.43.227.230|30075|Canada|Montreal|GloboTech Communications|
-|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|185.133.38.132|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|4|67.43.227.230|30075|Canada|Montreal|GloboTech Communications|
+|5|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|84.255.40.228|8998|Malta|Birkirkara|Melita plc|
+|7|62.171.151.204|8000|France|Lauterbourg|Research Machines|
+|8|181.114.224.181|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|116.98.122.240|10032|Vietnam|Hanoi|Viettel Corporation|
+|11|59.39.196.245|2324|China|Guangzhou|Chinanet|
+|12|195.140.213.230|3128|United Kingdom|London|Hydra Communications Ltd|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|77.237.238.141|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|67.43.236.18|28299|Canada|Montreal|GloboTech Communications|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|54.39.17.146|8080|Canada|Beauharnois|OVH SAS|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
