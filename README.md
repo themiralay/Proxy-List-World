@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|157.66.219.179|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|3|157.66.219.227|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|3|157.66.219.201|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
 |4|157.66.219.225|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|5|157.66.219.201|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|6|157.66.219.218|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|7|132.145.212.19|3128|United States|Ashburn|Oracle Corporation|
-|8|36.92.115.118|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|132.145.212.19|3128|United States|Ashburn|Oracle Corporation|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|157.66.219.218|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|6|157.66.219.227|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|7|157.66.219.202|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|8|132.145.212.19|3128|United States|Ashburn|Oracle Corporation|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|132.145.212.19|3128|United States|Ashburn|Oracle Corporation|
+|12|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
+|13|94.159.102.2|53895|Germany|Frankfurt am Main|H2nexus LTD|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |15|185.255.89.169|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|16|54.185.7.98|80|United States|Portland|Amazon.com, Inc.|
-|17|121.227.146.99|8089|China|Nanjing|China Telecom|
-|18|180.125.186.148|1080|China|Nanjing|Chinanet|
-|19|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
-|20|121.227.118.161|8089|China|Nanjing|China Telecom|
+|16|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|17|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
