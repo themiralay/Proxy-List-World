@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|4|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
-|5|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|7|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|67.43.236.18|23091|Canada|Montreal|GloboTech Communications|
-|9|157.66.219.193|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|13|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|14|72.10.160.90|6029|Canada|Montreal|GloboTech Communications|
-|15|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|16|121.232.181.132|8089|China|Nanjing|Chinanet|
-|17|72.10.160.92|2675|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|9081|Canada|Montreal|GloboTech Communications|
-|19|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|54.39.17.146|8080|Canada|Beauharnois|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|10|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|180.191.22.26|8080|Philippines|Cabanatuan City|Globe Telecom|
+|12|67.43.236.18|14981|Canada|Montreal|GloboTech Communications|
+|13|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|101.51.130.252|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|72.10.160.90|29663|Canada|Montreal|GloboTech Communications|
+|18|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
 
 
 
