@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|176.124.199.31|3128|Netherlands|Amsterdam|xorek.cloud International LTD|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|181.39.48.118|999|Ecuador|Quito|Telconet S.A|
-|9|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|67.43.228.250|16985|Canada|Montreal|GloboTech Communications|
-|16|54.39.17.146|8080|Canada|Beauharnois|OVH SAS|
-|17|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|18|72.10.164.178|31557|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|21325|Canada|Montreal|GloboTech Communications|
-|20|190.97.239.25|999|Venezuela|Caracas||
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.4.201.141|999|Ecuador|Portoviejo|Eliana Vanessa Morocho Oña|
+|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|6|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|67.43.228.250|5765|Canada|Montreal|GloboTech Communications|
+|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|12|205.164.192.114|999|Mexico|Ayotlán|Jose De Jesus Vazquez Ponce|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|91.107.123.242|33717|United Kingdom|Bromley|JSC IOT|
+|15|116.98.122.240|10022|Vietnam|Hanoi|Viettel Corporation|
+|16|67.43.228.251|21325|Canada|Montreal|GloboTech Communications|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|115.127.139.106|48134|Bangladesh|Dhaka|BRACNet Limited|
+|19|168.228.176.30|3137|Brazil|Tianguá|BRASILINK SERVIÇOS EIRELI|
+|20|49.70.190.237|2324|China|Zhenjiang|Chinanet|
 
 
 
