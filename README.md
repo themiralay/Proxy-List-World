@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|4|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.155.196.153|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|62.171.147.126|8000|France|Lauterbourg|Contabo GmbH|
+|4|31.14.122.28|443|Iran|Tehran|Afranet Co|
+|5|121.227.118.145|8089|China|Nanjing|China Telecom|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 |7|181.39.12.225|999|Ecuador|Guayaquil|Telconet S.A|
-|8|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
-|9|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|13|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
-|14|67.43.236.18|32611|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|157.66.219.223|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|17|67.43.236.18|32611|Canada|Montreal|GloboTech Communications|
-|18|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|19|81.30.196.146|8080|Russia|Ufa|JSC "Ufanet"|
-|20|139.228.4.42|8080|Indonesia|Bekasi|PT. First Media, Tbk|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|176.123.166.254|28556|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|157.66.219.217|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
+|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|12|88.198.121.95|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|185.58.16.1|8080|Ireland|Dublin|Carnsore Broadband Limited|
+|18|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|DNBR TELECOMUNICAÇÕES - EIRELI|
+|19|45.4.1.208|999|Chile|Santiago|Tlink SPA|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
