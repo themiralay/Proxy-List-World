@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|2|192.99.182.243|3128|Canada|Beauharnois|OVH Hosting|
+|3|116.102.108.68|10001|Vietnam|Bà Rịa|Viettel Corporation|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |6|47.251.164.195|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|188.120.232.178|3128|Russia|Novoivanovskoye|JSC IOT|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|157.66.219.218|3128|Vietnam|Quận Ba|Viet Digital Technology Liability Company|
-|14|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|67.43.228.250|21991|Canada|Montreal|GloboTech Communications|
-|19|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|195.140.213.230|3128|United Kingdom|London|Hydra Communications Ltd|
+|10|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|15|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|16|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.146.197.82|8080|Indonesia|Banyuwangi|RIYADNETWORK|
+|19|67.43.228.250|21991|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|24073|Canada|Montreal|GloboTech Communications|
 
 
 
