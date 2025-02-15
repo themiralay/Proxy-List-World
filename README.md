@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.208|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|11|101.51.161.145|8080|Thailand|Pattaya|TOT Public Company Limited|
-|12|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|13|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|49.148.106.194|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
-|20|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|164.70.68.208|3128|Japan|Chiyoda|InfoSphere|
+|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|36.88.98.12|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|9|27.70.238.241|10008|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|103.163.244.212|83|India|Panipat|Infolink System|
+|11|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
+|12|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|181.78.13.204|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
