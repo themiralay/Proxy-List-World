@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|7|223.206.56.22|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|101.108.112.200|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|185.103.109.63|3128|Russia|Moscow|First Server Limited|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|72.10.164.178|21819|Canada|Montreal|GloboTech Communications|
-|16|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
-|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|19|72.10.160.93|11399|Canada|Montreal|GloboTech Communications|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|27.70.238.241|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|13|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|72.10.164.178|21819|Canada|Montreal|GloboTech Communications|
 |20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 
 
