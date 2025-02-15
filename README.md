@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|13|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|11|103.125.16.98|8080|Indonesia|Tangerang|JAVAMEDIA|
+|12|91.107.176.84|2580|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 |14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.82.36.159|21503|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|20|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|19|49.70.190.101|2324|China|Zhenjiang|Chinanet|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
