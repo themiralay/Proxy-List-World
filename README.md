@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|103.193.144.5|8181|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|12|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|27.189.133.184|8089|China|Langfang|Chinanet|
-|15|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|118.68.118.94|10008|Vietnam|Hanoi|FPT Telecom Company|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.164.178|2413|Canada|Montreal|GloboTech Communications|
+|2|101.109.55.140|8080|Thailand|Pattaya|TOT Public Company Limited|
+|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|6|41.203.218.186|8083|Kenya|Nairobi|Fixed Wimax-Rollout-Coast-Kenya|
+|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|103.159.196.149|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
+|14|79.175.189.50|80|Iran|Tehran|Afranet|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
+|17|114.80.37.199|3081|China|Shanghai|China Telecom (Group)|
+|18|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|19|103.39.49.98|8080|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
