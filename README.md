@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|66.70.191.133|80|Canada|Montreal|OVH SAS|
-|6|121.227.118.186|8089|China|Nanjing|China Telecom|
-|7|67.43.227.226|26317|Canada|Montreal|GloboTech Communications|
-|8|3.120.177.93|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|10|72.10.160.171|16945|Canada|Montreal|GloboTech Communications|
-|11|103.101.99.45|8080|Bangladesh|Bhātāra|Pandora Technology|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|27.70.238.241|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|67.43.236.19|3505|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|18053|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|1|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|4|36.50.11.196|8080|Bangladesh|Gazipur|Stardust Telecom Ltd|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|202.138.243.42|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|8|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|10|81.12.40.250|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|67.43.227.226|26317|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|72.10.160.91|18561|Canada|Montreal|GloboTech Communications|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.160.171|16945|Canada|Montreal|GloboTech Communications|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|171.247.234.155|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
 
 
 
