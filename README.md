@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|8|49.70.190.211|2324|China|Zhenjiang|Chinanet|
-|9|67.43.227.226|2281|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|18579|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|2891|Canada|Montreal|GloboTech Communications|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|14|67.43.227.226|2281|Canada|Montreal|GloboTech Communications|
-|15|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|2|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|3|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|67.43.227.226|23419|Canada|Montreal|GloboTech Communications|
+|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|201.48.63.91|5151|Brazil|Hortolândia|ALGAR TELECOM S/A|
+|11|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|12|67.43.227.228|8395|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|6175|Canada|Montreal|GloboTech Communications|
+|14|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |16|67.43.228.251|29759|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|72.10.160.172|15049|Canada|Montreal|GloboTech Communications|
-|20|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|17|67.43.227.226|23419|Canada|Montreal|GloboTech Communications|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.10.160.173|23413|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|14257|Canada|Montreal|GloboTech Communications|
 
 
 
