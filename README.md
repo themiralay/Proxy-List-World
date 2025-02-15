@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|200.106.124.251|999|Peru|Tacna|Telefonica del Peru|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|79.175.189.50|80|Iran|Tehran|Afranet|
+|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|79.175.189.50|80|Iran|Tehran|Afranet|
-|10|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |11|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|67.43.228.251|21605|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|21605|Canada|Montreal|GloboTech Communications|
-|16|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|67.43.236.20|5171|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9817|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|29507|Canada|Montreal|GloboTech Communications|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|79.175.189.50|80|Iran|Tehran|Afranet|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
