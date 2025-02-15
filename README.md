@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|67.43.227.226|23117|Canada|Montreal|GloboTech Communications|
-|6|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|7|218.1.197.148|2324|China|Shanghai|China Telecom (Group)|
-|8|67.43.227.226|23117|Canada|Montreal|GloboTech Communications|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|121.232.181.176|8089|China|Nanjing|Chinanet|
-|15|1.179.231.130|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.91|3965|Canada|Montreal|GloboTech Communications|
-|18|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|19|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
-|20|36.64.181.82|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|80.254.23.154|3128|Russia|Moscow|Piter-telecom Ltd.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.160.202.30|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|5|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|124.158.190.130|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|103.194.46.68|8090|Indonesia|Nagara Tengah|JABNET|
+|12|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|13|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|14|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
+|15|200.94.96.174|999|Mexico|Tlaquepaque|Alestra, S. de R.L. de C.V.|
+|16|67.43.228.250|19195|Canada|Montreal|GloboTech Communications|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|221.131.172.202|9986|China|Qinnan|China Mobile communications corporation|
+|19|156.155.29.118|8080|South Africa|Port Elizabeth|AxxessNetworks|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
