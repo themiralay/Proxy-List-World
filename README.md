@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|72.10.164.178|29687|Canada|Montreal|GloboTech Communications|
-|7|207.174.202.218|8080|United States|Kingsland|432 INTERNET, LLC|
-|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|9|119.96.72.199|59394|China|Wuhan|CHINANET Hubei province network|
-|10|67.43.228.251|31321|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|9937|Canada|Montreal|GloboTech Communications|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|16|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|17|67.43.227.226|10539|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|10539|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|67.43.236.20|1521|Canada|Montreal|GloboTech Communications|
+|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|72.10.164.178|21865|Canada|Montreal|GloboTech Communications|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|111.72.199.177|2324|China|Taohua|Chinanet|
+|11|72.10.160.171|6641|Canada|Montreal|GloboTech Communications|
+|12|59.39.226.28|2324|China|Guangzhou|Chinanet|
+|13|72.10.160.91|29363|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|5125|Canada|Montreal|GloboTech Communications|
+|15|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|16|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|221.131.172.202|9986|China|Qinnan|China Mobile communications corporation|
+|20|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
