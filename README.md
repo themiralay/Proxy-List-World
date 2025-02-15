@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|27.70.238.241|10007|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|24.233.1.196|3128|Russia|Moscow|Century Communications - CableHigh Speed Data Division|
-|8|202.179.95.174|58080|India|Mumbai|Ankhnet|
-|9|24.233.1.196|3128|Russia|Moscow|Century Communications - CableHigh Speed Data Division|
-|10|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
-|11|180.180.17.132|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
-|12|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|103.76.108.96|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|121.227.109.52|8089|China|Nanjing|China Telecom|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.125.50.234|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|202.47.65.146|3128|Indonesia|Jakarta|PT Filltech Antar Nusa|
+|7|210.5.104.126|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|27.70.238.241|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|103.118.124.137|6969|Indonesia|Jakarta|Tele|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|15|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|16|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|17|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|182.150.116.147|1436|China|Muping|Chinanet|
 
 
 
