@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|180.180.17.132|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
-|4|49.146.208.183|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|67.43.227.226|9517|Canada|Montreal|GloboTech Communications|
-|8|202.179.95.174|58080|India|Mumbai|Ankhnet|
-|9|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
-|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|13|72.10.160.170|30237|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|8991|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|22147|Canada|Montreal|GloboTech Communications|
-|16|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
-|17|101.255.64.243|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|190.60.45.79|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|19|67.43.227.229|2751|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|30237|Canada|Montreal|GloboTech Communications|
+|1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|4|180.180.17.132|8080|Thailand|Ban Phaeo|TOT Public Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|49.146.208.183|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|9|101.255.64.243|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|179.57.172.24|999|Chile|Coronel|Telefonica del Sur S.A.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|72.10.160.90|22103|Canada|Montreal|GloboTech Communications|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|67.43.227.226|2589|Canada|Montreal|GloboTech Communications|
+|15|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|16|67.43.228.252|26039|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|14345|Canada|Montreal|GloboTech Communications|
+|18|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|20|67.43.228.251|4493|Canada|Montreal|GloboTech Communications|
 
 
 
