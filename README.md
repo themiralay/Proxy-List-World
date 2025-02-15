@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|6|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.147.217.102|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|13|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.228.250|1135|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|20411|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|1335|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|16687|Canada|Montreal|GloboTech Communications|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|3|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|18|72.10.160.172|18615|Canada|Montreal|GloboTech Communications|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|67.43.227.226|1335|Canada|Montreal|GloboTech Communications|
 
 
 
