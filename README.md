@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|3|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
-|6|27.189.131.192|8089|China|Langfang|Chinanet|
-|7|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|8|72.10.160.170|8869|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.226|21445|Canada|Montreal|GloboTech Communications|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|12|67.43.228.251|20017|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|15799|Canada|Montreal|GloboTech Communications|
-|14|111.72.194.168|2324|China|Taohua|Chinanet|
-|15|106.225.164.39|655|China|Beijing|China Telecom|
-|16|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|17|72.10.160.91|19823|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|21445|Canada|Montreal|GloboTech Communications|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|111.72.194.168|2324|China|Taohua|Chinanet|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|67.43.227.226|16789|Canada|Montreal|GloboTech Communications|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|67.43.236.18|6213|Canada|Montreal|GloboTech Communications|
+|13|59.39.226.28|2324|China|Guangzhou|Chinanet|
+|14|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|16|72.10.160.91|14339|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|18579|Canada|Montreal|GloboTech Communications|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.80.88.77|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
