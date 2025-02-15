@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|182.150.116.147|1436|China|Muping|Chinanet|
-|9|103.24.212.250|8082|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
-|10|188.132.221.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|103.131.234.122|8080|Australia|Goulburn|YLess4U Pty Ltd|
-|12|14.142.36.210|80|India|Mumbai|Tata Communications Limited|
-|13|67.43.236.18|19595|Canada|Montreal|GloboTech Communications|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|67.43.227.226|29213|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28827|Canada|Montreal|GloboTech Communications|
-|17|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|67.43.227.226|29213|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|29311|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|103.189.116.180|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|8|103.148.93.106|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|9|91.196.92.32|8020|Ukraine|Odesa|ONE TELECOM|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|146.120.174.235|8080|Ukraine|Ivano-Frankivsk|Gargat Igor Vasilevich|
+|12|103.167.86.27|39024|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|15|190.119.90.114|8080|Peru|Lima|America Movil Peru S.A.C.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|118.113.244.223|2324|China|Shanghai|Chinanet|
+|18|72.10.164.178|1699|Canada|Montreal|GloboTech Communications|
+|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|20|67.43.227.226|16599|Canada|Montreal|GloboTech Communications|
 
 
 
