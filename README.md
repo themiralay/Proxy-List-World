@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|94.159.102.207|8814|Germany|Frankfurt am Main|H2nexus LTD|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|7|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|8|67.220.66.158|3128|Spain|Madrid|GTHost|
+|9|124.122.2.175|8080|Thailand|Bangkok|True Internet Co., Ltd.|
 |10|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|14|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
-|17|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|67.220.66.158|3128|Spain|Madrid|GTHost|
+|12|103.82.36.159|21503|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|13|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|112.198.195.186|8082|Philippines|Lahug|Globe Telecom|
+|16|71.42.125.219|4444|United States|Leander|Spectrum|
+|17|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|71.42.125.219|4444|United States|Leander|Spectrum|
+|20|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
 
 
 
