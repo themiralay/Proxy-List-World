@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|101.109.55.140|8080|Thailand|Pattaya|TOT Public Company Limited|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|101.109.55.140|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|27.189.131.253|8089|China|Langfang|Chinanet|
-|15|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|16|67.43.236.20|19807|Canada|Montreal|GloboTech Communications|
-|17|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|18|79.175.189.50|80|Iran|Tehran|Afranet|
-|19|27.70.238.241|10008|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|27.189.129.231|8089|China|Langfang|Chinanet|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|8|192.145.205.110|8080|Brazil|Guaraciama|Vianet Guaraciama Eireli ME|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|190.139.5.202|3388|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|79.175.189.50|80|Iran|Tehran|Afranet|
+|15|188.132.222.46|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
 
 
 
