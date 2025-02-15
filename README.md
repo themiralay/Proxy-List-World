@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
-|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|67.43.228.250|22625|Canada|Montreal|GloboTech Communications|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|118.68.118.94|10006|Vietnam|Hanoi|FPT Telecom Company|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|67.43.236.18|6333|Canada|Montreal|GloboTech Communications|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|67.43.236.18|6333|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|25255|Canada|Montreal|GloboTech Communications|
-|19|49.76.205.49|8089|China|Wuxi|Chinanet|
-|20|67.220.66.158|3128|Spain|Madrid|GTHost|
+|3|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|118.68.118.94|10008|Vietnam|Hanoi|FPT Telecom Company|
+|8|125.230.202.226|1080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|118.68.118.94|10008|Vietnam|Hanoi|FPT Telecom Company|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|15|118.113.247.12|2324|China|Shanghai|Chinanet|
+|16|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
+|17|14.29.116.148|727|China|Guangzhou|Chinanet|
+|18|202.58.77.228|8080|Indonesia|Cirebon|PT Data Buana Nusantara|
+|19|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|180.75.93.74|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
