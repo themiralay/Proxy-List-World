@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|72.10.160.91|8801|Canada|Montreal|GloboTech Communications|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|72.10.160.171|21401|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|28319|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|26485|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|1563|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|11055|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.229|9259|Canada|Montreal|GloboTech Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.227.226|27025|Canada|Montreal|GloboTech Communications|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|72.10.160.91|8801|Canada|Montreal|GloboTech Communications|
-|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|3|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|8|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|9|190.120.251.9|8989|Venezuela|Barinas|CORPORACION FIBEX TELECOM, C.A.|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|13|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|72.10.160.170|31889|Canada|Montreal|GloboTech Communications|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
 
 
 
