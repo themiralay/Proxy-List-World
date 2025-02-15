@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|200.106.124.251|999|Peru|Tacna|Telefonica del Peru|
-|5|79.175.189.50|80|Iran|Tehran|Afranet|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|72.10.164.178|19559|Canada|Montreal|GloboTech Communications|
+|2|200.106.124.251|999|Peru|Tacna|Telefonica del Peru|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|79.175.189.50|80|Iran|Tehran|Afranet|
+|5|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|6|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|118.113.244.111|2324|China|Shanghai|Chinanet|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|27.189.132.81|8089|China|Langfang|Chinanet|
-|12|118.113.244.75|2324|China|Shanghai|Chinanet|
-|13|118.113.244.111|2324|China|Shanghai|Chinanet|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|27.189.128.75|8089|China|Langfang|Chinanet|
-|16|72.10.160.171|20793|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|1655|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|7029|Canada|Montreal|GloboTech Communications|
-|19|125.87.95.93|2324|China|Chongqing|China Telecom|
-|20|67.43.236.18|29887|Canada|Montreal|GloboTech Communications|
+|11|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|209.14.118.161|999|Colombia|Quinchía|AGIS|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|79.175.189.50|80|Iran|Tehran|Afranet|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|19|182.150.116.147|1436|China|Muping|Chinanet|
+|20|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
 
 
 
