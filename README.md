@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|67.43.228.253|27381|Canada|Montreal|GloboTech Communications|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
-|8|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|9|67.43.227.230|4643|Canada|Montreal|GloboTech Communications|
-|10|181.78.13.205|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|11|72.10.160.174|13153|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|26797|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|26557|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|13153|Canada|Montreal|GloboTech Communications|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|72.10.160.174|13153|Canada|Montreal|GloboTech Communications|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|19|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
-|20|72.10.160.92|26841|Canada|Montreal|GloboTech Communications|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|67.43.228.253|27381|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.230|4643|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.174|20763|Canada|Montreal|GloboTech Communications|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|72.10.160.174|20763|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|20413|Canada|Montreal|GloboTech Communications|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|72.10.160.92|26841|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|20413|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|19|72.10.160.171|6085|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|12055|Canada|Montreal|GloboTech Communications|
 
 
 
