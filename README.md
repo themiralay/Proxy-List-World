@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|67.43.227.228|15261|Canada|Montreal|GloboTech Communications|
-|10|36.64.6.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|6|67.43.236.19|22339|Canada|Montreal|GloboTech Communications|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|10|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|72.10.160.90|26215|Canada|Montreal|GloboTech Communications|
-|13|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|67.43.227.226|3979|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|6253|Canada|Montreal|GloboTech Communications|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|60.49.219.149|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|19|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|20|67.43.227.226|3979|Canada|Montreal|GloboTech Communications|
+|12|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|62.171.147.240|8000|France|Lauterbourg|Contabo GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.228.250|8993|Canada|Montreal|GloboTech Communications|
+|16|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|17|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
+|18|103.131.19.45|8080|Indonesia|Batang|PT Global Media Data Prima|
+|19|185.128.153.10|8080|Iran|Tehran|Shabakeh Gostar Shahriyar Co. (Ltd.)|
+|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
