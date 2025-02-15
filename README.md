@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.194.46.68|8090|Indonesia|Nagara Tengah|JABNET|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|72.10.160.170|23663|Canada|Montreal|GloboTech Communications|
-|7|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|72.10.164.178|25653|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|23663|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.252|23017|Canada|Montreal|GloboTech Communications|
-|13|121.227.146.80|8089|China|Nanjing|China Telecom|
-|14|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|15|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
-|16|121.227.146.70|8089|China|Nanjing|China Telecom|
-|17|114.218.167.30|8089|China|Nanjing|China Telecom|
-|18|181.78.107.139|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|67.43.236.22|18693|Canada|Montreal|GloboTech Communications|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|6|72.10.160.170|13813|Canada|Montreal|GloboTech Communications|
+|7|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|138.118.106.237|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|11|103.210.206.26|8080|India|Tiruchirappalli|Blue Net It Solutions Pvt Ltd|
+|12|92.207.253.226|38157|United Kingdom|Sheffield|Gamma Telecom Holdings Ltd|
+|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|103.93.236.106|8080|Indonesia|Depok|PT Artha Media Lintas Nusa|
+|18|182.105.82.38|655|China|Taohua|Chinanet|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|72.10.160.91|24323|Canada|Montreal|GloboTech Communications|
 
 
 
