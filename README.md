@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|102.214.165.105|1981|Libya|Al Bayda'|Aljeel Aljadeed For Technology|
-|13|67.43.228.250|8335|Canada|Montreal|GloboTech Communications|
-|14|103.131.232.4|8080|Australia|Goulburn|YLess4U Pty Ltd|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|17|170.80.234.145|8080|Brazil|Olinda|Agility Telecom Ltda|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|182.150.116.147|1436|China|Muping|Chinanet|
-|20|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|1|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|4|31.25.93.217|3128|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|58.59.61.200|10991|China|Jinan|Chinanet|
+|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
+|11|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|12|119.95.189.247|8080|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|13|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|14|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|15|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
+|17|58.59.61.200|10991|China|Jinan|Chinanet|
+|18|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|171.238.127.84|10003|Vietnam|Ninh Bình|Viettel Corporation|
+|20|59.63.205.36|655|China|Taohua|Chinanet|
 
 
 
