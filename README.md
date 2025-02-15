@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|3|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
-|4|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
-|10|171.238.127.84|10006|Vietnam|Ninh Bình|Viettel Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.165.150.74|8085|Indonesia|Bengkalis|PT Agsa Global Network|
-|13|103.145.68.201|8181|Indonesia|Surabaya|ALFANET|
-|14|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
-|15|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|171.238.127.84|10006|Vietnam|Ninh Bình|Viettel Corporation|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
-|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|187.19.201.48|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|113.53.89.124|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|12|171.238.127.84|10009|Vietnam|Ninh Bình|Viettel Corporation|
+|13|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|17|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|222.215.137.18|3218|China|Deyang|Chinanet|
+|20|61.164.204.130|4999|China|Hangzhou|Chinanet|
 
 
 
