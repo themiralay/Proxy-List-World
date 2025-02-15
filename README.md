@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|8|113.53.60.47|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|201.159.97.109|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
-|11|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|58.59.61.200|10991|China|Jinan|Chinanet|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|9|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.170|31221|Canada|Montreal|GloboTech Communications|
+|19|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|20|27.70.238.241|10005|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
