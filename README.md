@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|80.254.23.154|3128|Russia|Moscow|Piter-telecom Ltd.|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|103.157.116.213|8088|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
-|9|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|190.60.36.25|999|Colombia|San Cristóbal|IFX NETWORKS COLOMBIA|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|14|188.125.169.235|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|38.150.32.92|3128|United States|Los Angeles|Cogent Communications|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|6|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|7|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|38.172.131.228|999|Peru|Lima|Conex TV E.I.R.L.|
+|10|38.156.75.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|27.147.143.142|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|15|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
 |17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|18|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|67.43.236.18|5053|Canada|Montreal|GloboTech Communications|
 
 
 
