@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4159** proxies at the latest update. Usable proxies are below.
+> Scraper found **4067** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|265|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|506|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|264|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|415|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|306|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2156|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|9|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.170|31221|Canada|Montreal|GloboTech Communications|
-|19|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|20|27.70.238.241|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|8|72.10.160.170|23711|Canada|Montreal|GloboTech Communications|
+|9|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|72.10.160.173|19485|Canada|Montreal|GloboTech Communications|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|125.87.95.92|2324|China|Chongqing|China Telecom|
+|15|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|67.43.228.250|4263|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|10417|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|23711|Canada|Montreal|GloboTech Communications|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|72.10.164.178|22271|Canada|Montreal|GloboTech Communications|
 
 
 
