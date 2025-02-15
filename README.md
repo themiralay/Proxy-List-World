@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|5|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|94.159.109.194|29242|Germany|Frankfurt am Main|H2nexus LTD|
+|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|8|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|188.132.222.46|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|27.70.238.241|10007|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|109.230.82.172|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|19|103.193.144.5|8181|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|15|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|19|103.219.75.2|8080|Indonesia|Serang|Bitech Networks|
+|20|134.35.153.98|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
