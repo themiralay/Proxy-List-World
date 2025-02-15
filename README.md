@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
 |4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|9|72.10.160.94|31917|Canada|Montreal|GloboTech Communications|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|72.10.160.171|1253|Canada|Montreal|GloboTech Communications|
-|15|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|16|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|17|72.10.160.90|7615|Canada|Montreal|GloboTech Communications|
-|18|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.228.250|30517|Canada|Montreal|GloboTech Communications|
-|20|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|6|77.47.179.6|8888|Ukraine|Kyiv|iServerHost LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|9|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|10|72.10.160.171|15649|Canada|Montreal|GloboTech Communications|
+|11|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|72.10.160.90|7615|Canada|Montreal|GloboTech Communications|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|17|72.10.160.170|15815|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|22273|Canada|Montreal|GloboTech Communications|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
