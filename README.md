@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|8|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|79.175.189.50|80|Iran|Tehran|Afranet|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|45.170.156.244|8080|Brazil|Ibicuitinga|BEZERRA E OLIVEIRA COMÉRCIO DE EQUIP DE INF LTDA|
-|16|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|118.113.244.8|2324|China|Shanghai|Chinanet|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.227.229|5633|Canada|Montreal|GloboTech Communications|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|79.175.189.50|80|Iran|Tehran|Afranet|
+|10|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
+|13|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|14|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|27.70.238.241|10009|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|201.159.97.109|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
 
 
 
