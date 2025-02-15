@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
-|4|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|79.175.189.50|80|Iran|Tehran|Afranet|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|103.171.245.165|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|9|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|10|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|12|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
-|13|195.140.213.5|3129|United Kingdom|London|Hydra Communications Ltd|
-|14|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|79.175.189.50|80|Iran|Tehran|Afranet|
-|18|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|5|79.175.189.50|80|Iran|Tehran|Afranet|
+|6|67.43.228.250|5389|Canada|Montreal|GloboTech Communications|
+|7|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|8|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|79.175.189.50|80|Iran|Tehran|Afranet|
+|10|103.176.96.185|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|11|45.152.112.113|3128|France|Paris|CGI GLOBAL LIMITED|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|72.10.160.91|12305|Canada|Montreal|GloboTech Communications|
+|14|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|67.43.228.250|5389|Canada|Montreal|GloboTech Communications|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|43.245.249.22|7878|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|20|67.43.227.227|5531|Canada|Montreal|GloboTech Communications|
 
 
 
