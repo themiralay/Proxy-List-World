@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4377** proxies at the latest update. Usable proxies are below.
+> Scraper found **4780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|264|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|488|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|243|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|382|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2720|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|8|102.214.106.114|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|72.10.164.178|3361|Canada|Montreal|GloboTech Communications|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
-|16|72.10.160.91|19575|Canada|Montreal|GloboTech Communications|
-|17|118.113.245.198|2324|China|Shanghai|Chinanet|
-|18|79.175.189.50|80|Iran|Tehran|Afranet|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|4|143.255.43.206|999|Mexico|Coacalco|Smartnett Carrier SA De CV|
+|5|38.255.21.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
+|6|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
+|7|149.86.144.216|8080|Turkey|Kışlak|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|146.120.174.235|8080|Ukraine|Ivano-Frankivsk|Gargat Igor Vasilevich|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|170.239.205.185|999|Colombia|Bogotá|FIBERNET|
+|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|17|165.16.22.150|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|18|58.59.61.200|10991|China|Jinan|Chinanet|
+|19|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
+|20|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
 
 
 
