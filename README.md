@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|5|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|67.43.227.226|9697|Canada|Montreal|GloboTech Communications|
-|9|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|118.113.247.185|2324|China|Shanghai|Chinanet|
-|12|123.60.148.94|5566|China|Shanghai|Huawei Cloud Service data center|
-|13|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|118.113.244.228|2324|China|Shanghai|Chinanet|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|72.10.164.178|14413|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|28773|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21021|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|146.59.32.105|443|Poland|Warsaw|OVH SAS|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|67.43.227.226|22841|Canada|Montreal|GloboTech Communications|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|223.205.119.159|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|15|103.61.240.198|9090|Bangladesh|Dhaka|HelloTech Limited|
+|16|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|72.10.160.170|20609|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|12883|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|22841|Canada|Montreal|GloboTech Communications|
 
 
 
