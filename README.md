@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|101.109.55.140|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|15|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|18|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|45.174.250.16|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|101.109.55.140|8080|Thailand|Pattaya|TOT Public Company Limited|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|14|45.189.252.226|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|15|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|16|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|17|45.226.205.247|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
 
 
 
