@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|49.48.124.10|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|4|115.87.213.185|80|Thailand|Bangkok|TRUEBB|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|67.43.236.20|8797|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|22011|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.19|16381|Canada|Montreal|GloboTech Communications|
+|3|171.6.77.222|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|49.48.124.10|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|5|115.87.213.185|80|Thailand|Bangkok|TRUEBB|
+|6|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|72.10.160.170|27933|Canada|Montreal|GloboTech Communications|
 |14|72.10.160.170|27933|Canada|Montreal|GloboTech Communications|
-|15|171.6.77.222|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|67.43.236.18|23835|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|27933|Canada|Montreal|GloboTech Communications|
-|19|103.153.134.150|8080|Indonesia|Cikupa|WMINET|
-|20|72.10.160.90|25533|Canada|Montreal|GloboTech Communications|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|160.22.206.75|8181|Indonesia|Bekasi|PT Teradata Bintang Selaras|
+|20|67.43.228.250|4341|Canada|Montreal|GloboTech Communications|
 
 
 
