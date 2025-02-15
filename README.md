@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|80.81.243.26|80|Germany|Berlin|SPEEDBONE GmbH|
 |4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 |9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|67.43.228.253|12441|Canada|Montreal|GloboTech Communications|
-|11|185.255.88.181|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|60.53.133.218|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
-|14|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
-|15|72.10.160.90|33011|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|171.238.127.84|10009|Vietnam|Ninh Bình|Viettel Corporation|
-|18|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
-|19|72.10.160.90|33011|Canada|Montreal|GloboTech Communications|
-|20|27.189.130.174|8089|China|Langfang|Chinanet|
+|10|190.61.90.59|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|190.60.36.25|999|Colombia|San Cristóbal|IFX NETWORKS COLOMBIA|
+|13|72.10.160.90|19651|Canada|Montreal|GloboTech Communications|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
+|17|49.48.86.128|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|19|164.70.69.244|3128|Japan|Chiyoda|InfoSphere|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
