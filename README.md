@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|10|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|14|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|16|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|103.213.218.83|26841|Vietnam|Haiphong|V9ERP|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|12|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|103.48.71.46|83|India|Pargi|Country Online Services PVT LTD|
+|15|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|16|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|71.42.125.219|4444|United States|Leander|Spectrum|
+|19|181.143.11.157|10219|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
