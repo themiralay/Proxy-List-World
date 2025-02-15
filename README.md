@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.238.127.84|10003|Vietnam|Ninh Bình|Viettel Corporation|
-|3|117.4.162.254|80|Vietnam|Thái Bình|VIETTEL|
-|4|103.82.36.159|21503|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|8|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.236.18|2867|Canada|Montreal|GloboTech Communications|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |13|72.10.160.90|12881|Canada|Montreal|GloboTech Communications|
-|14|27.189.129.238|8089|China|Langfang|Chinanet|
-|15|90.174.128.42|3128|Spain|Madrid|Uni2|
-|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|72.10.160.90|12881|Canada|Montreal|GloboTech Communications|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|171.238.127.84|10003|Vietnam|Ninh Bình|Viettel Corporation|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|171.238.127.84|10005|Vietnam|Ninh Bình|Viettel Corporation|
+|16|195.182.25.32|3128|The Netherlands|Amsterdam|Ferdinand Zink trading as Tube-Hosting|
+|17|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|18|72.10.160.90|12881|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|6863|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|28679|Canada|Montreal|GloboTech Communications|
 
 
 
