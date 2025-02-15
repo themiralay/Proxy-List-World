@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|5|103.189.111.11|3125|Indonesia|Bandung|Morizt ID|
-|6|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|10|103.228.246.146|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|67.43.236.18|19051|Canada|Montreal|GloboTech Communications|
-|13|103.162.16.53|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|14|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|15|103.147.134.141|8090|Indonesia|Wakduwa’ Barat|PT.MURNI MAKMUR ABADI|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|72.10.160.170|27665|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|2293|Canada|Montreal|GloboTech Communications|
-|19|49.70.190.65|2324|China|Zhenjiang|Chinanet|
-|20|45.177.17.31|999|Guatemala|Guatemala City|MSW S.A.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|67.43.227.228|15161|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|19051|Canada|Montreal|GloboTech Communications|
+|15|103.172.70.27|1111|Indonesia|Karawang|AZNET|
+|16|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
