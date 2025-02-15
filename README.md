@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|103.159.220.215|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
-|4|103.234.35.169|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
-|7|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|12|58.59.61.200|10991|China|Jinan|Chinanet|
-|13|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|14|79.175.189.50|80|Iran|Tehran|Afranet|
-|15|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|118.68.118.94|10002|Vietnam|Hanoi|FPT Telecom Company|
-|19|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|72.10.160.91|11957|Canada|Montreal|GloboTech Communications|
+|13|66.248.207.243|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|103.131.232.5|8080|Australia|Goulburn|YLess4U Pty Ltd|
+|15|79.175.189.50|80|Iran|Tehran|Afranet|
+|16|103.193.144.5|8181|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
+|17|176.88.175.196|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|18|72.10.160.171|29081|Canada|Montreal|GloboTech Communications|
+|19|103.230.81.22|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|20|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
 
 
 
