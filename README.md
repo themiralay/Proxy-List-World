@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|168.196.114.29|56000|Argentina|Añatuya|SAN GABRIEL VIDEO CABLE COLOR S.A.|
-|5|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|6|67.43.228.250|10865|Canada|Montreal|GloboTech Communications|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|38.7.3.18|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|6|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
+|7|67.43.228.250|27585|Canada|Montreal|GloboTech Communications|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|2.50.143.230|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|114.223.79.165|8089|China|Nanjing|Chinanet|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|171.228.148.165|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
 |14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|67.43.227.226|32827|Canada|Montreal|GloboTech Communications|
-|16|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|17|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|18|67.43.227.230|20389|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|21899|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|67.43.228.250|27585|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|45.87.154.85|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|18|72.10.160.171|21161|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|27793|Canada|Montreal|GloboTech Communications|
+|20|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
 
 
 
