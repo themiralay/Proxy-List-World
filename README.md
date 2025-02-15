@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.79.134.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.134.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|103.131.232.5|8080|Australia|Goulburn|YLess4U Pty Ltd|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|67.43.236.18|26501|Canada|Montreal|GloboTech Communications|
-|20|201.218.150.4|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.159.220.215|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
+|11|103.131.232.5|8080|Australia|Goulburn|YLess4U Pty Ltd|
+|12|159.89.239.166|18103|United States|North Bergen|DigitalOcean, LLC|
+|13|116.109.208.14|9059|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|67.43.236.18|26501|Canada|Montreal|GloboTech Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|195.182.25.32|3128|The Netherlands|Amsterdam|Ferdinand Zink trading as Tube-Hosting|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
 
 
 
