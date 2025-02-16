@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|49.48.188.99|8080|Thailand|Phitsanulok|Triple T Broadband Public Company Limited|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|182.253.216.175|1080|Indonesia|Jakarta|BIZNET|
-|5|67.43.236.22|30043|Canada|Montreal|GloboTech Communications|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|8|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|67.43.228.251|14329|Canada|Montreal|GloboTech Communications|
-|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|79.175.189.50|80|Iran|Tehran|Afranet|
+|2|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|7|182.253.216.175|1080|Indonesia|Jakarta|BIZNET|
+|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |14|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|15|67.43.227.226|29911|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.252|16147|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|15363|Canada|Montreal|GloboTech Communications|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|20|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|79.175.189.50|80|Iran|Tehran|Afranet|
+|17|113.184.217.150|8080|Vietnam|Hanoi|VNPT|
+|18|67.43.236.18|7293|Canada|Montreal|GloboTech Communications|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|72.10.160.171|26389|Canada|Montreal|GloboTech Communications|
 
 
 
