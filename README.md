@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.189.122.170|3125|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|3|103.85.52.209|3125|Indonesia|Krajan Tegalombo|PT Binerkahan Digital Telco|
-|4|103.183.10.156|3125|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|5|101.128.95.181|3125|Indonesia|Jakarta|CBN|
-|6|180.248.33.123|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|7|103.36.8.49|3125|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.183.10.191|3125|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|10|103.210.35.114|3001|Indonesia|Sleman|Diskominfo DIY|
-|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|12|49.48.44.52|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|115.77.164.134|10008|Vietnam|Vũng Tàu|Viettel Group|
-|15|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
-|19|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|72.10.160.170|11991|Canada|Montreal|GloboTech Communications|
+|2|103.210.35.114|3001|Indonesia|Sleman|Diskominfo DIY|
+|3|49.48.44.52|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|103.75.85.74|8080|Indonesia|Pekalongan|MEGADATA|
+|8|103.36.8.49|3125|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|9|103.156.233.131|3125|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|12|118.175.206.51|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|67.43.228.250|12077|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|185.194.204.37|8080|Brazil|São Paulo|Qnax Ltda|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.227.226|12505|Canada|Montreal|GloboTech Communications|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
