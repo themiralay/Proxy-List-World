@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|116.58.238.26|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|103.120.76.34|8080|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
-|6|157.15.166.74|8090|Indonesia|Metro|PT Kartika Siger Network|
-|7|115.72.164.115|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|8|24.49.117.86|80|United States|Saint Francis|Midcontinent Communications|
-|9|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
-|10|72.10.160.91|21771|Canada|Montreal|GloboTech Communications|
-|11|36.73.178.39|8181|Indonesia|Situbondo|PT. TELKOM INDONESIA|
-|12|72.10.160.90|32523|Canada|Montreal|GloboTech Communications|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.227.226|27495|Canada|Montreal|GloboTech Communications|
+|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|13.209.69.161|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|4|171.238.127.84|10016|Vietnam|Ninh Bình|Viettel Corporation|
+|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|6|103.173.138.177|8080|Indonesia|Baturaja|PT Serayu Multi Connection|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|11|103.157.116.213|8088|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
+|12|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|67.43.227.226|3355|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|10685|Canada|Montreal|GloboTech Communications|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
 
 
 
