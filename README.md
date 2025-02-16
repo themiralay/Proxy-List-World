@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|124.121.2.142|8080|Thailand|Bangkok|TRUEBB|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|124.121.2.142|8080|Thailand|Bangkok|TRUEBB|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|103.169.33.30|8080|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|67.43.227.226|30477|Canada|Montreal|GloboTech Communications|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|67.43.228.250|32905|Canada|Montreal|GloboTech Communications|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.5.117.41|8080|Guatemala|Guatemala City|Infinitum S.A.|
-|15|177.105.254.57|5151|Brazil|Porto Alegre|TRI TELECOM LTDA|
-|16|45.236.106.243|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|180.105.244.252|1080|China|Nanjing|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|118.113.247.122|2324|China|Shanghai|Chinanet|
-|20|121.227.146.67|8089|China|Nanjing|China Telecom|
+|4|67.43.227.226|30477|Canada|Montreal|GloboTech Communications|
+|5|67.43.228.250|21111|Canada|Montreal|GloboTech Communications|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|177.105.254.57|5151|Brazil|Porto Alegre|TRI TELECOM LTDA|
+|9|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|10|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|14|118.113.245.201|2324|China|Shanghai|Chinanet|
+|15|72.10.160.91|7383|Canada|Montreal|GloboTech Communications|
+|16|79.175.189.50|80|Iran|Tehran|Afranet|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|20|113.53.124.123|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
