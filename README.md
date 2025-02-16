@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|212.112.98.5|3128|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|67.43.228.250|21887|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.18|9793|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|6035|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|9793|Canada|Montreal|GloboTech Communications|
-|9|125.87.85.115|2324|China|Shanghai|China Telecom|
-|10|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|11|27.189.135.243|8089|China|Langfang|Chinanet|
-|12|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|114.31.15.190|2024|Bangladesh|Dimla|BDCOM Online Limited|
-|15|185.255.89.165|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|16|117.44.64.85|655|China|Taohua|Chinanet|
-|17|182.150.116.137|1436|China|Muping|Chinanet|
-|18|72.10.164.178|29115|Canada|Montreal|GloboTech Communications|
-|19|49.0.1.157|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
+|10|103.125.174.65|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|11|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|12|36.140.27.57|1080|China|Guangzhou|China Mobile|
+|13|103.158.121.74|1080|Indonesia|Indramayu|CDN|
+|14|67.220.66.158|3128|Spain|Madrid|GTHost|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|118.113.244.228|2324|China|Shanghai|Chinanet|
+|19|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
