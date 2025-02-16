@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|43.252.237.125|8080|Indonesia|Tangerang|PT Usaha Adi Sanggoro|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|38.253.95.106|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|7|157.15.166.74|8090|Indonesia|Metro|PT Kartika Siger Network|
+|8|160.25.244.3|8090|Indonesia|Ngawi|PT Jaringan Kita Bersama|
 |9|72.10.160.90|1615|Canada|Montreal|GloboTech Communications|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|185.255.89.170|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|12|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|27.70.238.241|10002|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|185.255.88.146|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|16|185.255.89.156|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|17|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|18|38.52.161.118|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|19|67.43.228.250|17921|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|7715|Canada|Montreal|GloboTech Communications|
+|10|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|11|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|12|61.174.243.24|9962|China|Yanguan|China Telecom|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|15|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|16|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|171.238.127.84|10015|Vietnam|Ninh Bình|Viettel Corporation|
+|19|110.139.22.92|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
