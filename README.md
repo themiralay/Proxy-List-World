@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|7|67.43.236.20|28515|Canada|Montreal|GloboTech Communications|
-|8|54.232.16.174|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.183.10.170|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|17|72.10.160.91|3361|Canada|Montreal|GloboTech Communications|
-|18|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.236.21|24025|Canada|Montreal|GloboTech Communications|
-|20|222.67.8.254|1080|China|Shanghai|China Telecom (Group)|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|223.205.32.14|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|38.194.254.30|999|Mexico|Zapopan|Ientc S De RL De CV|
+|8|171.6.80.91|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|182.253.216.52|8080|Indonesia|Jakarta|BIZNET|
+|13|38.156.23.67|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|14|223.206.89.78|8080|Thailand|Bang Pahan|Triple T Broadband Public Company Limited|
+|15|179.109.156.19|8080|Brazil|Alegre|Digital NET RJ Telecom Eireli|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
 
 
 
