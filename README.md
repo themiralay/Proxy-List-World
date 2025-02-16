@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|45.189.149.153|999|Mexico|Comalcalco|Javier Tamayo Garcia|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|116.254.96.111|8080|Indonesia|Jakarta|SpaceX Starlink|
+|3|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|6|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
 |9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|162.254.66.65|80|United States|Grand Rapids|Paul Bunyan Communications|
-|11|185.255.88.157|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|12|181.62.161.70|1999|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|185.255.88.18|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|16|171.248.118.79|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|116.107.164.204|4007|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.164.178|17997|Canada|Montreal|GloboTech Communications|
-|20|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|118.113.245.225|2324|China|Shanghai|Chinanet|
+|12|101.231.178.155|7228|China|Shanghai|China Telecom (Group)|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|67.43.236.18|19167|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|7433|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|11451|Canada|Montreal|GloboTech Communications|
+|18|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|19|72.10.160.170|29213|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|18047|Canada|Montreal|GloboTech Communications|
 
 
 
