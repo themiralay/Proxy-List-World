@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|128.199.247.154|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|67.43.227.226|29301|Canada|Montreal|GloboTech Communications|
-|6|67.43.227.226|29301|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.171|22741|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|12671|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.226|29301|Canada|Montreal|GloboTech Communications|
-|10|103.183.10.37|3125|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|67.43.227.230|16791|Canada|Montreal|GloboTech Communications|
-|13|211.20.17.194|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|14|164.163.42.10|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|16|72.10.160.170|15177|Canada|Montreal|GloboTech Communications|
-|17|62.241.133.227|1972|Egypt|Abū an Numrus|Link Egypt (Link.NET)|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.227.227|14753|Canada|Montreal|GloboTech Communications|
+|4|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.10|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|67.43.227.230|16791|Canada|Montreal|GloboTech Communications|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.166.153.192|8080|Bangladesh|Nārāyanganj|Netzone Computers|
+|9|45.252.183.240|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|10|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|67.43.227.226|31019|Canada|Montreal|GloboTech Communications|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|150.107.192.65|8080|India|Chennai|World Phone-LCO Operation|
+|18|67.43.228.251|17665|Canada|Montreal|GloboTech Communications|
+|19|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|20|72.10.160.90|8603|Canada|Montreal|GloboTech Communications|
 
 
 
