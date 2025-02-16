@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.231.236.142|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|1|218.187.66.92|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
 |2|112.201.182.35|8080|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|3|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
-|4|103.190.171.61|8080|Indonesia|Jakarta|WMS|
-|5|101.255.165.106|8090|Indonesia|Jakarta|PT Remala Abadi|
-|6|103.97.140.238|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|7|124.121.92.209|8080|Thailand|Mueang Samut Prakan|TRUEBB|
-|8|103.133.27.159|8085|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|103.189.197.18|3030|Indonesia|Serang|PT Graha Sumber Teknologi|
-|10|103.144.102.109|8085|Indonesia|Cirebon|PANDAWANET|
-|11|103.154.220.29|1111|Indonesia|Bandung|MORATELINDONAP|
-|12|103.147.246.189|3127|Indonesia|Tangerang|PLBNET|
-|13|49.48.94.5|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|103.145.34.186|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|15|103.187.164.98|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
-|16|103.163.226.250|3125|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
-|17|49.48.55.61|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|18|103.65.214.148|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
-|19|103.177.9.92|8080|Indonesia|Sawur Tengah|PT Helium Sinergi Telekomunikasi|
-|20|103.172.71.253|2024|Indonesia|Karawang|AZNET|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|103.238.232.158|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|5|103.189.197.18|3030|Indonesia|Serang|PT Graha Sumber Teknologi|
+|6|103.65.214.148|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
+|7|103.154.139.61|8080|Indonesia|Jakarta|MORATELINDONAP|
+|8|202.154.18.40|1122|Indonesia|Bojonegoro|DIGITNET|
+|9|103.26.176.89|8080|Indonesia|Sekayu|PT Lintas Jaringan Nusantara|
+|10|103.65.214.150|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
+|11|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
+|12|103.231.236.142|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|13|103.154.220.29|1111|Indonesia|Bandung|MORATELINDONAP|
+|14|103.133.27.159|8085|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|15|103.172.71.253|2024|Indonesia|Karawang|AZNET|
+|16|103.97.140.238|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|17|103.176.96.172|1565|Indonesia|Karawang|PT Global Sarana Elektronika|
+|18|103.165.150.42|8085|Indonesia|Bengkalis|PT Agsa Global Network|
+|19|103.187.164.98|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|20|103.155.199.147|7080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
 
 
 
