@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|115.72.172.219|10009|Vietnam|Vũng Tàu|VIETELmetro|
-|5|115.72.167.120|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|67.43.227.226|15765|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|15765|Canada|Montreal|GloboTech Communications|
-|13|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|67.43.227.226|15765|Canada|Montreal|GloboTech Communications|
-|18|49.70.172.207|2324|China|Zhenjiang|Chinanet|
-|19|182.150.116.147|1436|China|Muping|Chinanet|
-|20|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|103.149.42.154|8080|Indonesia|Majalengka|PT Giandra Saka Media|
+|8|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
+|9|201.77.98.131|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|10|58.69.78.115|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|116.108.139.27|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|67.43.227.226|2197|Canada|Montreal|GloboTech Communications|
+|20|103.60.90.39|8181|Indonesia|Bogor|PT Meta Tekhnologi Nusantara|
 
 
 
