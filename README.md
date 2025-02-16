@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|6|110.188.37.19|2324|China|Muping|Chinanet|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|67.43.236.18|19167|Canada|Montreal|GloboTech Communications|
-|11|118.113.245.8|2324|China|Shanghai|Chinanet|
-|12|171.238.127.84|10014|Vietnam|Ninh Bình|Viettel Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|16|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|17|72.10.160.170|18199|Canada|Montreal|GloboTech Communications|
-|18|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|38.156.238.77|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
+|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|8|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|11|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|12|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|13|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|14|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|17|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|18|81.90.149.186|3128|Iran|Tehran|Afranet|
+|19|222.215.137.18|3218|China|Deyang|Chinanet|
+|20|118.113.245.8|2324|China|Shanghai|Chinanet|
 
 
 
