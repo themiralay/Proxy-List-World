@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
-|7|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|4|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|159.223.61.184|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|157.119.222.23|8080|Indonesia|Semarang|DESNET|
-|14|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|72.10.160.171|31599|Canada|Montreal|GloboTech Communications|
-|18|171.238.127.84|10015|Vietnam|Ninh Bình|Viettel Corporation|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|5.78.123.101|3128|United States|Hillsboro|Hetzner Online GmbH|
+|13|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|14|171.238.127.84|10005|Vietnam|Ninh Bình|Viettel Corporation|
+|15|171.247.173.113|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
+|17|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|18|72.10.160.90|4767|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|4767|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|5433|Canada|Montreal|GloboTech Communications|
 
 
 
