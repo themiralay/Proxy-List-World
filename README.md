@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|138.186.187.194|8080|Brazil|Itaquaquecetuba|AltaNet Telecom e Inf. LTDA-ME|
+|3|195.182.25.32|3128|The Netherlands|Amsterdam|Ferdinand Zink trading as Tube-Hosting|
+|4|80.254.23.154|3128|Russia|Moscow|Piter-telecom Ltd.|
+|5|31.25.93.217|3128|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|6|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|7|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
 |9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|11|121.232.181.183|8089|China|Nanjing|Chinanet|
-|12|114.223.54.6|8089|China|Wuxi|Chinanet|
-|13|67.43.228.250|1955|Canada|Montreal|GloboTech Communications|
-|14|114.225.152.219|8089|China|Changzhou|Chinanet|
-|15|72.10.160.91|12091|Canada|Montreal|GloboTech Communications|
-|16|43.252.159.10|8080|Indonesia|Yogyakarta|PT Blip Integrator Provider|
-|17|114.223.79.165|8089|China|Nanjing|Chinanet|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
-|20|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|10|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
+|13|103.137.179.180|8080|Philippines|Yapak|Paradise Cable Television Network|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|67.43.227.226|30383|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|18385|Canada|Montreal|GloboTech Communications|
+|17|45.234.0.74|8989|Brazil|Cascavel|Mundial Telecomunicacao Ltda - ME|
+|18|36.140.27.57|1080|China|Guangzhou|China Mobile|
+|19|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
