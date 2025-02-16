@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|4|49.49.139.129|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|171.5.115.121|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|5|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
 |6|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|9|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|10|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.236.18|8161|Canada|Montreal|GloboTech Communications|
-|13|103.147.246.189|3127|Indonesia|Tangerang|PLBNET|
-|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|103.18.79.177|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|18|67.43.227.228|10723|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|20125|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|10723|Canada|Montreal|GloboTech Communications|
+|7|180.248.44.134|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|171.238.127.84|10017|Vietnam|Ninh Bình|Viettel Corporation|
+|10|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|11|125.163.137.64|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|101.255.169.126|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|125.24.235.71|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|20|72.10.160.170|9517|Canada|Montreal|GloboTech Communications|
 
 
 
