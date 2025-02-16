@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|164.163.42.10|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|116.254.96.111|8080|Indonesia|Jakarta|SpaceX Starlink|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|118.113.244.86|2324|China|Shanghai|Chinanet|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|15|178.153.241.108|8080|Qatar|Doha|Ooredoo-MBB|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|160.19.18.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|18|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|19|59.63.205.36|655|China|Taohua|Chinanet|
-|20|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|2|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|8|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|59.63.205.36|655|China|Taohua|Chinanet|
+|12|72.10.160.90|18047|Canada|Montreal|GloboTech Communications|
+|13|24.123.120.100|4228|United States|La Mirada|Spectrum|
+|14|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|15|152.42.170.187|9090|Singapore|Singapore|DigitalOcean, LLC|
+|16|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|17|128.199.253.195|9090|Singapore|Singapore|DigitalOcean, LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|67.43.236.20|21763|Canada|Montreal|GloboTech Communications|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
