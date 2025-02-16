@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.191.49.99|8082|Philippines|Tarlac City|Globe Telecom|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|5|182.253.193.156|8080|Indonesia|Jambi City|BIZNET|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|191.81.245.204|8080|Argentina|Mendoza|Telefonica de Argentina|
-|8|31.25.93.217|3128|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
-|9|177.234.209.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
-|15|113.11.183.112|8080|Indonesia|Bandung|BIZNET|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|119.95.123.229|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|18|185.244.45.81|8080|Russia|Moscow|Ltd OnLine|
-|19|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|185.255.89.156|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|4|43.252.237.125|8080|Indonesia|Tangerang|PT Usaha Adi Sanggoro|
+|5|191.81.245.204|8080|Argentina|Mendoza|Telefonica de Argentina|
+|6|103.169.238.42|8181|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|9|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|36.91.148.36|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|171.238.127.84|10011|Vietnam|Ninh Bình|Viettel Corporation|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
