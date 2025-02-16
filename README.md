@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|40.176.199.88|3128|Canada|Calgary|Amazon.com, Inc.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|116.108.1.126|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|54.87.50.101|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|54.226.188.184|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|72.10.160.93|25905|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|25277|Canada|Montreal|GloboTech Communications|
-|14|79.175.189.50|80|Iran|Tehran|Afranet|
-|15|116.109.197.243|5104|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|118.113.246.82|2324|China|Shanghai|Chinanet|
-|18|114.231.75.110|1080|China|Nanjing|Chinanet|
-|19|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|20|77.243.15.85|3246|Russia|Kursk|Sovtest-Internet|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|38.183.144.89|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|54.87.50.101|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|7|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|38.7.1.254|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|180.125.186.135|1080|China|Nanjing|Chinanet|
+|11|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|12|110.188.37.27|2324|China|Muping|Chinanet|
+|13|54.226.188.184|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|35.175.183.168|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|223.205.35.211|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.160.182.169|1080|Indonesia|Jember|PT Internusa Duta Makmur|
 
 
 
