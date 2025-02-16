@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|67.43.236.18|1459|Canada|Montreal|GloboTech Communications|
-|9|114.231.74.141|8089|China|Nanjing|Chinanet|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|157.66.37.20|8080|Indonesia|Kalianda|PT Speed Network Indonesia|
-|12|180.112.182.252|8089|China|Nanjing|Chinanet|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|125.163.137.64|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|15|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|23651|Canada|Montreal|GloboTech Communications|
-|18|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|19|218.1.197.40|2324|China|Shanghai|China Telecom (Group)|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|9|67.43.236.18|13221|Canada|Montreal|GloboTech Communications|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|202.191.125.147|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.184.50.102|9090|Indonesia|Sragen|PT Aktech Digital Solutions|
+|18|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |20|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
