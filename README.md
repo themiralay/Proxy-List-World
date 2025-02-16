@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
-|5|203.142.78.46|8080|Indonesia|Jakarta|BIZNET|
-|6|103.187.164.98|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
-|7|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|8|103.171.83.199|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
-|9|159.89.51.171|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.223.42.24|8104|Singapore|Singapore|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.188.252.162|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|13|103.238.232.158|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
-|14|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|15|103.153.155.249|8082|Bangladesh|Pābna|Pabna Cable Vision Dot|
-|16|103.244.145.152|2180|Germany|Frankfurt am Main|Interkvm Host SRL|
-|17|112.201.182.35|8080|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|18|159.89.51.171|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|168.197.182.138|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
-|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|103.165.150.42|8085|Indonesia|Bengkalis|PT Agsa Global Network|
+|4|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.145.34.186|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|7|124.121.92.209|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|8|103.188.252.162|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|9|203.142.78.46|8080|Indonesia|Jakarta|BIZNET|
+|10|103.147.246.189|3127|Indonesia|Tangerang|PLBNET|
+|11|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
+|12|36.73.221.113|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
+|13|103.169.255.197|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|14|159.223.42.24|8104|Singapore|Singapore|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.231.236.142|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|17|103.65.214.150|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
+|18|103.65.214.148|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
+|19|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
+|20|38.252.82.0|9090|Brazil|Centro|Dione Balarim Prieto Tecnologia e Internet|
 
 
 
