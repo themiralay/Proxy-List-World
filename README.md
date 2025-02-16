@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|67.43.228.250|13181|Canada|Montreal|GloboTech Communications|
-|7|115.72.2.86|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|8|118.113.246.61|2324|China|Shanghai|Chinanet|
-|9|67.43.227.226|21011|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|1623|Canada|Montreal|GloboTech Communications|
-|11|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|72.10.160.173|7051|Canada|Montreal|GloboTech Communications|
-|13|115.186.185.6|3128|Pakistan|Islamabad|Nayatel (Pvt) Ltd|
-|14|116.107.164.204|4007|Vietnam|Hanoi|Viettel Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.227.229|21487|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1623|Canada|Montreal|GloboTech Communications|
-|18|115.72.167.120|10009|Vietnam|Vũng Tàu|VIETELmetro|
-|19|115.72.172.219|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|218.187.66.92|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.172.71.253|2024|Indonesia|Karawang|AZNET|
+|4|112.201.182.35|8080|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|5|103.144.102.109|8085|Indonesia|Cirebon|PANDAWANET|
+|6|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
+|7|103.81.194.130|3125|Indonesia|Bogor|PT Rtiga Global Media|
+|8|103.176.96.172|1565|Indonesia|Karawang|PT Global Sarana Elektronika|
+|9|103.154.139.61|8080|Indonesia|Jakarta|MORATELINDONAP|
+|10|103.238.232.158|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|11|103.145.34.186|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|12|103.231.236.142|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|13|103.30.193.32|3125|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
+|14|103.162.63.171|3125|Indonesia|Argasari|PT Ring Media Nusantara|
+|15|103.65.214.148|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
+|16|103.172.71.138|8089|Indonesia|Karawang|AZNET|
+|17|103.65.214.150|8080|Indonesia|Srandakan|PT.Broadband Indonesia Pratama|
+|18|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|19|103.97.140.238|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|20|124.121.92.209|8080|Thailand|Mueang Samut Prakan|TRUEBB|
 
 
 
