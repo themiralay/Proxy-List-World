@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|38.51.235.50|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|10|102.214.165.81|1976|Libya|Al Bayda'|Aljeel Aljadeed For Technology|
-|11|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|12|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|13|106.75.146.240|10810|China|Yangpu|UCLOUD|
-|14|121.227.146.74|8089|China|Nanjing|China Telecom|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|185.208.102.157|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|18|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|202.65.227.62|8080|Indonesia|Jakarta|SpaceX Starlink|
+|4|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|5|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|171.238.127.84|10002|Vietnam|Ninh Bình|Viettel Corporation|
+|8|103.163.227.178|8080|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
+|9|187.204.24.21|8081|Mexico|Tecomán|Uninet S.A. de C.V.|
+|10|180.248.33.123|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|11|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|12|180.248.33.123|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|13|115.127.88.137|8080|Bangladesh|Dhaka|BRACNet Limited|
+|14|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|15|103.159.194.191|3128|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|16|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|102.214.165.81|1976|Libya|Al Bayda'|Aljeel Aljadeed For Technology|
 
 
 
