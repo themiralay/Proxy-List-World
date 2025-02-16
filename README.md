@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |7|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|8|72.10.160.170|28665|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|15039|Canada|Montreal|GloboTech Communications|
-|10|27.70.165.181|57711|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|72.10.160.90|18275|Canada|Montreal|GloboTech Communications|
-|12|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|67.43.228.250|12635|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|12635|Canada|Montreal|GloboTech Communications|
-|15|79.175.189.50|80|Iran|Tehran|Afranet|
-|16|72.10.160.90|18275|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|8455|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|12635|Canada|Montreal|GloboTech Communications|
-|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|103.82.246.49|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|11|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|12|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|13|111.75.190.5|655|China|Taohua|Chinanet|
+|14|79.175.189.50|80|Iran|Tehran|Afranet|
+|15|67.43.228.250|12635|Canada|Montreal|GloboTech Communications|
+|16|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
+|17|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.171|10189|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|12635|Canada|Montreal|GloboTech Communications|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
