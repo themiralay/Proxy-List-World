@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|9|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|10|182.150.116.147|1436|China|Muping|Chinanet|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|72.10.164.178|9343|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|25615|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|19|114.225.152.219|8089|China|Changzhou|Chinanet|
-|20|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|3|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
+|17|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|18|180.180.91.104|8080|Thailand|Rayong|TOT Public Company Limited|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
 
 
 
