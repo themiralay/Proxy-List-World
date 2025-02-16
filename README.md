@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|9|67.43.236.18|8113|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|29165|Canada|Montreal|GloboTech Communications|
-|11|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|12|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|67.43.236.18|8113|Canada|Montreal|GloboTech Communications|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.236.18|8113|Canada|Montreal|GloboTech Communications|
-|17|103.133.60.9|8080|Indonesia|Kedaton|TLINK|
-|18|118.113.244.66|2324|China|Shanghai|Chinanet|
-|19|118.113.244.246|2324|China|Shanghai|Chinanet|
-|20|67.43.228.250|12853|Canada|Montreal|GloboTech Communications|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|67.43.236.18|17765|Canada|Montreal|GloboTech Communications|
+|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|14|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|72.10.160.170|29165|Canada|Montreal|GloboTech Communications|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|23.147.112.74|8080|United States|Nogales|NGX Networks|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
 
 
 
