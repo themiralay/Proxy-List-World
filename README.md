@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|103.48.70.161|83|India|Hyderabad|Country Online Services PVT LTD|
-|4|115.72.163.206|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|5|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
-|6|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|7|27.189.129.95|8089|China|Langfang|Chinanet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|6|72.10.160.171|24203|Canada|Montreal|GloboTech Communications|
+|7|119.96.72.199|59394|China|Wuhan|CHINANET Hubei province network|
 |8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|72.10.160.170|26121|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|24203|Canada|Montreal|GloboTech Communications|
-|12|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|17|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|18|103.126.86.91|1204|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|19|67.43.227.227|27021|Canada|Montreal|GloboTech Communications|
-|20|116.108.1.126|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|192.145.228.209|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|67.43.227.227|27021|Canada|Montreal|GloboTech Communications|
+|14|160.19.18.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|67.43.228.250|6853|Canada|Montreal|GloboTech Communications|
+|17|27.70.238.241|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
+|19|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|20|38.49.136.35|999|Mexico|Zapotlán de Juárez|Ientc S De RL De CV|
 
 
 
