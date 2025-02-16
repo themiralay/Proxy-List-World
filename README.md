@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|103.39.247.205|8080|India|Mumbai|Zess Networks Private Limited|
+|3|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|4|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
 |5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.139.99.29|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|9|124.121.2.142|8080|Thailand|Bangkok|TRUEBB|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|58.136.246.83|8080|Thailand|Bangkok|AIS-Fibre|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.228.250|4329|Canada|Montreal|GloboTech Communications|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|114.224.74.254|8089|China|Wuxi|Chinanet|
-|18|103.247.23.201|8080|Indonesia|Baturaden|PT wifian Solution|
-|19|67.43.227.226|3593|Canada|Montreal|GloboTech Communications|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|15|72.10.160.90|8465|Canada|Montreal|GloboTech Communications|
+|16|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
+|17|72.10.160.91|29975|Canada|Montreal|GloboTech Communications|
+|18|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|111.75.190.5|655|China|Taohua|Chinanet|
 
 
 
