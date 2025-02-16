@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|4|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|49.49.139.129|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
-|8|103.131.19.30|8011|Indonesia|Lamongan|PT Global Media Data Prima|
-|9|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|113.53.148.1|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|1.4.167.22|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|5|125.27.38.85|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|8|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|11|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
 |12|116.108.1.126|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|72.10.160.91|8169|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
-|16|72.10.160.90|15363|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|18439|Canada|Montreal|GloboTech Communications|
-|18|157.119.222.23|8080|Indonesia|Semarang|DESNET|
-|19|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|121.230.8.144|1080|China|Nanjing|Chinanet|
+|15|72.10.160.90|27447|Canada|Montreal|GloboTech Communications|
+|16|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|17|149.86.140.70|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|79.175.189.50|80|Iran|Tehran|Afranet|
+|20|182.150.116.147|1436|China|Muping|Chinanet|
 
 
 
