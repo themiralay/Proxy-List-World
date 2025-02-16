@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|3|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|164.163.42.10|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|38.250.119.16|999|Peru|Lima region|Bantel SAC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|43.252.159.10|8080|Indonesia|Yogyakarta|PT Blip Integrator Provider|
+|4|160.19.16.10|9870|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|116.90.165.206|8080|Indonesia|South Tangerang|Dwi Tunggal Putra|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|10|171.238.127.84|10012|Vietnam|Ninh Bình|Viettel Corporation|
-|11|67.43.228.250|12839|Canada|Montreal|GloboTech Communications|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|14|72.10.160.92|11731|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22045|Canada|Montreal|GloboTech Communications|
-|16|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|72.10.164.178|22045|Canada|Montreal|GloboTech Communications|
-|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|20|67.43.236.18|11635|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|7159|Canada|Montreal|GloboTech Communications|
+|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|11|72.10.160.92|11731|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|7159|Canada|Montreal|GloboTech Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
+|15|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|16|67.43.228.250|12839|Canada|Montreal|GloboTech Communications|
+|17|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|187.85.157.210|8080|Argentina|Puerto Iguazú|Ggnet Telecom Backbone|
 
 
 
