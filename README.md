@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
-|3|43.153.5.215|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|82.65.27.56|80|France|Paris|Proxad / Free SAS|
-|6|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|67.43.227.226|12865|Canada|Montreal|GloboTech Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|72.10.160.170|17941|Canada|Montreal|GloboTech Communications|
-|12|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.10.160.90|8975|Canada|Montreal|GloboTech Communications|
-|17|75.128.125.149|8080|United States|Kalamazoo|Charter Communications|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|143.244.138.31|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|115.72.167.120|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|7|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|14|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|15|103.159.96.178|8055|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|19|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|20|103.160.205.230|8080|Indonesia|Mataram|PRIME|
 
 
 
