@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|184.82.54.126|8080|Thailand|Khon Kaen|AIS-Fibre|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|171.238.127.84|10036|Vietnam|Ninh Bình|Viettel Corporation|
-|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|8|72.10.160.90|9229|Canada|Montreal|GloboTech Communications|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|11|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|72.10.160.170|9517|Canada|Montreal|GloboTech Communications|
-|13|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|14|125.25.138.241|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|222.67.8.46|1080|China|Shanghai|China Telecom (Group)|
+|2|113.184.217.150|8080|Vietnam|Hanoi|VNPT|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|5|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|6|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|8|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|9|180.251.252.125|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|146.196.40.165|8080|Indonesia|Karawang|UNINA|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|171.6.84.209|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|103.40.121.35|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|51.89.25.53|3128|United Kingdom|London|OVH SAS|
 |16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|72.10.160.91|12587|Canada|Montreal|GloboTech Communications|
-|19|115.147.34.99|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|17|102.214.165.137|1975|Libya|Al Bayda'|Aljeel Aljadeed For Technology|
+|18|79.175.189.50|80|Iran|Tehran|Afranet|
+|19|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|20|67.43.228.250|26935|Canada|Montreal|GloboTech Communications|
 
 
 
