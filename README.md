@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.251.14.109|8888|Singapore|Singapore|Amazon.com, Inc.|
-|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|4|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|116.108.1.126|10041|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|20.233.255.93|3128|United Arab Emirates|Dubai|Microsoft Corporation|
-|9|20.206.148.14|3128|Brazil|São Paulo|Microsoft Corporation|
-|10|195.26.253.45|3128|United States|St Louis|Nubes, LLC|
-|11|116.108.1.126|10041|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|13|20.233.255.93|3128|United Arab Emirates|Dubai|Microsoft Corporation|
-|14|72.10.164.178|17363|Canada|Montreal|GloboTech Communications|
-|15|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|16|72.10.160.172|12851|Canada|Montreal|GloboTech Communications|
-|17|125.25.149.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|67.43.228.250|10463|Canada|Montreal|GloboTech Communications|
-|19|121.101.134.90|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|20|93.183.70.222|34749|Germany|Frankfurt am Main|ZTV CORP LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.166.210.233|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|6|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|115.72.5.54|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|10|125.25.149.227|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|93.183.70.222|34749|Germany|Frankfurt am Main|ZTV CORP LLC|
+|12|121.101.134.90|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|109.165.177.84|8082|Bosnia and Herzegovina|Bosanski Brod|TEOL-ADSL|
+|17|103.183.10.173|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|18|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
