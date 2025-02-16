@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|5|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|2|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|164.163.42.10|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|27.76.183.228|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|72.10.160.174|17907|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|1767|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.229|1767|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|13193|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|14031|Canada|Montreal|GloboTech Communications|
-|19|116.98.55.152|8080|Vietnam|Da Nang|Viettel Corporation|
-|20|103.175.46.13|8080|Indonesia|Arjawinangun|PT Internet Keluarga Indonesia|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|103.160.182.33|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|171.238.127.84|10016|Vietnam|Ninh Bình|Viettel Corporation|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|114.80.40.130|3081|China|Shanghai|China Telecom (Group)|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
 
 
 
