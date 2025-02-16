@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.242.105.127|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|49.70.190.231|2324|China|Zhenjiang|Chinanet|
-|9|67.43.227.229|9565|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|31221|Canada|Montreal|GloboTech Communications|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
-|15|27.189.134.155|8089|China|Langfang|Chinanet|
-|16|38.183.213.248|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
-|17|195.189.190.252|9090|Spain|San Bartolomé|Suballocated IT1|
-|18|67.43.236.18|13315|Canada|Montreal|GloboTech Communications|
-|19|159.223.61.184|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|27.70.238.241|10016|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|7|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|8|185.255.89.156|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|103.42.161.9|8080|India|Navi Mumbai|ADVANT|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|103.242.105.127|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|177.234.209.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|119.95.123.229|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|18|27.70.238.241|10016|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
