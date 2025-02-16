@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|5|113.192.30.173|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|118.113.244.253|2324|China|Shanghai|Chinanet|
-|8|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
-|9|45.4.0.59|999|Chile|Santiago|Tlink SPA|
-|10|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|12|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|13|72.10.160.90|11473|Canada|Montreal|GloboTech Communications|
-|14|49.70.190.72|2324|China|Zhenjiang|Chinanet|
-|15|125.87.85.255|2324|China|Shanghai|China Telecom|
-|16|72.10.160.170|16959|Canada|Montreal|GloboTech Communications|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|115.31.160.91|1420|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|20|103.164.223.51|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.167.170.63|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|5|45.252.183.242|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|103.134.246.71|1111|Indonesia|Tabanan|Wisuandha Network Globalindo|
+|10|72.10.160.90|11473|Canada|Montreal|GloboTech Communications|
+|11|38.49.144.250|999|Mexico|Tecozautla|Ientc S De RL De CV|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|125.87.85.255|2324|China|Shanghai|China Telecom|
+|15|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|67.43.227.226|4619|Canada|Montreal|GloboTech Communications|
+|18|103.156.16.227|8080|Indonesia|Jatibarang|RSTNET|
+|19|72.10.160.170|21739|Canada|Montreal|GloboTech Communications|
+|20|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
 
 
 
