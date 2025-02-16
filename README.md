@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|103.105.55.243|8082|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|72.10.160.173|23977|Canada|Montreal|GloboTech Communications|
-|8|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|9|72.10.160.90|22791|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|20457|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|23977|Canada|Montreal|GloboTech Communications|
-|12|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.90|22791|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|9143|Canada|Montreal|GloboTech Communications|
-|16|69.167.30.117|8118|United States|San Francisco|Paradise Networks LLC|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|67.43.236.18|21325|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|22791|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18267|Canada|Montreal|GloboTech Communications|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|5|67.43.228.250|18247|Canada|Montreal|GloboTech Communications|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|67.43.227.226|9143|Canada|Montreal|GloboTech Communications|
+|8|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|9|72.10.160.90|26435|Canada|Montreal|GloboTech Communications|
+|10|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|11|72.10.164.178|18267|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|3549|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|7001|Canada|Montreal|GloboTech Communications|
+|14|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|72.10.164.178|18267|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|7001|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|26435|Canada|Montreal|GloboTech Communications|
+|18|116.108.1.126|10036|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|103.242.104.145|1080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|20|200.110.104.3|999|Mexico|Río Grande|Wistarip S De RL De CV|
 
 
 
