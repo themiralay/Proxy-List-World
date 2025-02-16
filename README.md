@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.229.232.224|5101|Vietnam|Hanoi|Viettel Corporation|
-|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|4|115.72.2.86|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|116.108.139.27|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|115.72.2.86|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|6|115.77.164.134|10008|Vietnam|Vũng Tàu|Viettel Group|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|115.72.15.180|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|9|72.10.164.178|27139|Canada|Montreal|GloboTech Communications|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|116.108.139.27|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|171.224.28.112|10002|Vietnam|Hanoi|Viettel Corporation|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|43.252.236.234|8080|Indonesia|Tangerang|NET|
-|15|72.10.164.178|27139|Canada|Montreal|GloboTech Communications|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|171.229.232.224|5101|Vietnam|Hanoi|Viettel Corporation|
+|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|9|171.224.28.112|10002|Vietnam|Hanoi|Viettel Corporation|
+|10|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.122.1.113|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
+|16|58.69.78.115|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
 |18|171.224.28.112|10002|Vietnam|Hanoi|Viettel Corporation|
-|19|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
-|20|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
+|19|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
