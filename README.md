@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|6|72.10.164.178|32571|Canada|Montreal|GloboTech Communications|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|185.255.88.170|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|9|72.10.160.90|21613|Canada|Montreal|GloboTech Communications|
-|10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|12|118.113.245.8|2324|China|Shanghai|Chinanet|
-|13|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|67.43.228.250|5899|Canada|Montreal|GloboTech Communications|
-|15|121.227.118.178|8089|China|Nanjing|China Telecom|
-|16|103.210.35.114|3001|Indonesia|Sleman|Diskominfo DIY|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|27.189.130.210|8089|China|Langfang|Chinanet|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|72.10.160.170|15071|Canada|Montreal|GloboTech Communications|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|94.159.109.194|29242|Germany|Frankfurt am Main|H2nexus LTD|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|72.10.164.178|17997|Canada|Montreal|GloboTech Communications|
+|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|118.113.244.147|2324|China|Shanghai|Chinanet|
+|15|72.10.164.178|17997|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|84.51.15.251|32650|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|18|125.87.87.4|2324|China|Shanghai|China Telecom|
+|19|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|20|67.43.227.226|9833|Canada|Montreal|GloboTech Communications|
 
 
 
