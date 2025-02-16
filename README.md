@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|202.5.37.104|17382|Bangladesh|Chittagong|BBTS-NEW|
-|8|1.20.198.191|3128|Thailand|Bangkok|TOT Public Company Limited|
-|9|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|10|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|11|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|12|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|5.160.57.36|8080|Iran|Tehran|RSPN|
-|14|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|15|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
-|16|72.10.160.170|5671|Canada|Montreal|GloboTech Communications|
-|17|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.98.241.66|3138|China|Guangzhou|Chinanet|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.35.81.51|8080|Kazakhstan|Astana|BEGET|
+|9|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|79.175.189.50|80|Iran|Tehran|Afranet|
+|16|113.53.89.124|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|17|184.82.244.77|8080|Thailand|Udon Thani|AIS-Fibre|
+|18|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|19|37.211.41.239|8080|Qatar|Doha|Ooredoo|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
