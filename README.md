@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|157.15.144.250|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|6|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|7|67.43.236.19|7123|Canada|Montreal|GloboTech Communications|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|45.148.248.80|1700|Iran|Tehran|Ayandeh Gostar Bastak Co. P. J. S|
+|6|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|9|72.10.164.178|21057|Canada|Montreal|GloboTech Communications|
-|10|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|13|72.10.160.170|4495|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|10329|Canada|Montreal|GloboTech Communications|
-|15|114.223.62.69|8089|China|Nanjing|Chinanet|
-|16|72.10.160.173|21941|Canada|Montreal|GloboTech Communications|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|72.10.160.90|17199|Canada|Montreal|GloboTech Communications|
-|20|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|9|67.43.228.250|28465|Canada|Montreal|GloboTech Communications|
+|10|188.245.46.170|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|118.113.244.147|2324|China|Shanghai|Chinanet|
+|13|113.187.136.95|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|17|146.190.80.158|9090|Singapore|Singapore|DigitalOcean, LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|20|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
 
 
 
