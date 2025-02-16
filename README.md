@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|49.70.190.211|2324|China|Zhenjiang|Chinanet|
-|6|67.43.227.226|22391|Canada|Montreal|GloboTech Communications|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|9|67.43.228.251|26951|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|24323|Canada|Montreal|GloboTech Communications|
-|11|38.51.207.98|999|Venezuela|Maracaibo|Tecnoven Services CA|
-|12|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|13|103.154.77.91|9876|Indonesia|Sleman|T2NET|
-|14|201.234.196.106|9443|Ecuador|Quito|Level 3 ECUADOR LVLT S.A|
-|15|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
-|16|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|3|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|164.163.42.10|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|11|45.124.170.5|8080|Bangladesh|Dhaka|Nextonline Limited|
+|12|157.119.222.23|8080|Indonesia|Semarang|DESNET|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
+|15|117.44.64.85|655|China|Taohua|Chinanet|
+|16|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|72.10.160.170|29681|Canada|Montreal|GloboTech Communications|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|20|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
 
 
 
