@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.147.77.204|8080|Indonesia|Magetan|TRIDATA|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|72.10.160.172|31783|Canada|Montreal|GloboTech Communications|
-|8|117.3.221.171|8080|Vietnam|Phan Thiết|VIETTEL|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.172.42.175|1080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|12|72.10.160.171|27171|Canada|Montreal|GloboTech Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.10.160.170|27773|Canada|Montreal|GloboTech Communications|
-|17|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|18|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|19|67.43.228.250|21635|Canada|Montreal|GloboTech Communications|
-|20|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|2|103.183.10.173|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|3|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|7|116.109.135.233|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|20.233.255.93|3128|United Arab Emirates|Dubai|Microsoft Corporation|
+|9|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|45.151.70.90|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|67.43.228.252|19119|Canada|Montreal|GloboTech Communications|
+|14|171.238.127.84|10012|Vietnam|Ninh Bình|Viettel Corporation|
+|15|103.172.42.175|1080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|72.10.160.171|27171|Canada|Montreal|GloboTech Communications|
+|17|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|18|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|19|171.238.127.84|10012|Vietnam|Ninh Bình|Viettel Corporation|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
