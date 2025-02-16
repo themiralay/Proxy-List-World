@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|218.187.66.92|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
-|6|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
-|7|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
-|10|103.167.86.234|39231|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
-|11|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|12|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|13|115.72.172.55|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|14|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|3.84.187.167|8888|United States|Ashburn|Amazon Technologies Inc.|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|116.107.164.204|4007|Vietnam|Hanoi|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|36.82.203.121|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|14|103.165.157.246|1080|Indonesia|Banyumas|MEGADATA-ISP|
+|15|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |17|143.244.221.87|3128|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.227.226|7275|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|23345|Canada|Montreal|GloboTech Communications|
-|20|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|18|118.113.245.187|2324|China|Shanghai|Chinanet|
+|19|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|20|72.10.160.170|18199|Canada|Montreal|GloboTech Communications|
 
 
 
