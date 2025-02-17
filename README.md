@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.44.111.220|3128|Japan|Chiyoda|GMO Internet, Inc|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|12|103.61.240.198|9090|Bangladesh|Dhaka|HelloTech Limited|
-|13|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|16|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|6|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|119.93.145.82|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|116.108.1.126|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|14|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|15|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|16|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
+|17|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
 
 
 
