@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|79.175.189.50|80|Iran|Tehran|Afranet|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|72.10.164.178|31157|Canada|Montreal|GloboTech Communications|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|187.204.24.21|8081|Mexico|Tecomán|Uninet S.A. de C.V.|
-|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.228.250|27605|Canada|Montreal|GloboTech Communications|
-|15|49.70.190.119|2324|China|Zhenjiang|Chinanet|
-|16|27.189.129.24|8089|China|Langfang|Chinanet|
-|17|72.10.160.92|27301|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.236.19|31249|Canada|Montreal|GloboTech Communications|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|72.10.164.178|25045|Canada|Montreal|GloboTech Communications|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|122.3.55.18|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|79.175.189.50|80|Iran|Tehran|Afranet|
+|16|46.10.229.243|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|17|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|67.43.236.19|31249|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|25045|Canada|Montreal|GloboTech Communications|
 
 
 
