@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|6|45.123.142.9|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|72.10.160.173|21315|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|72.10.160.170|31643|Canada|Montreal|GloboTech Communications|
-|15|27.189.129.57|8089|China|Langfang|Chinanet|
-|16|116.108.1.126|10041|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|111.72.195.72|2324|China|Taohua|Chinanet|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.236.18|27447|Canada|Montreal|GloboTech Communications|
+|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|72.10.160.173|16037|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.170|6565|Canada|Montreal|GloboTech Communications|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|9|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|72.10.160.93|25433|Canada|Montreal|GloboTech Communications|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|119.96.72.199|59394|China|Wuhan|CHINANET Hubei province network|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|72.10.160.173|16037|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|6565|Canada|Montreal|GloboTech Communications|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|72.10.164.178|30581|Canada|Montreal|GloboTech Communications|
+|19|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|20|72.10.164.178|30581|Canada|Montreal|GloboTech Communications|
 
 
 
