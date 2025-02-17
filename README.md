@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|72.10.164.178|4603|Canada|Montreal|GloboTech Communications|
-|6|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|121.227.146.99|8089|China|Nanjing|China Telecom|
-|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|10|67.43.227.227|5363|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|13425|Canada|Montreal|GloboTech Communications|
-|12|79.175.189.50|80|Iran|Tehran|Afranet|
-|13|67.43.228.250|3469|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|13425|Canada|Montreal|GloboTech Communications|
-|15|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|18|72.10.164.178|4603|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|3469|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|72.10.164.178|4603|Canada|Montreal|GloboTech Communications|
+|8|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|9|79.175.189.50|80|Iran|Tehran|Afranet|
+|10|72.10.164.178|4603|Canada|Montreal|GloboTech Communications|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|67.43.227.226|12577|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|5363|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|61.160.247.69|9999|China|Nanjing|China Telecom|
+|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|18|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|103.171.83.199|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
 
 
 
