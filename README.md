@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.150.113.212|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.150.113.212|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|185.157.160.159|8118|Sweden|Stockholm|OVPN|
-|12|103.171.240.130|3131|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|13|67.43.236.22|15333|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|72.10.160.170|5103|Canada|Montreal|GloboTech Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.236.20|21787|Canada|Montreal|GloboTech Communications|
-|18|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.236.19|19747|Canada|Montreal|GloboTech Communications|
-|20|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|12|67.43.236.22|15333|Canada|Montreal|GloboTech Communications|
+|13|45.188.76.128|999|Mexico|Jalpa de Méndez|ONT NETWORKS SA de CV|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.228.251|19273|Canada|Montreal|GloboTech Communications|
+|17|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
