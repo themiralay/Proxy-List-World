@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|115.72.170.87|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|49.70.190.227|2324|China|Zhenjiang|Chinanet|
-|9|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc|
-|10|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|11|203.150.113.212|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|15|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|72.10.160.90|32861|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|26511|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|3|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
+|4|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|203.150.113.212|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|10|72.10.160.171|23713|Canada|Montreal|GloboTech Communications|
+|11|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|182.253.137.102|8080|Indonesia|Jakarta|BIZNET|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|67.43.228.250|4597|Canada|Montreal|GloboTech Communications|
+|18|61.174.243.24|9962|China|Yanguan|China Telecom|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
