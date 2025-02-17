@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|54.179.136.77|8888|Singapore|Singapore|Amazon.com, Inc.|
-|3|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|8|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|9|72.10.160.173|13661|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|19709|Canada|Montreal|GloboTech Communications|
-|11|123.24.58.147|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.228.251|23515|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|27577|Canada|Montreal|GloboTech Communications|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|72.10.160.170|5729|Canada|Montreal|GloboTech Communications|
-|16|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|54.179.136.77|8888|Singapore|Singapore|Amazon.com, Inc.|
-|18|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|193.34.144.169|80|Germany|Munich|Contabo GmbH|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|8|113.11.183.51|8082|Indonesia|Bandung|BIZNET|
+|9|106.75.226.193|8119|China|Yangpu|UCLOUD|
+|10|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|67.43.228.252|2021|Canada|Montreal|GloboTech Communications|
+|13|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|72.10.160.90|19333|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|6733|Canada|Montreal|GloboTech Communications|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
 |19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|47.83.212.84|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|72.10.164.178|6733|Canada|Montreal|GloboTech Communications|
 
 
 
