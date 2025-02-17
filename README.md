@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|116.108.1.126|10016|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|49.70.190.72|2324|China|Zhenjiang|Chinanet|
-|8|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
-|9|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|14.39.239.241|63435|South Korea|Eunpyeong-gu|Korea Telecom|
-|12|171.238.127.84|10012|Vietnam|Ninh Bình|Viettel Corporation|
-|13|103.190.171.33|8080|Indonesia|Jakarta|WMS|
-|14|67.43.236.18|2109|Canada|Montreal|GloboTech Communications|
-|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|67.43.236.21|29245|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|3417|Canada|Montreal|GloboTech Communications|
-|18|171.238.127.84|10012|Vietnam|Ninh Bình|Viettel Corporation|
-|19|67.43.227.230|26109|Canada|Montreal|GloboTech Communications|
-|20|27.189.131.198|8089|China|Langfang|Chinanet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|164.163.42.40|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|116.108.1.126|10032|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|171.238.127.84|10024|Vietnam|Ninh Bình|Viettel Corporation|
+|12|49.49.58.98|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|36.73.221.113|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|67.43.236.19|31249|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
