@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|144.24.149.254|3128|India|Hyderabad|Oracle Corporation|
-|10|72.10.164.178|27425|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|4581|Canada|Montreal|GloboTech Communications|
-|12|51.21.188.171|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|16|54.179.173.220|8888|Singapore|Singapore|Amazon.com, Inc.|
-|17|103.178.23.6|8080|Indonesia|Salatiga|Universitas Kristen Satya Wacana|
-|18|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
-|19|119.96.72.199|59394|China|Wuhan|CHINANET Hubei province network|
-|20|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|3|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|6|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|90.64.41.185|3128|Slovakia|Nové Zámky|Orange Slovensko a.s.|
+|11|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|72.10.160.91|14311|Canada|Montreal|GloboTech Communications|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|18|72.10.160.90|31385|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|27425|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
