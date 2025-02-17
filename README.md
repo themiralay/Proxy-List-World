@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4943** proxies at the latest update. Usable proxies are below.
+> Scraper found **4936** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|701|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|694|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2676|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|12|177.107.20.150|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|101.109.176.163|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.105.55.103|8080|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|102.66.104.162|8865|South Africa|Thulamahashi|Herotel|
+|20|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
 
 
 
