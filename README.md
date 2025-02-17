@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|72.10.160.90|31535|Canada|Montreal|GloboTech Communications|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|116.108.1.126|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|67.43.228.251|28499|Canada|Montreal|GloboTech Communications|
-|10|182.53.23.238|8080|Thailand|Si Racha|TOT Public Company Limited|
-|11|23.138.88.34|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|12|116.108.1.126|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|67.43.228.250|17955|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|17955|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9247|Canada|Montreal|GloboTech Communications|
-|16|116.108.1.126|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|67.43.236.18|19577|Canada|Montreal|GloboTech Communications|
-|18|79.175.189.50|80|Iran|Tehran|Afranet|
-|19|67.43.228.251|28499|Canada|Montreal|GloboTech Communications|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|72.10.160.90|14465|Canada|Montreal|GloboTech Communications|
+|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|12|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|72.10.164.178|18849|Canada|Montreal|GloboTech Communications|
+|16|119.2.45.102|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|181.78.211.95|999|Colombia|Espinal|IFX Networks Argentina S.R.L|
+|20|67.43.227.227|14239|Canada|Montreal|GloboTech Communications|
 
 
 
