@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|10|38.183.146.170|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|11|103.72.89.129|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|12|190.119.90.114|8080|Peru|Lima|America Movil Peru S.A.C.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|47.90.207.175|40004|United States|Richmond|Alibaba.com LLC|
-|16|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|121.227.109.9|8089|China|Nanjing|China Telecom|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|38.183.146.170|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|103.72.89.129|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
+|16|103.211.26.94|8006|Indonesia|Madiun|PT Olean Permata Telematika|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
