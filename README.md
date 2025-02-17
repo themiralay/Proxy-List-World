@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|103.247.14.38|9285|Indonesia|Klaten|TERABIT|
+|1|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
-|10|91.185.58.158|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
-|18|67.43.228.250|1901|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|6645|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|1785|Canada|Montreal|GloboTech Communications|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|113.53.89.124|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|158.140.139.11|58100|Singapore|Singapore|Myrepublic Limited|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|91.185.58.158|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|17|171.6.112.164|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|20|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
 
 
 
