@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
 |4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|6|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|72.10.160.90|16413|Canada|Montreal|GloboTech Communications|
-|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|11|72.10.160.174|18899|Canada|Montreal|GloboTech Communications|
-|12|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
-|13|79.175.189.50|80|Iran|Tehran|Afranet|
-|14|67.43.228.250|3165|Canada|Montreal|GloboTech Communications|
-|15|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|16|72.10.164.178|33025|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|72.10.160.173|5547|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|25433|Canada|Montreal|GloboTech Communications|
-|20|27.189.132.36|8089|China|Langfang|Chinanet|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|72.10.160.91|23923|Canada|Montreal|GloboTech Communications|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|72.10.160.174|18899|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|23923|Canada|Montreal|GloboTech Communications|
+|12|79.175.189.50|80|Iran|Tehran|Afranet|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
+|15|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
+|16|72.10.160.170|32571|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|26747|Canada|Montreal|GloboTech Communications|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|195.218.231.98|3128|Russia|St Petersburg|EDN Sovintel|
+|20|67.43.228.250|26747|Canada|Montreal|GloboTech Communications|
 
 
 
