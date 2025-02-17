@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|114.225.152.241|8089|China|Changzhou|Chinanet|
-|9|67.43.236.19|1445|Canada|Montreal|GloboTech Communications|
-|10|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|11|67.43.228.252|31159|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28169|Canada|Montreal|GloboTech Communications|
-|13|79.175.189.50|80|Iran|Tehran|Afranet|
-|14|72.10.160.90|9583|Canada|Montreal|GloboTech Communications|
-|15|49.70.190.233|2324|China|Zhenjiang|Chinanet|
-|16|67.43.228.253|2035|Canada|Montreal|GloboTech Communications|
-|17|14.29.116.148|727|China|Guangzhou|Chinanet|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|49.70.190.72|2324|China|Zhenjiang|Chinanet|
-|20|164.163.42.40|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|49.146.204.232|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|164.163.42.40|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|203.207.56.57|8080|Indonesia|Bandung|STARNET|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|79.175.189.50|80|Iran|Tehran|Afranet|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|67.43.236.19|26175|Canada|Montreal|GloboTech Communications|
+|15|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|16|72.10.164.178|22439|Canada|Montreal|GloboTech Communications|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
