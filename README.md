@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|67.43.228.253|7319|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|33025|Canada|Montreal|GloboTech Communications|
-|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|8|72.10.160.170|21239|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|33025|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.22|24607|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|16413|Canada|Montreal|GloboTech Communications|
-|12|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|13|72.10.160.170|21239|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|72.10.160.171|32523|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|72.10.160.91|13409|Canada|Montreal|GloboTech Communications|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|23.138.88.1|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|7|67.43.227.228|8585|Canada|Montreal|GloboTech Communications|
+|8|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|67.43.227.226|32743|Canada|Montreal|GloboTech Communications|
+|11|181.209.95.205|999|Argentina|Concepción del Bermejo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|14|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|18|72.10.160.90|16413|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
