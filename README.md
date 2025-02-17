@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.148.44.99|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|9|202.65.224.27|8080|Indonesia|Jakarta|SpaceX Starlink|
-|10|103.156.248.48|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|11|103.76.109.170|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|12|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|45.6.1.97|999|Argentina|San Vicente|IP AMERICA TELECOM LTDA|
-|19|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.160.170|20585|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|72.10.160.170|20585|Canada|Montreal|GloboTech Communications|
+|7|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|61.174.243.24|9962|China|Yanguan|China Telecom|
+|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|12|177.137.224.22|8081|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|67.43.227.228|26347|Canada|Montreal|GloboTech Communications|
+|15|49.70.190.153|2324|China|Zhenjiang|Chinanet|
+|16|67.43.227.226|7665|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|12001|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|20|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
 
 
 
