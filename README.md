@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|10|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|11|121.227.118.130|8089|China|Nanjing|China Telecom|
-|12|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
-|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|16|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|18|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|164.163.134.227|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|101.109.78.170|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|72.10.164.178|14567|Canada|Montreal|GloboTech Communications|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
+|20|49.48.86.128|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
