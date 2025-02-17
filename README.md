@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.122.1.65|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|11|72.10.160.92|5019|Canada|Montreal|GloboTech Communications|
-|12|5.189.135.228|1080|France|Lauterbourg|Contabo GmbH|
-|13|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|14|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|15|121.227.109.58|8089|China|Nanjing|China Telecom|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|10|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|11|121.227.118.130|8089|China|Nanjing|China Telecom|
+|12|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
 |16|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|17|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
-|18|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|19|125.87.87.2|2324|China|Shanghai|China Telecom|
-|20|67.43.236.18|7157|Canada|Montreal|GloboTech Communications|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
