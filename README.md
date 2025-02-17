@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|4|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|49.48.49.194|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|123.122.162.153|1081|China|Beijing|China Unicom Beijing Province Network|
-|10|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|11|67.43.228.251|28499|Canada|Montreal|GloboTech Communications|
-|12|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|67.43.236.19|16409|Canada|Montreal|GloboTech Communications|
-|14|103.155.246.69|8080|Indonesia|Sukoharjo|AMANNA|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.163.103.81|1212|Indonesia|Wonogiri|PT Mamura Inter Media|
-|17|41.65.55.10|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|18|67.43.228.250|17955|Canada|Montreal|GloboTech Communications|
-|19|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|67.43.236.18|4223|Canada|Montreal|GloboTech Communications|
+|9|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|11|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|67.43.236.20|29575|Canada|Montreal|GloboTech Communications|
+|15|116.108.1.126|10032|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|67.43.227.227|27961|Canada|Montreal|GloboTech Communications|
+|17|38.172.129.27|999|Peru|Lima|Conex TV E.I.R.L.|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|67.43.228.250|17955|Canada|Montreal|GloboTech Communications|
+|20|79.175.189.50|80|Iran|Tehran|Afranet|
 
 
 
