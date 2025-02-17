@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|6|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|23.138.88.34|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|11|101.109.139.99|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|13|72.10.160.90|11163|Canada|Montreal|GloboTech Communications|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|62.171.130.62|3128|France|Lauterbourg|Contabo GmbH|
-|16|27.189.129.223|8089|China|Langfang|Chinanet|
-|17|51.195.135.51|3128|United Kingdom|London|OVH SAS|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|67.43.236.18|6323|Canada|Montreal|GloboTech Communications|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|223.206.141.17|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|12|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|72.10.164.178|22055|Canada|Montreal|GloboTech Communications|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
+|16|119.96.72.199|59394|China|Wuhan|CHINANET Hubei province network|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|182.105.82.38|655|China|Taohua|Chinanet|
+|19|59.50.95.61|8092|China|Haikou|Chinanet|
+|20|117.44.64.85|655|China|Taohua|Chinanet|
 
 
 
