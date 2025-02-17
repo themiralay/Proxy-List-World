@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|8|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|45.159.115.181|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|11|47.83.212.84|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|5.182.44.160|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|13|5.182.44.21|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|14|45.159.113.155|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|15|67.43.236.18|9701|Canada|Montreal|GloboTech Communications|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|18|72.10.164.178|6157|Canada|Montreal|GloboTech Communications|
-|19|27.189.129.98|8089|China|Langfang|Chinanet|
-|20|67.43.236.18|9701|Canada|Montreal|GloboTech Communications|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|7|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|8|112.198.195.186|8082|Philippines|Lahug|Globe Telecom|
+|9|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|10|47.83.212.84|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|5.182.44.21|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|13|45.159.115.181|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|14|45.159.113.149|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|15|67.43.236.18|11069|Canada|Montreal|GloboTech Communications|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|8.218.157.214|880|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|187.63.158.7|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
+|19|171.246.68.195|4007|Vietnam|Can Tho|Viettel Corporation|
+|20|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
 
 
 
