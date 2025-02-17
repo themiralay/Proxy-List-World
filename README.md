@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.248.201.158|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|1.4.144.246|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|36.77.208.28|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|72.10.164.178|22135|Canada|Montreal|GloboTech Communications|
-|11|171.238.127.84|10034|Vietnam|Ninh Bình|Viettel Corporation|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|67.43.236.18|18017|Canada|Montreal|GloboTech Communications|
-|14|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|212.227.189.168|3128|Germany|Frankfurt am Main|IONOS SE|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|20|185.255.88.176|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|14|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|16|67.43.227.226|28827|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|49.49.138.54|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
+|19|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
+|20|146.83.216.227|80|Chile|Ñuñoa|Red Universitaria Nacional|
 
 
 
