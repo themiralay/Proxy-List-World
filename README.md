@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.18.77.67|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|10|223.206.44.187|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|34.215.231.71|80|United States|Portland|Amazon.com, Inc.|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|171.238.127.84|10011|Vietnam|Ninh Bình|Viettel Corporation|
-|14|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|110.93.225.73|8080|Pakistan|Multan|TRANSWORLD ASSOCIATES (PVT) LIMITED|
-|17|111.75.190.5|655|China|Taohua|Chinanet|
-|18|103.159.169.210|1111|India|Bhopal|Fibernet Solutions (opc) Pvt. Ltd.|
-|19|1.20.198.191|3128|Thailand|Bangkok|TOT Public Company Limited|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|5|103.125.16.99|8080|Indonesia|Tangerang|JAVAMEDIA|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|110.93.225.73|8080|Pakistan|Multan|TRANSWORLD ASSOCIATES (PVT) LIMITED|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|103.82.246.49|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|102.214.104.56|8080|Libya|Qaşr Khiyār|LTT Autonomous System, Tripoli Libya|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|72.10.160.171|32867|Canada|Montreal|GloboTech Communications|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|67.43.228.250|30865|Canada|Montreal|GloboTech Communications|
 
 
 
