@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3829** proxies at the latest update. Usable proxies are below.
+> Scraper found **4129** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|530|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|67.43.228.254|3487|Canada|Montreal|GloboTech Communications|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|67.43.228.250|21013|Canada|Montreal|GloboTech Communications|
+|2|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|103.250.128.8|8082|Indonesia|Utan|PT Asri Global Investama|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|41.216.186.146|8080|Indonesia|Kuningan Barat|FASTHOSTING|
-|11|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|12|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|13|111.72.198.118|2324|China|Taohua|Chinanet|
-|14|72.10.160.170|15549|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|31357|Canada|Montreal|GloboTech Communications|
-|16|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|17|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|18|121.227.146.99|8089|China|Nanjing|China Telecom|
-|19|82.18.249.208|8118|United Kingdom|Southampton|Virgin Media Limited|
-|20|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|36.91.148.36|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
+|14|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|16|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
+|17|94.70.195.145|8080|Greece|Chalandri|Ote SA (Hellenic Telecommunications Organisation)|
+|18|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|19|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
+|20|103.169.255.195|6080|Indonesia|Kedungsumur|PT Master Star Network|
 
 
 
