@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|38.52.157.87|999|Colombia|Bogotá|Giga Fibra SAS|
-|7|101.255.208.61|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|9|203.150.128.154|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|103.156.248.48|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|12|171.238.127.84|10016|Vietnam|Ninh Bình|Viettel Corporation|
-|13|67.43.227.227|7825|Canada|Montreal|GloboTech Communications|
-|14|163.44.111.220|3128|Japan|Chiyoda|GMO Internet, Inc|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|27.76.183.228|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|103.156.141.81|3127|Indonesia|Langsepan|PT Tekling Media Telematika|
+|4|103.180.123.19|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|8|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|10|103.76.109.170|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|11|86.98.90.42|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|12|49.70.190.153|2324|China|Zhenjiang|Chinanet|
+|13|103.153.62.86|8090|Indonesia|Weleri|IMEDIANET|
+|14|67.43.227.227|22311|Canada|Montreal|GloboTech Communications|
+|15|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|16|67.43.228.250|27325|Canada|Montreal|GloboTech Communications|
+|17|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|18|116.206.242.110|3888|Indonesia|Jakarta|CBN|
 |19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|171.238.127.84|10016|Vietnam|Ninh Bình|Viettel Corporation|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
