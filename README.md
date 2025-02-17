@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
-|6|72.10.160.92|29397|Canada|Montreal|GloboTech Communications|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|67.43.228.250|15791|Canada|Montreal|GloboTech Communications|
-|11|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|12|119.93.64.216|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|72.10.160.92|29397|Canada|Montreal|GloboTech Communications|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|119.93.64.216|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|10|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|14|103.171.240.141|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
-|17|103.124.198.98|1080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|18|8.219.168.160|3188|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.228.250|15791|Canada|Montreal|GloboTech Communications|
-|20|27.189.128.75|8089|China|Langfang|Chinanet|
+|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.210.119|8080|United States|Scottsbluff|VISTABEAM|
+|16|110.232.67.43|55443|Indonesia|Jakarta|PT. Media Antar Nusa|
+|17|103.247.14.38|9285|Indonesia|Klaten|TERABIT|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|119.95.243.229|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|20|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
 
 
 
