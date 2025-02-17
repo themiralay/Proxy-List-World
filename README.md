@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|120.28.196.78|8080|Philippines|Davao City|Globe Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|67.43.236.18|2129|Canada|Montreal|GloboTech Communications|
-|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|72.10.160.90|21353|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|103.158.252.79|8080|Indonesia|Brebes|Rapid Network|
-|16|67.43.236.18|2129|Canada|Montreal|GloboTech Communications|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|103.24.213.141|8090|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
-|19|119.95.243.229|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|2|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|3|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|4|188.245.46.170|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|120.28.196.78|8080|Philippines|Davao City|Globe Telecom|
+|10|103.189.197.162|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|116.108.1.126|10062|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|116.108.1.126|10062|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|114.225.152.215|8089|China|Changzhou|Chinanet|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|79.175.189.50|80|Iran|Tehran|Afranet|
+|17|67.43.228.250|4741|Canada|Montreal|GloboTech Communications|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|72.10.160.91|8371|Canada|Montreal|GloboTech Communications|
+|20|101.255.148.114|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
