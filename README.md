@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|92.38.178.130|8080|Japan|Tokyo|G-Core Labs S.A.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|223.205.72.105|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|7|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|1.4.144.246|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|134.236.59.226|8080|Thailand|Bang Rak|CAT-BB|
-|14|103.133.26.11|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|36.64.36.235|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|125.25.223.1|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|147.93.116.2|3128|United States|Boston|Hostinger International Limited|
+|7|185.242.233.230|3128|Hong Kong|Fo Tan|Cloudie Limited|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|190.237.238.166|999|Peru|Lima|TDP-GRS|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|72.10.164.178|28381|Canada|Montreal|GloboTech Communications|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
