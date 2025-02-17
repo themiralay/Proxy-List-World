@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
+|6|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
 |7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|9|211.225.214.241|80|South Korea|Boeun-gun|Korea Telecom|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|67.43.227.228|6839|Canada|Montreal|GloboTech Communications|
-|12|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|49.70.190.227|2324|China|Zhenjiang|Chinanet|
-|15|177.93.49.202|999|Colombia|Puerto Yuca|TV AZTECA SUCURSAL COLOMBIA|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|182.52.66.204|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|20|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|67.43.227.228|21499|Canada|Montreal|GloboTech Communications|
+|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|15|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|16|177.93.49.202|999|Colombia|Puerto Yuca|TV AZTECA SUCURSAL COLOMBIA|
+|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|18|103.189.110.52|3125|Indonesia|Bandung|PT Pratama Komunika Sejahtera|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
