@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.159.220.215|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|49.48.198.117|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
-|8|116.99.33.20|4001|Vietnam|Hanoi|Viettel Corporation|
-|9|91.185.56.136|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|10|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|186.96.96.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|5|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|115.241.225.42|80|India|Kochi|Reliance Jio Infocomm Limited|
+|9|72.10.160.170|29495|Canada|Montreal|GloboTech Communications|
+|10|171.238.127.84|10014|Vietnam|Ninh Bình|Viettel Corporation|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|171.238.127.84|10014|Vietnam|Ninh Bình|Viettel Corporation|
+|13|91.134.89.140|3128|France|Paris|OVH SAS|
+|14|67.43.228.251|6257|Canada|Montreal|GloboTech Communications|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|67.43.236.19|2691|Canada|Montreal|GloboTech Communications|
+|18|114.80.37.199|3081|China|Shanghai|China Telecom (Group)|
+|19|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|20|49.70.190.72|2324|China|Zhenjiang|Chinanet|
 
 
 
