@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|4|115.77.163.159|10008|Vietnam|Vũng Tàu|Viettel Group|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|36.93.236.195|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|54.69.209.213|3128|United States|Portland|Amazon.com, Inc.|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.90|29387|Canada|Montreal|GloboTech Communications|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|171.238.127.84|10021|Vietnam|Ninh Bình|Viettel Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|27.76.183.228|10002|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|79.175.189.50|80|Iran|Tehran|Afranet|
+|6|203.150.128.39|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|8.212.55.77|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|139.5.155.97|57413|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.155.199.147|7080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|14.143.172.246|8080|India|Kolkata|Tata Communications Limited|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
