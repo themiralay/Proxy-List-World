@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|7|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|8|8.213.211.216|53128|Thailand|Bangkok|Alibaba (US) Technology Co., Ltd.|
-|9|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|10|171.6.109.64|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|6|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|7|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|8|103.189.254.18|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|72.10.160.170|7971|Canada|Montreal|GloboTech Communications|
 |13|67.43.227.228|14731|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|12769|Canada|Montreal|GloboTech Communications|
-|15|180.97.220.151|11080|China|Nanjing|Chinanet|
-|16|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|67.43.236.18|3123|Canada|Montreal|GloboTech Communications|
-|19|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|14|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.160.90|15289|Canada|Montreal|GloboTech Communications|
+|17|180.97.220.151|11080|China|Nanjing|Chinanet|
+|18|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
