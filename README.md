@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.207.56.115|8080|Indonesia|Bandung|STARNET|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|123.24.58.147|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|2|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|9|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|14|49.49.186.69|8080|Thailand|Chai Badan|Triple T Broadband Public Company Limited|
-|15|79.175.189.50|80|Iran|Tehran|Afranet|
-|16|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|67.43.228.250|11669|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|21245|Canada|Montreal|GloboTech Communications|
-|19|59.50.95.61|8092|China|Haikou|Chinanet|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|203.207.56.115|8080|Indonesia|Bandung|STARNET|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|116.108.1.126|10033|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|12|8.217.208.252|3130|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|16|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|17|67.43.228.250|16885|Canada|Montreal|GloboTech Communications|
+|18|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|19|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
+|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
 
 
 
