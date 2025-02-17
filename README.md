@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|7|67.43.228.250|2019|Canada|Montreal|GloboTech Communications|
-|8|103.170.96.64|8090|Indonesia|Keputih|PT. Global Data Akses Persada|
-|9|72.10.160.90|12115|Canada|Montreal|GloboTech Communications|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.125.160.178|83|India|Hyderabad|CtrlS|
-|14|202.120.189.107|10018|China|Shanghai|CERNET|
-|15|72.10.160.171|29985|Canada|Montreal|GloboTech Communications|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|67.43.227.227|6375|Canada|Montreal|GloboTech Communications|
-|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|187.223.108.144|8080|Mexico|La Paz|Uninet S.A. de C.V.|
-|20|188.125.169.144|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|171.238.127.84|10035|Vietnam|Ninh Bình|Viettel Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|202.120.189.107|10018|China|Shanghai|CERNET|
+|17|190.237.238.166|999|Peru|Lima|TDP-GRS|
+|18|72.10.164.178|16399|Canada|Montreal|GloboTech Communications|
+|19|103.105.55.243|8082|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|20|67.43.228.251|17535|Canada|Montreal|GloboTech Communications|
 
 
 
