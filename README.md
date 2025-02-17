@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|117.6.106.229|8080|Vietnam|Hanoi|VIETTEL|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|46.60.15.62|8080|Palestinian Territory|Ramallah|AL Zaytona Company For Communication Ltd.|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|49.13.125.105|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|11|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|14|170.81.242.93|3128|Peru|Chiclayo|Inventa Telecomunicaciones Eirl|
+|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|16|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|17|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|18|134.35.189.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|102.0.17.238|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 
 
 
