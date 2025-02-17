@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|115.77.163.159|10007|Vietnam|Vũng Tàu|Viettel Group|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|188.132.150.67|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|8|103.179.84.238|8080|Indonesia|Boyolali|PT CYB Media Group|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|120.28.68.108|8082|Philippines|San Juan|Globe Telecom|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.154.230.180|8080|Indonesia|Lamongan|DIGITNET|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|115.77.163.159|10007|Vietnam|Vũng Tàu|Viettel Group|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|177.125.86.108|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|2|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|115.77.163.159|10030|Vietnam|Vũng Tàu|Viettel Group|
+|11|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|15|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|49.156.151.246|83|India|Kākināda|City Online|
+|17|103.160.205.230|8080|Indonesia|Mataram|PRIME|
+|18|182.253.176.159|8080|Indonesia|Bogor|BIZNET|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|138.0.65.78|9090|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
 
 
 
