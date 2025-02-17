@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|197.248.37.177|8104|Kenya|Nairobi|Safaricom Limited|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|103.125.16.98|8080|Indonesia|Tangerang|JAVAMEDIA|
-|10|23.147.112.74|8080|United States|Nogales|NGX Networks|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.215.229.233|8899|Indonesia|Surabaya|Herza Cloud|
-|13|113.23.195.9|1231|Malaysia|Semenyih|Extreme Broadband|
-|14|210.79.146.178|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|15|67.43.236.18|25699|Canada|Montreal|GloboTech Communications|
-|16|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|19|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|103.191.59.246|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|13|115.77.131.152|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|203.170.66.154|8080|Pakistan|Lahore|Netsol CONNECT LHE Core|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|19|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
+|20|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
 
 
 
