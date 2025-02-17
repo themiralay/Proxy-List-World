@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|9|147.182.204.92|3130|United States|Santa Clara|DigitalOcean, LLC|
-|10|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|116.108.1.126|10061|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|112.201.191.192|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|103.76.201.246|8080|Indonesia|Cirebon|PT. Arjuna Global Teknologi Indonesia|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |15|72.10.160.172|18757|Canada|Montreal|GloboTech Communications|
-|16|61.152.132.35|8788|China|Shanghai|China Telecom (Group)|
-|17|202.74.245.82|36|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|79.175.189.50|80|Iran|Tehran|Afranet|
-|19|23.138.88.34|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|20|121.227.118.151|8089|China|Nanjing|China Telecom|
+|16|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|17|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
