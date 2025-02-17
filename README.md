@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|82.18.249.208|8118|United Kingdom|Southampton|Virgin Media Limited|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|47.129.37.172|3128|Singapore|Singapore|Amazon Technologies Inc|
-|6|116.108.1.126|10042|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|67.43.228.251|31709|Canada|Montreal|GloboTech Communications|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|67.43.236.18|3079|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|3079|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|19645|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|223.206.193.96|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|8|177.93.58.105|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|116.108.1.126|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|67.43.228.251|12301|Canada|Montreal|GloboTech Communications|
 |12|67.43.228.254|29111|Canada|Montreal|GloboTech Communications|
-|13|103.172.42.175|1080|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|49.49.138.54|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|171.6.84.131|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|72.10.160.90|4835|Canada|Montreal|GloboTech Communications|
-|18|36.93.236.195|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|20|67.43.228.250|6879|Canada|Montreal|GloboTech Communications|
+|13|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|67.43.228.251|12301|Canada|Montreal|GloboTech Communications|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|67.43.236.18|16231|Canada|Montreal|GloboTech Communications|
 
 
 
