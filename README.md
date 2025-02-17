@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|128.199.85.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|223.206.141.17|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|5|128.199.85.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|179.60.242.78|999|Colombia|Bogotá|ITELKOM|
-|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|116.108.1.126|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|171.4.41.186|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 |14|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|67.43.236.18|14731|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|15275|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.227.230|33203|Canada|Montreal|GloboTech Communications|
-|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|20|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|116.108.1.126|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
