@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.218.226.7|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|13|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|4|202.74.245.82|36|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|14|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |16|120.28.68.108|8082|Philippines|San Juan|Globe Telecom|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|72.10.160.170|1171|Canada|Montreal|GloboTech Communications|
-|20|121.227.126.80|8089|China|Nanjing|China Telecom|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|19|190.52.108.248|6666|Venezuela|Caracas|Gold Data USA Inc|
+|20|186.251.247.14|2180|Brazil|Brasília|Yawl Telecomunicação e Rep. de Informática Ltda.|
 
 
 
