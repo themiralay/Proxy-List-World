@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|103.172.120.37|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|72.10.160.90|28791|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|2681|Canada|Montreal|GloboTech Communications|
-|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
-|18|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|11|72.10.160.90|22919|Canada|Montreal|GloboTech Communications|
+|12|207.174.202.218|8080|United States|Kingsland|432 INTERNET, LLC|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|125.87.90.142|2324|China|Chongqing|China Telecom|
 
 
 
