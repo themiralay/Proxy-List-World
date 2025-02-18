@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|181.23.231.106|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|116.108.1.126|10033|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|72.10.160.174|26535|Canada|Montreal|GloboTech Communications|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|103.169.148.2|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|18|67.43.236.19|10627|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9651|Canada|Montreal|GloboTech Communications|
-|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
