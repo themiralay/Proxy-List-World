@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|45.229.33.246|999|Dominican Republic|Santo Domingo|Gold Data USA Inc|
-|5|103.222.255.161|8055|Indonesia|Jakarta|PT Iktiar Doa Tawakal|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|72.10.160.90|23559|Canada|Montreal|GloboTech Communications|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|27.189.134.136|8089|China|Langfang|Chinanet|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|114.224.74.229|8089|China|Wuxi|Chinanet|
-|15|67.43.227.230|22667|Canada|Montreal|GloboTech Communications|
-|16|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|17|27.189.129.27|8089|China|Langfang|Chinanet|
-|18|72.10.160.170|32851|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|124.121.2.171|8080|Thailand|Bangkok|TRUEBB|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|72.10.160.90|23559|Canada|Montreal|GloboTech Communications|
+|12|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|72.10.160.170|32851|Canada|Montreal|GloboTech Communications|
+|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|106.115.87.35|9100|China|Handan|Chinanet|
+|19|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
