@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.209.19|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|171.6.80.91|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.10.164.178|29157|Canada|Montreal|GloboTech Communications|
-|17|79.175.189.50|80|Iran|Tehran|Afranet|
-|18|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|19|67.43.228.250|23701|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|11041|Canada|Montreal|GloboTech Communications|
+|5|8.209.209.19|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|9|72.10.164.178|29157|Canada|Montreal|GloboTech Communications|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|79.175.189.50|80|Iran|Tehran|Afranet|
+|12|159.65.145.189|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|38.156.72.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|72.10.160.170|8565|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|11041|Canada|Montreal|GloboTech Communications|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.228.250|29043|Canada|Montreal|GloboTech Communications|
+|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
