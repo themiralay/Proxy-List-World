@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|125.25.25.200|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|67.43.236.18|23861|Canada|Montreal|GloboTech Communications|
-|9|60.188.49.53|1999|China|Taizhou|Chinanet|
-|10|114.80.37.199|3081|China|Shanghai|China Telecom (Group)|
-|11|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|12|121.224.156.136|8089|China|Nanjing|China Telecom|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|67.43.228.250|22615|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|60.188.49.53|1999|China|Taizhou|Chinanet|
+|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|181.39.24.74|999|Ecuador|Guayaquil|Telconet S.A|
+|14|117.44.64.85|655|China|Taohua|Chinanet|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |19|72.10.160.170|22605|Canada|Montreal|GloboTech Communications|
-|20|49.84.175.117|8089|China|Nanjing|China Telecom|
+|20|121.224.156.191|8089|China|Nanjing|China Telecom|
 
 
 
