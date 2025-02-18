@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|72.10.160.90|28131|Canada|Montreal|GloboTech Communications|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|72.10.160.170|5739|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|18515|Canada|Montreal|GloboTech Communications|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.236.18|13167|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.49.129.205|999|Mexico|San Antonio|Ientc S De RL De CV|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|190.52.100.8|999|Venezuela|Caracas|Gold Data USA Inc|
+|7|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.156.16.58|8181|Indonesia|Pamanukan|RSTNET|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|103.169.187.219|6080|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|13|72.10.160.90|13535|Canada|Montreal|GloboTech Communications|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|72.10.160.170|28699|Canada|Montreal|GloboTech Communications|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
 
 
 
