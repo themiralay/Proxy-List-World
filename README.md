@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.163.226.250|3125|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|183.88.223.211|8080|Thailand|Bang Pa-in|Triple T Broadband Public Company Limited|
-|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|6|81.90.149.186|3128|Iran|Tehran|Afranet|
-|7|223.206.195.172|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|8|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|67.43.228.250|3695|Canada|Montreal|GloboTech Communications|
-|11|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|67.43.228.250|3695|Canada|Montreal|GloboTech Communications|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.236.18|7957|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|67.43.228.250|3695|Canada|Montreal|GloboTech Communications|
-|19|20.237.22.7|3128|United States|Boydton|Microsoft Corporation|
-|20|27.189.134.127|8089|China|Langfang|Chinanet|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|81.90.149.186|3128|Iran|Tehran|Afranet|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|125.24.160.179|80|Thailand|Bangkok|TOT Public Company Limited|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|103.163.226.250|3125|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
+|14|38.250.119.207|999|Peru|Lima region|Bantel SAC|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|158.69.122.49|3130|Canada|Montreal|OVH SAS|
+|17|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
