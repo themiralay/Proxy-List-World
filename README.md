@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |5|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
-|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|17|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|45.224.150.156|999|Ecuador|San Juan de Pastocalle|Ufinet Panama S.A.|
-|19|180.112.182.255|8089|China|Nanjing|Chinanet|
-|20|114.223.54.4|8089|China|Wuxi|Chinanet|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|11|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|14|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|94.79.152.14|80|Germany|Hürth|Vodafone|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|72.10.164.178|11057|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 
 
 
