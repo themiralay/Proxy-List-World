@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|202.182.59.225|10001|Indonesia|Duren Tiga|Arsen Kusuma Indonesia|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|202.182.59.225|10001|Indonesia|Duren Tiga|Arsen Kusuma Indonesia|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|1.53.128.8|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|11|190.61.40.110|999|Colombia|Dibulla|Ufinet Panama S.A.|
-|12|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|13|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.169.41.243|8080|Indonesia|Mata Ie|Telnet Indonesia|
-|16|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|17|103.106.79.236|7979|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|18|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
-|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|10|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|11|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|12|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|188.247.61.234|8080|Russia|Volgograd|Unico network|
+|14|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|106.115.87.35|9100|China|Handan|Chinanet|
+|18|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|19|202.131.153.146|1111|India|Mangalore|D-Vois Broadband Pvt Ltd|
+|20|71.42.125.218|4444|United States|Leander|Spectrum|
 
 
 
