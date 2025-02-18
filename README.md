@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|67.43.228.250|14033|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.18|24751|Canada|Montreal|GloboTech Communications|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|10|45.229.33.246|999|Dominican Republic|Santo Domingo|Gold Data USA Inc|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|188.132.222.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|14|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|6|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|103.133.27.11|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|13|103.228.119.154|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|121.227.118.172|8089|China|Nanjing|China Telecom|
-|17|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.228.250|14033|Canada|Montreal|GloboTech Communications|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|67.43.227.226|21879|Canada|Montreal|GloboTech Communications|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|116.108.1.126|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|128.199.119.251|8181|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
