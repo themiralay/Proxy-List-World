@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|45.179.166.14|3128|Venezuela|Maracaibo|Tecnoven Services CA|
-|5|202.182.59.225|10001|Indonesia|Duren Tiga|Arsen Kusuma Indonesia|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|115.72.174.96|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|9|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
-|10|190.61.40.108|999|Colombia|Dibulla|Ufinet Panama S.A.|
-|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|14|103.115.198.179|8082|Pakistan|Lahore|AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|179.61.98.3|999|Chile|San Clemente|HomeNet LTDA|
-|20|36.95.27.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|152.42.215.215|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
+|14|77.51.94.72|8080|Russia|Moscow|Rostelecom networks|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|188.132.222.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
