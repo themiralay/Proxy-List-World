@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|11|209.126.0.54|3128|United States|St Louis|Nubes, LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|121.224.156.161|8089|China|Nanjing|China Telecom|
-|16|201.218.140.106|999|Peru|Arequipa|CASTEL TV|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|20|103.165.150.42|8085|Indonesia|Bengkalis|PT Agsa Global Network|
+|8|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|103.157.79.46|8080|Indonesia|Jakarta|EASTMEDIA|
+|11|103.55.224.254|8181|Indonesia|Karawang|PT Gapura Era Digital|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|79.175.189.50|80|Iran|Tehran|Afranet|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|187.223.108.144|8080|Mexico|La Paz|Uninet S.A. de C.V.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
