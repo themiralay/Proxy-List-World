@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.225.191|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|4|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|10|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|54.179.136.77|8888|Singapore|Singapore|Amazon.com, Inc.|
-|12|67.43.228.252|1195|Canada|Montreal|GloboTech Communications|
-|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|14|115.72.164.115|20329|Vietnam|Vũng Tàu|VIETELmetro|
-|15|177.73.68.150|8080|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
-|16|118.113.244.213|2324|China|Shanghai|Chinanet|
-|17|116.108.1.126|10058|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|67.43.236.18|17515|Canada|Montreal|GloboTech Communications|
-|20|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|128.199.225.191|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|115.72.164.115|20329|Vietnam|Vũng Tàu|VIETELmetro|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|65.1.244.232|80|India|Mumbai|Amazon.com|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.147.218.18|63680|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|209.126.0.54|3128|United States|St Louis|Nubes, LLC|
+|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|16|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|17|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|18|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|19|38.123.220.110|999|Mexico|San Miguel Yuxtepec|Cogent Communications|
+|20|67.43.227.226|28643|Canada|Montreal|GloboTech Communications|
 
 
 
