@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|6|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|137.184.196.95|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
-|9|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|15|67.43.236.18|28427|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|7873|Canada|Montreal|GloboTech Communications|
-|17|8.209.221.225|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|19|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|20|72.10.160.174|19237|Canada|Montreal|GloboTech Communications|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|8.209.209.19|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|190.61.40.109|999|Colombia|Dibulla|Ufinet Panama S.A.|
+|8|116.99.180.117|5106|Vietnam|Hanoi|Viettel Corporation|
+|9|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
 
 
 
