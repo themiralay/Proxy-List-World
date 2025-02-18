@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|164.163.42.28|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|190.60.59.58|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.170|25171|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|20405|Canada|Montreal|GloboTech Communications|
-|19|115.72.172.55|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|20|67.43.236.19|18671|Canada|Montreal|GloboTech Communications|
+|3|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|13|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|38.156.23.67|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|72.10.160.90|26537|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18385|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|25171|Canada|Montreal|GloboTech Communications|
 
 
 
