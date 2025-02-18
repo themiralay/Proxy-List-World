@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|5|103.234.35.152|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|7|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|27.189.131.193|8089|China|Langfang|Chinanet|
-|10|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
-|11|27.189.131.79|8089|China|Langfang|Chinanet|
-|12|118.113.246.41|2324|China|Shanghai|Chinanet|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|103.210.206.26|8080|India|Tiruchirappalli|Blue Net It Solutions Pvt Ltd|
-|17|116.108.1.126|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|125.87.89.224|2324|China|Chongqing|China Telecom|
-|20|118.113.247.34|2324|China|Shanghai|Chinanet|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|143.244.140.119|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|137.59.12.209|8080|Indonesia|Labansari|CROSSNET|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.191.75.186|999|Colombia|Santiago de Cali|Global Raices|
+|13|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
+|14|114.80.37.200|3081|China|Shanghai|China Telecom (Group)|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|27.70.237.82|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|106.115.87.35|9100|China|Handan|Chinanet|
 
 
 
