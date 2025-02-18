@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|31.31.77.228|6969|Czechia|Hluboká nad Vltavou|WEDOS Internet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|7|67.43.227.228|18527|Canada|Montreal|GloboTech Communications|
-|8|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|9|67.43.227.227|13701|Canada|Montreal|GloboTech Communications|
-|10|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|79.175.189.50|80|Iran|Tehran|Afranet|
-|14|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|15|120.28.139.252|8082|Philippines|Caloocan City|Globe Telecom|
-|16|67.43.228.250|5841|Canada|Montreal|GloboTech Communications|
-|17|118.113.244.97|2324|China|Shanghai|Chinanet|
-|18|121.224.156.183|8089|China|Nanjing|China Telecom|
-|19|67.43.227.226|20485|Canada|Montreal|GloboTech Communications|
-|20|8.217.208.252|3130|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|67.43.227.228|18527|Canada|Montreal|GloboTech Communications|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|79.175.189.50|80|Iran|Tehran|Afranet|
+|13|67.43.228.250|30359|Canada|Montreal|GloboTech Communications|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|15|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|118.113.244.97|2324|China|Shanghai|Chinanet|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
