@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|67.43.236.19|1801|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.18|27569|Canada|Montreal|GloboTech Communications|
-|7|121.227.118.167|8089|China|Nanjing|China Telecom|
-|8|67.43.236.20|13327|Canada|Montreal|GloboTech Communications|
-|9|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|72.10.160.91|10817|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|13327|Canada|Montreal|GloboTech Communications|
-|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|15|72.10.160.90|14005|Canada|Montreal|GloboTech Communications|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.160.91|10817|Canada|Montreal|GloboTech Communications|
-|18|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|19|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|103.105.57.102|1111|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|3|67.43.236.19|1801|Canada|Montreal|GloboTech Communications|
+|4|67.43.236.20|22405|Canada|Montreal|GloboTech Communications|
+|5|103.234.156.34|8080|India|Mumbai|Microsense Private Limited|
+|6|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|60.208.20.82|12301|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|10|181.78.13.205|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|11|118.15.46.250|8080|Japan|Nagano|NTT Communications Corporation|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
+|16|114.115.154.100|6125|China|Beijing|IDC, China Telecommunications Corporation|
+|17|118.113.246.101|2324|China|Shanghai|Chinanet|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|20|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
 
 
 
