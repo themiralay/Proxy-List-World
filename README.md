@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|5|116.99.180.118|5102|Vietnam|Hanoi|Viettel Corporation|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|36.93.236.195|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.227.226|13153|Canada|Montreal|GloboTech Communications|
-|18|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|116.99.180.118|5102|Vietnam|Hanoi|Viettel Corporation|
+|12|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
+|13|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|16|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|23.147.112.74|8080|United States|Nogales|NGX Networks|
+|18|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|19|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
 |20|67.43.227.230|16357|Canada|Montreal|GloboTech Communications|
 
 
