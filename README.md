@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|7|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|13|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|14|67.43.236.18|25517|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|22811|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.227.227|4511|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|3781|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|32861|Canada|Montreal|GloboTech Communications|
-|20|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|38.51.79.112|1987|Argentina|Rosario|Teledifusora S.A.|
+|8|103.190.171.29|8080|Indonesia|Jakarta|WMS|
+|9|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|67.43.236.20|26025|Canada|Montreal|GloboTech Communications|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|67.43.227.227|4511|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|19619|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|2739|Canada|Montreal|GloboTech Communications|
+|17|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|18|179.1.203.53|999|Colombia|Bogotá|InterNexa Global Network|
+|19|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
