@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|5|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|8|103.162.16.53|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|46.39.105.40|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|11|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|67.43.236.18|16993|Canada|Montreal|GloboTech Communications|
-|18|113.116.18.54|3456|China|Guangzhou|Chinanet|
-|19|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
-|20|67.43.236.18|16993|Canada|Montreal|GloboTech Communications|
+|7|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|8|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|60.188.49.53|1999|China|Taizhou|Chinanet|
+|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|20|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
