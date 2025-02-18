@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|125.230.193.24|1080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|9|106.75.226.193|8119|China|Yangpu|UCLOUD|
-|10|67.43.227.226|30713|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|8433|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|15051|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|18097|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|25141|Canada|Montreal|GloboTech Communications|
-|15|8.209.221.225|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.251|12635|Canada|Montreal|GloboTech Communications|
-|17|121.224.156.139|8089|China|Nanjing|China Telecom|
-|18|67.43.227.229|7059|Canada|Montreal|GloboTech Communications|
-|19|125.87.81.112|2324|China|Chongqing|China Telecom|
-|20|8.209.221.225|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|9|8.209.209.19|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|190.61.40.109|999|Colombia|Dibulla|Ufinet Panama S.A.|
+|11|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|14|23.138.88.1|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|17|67.43.236.18|27865|Canada|Montreal|GloboTech Communications|
+|18|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|67.43.227.226|2637|Canada|Montreal|GloboTech Communications|
+|20|180.112.180.143|8089|China|Nanjing|Chinanet|
 
 
 
