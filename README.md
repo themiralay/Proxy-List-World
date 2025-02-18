@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|6|104.248.108.106|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|8|67.43.227.226|5829|Canada|Montreal|GloboTech Communications|
-|9|103.36.10.118|7777|Indonesia|Bangil|PT Awinet Global Mandiri|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|72.10.160.170|7067|Canada|Montreal|GloboTech Communications|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|106.115.87.35|9100|China|Handan|Chinanet|
-|15|181.204.113.250|11211|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|16|67.43.228.250|4239|Canada|Montreal|GloboTech Communications|
-|17|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|67.43.228.250|4239|Canada|Montreal|GloboTech Communications|
-|20|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|134.209.72.228|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|134.209.76.169|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.72.228|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.76.169|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|8|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|9|134.209.66.155|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|134.209.66.155|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|192.145.228.211|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|79.106.231.17|8080|Albania|Lushnjë|ONE ALBANIA SH.A.|
+|15|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|17|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
