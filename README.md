@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|14.39.239.79|64312|South Korea|Eunpyeong-gu|Korea Telecom|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|67.43.228.250|26107|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|26107|Canada|Montreal|GloboTech Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|72.10.164.178|20869|Canada|Montreal|GloboTech Communications|
-|15|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|16|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|17|72.10.160.93|19135|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|27315|Canada|Montreal|GloboTech Communications|
-|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|20|116.108.1.126|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|67.43.227.227|7545|Canada|Montreal|GloboTech Communications|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|12|118.113.246.70|2324|China|Shanghai|Chinanet|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|16|163.44.111.220|3128|Japan|Chiyoda|GMO Internet, Inc|
+|17|67.43.227.226|9425|Canada|Montreal|GloboTech Communications|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|111.75.190.5|655|China|Taohua|Chinanet|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
