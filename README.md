@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|49.84.175.117|8089|China|Nanjing|China Telecom|
-|8|72.10.160.90|19055|Canada|Montreal|GloboTech Communications|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|67.43.227.227|22957|Canada|Montreal|GloboTech Communications|
-|15|106.115.87.35|9100|China|Handan|Chinanet|
-|16|116.108.1.126|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|103.30.181.182|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
-|18|67.43.228.250|25245|Canada|Montreal|GloboTech Communications|
-|19|124.106.173.56|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|3|190.60.59.58|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|181.39.24.74|999|Ecuador|Guayaquil|Telconet S.A|
+|9|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|116.105.96.197|10007|Vietnam|Hanoi|Viettel Corporation|
+|14|5.182.44.212|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
