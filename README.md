@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|190.61.40.107|999|Colombia|Dibulla|Ufinet Panama S.A.|
-|9|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|14|51.81.153.203|3128|United States|Hillsboro|OVH SAS|
-|15|114.231.229.171|8888|China|Nanjing|Chinanet|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|20|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|186.96.96.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|16|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
+|17|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|18|202.63.172.18|9128|China|Beijing|CHINA UNICOM China169 Backbone|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
