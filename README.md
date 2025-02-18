@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|135.181.144.0|3128|Finland|Helsinki|Hetzner Online GmbH|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|125.25.25.200|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|125.25.25.200|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|125.230.193.24|1080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|5|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|67.43.227.226|2273|Canada|Montreal|GloboTech Communications|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|72.10.164.178|16095|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|2273|Canada|Montreal|GloboTech Communications|
-|13|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.160.173|7701|Canada|Montreal|GloboTech Communications|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|135.181.144.0|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.228.252|17497|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|7897|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|9653|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|7135|Canada|Montreal|GloboTech Communications|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|72.10.164.178|4903|Canada|Montreal|GloboTech Communications|
+|11|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|67.43.236.18|2441|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|7897|Canada|Montreal|GloboTech Communications|
+|14|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|15|72.10.160.93|11997|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
 
 
 
