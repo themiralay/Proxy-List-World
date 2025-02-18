@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|124.121.2.171|8080|Thailand|Bangkok|TRUEBB|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|7|137.59.12.209|8080|Indonesia|Labansari|CROSSNET|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|11|171.4.66.230|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|12|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|72.10.160.172|31075|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|182.253.66.148|8989|Indonesia|Jakarta|BIZNET|
+|11|106.115.87.35|9100|China|Handan|Chinanet|
+|12|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|59.39.226.130|2324|China|Guangzhou|Chinanet|
+|18|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|19|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|61.143.203.163|10007|China|Guangzhou|Chinanet|
 
 
 
