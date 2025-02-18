@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|67.43.236.18|14419|Canada|Montreal|GloboTech Communications|
-|4|72.10.160.91|14187|Canada|Montreal|GloboTech Communications|
-|5|67.43.228.251|3231|Canada|Montreal|GloboTech Communications|
-|6|207.248.3.81|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|45.38.139.203|3128|Albania|Tirana|CGI GLOBAL LIMITED|
-|10|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|72.10.164.178|24897|Canada|Montreal|GloboTech Communications|
-|12|180.105.244.220|1080|China|Nanjing|Chinanet|
-|13|106.115.87.35|9100|China|Handan|Chinanet|
-|14|67.43.228.250|15277|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|21909|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|31063|Canada|Montreal|GloboTech Communications|
-|17|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.182.44.140|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|19|67.43.236.18|14419|Canada|Montreal|GloboTech Communications|
-|20|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|8|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|106.115.87.35|9100|China|Handan|Chinanet|
+|10|36.77.214.158|8081|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|190.61.117.26|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|14|72.10.164.178|24897|Canada|Montreal|GloboTech Communications|
+|15|45.151.70.90|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|16|67.43.236.18|14861|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|14861|Canada|Montreal|GloboTech Communications|
+|18|190.60.59.58|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|72.10.160.90|22171|Canada|Montreal|GloboTech Communications|
 
 
 
