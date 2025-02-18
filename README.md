@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.160.170|9847|Canada|Montreal|GloboTech Communications|
-|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|72.10.164.178|2385|Canada|Montreal|GloboTech Communications|
-|12|125.24.160.179|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.228.250|31719|Canada|Montreal|GloboTech Communications|
-|17|49.70.190.200|2324|China|Zhenjiang|Chinanet|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|67.43.236.19|25955|Canada|Montreal|GloboTech Communications|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|10|103.26.176.89|8080|Indonesia|Sekayu|PT Lintas Jaringan Nusantara|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
