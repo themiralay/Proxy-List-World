@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|67.43.227.230|20873|Canada|Montreal|GloboTech Communications|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.236.18|16981|Canada|Montreal|GloboTech Communications|
-|12|181.209.66.179|1120|Argentina|La Carlota|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|67.43.228.251|32963|Canada|Montreal|GloboTech Communications|
-|14|159.54.187.233|8080|United States|San Jose|Oracle Corporation|
-|15|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|185.255.89.161|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|17|103.156.17.240|8080|Indonesia|Jatiwangi|RSTNET|
-|18|27.189.130.197|8089|China|Langfang|Chinanet|
-|19|27.189.134.58|8089|China|Langfang|Chinanet|
-|20|67.43.228.251|32963|Canada|Montreal|GloboTech Communications|
+|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|8|67.43.228.251|32963|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.251|32963|Canada|Montreal|GloboTech Communications|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|67.43.228.251|32963|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.230|20873|Canada|Montreal|GloboTech Communications|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|38.172.130.119|999|Peru|Lima|Conex TV E.I.R.L.|
+|17|67.43.236.18|16981|Canada|Montreal|GloboTech Communications|
+|18|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|113.119.37.201|556|China|Guangzhou|Chinanet|
 
 
 
