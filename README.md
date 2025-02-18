@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3750** proxies at the latest update. Usable proxies are below.
+> Scraper found **4050** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|257|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.209.221.225|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.247.23.73|3125|Indonesia|Baturaden|PT wifian Solution|
+|3|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|59.98.151.237|8080|India|Jaipur|BSNL Internet|
-|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|7|190.61.40.109|999|Colombia|Dibulla|Ufinet Panama S.A.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|116.108.1.126|10039|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|8.209.221.225|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|67.43.227.226|5993|Canada|Montreal|GloboTech Communications|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|15|72.10.160.172|26769|Canada|Montreal|GloboTech Communications|
+|5|102.0.14.82|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|59.98.151.237|8080|India|Jaipur|BSNL Internet|
+|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|9|103.92.153.24|8137|Bangladesh|Dhaka|Masud M Reza|
+|10|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.173.140.145|1111|Indonesia|Cileungsir|WIFIAN ID|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.227.229|30065|Canada|Montreal|GloboTech Communications|
-|18|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|19|67.43.227.226|5993|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|3035|Canada|Montreal|GloboTech Communications|
+|17|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|124.104.179.238|8080|Philippines|Lubao|Philippine Long Distance Telephone Co.|
+|19|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|165.16.22.150|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 
