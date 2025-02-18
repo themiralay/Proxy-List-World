@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|6|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|213.148.13.209|3128|Kazakhstan|Almaty|Haicom Limited|
+|6|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
 |7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|67.43.227.230|10937|Canada|Montreal|GloboTech Communications|
-|14|202.154.18.172|8087|Indonesia|Bojonegoro|DIGITNET|
-|15|67.43.227.226|31067|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8079|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|20|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|12|172.99.188.139|3128|Netherlands|Amsterdam|GTHost|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|116.108.1.126|10016|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|72.10.160.90|8087|Canada|Montreal|GloboTech Communications|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|103.24.215.29|8080|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
+|20|103.40.121.35|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
 
 
 
