@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|124.121.2.171|8080|Thailand|Bangkok|TRUEBB|
-|4|45.229.33.246|999|Dominican Republic|Santo Domingo|Gold Data USA Inc|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|72.10.160.93|29319|Canada|Montreal|GloboTech Communications|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|67.43.228.252|21779|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.92|9233|Canada|Montreal|GloboTech Communications|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|128.199.119.251|8181|Singapore|Singapore|DigitalOcean, LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|27.189.133.81|8089|China|Langfang|Chinanet|
-|18|67.43.227.227|24509|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12523|Canada|Montreal|GloboTech Communications|
-|20|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|2|124.121.2.171|8080|Thailand|Bangkok|TRUEBB|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.155.234.9|8080|India|Bardhaman|Bbrg Communiction And Internet Pvt Ltd|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.92|9233|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|12523|Canada|Montreal|GloboTech Communications|
+|11|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|12|49.151.91.48|8080|Philippines|Province of Nueva Vizcaya|Philippine Long Distance Telephone Co.|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.164.178|12523|Canada|Montreal|GloboTech Communications|
+|16|157.66.50.95|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|17|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
