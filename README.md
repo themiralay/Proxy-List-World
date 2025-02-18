@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|171.251.5.106|10008|Vietnam|Da Nang|Viettel Corporation|
 |3|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|171.228.115.183|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|157.20.100.10|1111|Indonesia|Baekrajan|PT Muria Global Network|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|4|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|10|171.251.5.106|10008|Vietnam|Da Nang|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|217.119.115.132|8080|Slovakia|Levice|ENERGOTEL a.s.|
+|14|45.77.249.199|1236|Singapore|Singapore|The Constant Company|
+|15|67.43.228.252|15675|Canada|Montreal|GloboTech Communications|
 |16|72.10.160.174|6699|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|21017|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|28023|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|25167|Canada|Montreal|GloboTech Communications|
-|20|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|38.96.254.101|3128|Canada|Vancouver|GLOBALTELEHOST Corp.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
