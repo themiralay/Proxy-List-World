@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|4|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|171.246.78.182|4009|Vietnam|Can Tho|Viettel Corporation|
-|16|67.43.228.254|1853|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|10|103.155.65.71|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|49.70.190.72|2324|China|Zhenjiang|Chinanet|
+|15|103.91.149.140|8080|Indonesia|Ciputat|PT. Yasmin Amanah Media|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |17|118.113.246.118|2324|China|Shanghai|Chinanet|
-|18|79.175.189.50|80|Iran|Tehran|Afranet|
-|19|120.92.100.9|12798|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|67.43.236.21|23161|Canada|Montreal|GloboTech Communications|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|184.82.54.126|8080|Thailand|Khon Kaen|AIS-Fibre|
+|20|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
 
 
 
