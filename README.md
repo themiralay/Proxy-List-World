@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|27.189.128.97|8089|China|Langfang|Chinanet|
-|8|125.87.90.236|2324|China|Chongqing|China Telecom|
-|9|103.36.10.118|7777|Indonesia|Bangil|PT Awinet Global Mandiri|
-|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|11|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|72.10.160.91|25225|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|4255|Canada|Montreal|GloboTech Communications|
-|17|222.68.39.162|2324|China|Shanghai|China Telecom (Group)|
-|18|72.10.160.93|29155|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|29155|Canada|Montreal|GloboTech Communications|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|49.156.22.194|8080|Indonesia|Central Java|PALAPANET|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|202.154.18.160|8087|Indonesia|Bojonegoro|DIGITNET|
 |20|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
