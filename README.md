@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|188.245.46.170|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|101.109.139.99|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|67.43.228.253|8643|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|8199|Canada|Montreal|GloboTech Communications|
-|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.228.250|30359|Canada|Montreal|GloboTech Communications|
-|15|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|18|67.43.227.226|27999|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|27999|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|8.218.221.207|300|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|58.32.43.94|1070|China|Shanghai|CHINANET-SH|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|16|103.26.128.224|8090|Indonesia|Salatiga|PT Jaringan Inti Exadata|
+|17|45.114.144.155|32650|India|Jaipur|Tejays Dynamic Limited|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
