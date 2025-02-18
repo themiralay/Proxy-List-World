@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|6|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|72.10.160.90|28791|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|26293|Canada|Montreal|GloboTech Communications|
-|10|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|11|67.43.236.18|1685|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|14|72.10.160.94|7253|Canada|Montreal|GloboTech Communications|
-|15|49.49.58.98|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
+|15|72.10.164.178|26377|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|18|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|19|72.10.160.94|7253|Canada|Montreal|GloboTech Communications|
+|20|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
 
 
 
