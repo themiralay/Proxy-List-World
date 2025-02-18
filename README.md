@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|202.182.59.225|10001|Indonesia|Duren Tiga|Arsen Kusuma Indonesia|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|116.108.1.126|10042|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|67.43.228.250|1635|Canada|Montreal|GloboTech Communications|
-|9|124.160.103.162|11451|China|Hangzhou|CNC Group CHINA169 Zhejiang Province Network|
-|10|119.195.59.60|3011|South Korea|Geoje|Korea Telecom|
-|11|67.43.236.18|25965|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|32999|Canada|Montreal|GloboTech Communications|
-|13|103.155.198.223|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|14|72.10.160.170|7263|Canada|Montreal|GloboTech Communications|
+|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|103.234.31.0|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|7|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|8|190.61.40.110|999|Colombia|Dibulla|Ufinet Panama S.A.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|13|38.172.154.162|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|72.10.160.172|31783|Canada|Montreal|GloboTech Communications|
-|16|171.4.191.52|8080|Thailand|Chanthaburi|Triple T Broadband Public Company Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|157.66.84.14|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|20|49.48.86.128|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
