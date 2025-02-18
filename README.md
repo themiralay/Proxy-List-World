@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
 |7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|8|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|9|72.10.160.92|25153|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|21269|Canada|Montreal|GloboTech Communications|
-|11|103.163.103.64|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|121.236.236.9|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|15|67.43.227.227|5519|Canada|Montreal|GloboTech Communications|
-|16|144.126.157.79|3128|United States|St Louis|Nubes, LLC|
-|17|67.43.227.226|4621|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|21269|Canada|Montreal|GloboTech Communications|
-|19|119.12.165.151|55555|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|20|222.68.42.46|2324|China|Shanghai|China Telecom (Group)|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|72.10.160.92|31747|Canada|Montreal|GloboTech Communications|
+|10|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|72.10.160.170|24817|Canada|Montreal|GloboTech Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|67.43.236.18|27465|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|33223|Canada|Montreal|GloboTech Communications|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|67.43.228.250|10071|Canada|Montreal|GloboTech Communications|
 
 
 
