@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|54.179.136.77|8888|Singapore|Singapore|Amazon.com, Inc.|
-|5|72.10.160.170|15233|Canada|Montreal|GloboTech Communications|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|79.175.189.50|80|Iran|Tehran|Afranet|
-|10|67.43.236.18|28159|Canada|Montreal|GloboTech Communications|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|67.43.236.18|28159|Canada|Montreal|GloboTech Communications|
-|14|218.1.197.52|2324|China|Shanghai|China Telecom (Group)|
-|15|67.43.228.250|6987|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.229|20255|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|15233|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|15233|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|47.129.37.172|3128|Singapore|Singapore|Amazon Technologies Inc|
+|10|103.40.121.89|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|11|74.50.210.42|8080|Myanmar|Mandalay|Ooredoo Myanmar Limited|
+|12|49.148.51.61|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|205.164.183.154|999|Mexico|Tehuacán|Cesar Flores Barbosa|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
