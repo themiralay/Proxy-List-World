@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|101.255.164.214|8090|Indonesia|Jakarta|PT Remala Abadi|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|13|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
-|14|168.181.196.76|8080|Brazil|Itapemirim|Windx Telecomunicações|
-|15|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|16|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
-|17|124.217.35.60|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|18|23.147.112.74|8080|United States|Nogales|NGX Networks|
-|19|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|212.68.38.121|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|67.43.228.252|16101|Canada|Montreal|GloboTech Communications|
+|17|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|18|67.43.228.250|10673|Canada|Montreal|GloboTech Communications|
+|19|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
