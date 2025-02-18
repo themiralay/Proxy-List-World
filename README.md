@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|171.251.5.106|10008|Vietnam|Da Nang|Viettel Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.164.223.51|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|101.255.82.146|3128|Indonesia|Jakarta|PT Remala Abadi|
-|11|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|67.43.236.18|24755|Canada|Montreal|GloboTech Communications|
-|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|15|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|16|67.43.227.226|33211|Canada|Montreal|GloboTech Communications|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|45.174.79.65|999|Mexico|Delicias|Raul Duarte Urita|
-|19|171.246.78.182|4009|Vietnam|Can Tho|Viettel Corporation|
-|20|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.243.238.188|21360|Bangladesh|Dhaka|Circle Network|
+|12|49.146.204.232|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
 
 
 
