@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|202.154.18.138|8080|Indonesia|Bojonegoro|DIGITNET|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|1|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|31.58.58.213|10004|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|185.200.37.246|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|118.113.245.195|2324|China|Shanghai|Chinanet|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|72.10.160.90|3471|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|13737|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29833|Canada|Montreal|GloboTech Communications|
-|16|38.123.220.110|999|Mexico|San Miguel Yuxtepec|Cogent Communications|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
-|19|67.43.227.226|17021|Canada|Montreal|GloboTech Communications|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.255.167.174|8080|Indonesia|Jakarta|PT Remala Abadi|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|15|180.127.149.248|1080|China|Nanjing|Chinanet|
+|16|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|157.66.50.111|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|58.56.179.162|3382|China|Jinan|Chinanet|
+|20|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
 
 
 
