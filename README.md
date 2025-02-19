@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.236.18|8137|Canada|Montreal|GloboTech Communications|
-|11|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|12|72.10.160.172|6555|Canada|Montreal|GloboTech Communications|
-|13|202.154.18.160|8087|Indonesia|Bojonegoro|DIGITNET|
-|14|121.232.181.166|8089|China|Nanjing|Chinanet|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|212.175.61.20|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|17|67.43.228.250|26383|Canada|Montreal|GloboTech Communications|
-|18|113.23.195.5|1231|Malaysia|Semenyih|Extreme Broadband|
-|19|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|20|72.10.160.171|11233|Canada|Montreal|GloboTech Communications|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|3|203.150.128.6|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|81.90.149.186|3128|Iran|Tehran|Afranet|
+|5|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|6|95.211.160.36|1080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|72.10.160.172|25699|Canada|Montreal|GloboTech Communications|
+|13|103.172.120.178|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
+|14|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
+|16|67.43.228.250|26383|Canada|Montreal|GloboTech Communications|
+|17|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|72.10.160.171|8023|Canada|Montreal|GloboTech Communications|
+|20|106.115.87.35|9100|China|Handan|Chinanet|
 
 
 
