@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|4|36.94.39.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|121.227.203.138|8089|China|Nanjing|China Telecom|
-|7|67.43.228.250|5929|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|22135|Canada|Montreal|GloboTech Communications|
-|9|115.178.49.67|8080|Indonesia|Bandung|NOC SIMAYA|
-|10|1.4.250.103|8080|Thailand|Laem Ngop|TOT Public Company Limited|
-|11|72.10.160.90|14005|Canada|Montreal|GloboTech Communications|
-|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|67.43.228.250|5929|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|9721|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|103.133.61.161|8080|Indonesia|Pringsewu|TLINK|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|1|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|110.76.145.59|89|Indonesia|Surabaya|PT Pika Media Komunika|
+|4|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|5|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|222.68.37.69|2324|China|Shanghai|China Telecom (Group)|
+|10|67.43.227.226|11387|Canada|Montreal|GloboTech Communications|
+|11|203.150.128.51|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|59.39.197.55|2324|China|Guangzhou|Chinanet|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|103.73.193.243|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|16|103.154.77.64|89|Indonesia|Sleman|T2NET|
+|17|203.111.253.103|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|18|67.43.236.19|8175|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|29679|Canada|Montreal|GloboTech Communications|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
