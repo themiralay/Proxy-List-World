@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|3|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|11|124.121.87.72|8080|Thailand|Bangkok|TRUEBB|
-|12|201.168.198.50|999|Mexico|La Barca|Marcatel Com, S.A. de C.V.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|200.32.51.179|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|157.119.222.23|8080|Indonesia|Semarang|DESNET|
-|18|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|45.11.93.224|8081|United States|Dallas|CGI GLOBAL LIMITED|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|203.150.128.140|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|103.169.41.236|8080|Indonesia|Mata Ie|Telnet Indonesia|
+|8|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|16|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|17|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|18|221.132.18.162|38180|Vietnam|Hanoi|VNPT|
+|19|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
