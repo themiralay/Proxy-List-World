@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.189.116.180|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|180.97.220.151|11080|China|Nanjing|Chinanet|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
-|16|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
-|17|103.80.110.190|80|Bhutan|Thimphu|Tshering NORBU t/a NANO|
-|18|103.180.126.66|8181|Indonesia|Jakarta|PT Alam Media Data|
-|19|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|20|186.96.96.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.189.116.180|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|11|103.80.110.190|80|Bhutan|Thimphu|Tshering NORBU t/a NANO|
+|12|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|18|180.97.220.151|11080|China|Nanjing|Chinanet|
+|19|106.115.87.35|9100|China|Handan|Chinanet|
+|20|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
