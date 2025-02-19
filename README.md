@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|2|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|4|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|6|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|23.94.131.233|1080|United States|Elk Grove Village|HostPapa|
-|10|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|11|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|121.227.118.150|8089|China|Nanjing|China Telecom|
-|14|121.227.109.51|8089|China|Nanjing|China Telecom|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|180.125.186.152|1080|China|Nanjing|Chinanet|
-|17|121.227.183.178|8089|China|Nanjing|China Telecom|
-|18|72.10.160.90|22449|Canada|Montreal|GloboTech Communications|
-|19|38.172.131.228|999|Peru|Lima|Conex TV E.I.R.L.|
-|20|36.82.203.198|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.203.232.69|1080|Indonesia|Kedok|INDANA|
+|3|103.139.98.159|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|4|103.129.201.35|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
+|5|103.228.243.149|8080|Indonesia|Jakarta|SpaceX Starlink|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|101.109.35.135|8080|Thailand|Si Maha Phot|TOT Public Company Limited|
+|8|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|9|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|171.224.81.193|10030|Vietnam|Hanoi|Viettel Corporation|
+|17|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|18|72.10.160.90|3867|Canada|Montreal|GloboTech Communications|
+|19|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|20|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
