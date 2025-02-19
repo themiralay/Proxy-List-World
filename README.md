@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|18.117.39.187|3128|United States|Dublin|Amazon.com, Inc.|
+|2|103.203.232.69|1080|Indonesia|Kedok|INDANA|
 |3|18.117.39.187|3128|United States|Dublin|Amazon.com, Inc.|
-|4|190.61.90.116|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|4|18.117.39.187|3128|United States|Dublin|Amazon.com, Inc.|
 |5|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.203.232.69|1080|Indonesia|Kedok|INDANA|
-|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|121.227.118.158|8089|China|Nanjing|China Telecom|
-|12|121.227.118.167|8089|China|Nanjing|China Telecom|
-|13|67.43.228.251|12335|Canada|Montreal|GloboTech Communications|
-|14|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|15|121.227.203.138|8089|China|Nanjing|China Telecom|
-|16|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
-|17|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
-|18|72.10.164.178|10711|Canada|Montreal|GloboTech Communications|
-|19|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|20|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|101.109.35.135|8080|Thailand|Si Maha Phot|TOT Public Company Limited|
+|9|223.206.79.212|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|10|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
+|13|103.155.198.141|1080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|14|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|103.164.235.13|8085|Indonesia|Serang|PT Bantani Media Utama|
+|18|103.164.223.51|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
