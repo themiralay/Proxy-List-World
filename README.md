@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|3|203.150.113.46|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|103.146.185.94|8080|Indonesia|Ponorogo|YAMNET|
-|7|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|11|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|12|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
-|13|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|14|114.224.74.215|8089|China|Wuxi|Chinanet|
-|15|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
-|16|121.172.221.231|3128|South Korea|Incheon|Korea Telecom|
-|17|103.157.58.235|8080|Indonesia|Bandung|PT. Eka Mas Republik|
-|18|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|19|103.234.35.152|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|103.191.254.1|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|7|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|10|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|180.92.231.115|8686|Bangladesh|Gazipur|Information Services Network Ltd|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|101.255.117.194|8095|Indonesia|Jakarta|PT Remala Abadi|
+|16|109.92.216.98|3128|Serbia|Belgrade|TELEKOM-SRBIJA|
+|17|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
