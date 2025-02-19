@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4171** proxies at the latest update. Usable proxies are below.
+> Scraper found **4187** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|533|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|549|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2087|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|103.162.37.61|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.77.62.134|8080|Bangladesh|Mīrpur|Orange Communication (The Sky Traders Ltd)|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.138.185.1|83|India|Chittorgarh|Mahrth Internet Service Private Limited|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|106.225.164.39|655|China|Beijing|China Telecom|
-|10|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
-|11|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|67.43.228.250|15947|Canada|Montreal|GloboTech Communications|
-|16|103.166.158.167|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|17|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|18|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|19|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|103.162.37.61|8080|Indonesia|Bandung|PT Lintas Satu Visi|
+|9|160.22.92.3|8080|Indonesia|Ketanggungan|IDNIC-3MEDIASOLUSI|
+|10|38.158.202.121|999|Mexico|Aguascalientes|Universidad Autonoma Del Estado De Morelos|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|49.70.190.233|2324|China|Zhenjiang|Chinanet|
+|16|72.10.160.90|31023|Canada|Montreal|GloboTech Communications|
+|17|110.188.37.141|2324|China|Muping|Chinanet|
+|18|67.43.228.251|8619|Canada|Montreal|GloboTech Communications|
+|19|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
