@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3795** proxies at the latest update. Usable proxies are below.
+> Scraper found **4095** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|493|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|5|116.212.182.74|8081|India|Chennai|Microsense Private Limited|
-|6|102.68.139.1|82|Zambia|Lusaka|AirLink Broadband Limited|
-|7|38.158.202.121|999|Mexico|Aguascalientes|Universidad Autonoma Del Estado De Morelos|
-|8|180.125.186.191|1080|China|Nanjing|Chinanet|
-|9|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|38.158.202.121|999|Mexico|Aguascalientes|Universidad Autonoma Del Estado De Morelos|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|181.65.169.50|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|8|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|9|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
 |10|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.227.227|20793|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|21123|Canada|Montreal|GloboTech Communications|
-|13|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|14|121.224.156.153|8089|China|Nanjing|China Telecom|
-|15|128.199.119.251|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|125.87.80.239|2324|China|Chongqing|China Telecom|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|118.113.244.234|2324|China|Shanghai|Chinanet|
-|20|72.10.160.90|21123|Canada|Montreal|GloboTech Communications|
+|11|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|12|102.213.248.17|8080|Kenya|Nairobi|Optinode Group LLP|
+|13|88.119.139.237|53281|Lithuania|Vilnius|Telia Lietuva|
+|14|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|196.251.223.54|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|19|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
