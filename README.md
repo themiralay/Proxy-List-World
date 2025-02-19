@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|181.39.27.170|999|Ecuador|Guayaquil|Telconet S.A|
-|8|41.57.136.178|6060|South Africa|Centurion|SCR PTA C|
-|9|67.43.227.226|9229|Canada|Montreal|GloboTech Communications|
-|10|106.115.87.35|9100|China|Handan|Chinanet|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|27.76.7.64|5104|Vietnam|Thái Nguyên|Newass2011xDSLHCMC|
-|14|72.10.160.90|4389|Canada|Montreal|GloboTech Communications|
-|15|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
-|16|72.10.164.178|5535|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|20201|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|3695|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|3695|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5535|Canada|Montreal|GloboTech Communications|
+|4|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|72.10.164.178|19793|Canada|Montreal|GloboTech Communications|
+|11|106.115.87.35|9100|China|Handan|Chinanet|
+|12|67.43.236.18|22793|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.251|30819|Canada|Montreal|GloboTech Communications|
+|14|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|15|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|16|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
+|17|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|201.77.98.131|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|19|67.43.227.226|4645|Canada|Montreal|GloboTech Communications|
+|20|103.179.252.167|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
 
 
 
