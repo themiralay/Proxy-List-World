@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.189.197.166|8787|Indonesia|Serang|PT Graha Sumber Teknologi|
-|2|103.133.61.173|3030|Indonesia|Pringsewu|TLINK|
+|1|49.151.111.184|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|2|103.193.144.223|8080|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
 |3|103.99.27.189|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|4|43.247.39.194|57413|Indonesia|Bekasi|Maxindo|
+|4|160.22.206.45|8181|Indonesia|Bekasi|PT Teradata Bintang Selaras|
 |5|101.255.150.58|8089|Indonesia|Jakarta|PT Remala Abadi|
-|6|160.22.206.45|8181|Indonesia|Bekasi|PT Teradata Bintang Selaras|
-|7|103.156.15.133|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|8|103.242.106.176|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
-|9|157.66.85.77|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|10|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|11|103.154.77.33|9090|Indonesia|Sleman|T2NET|
-|12|58.11.81.216|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|13|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|14|202.57.25.196|1111|Indonesia|Semarang|announced of WINET|
-|15|103.242.106.185|7777|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
-|16|103.193.144.223|8080|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
-|17|182.253.109.18|8080|Indonesia|Jakarta|Biznet Metronet|
+|6|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|8|43.247.39.194|57413|Indonesia|Bekasi|Maxindo|
+|9|182.253.109.18|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|45.123.142.21|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|12|103.189.197.166|8787|Indonesia|Serang|PT Graha Sumber Teknologi|
+|13|103.191.58.62|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|14|103.125.19.34|8080|Indonesia|Tangerang|JAVAMEDIA|
+|15|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|16|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|17|46.8.252.8|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
 |18|125.27.107.222|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|19|45.123.142.21|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|194.36.59.186|1500|Ireland|Sligo|Blacknight Internet Solutions Limited|
+|20|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
