@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|204.216.140.216|3128|Brazil|Vinhedo|Oracle Corporation|
-|3|65.1.244.232|80|India|Mumbai|Amazon.com|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|6|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|79.175.189.50|80|Iran|Tehran|Afranet|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|103.177.199.61|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|16|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|64.20.59.204|8080|United States|Secaucus|Interserver, Inc|
+|9|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|10|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|11|103.255.243.9|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|67.43.236.19|10851|Canada|Montreal|GloboTech Communications|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
 
 
 
