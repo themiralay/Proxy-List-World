@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|38.253.84.92|999|Dominican Republic|Maimón|WIMAS, S.R.L.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|124.121.2.148|8080|Thailand|Bangkok|TRUEBB|
-|6|116.108.1.126|10019|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|116.108.1.126|10019|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
-|12|118.113.245.223|2324|China|Shanghai|Chinanet|
-|13|122.52.94.191|1234|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|163.44.97.24|3128|Japan|Chiyoda|GMO Internet, Inc|
-|16|45.5.118.138|999|Guatemala|Guatemala City|Infinitum S.A.|
-|17|160.22.92.3|8080|Indonesia|Ketanggungan|IDNIC-3MEDIASOLUSI|
-|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
+|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|118.113.245.223|2324|China|Shanghai|Chinanet|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
+|9|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
+|10|103.189.231.210|8181|Indonesia|Karanganyar|PT Media Access Telematika|
+|11|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|103.82.36.159|21503|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|67.43.228.251|25313|Canada|Montreal|GloboTech Communications|
 |19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
