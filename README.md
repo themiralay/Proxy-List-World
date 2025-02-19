@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.15.88.60|39058|Vietnam|Thủ Đức|WIXCLOUD|
-|3|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|4|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|72.10.164.178|7791|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|11411|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|22187|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|30587|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|32627|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|1305|Canada|Montreal|GloboTech Communications|
-|15|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|72.10.160.93|10437|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7791|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|30587|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|19725|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|32343|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|8.209.209.19|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|72.10.160.171|30487|Canada|Montreal|GloboTech Communications|
+|17|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.164.178|25023|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|11791|Canada|Montreal|GloboTech Communications|
+|20|177.5.18.81|8080|Brazil|Curitiba|V tal|
 
 
 
