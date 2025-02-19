@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4068** proxies at the latest update. Usable proxies are below.
+> Scraper found **3872** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|466|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2087|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|13|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
-|16|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|17|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|18|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|19|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|20|72.10.160.171|20545|Canada|Montreal|GloboTech Communications|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|36.82.203.198|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|5|207.248.3.61|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
+|6|2.139.73.17|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|7|157.173.112.73|80|Germany|Düsseldorf|Contabo GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|103.165.40.85|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|38.158.202.121|999|Mexico|Aguascalientes|Universidad Autonoma Del Estado De Morelos|
+|15|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
 
 
 
