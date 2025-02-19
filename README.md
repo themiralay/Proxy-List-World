@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|3|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|14|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
-|17|115.112.231.145|443|India|Mumbai|Tata Communications Limited|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|67.43.228.250|2053|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|30941|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
+|13|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|177.10.118.108|8089|Brazil|Palmeirais|SPACE NET SERV. DE TELECOMUNICAÇÃO EM INF. LTDA-ME|
+|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
