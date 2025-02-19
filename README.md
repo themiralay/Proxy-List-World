@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|67.43.228.250|1405|Canada|Montreal|GloboTech Communications|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|72.10.160.170|4531|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|4443|Canada|Montreal|GloboTech Communications|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|10|106.115.87.35|9100|China|Handan|Chinanet|
-|11|72.10.160.91|5475|Canada|Montreal|GloboTech Communications|
-|12|222.68.40.101|2324|China|Shanghai|China Telecom (Group)|
-|13|27.189.131.206|8089|China|Langfang|Chinanet|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.10.160.92|12195|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.91|5475|Canada|Montreal|GloboTech Communications|
-|18|139.159.97.82|10900|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|19|116.108.1.126|10042|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|116.108.1.126|10024|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|67.43.227.226|31829|Canada|Montreal|GloboTech Communications|
+|10|118.113.247.241|2324|China|Shanghai|Chinanet|
+|11|72.10.164.178|6335|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|31829|Canada|Montreal|GloboTech Communications|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|15|8.218.119.80|4444|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.170|9771|Canada|Montreal|GloboTech Communications|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|19|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
