@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
-|2|125.26.211.159|8080|Thailand|Hua Hin|TOT Public Company Limited|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|9|181.39.27.170|999|Ecuador|Guayaquil|Telconet S.A|
-|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|11|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|13|72.10.164.178|4821|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|32257|Canada|Montreal|GloboTech Communications|
-|15|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|16|109.238.180.90|8080|Iran|Bushehr|KOL IP|
-|17|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|18|146.190.80.158|9090|Singapore|Singapore|DigitalOcean, LLC|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|1|125.26.211.159|8080|Thailand|Hua Hin|TOT Public Company Limited|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|7|181.39.27.170|999|Ecuador|Guayaquil|Telconet S.A|
+|8|177.93.35.50|999|Colombia|Villagarzón|TV AZTECA SUCURSAL COLOMBIA|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
+|11|181.65.169.50|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|12|102.135.157.33|12354|South Africa|Durbanville|Session Telecoms(PTY) Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|116.108.1.126|10028|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|85.239.55.140|3128|Bulgaria|Sofia|BlueVPS OU|
+|17|59.39.224.104|2324|China|Guangzhou|Chinanet|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|106.115.87.35|9100|China|Handan|Chinanet|
+|20|121.101.134.90|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
 
 
 
