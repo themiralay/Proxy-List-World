@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|5|203.150.113.244|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|195.133.44.106|10000|Germany|Frankfurt am Main|Big Data Host LLC|
-|9|188.132.150.69|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|121.224.156.190|8089|China|Nanjing|China Telecom|
-|11|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|12|38.194.250.66|999|Mexico|Jerécuaro|Ientc S De RL De CV|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|106.115.87.35|9100|China|Handan|Chinanet|
-|15|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.90|15923|Canada|Montreal|GloboTech Communications|
-|18|121.227.109.9|8089|China|Nanjing|China Telecom|
-|19|121.224.156.166|8089|China|Nanjing|China Telecom|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|110.77.200.246|8080|Thailand|Bangkok|CAT-BB|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|79.175.189.50|80|Iran|Tehran|Afranet|
+|6|203.150.113.244|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|106.115.87.35|9100|China|Handan|Chinanet|
+|11|116.108.1.126|10024|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|103.212.211.69|8080|Indonesia|Sumber|Pemerintah Kabupaten Cirebon|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|180.112.180.186|8089|China|Nanjing|Chinanet|
 
 
 
