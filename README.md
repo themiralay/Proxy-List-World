@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|14.39.239.241|59791|South Korea|Eunpyeong-gu|Korea Telecom|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|72.10.160.174|17667|Canada|Montreal|GloboTech Communications|
-|6|157.20.36.246|1111|Indonesia|Jaten|PT Andalan Dinamika Informatika|
-|7|72.10.160.90|5239|Canada|Montreal|GloboTech Communications|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|67.43.227.226|18665|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|5239|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|72.10.160.90|5239|Canada|Montreal|GloboTech Communications|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|125.87.81.119|2324|China|Chongqing|China Telecom|
-|15|72.10.160.170|24785|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|20|5.182.44.160|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
+|7|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|9|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|10|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|11|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|12|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|15|72.10.160.90|23441|Canada|Montreal|GloboTech Communications|
+|16|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
+|17|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|103.125.160.178|83|India|Hyderabad|CtrlS|
 
 
 
