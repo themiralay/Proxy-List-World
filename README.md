@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|38.194.236.168|3128|Mexico|Tlacolula de Matamoros|Ientc S De RL De CV|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|117.90.238.192|8089|China|Zhenjiang|Chinanet|
-|8|67.43.236.21|3861|Canada|Montreal|GloboTech Communications|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|26303|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|9427|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|24553|Canada|Montreal|GloboTech Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|121.224.156.164|8089|China|Nanjing|China Telecom|
-|17|67.43.236.18|6823|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|6823|Canada|Montreal|GloboTech Communications|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|72.10.160.90|23013|Canada|Montreal|GloboTech Communications|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|8|72.10.164.178|20019|Canada|Montreal|GloboTech Communications|
+|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|10|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.164.178|20019|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|5711|Canada|Montreal|GloboTech Communications|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|27.70.237.82|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|16|103.151.227.218|8080|Indonesia|Bandung|URBANACCESS|
+|17|67.43.236.18|19663|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|221.132.18.162|38180|Vietnam|Hanoi|VNPT|
+|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
