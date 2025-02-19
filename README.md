@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|43.252.237.125|8080|Indonesia|Tangerang|PT Usaha Adi Sanggoro|
-|5|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
+|2|103.162.222.243|8080|Indonesia|Banyuwangi|PT Cahaya Artha Daya|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
 |6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|161.97.148.126|3128|Germany|Düsseldorf|Contabo GmbH|
-|9|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|10|176.88.175.216|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
-|13|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|116.108.1.126|10033|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|116.108.1.126|10033|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|178.178.100.188|8080|Russia|Moscow|PJSC MegaFon|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|19|4.155.2.13|9443|United States|Quincy|Microsoft Corporation|
-|20|72.10.160.171|7673|Canada|Montreal|GloboTech Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|91.217.179.174|8080|Ukraine|Kyiv|Startnet LTD|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|15|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|16|212.175.61.20|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|19|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 
 
 
