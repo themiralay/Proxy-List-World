@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|94.41.246.203|3128|Russia|Neftekamsk|JSC "Ufanet"|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|177.53.154.6|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
-|15|110.188.37.85|2324|China|Muping|Chinanet|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|18|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
-|19|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|20|190.93.126.198|8080|Dominican Republic|Santiago de los Caballeros|Telemarch S.R.L|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|5|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|6|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|49.156.151.246|83|India|Kākināda|City Online|
+|9|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|16|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|165.16.22.150|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|19|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|20|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
 
 
 
