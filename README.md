@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |3|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|213.171.31.95|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|213.171.31.95|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|8|117.44.64.85|655|China|Taohua|Chinanet|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|13|67.43.228.254|1853|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|139.255.33.242|3128|Indonesia|Jakarta|PT. LINKNET|
-|18|67.43.228.250|11197|Canada|Montreal|GloboTech Communications|
-|19|106.115.87.35|9100|China|Handan|Chinanet|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|103.139.98.167|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
