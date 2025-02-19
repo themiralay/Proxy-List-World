@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|211.193.64.188|3128|South Korea|Changwon|Korea Telecom|
-|4|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|5|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|6|31.58.58.213|10004|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|7|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|8|103.190.78.60|7777|Indonesia|Jinglong|PT Blitar Sarana Data|
-|9|182.52.83.228|34599|Thailand|Ban Karon|TOT Public Company Limited|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|103.48.68.122|84|India|Hyderabad|Country Online Services PVT LTD|
-|12|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|67.43.227.226|18885|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|183.88.224.86|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|72.10.160.170|29103|Canada|Montreal|GloboTech Communications|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|1|211.193.64.188|3128|South Korea|Changwon|Korea Telecom|
+|2|182.52.83.228|34599|Thailand|Ban Karon|TOT Public Company Limited|
+|3|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|103.190.78.60|7777|Indonesia|Jinglong|PT Blitar Sarana Data|
+|5|31.58.58.213|10004|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|106.115.87.35|9100|China|Handan|Chinanet|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|179.1.203.53|999|Colombia|Bogotá|InterNexa Global Network|
+|17|115.112.231.145|443|India|Mumbai|Tata Communications Limited|
+|18|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
 
 
 
