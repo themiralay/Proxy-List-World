@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|7|72.10.160.90|32627|Canada|Montreal|GloboTech Communications|
-|8|103.154.77.48|89|Indonesia|Sleman|T2NET|
-|9|49.48.188.99|8080|Thailand|Phitsanulok|Triple T Broadband Public Company Limited|
-|10|67.43.228.250|31677|Canada|Montreal|GloboTech Communications|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|8.209.209.19|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|72.10.160.90|15949|Canada|Montreal|GloboTech Communications|
+|8|49.48.188.99|8080|Thailand|Phitsanulok|Triple T Broadband Public Company Limited|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|49.70.190.254|2324|China|Zhenjiang|Chinanet|
-|13|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|117.84.184.24|8089|China|Nanjing|Chinanet|
-|17|67.43.228.250|31677|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|32343|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|20323|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
+|14|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|17|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|18|72.10.164.178|20233|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|32343|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|7213|Canada|Montreal|GloboTech Communications|
 
 
 
