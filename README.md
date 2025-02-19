@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.189.116.180|1111|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|9|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|190.60.59.58|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|67.43.228.250|3339|Canada|Montreal|GloboTech Communications|
-|16|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|17|67.43.227.226|6681|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|17197|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|11131|Canada|Montreal|GloboTech Communications|
-|20|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|7|190.211.172.178|999|Chile|San Fernando|InterNexa Global Network|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|188.132.222.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|200.106.124.126|8080|Peru|Tacna|Telefonica del Peru|
+|13|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|17|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|18|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|45.252.183.242|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
 
 
 
