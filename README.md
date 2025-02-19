@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|106.115.87.35|9100|China|Handan|Chinanet|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|67.43.227.226|16211|Canada|Montreal|GloboTech Communications|
-|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|19|128.199.119.251|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|2|103.180.126.20|3125|Indonesia|Jakarta|PT Alam Media Data|
+|3|103.192.174.57|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
+|4|43.247.39.194|57413|Indonesia|Bekasi|Maxindo|
+|5|160.22.206.45|8181|Indonesia|Bekasi|PT Teradata Bintang Selaras|
+|6|103.76.109.152|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|7|103.125.19.34|8080|Indonesia|Tangerang|JAVAMEDIA|
+|8|103.211.201.8|3218|United States|Los Angeles|Alfa Power LTD|
+|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|10|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|11|157.66.85.77|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|12|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|13|103.156.14.195|3125|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
+|14|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|15|103.191.58.62|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|16|58.11.81.216|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|17|157.66.138.87|3125|Indonesia|Cikampek|PT Neo Fiber Teknologi|
+|18|103.171.83.217|3125|Indonesia|Jakarta|PT Multi Network Indonesia|
+|19|182.253.109.18|8080|Indonesia|Jakarta|Biznet Metronet|
+|20|49.48.82.77|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
