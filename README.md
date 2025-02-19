@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|116.203.126.83|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|103.175.238.174|9090|Indonesia|Subang|PT Uliz Netmedia Solusindo|
 |8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|58.56.179.162|3382|China|Jinan|Chinanet|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|116.108.1.126|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|67.43.236.20|32809|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31319|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|17211|Canada|Montreal|GloboTech Communications|
-|20|103.82.246.49|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|67.43.236.20|32809|Canada|Montreal|GloboTech Communications|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|80.248.77.125|8081|Togo|Lomé|AS de CAFE Informatique|
+|13|150.95.27.197|10090|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|72.10.164.178|11441|Canada|Montreal|GloboTech Communications|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|67.43.228.250|14977|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|24321|Canada|Montreal|GloboTech Communications|
+|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
 
 
 
