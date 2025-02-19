@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.169.131.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|202.40.185.247|100|Bangladesh|Dhaka|Ranks ITT|
-|8|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.223.57.218|1087|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|13|103.247.21.236|8080|Indonesia|Bekasi|PT wifian Solution|
-|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|67.43.227.226|2233|Canada|Montreal|GloboTech Communications|
-|18|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|8|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|9|117.84.72.242|8089|China|Nanjing|Chinanet|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|49.145.112.28|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|165.16.22.150|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|15|8.219.135.196|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.227.226|2233|Canada|Montreal|GloboTech Communications|
+|17|103.73.106.82|8080|Bangladesh|Chittagong|Antaranga Dot Com Ltd|
+|18|185.82.238.42|8888|Czechia|Zlín|Nordic Telecom Regional s.r.o.|
+|19|102.214.165.85|1981|Libya|Al Bayda'|Aljeel Aljadeed For Technology|
+|20|72.10.160.92|32363|Canada|Montreal|GloboTech Communications|
 
 
 
