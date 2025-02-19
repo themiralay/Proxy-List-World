@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|20.233.255.93|3128|United Arab Emirates|Dubai|Microsoft Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|11|67.43.228.250|9465|Canada|Montreal|GloboTech Communications|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|72.10.160.170|3477|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|30399|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|18969|Canada|Montreal|GloboTech Communications|
-|16|103.154.77.40|89|Indonesia|Sleman|T2NET|
-|17|103.72.137.241|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|161.97.148.126|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|72.10.160.170|3477|Canada|Montreal|GloboTech Communications|
+|3|103.190.78.60|7777|Indonesia|Jinglong|PT Blitar Sarana Data|
+|4|202.154.18.138|8080|Indonesia|Bojonegoro|DIGITNET|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|10|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|11|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|15|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|102.135.157.33|12354|South Africa|Durbanville|Session Telecoms(PTY) Ltd|
+|20|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
 
 
 
