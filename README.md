@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|4|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|114.225.152.218|8089|China|Changzhou|Chinanet|
-|8|72.10.160.170|11733|Canada|Montreal|GloboTech Communications|
-|9|113.200.168.238|1082|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
-|10|67.43.227.226|10473|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|8175|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|10473|Canada|Montreal|GloboTech Communications|
-|13|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
-|14|116.108.1.126|10051|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|103.133.27.46|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|179.228.241.22|8080|Brazil|Sertãozinho|Vivo|
-|18|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|19|67.43.228.251|19295|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|8175|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|4|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|157.100.63.48|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|8|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|188.125.169.241|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|14|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|15|194.164.34.162|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|18|72.10.160.170|11733|Canada|Montreal|GloboTech Communications|
+|19|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|20|41.203.84.134|8080|Nigeria|Lagos|Globacom Limited|
 
 
 
