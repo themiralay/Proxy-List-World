@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.67.80.202|3125|Indonesia|Jakarta|PT Komunikasi Profesional Indonesia|
-|2|103.180.126.51|3125|Indonesia|Jakarta|PT Alam Media Data|
-|3|49.49.141.113|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
-|4|103.203.232.69|1080|Indonesia|Kedok|INDANA|
-|5|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|6|103.166.10.211|3125|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|190.61.90.116|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|11|5.189.131.235|3128|France|Lauterbourg|Contabo GmbH|
-|12|103.191.196.34|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|13|103.189.249.138|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.228.240.134|3125|Indonesia|Jakarta|SpaceX Starlink|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|120.28.168.116|8082|Philippines|Iloilo City|Globe Telecom|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.67.80.202|3125|Indonesia|Jakarta|PT Komunikasi Profesional Indonesia|
+|3|103.203.232.69|1080|Indonesia|Kedok|INDANA|
+|4|49.49.141.113|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
+|5|86.98.17.170|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|9|177.240.4.125|999|Mexico|Ciudad General Terán|Mega Cable, S.A. de C.V.|
+|10|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|11|122.2.79.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|5.189.131.235|3128|France|Lauterbourg|Contabo GmbH|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|72.10.160.171|9679|Canada|Montreal|GloboTech Communications|
+|18|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|19|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
