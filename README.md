@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
-|3|137.59.161.195|8282|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|4|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|5|103.153.96.147|8181|Indonesia|Serang|NITNET|
-|6|38.7.1.250|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|67.43.227.226|4157|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|21019|Canada|Montreal|GloboTech Communications|
-|15|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
-|16|67.43.228.250|26041|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|4157|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|27125|Canada|Montreal|GloboTech Communications|
-|19|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.160.91|28609|Canada|Montreal|GloboTech Communications|
+|1|203.150.113.244|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|186.96.69.136|999|Venezuela|Caracas|Gold Data USA Inc|
+|7|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|8|181.39.12.225|999|Ecuador|Guayaquil|Telconet S.A|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|103.165.151.86|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|18|103.144.79.27|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|19|67.43.236.18|27125|Canada|Montreal|GloboTech Communications|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
