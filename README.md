@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|103.85.159.174|8888|Bangladesh|Paltan|EarthTelecommunication|
-|9|103.178.23.6|8080|Indonesia|Salatiga|Universitas Kristen Satya Wacana|
-|10|72.10.160.170|9689|Canada|Montreal|GloboTech Communications|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.171|24669|Canada|Montreal|GloboTech Communications|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.154.77.227|89|Indonesia|Sleman|T2NET|
+|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|116.108.1.126|10042|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|134.17.38.166|28080|Belarus|Valer’yanovo|Mobile TeleSystems JLLC|
+|14|67.43.236.18|27243|Canada|Montreal|GloboTech Communications|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|116.108.1.126|10042|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |17|67.43.227.227|15595|Canada|Montreal|GloboTech Communications|
-|18|134.17.38.166|28080|Belarus|Valer’yanovo|Mobile TeleSystems JLLC|
-|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|72.10.160.170|9689|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|25925|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|67.43.236.18|27243|Canada|Montreal|GloboTech Communications|
 
 
 
