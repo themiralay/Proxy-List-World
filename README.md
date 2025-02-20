@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.79.135|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|4|116.108.1.126|10045|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|7|67.43.228.250|13755|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|30419|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|19609|Canada|Montreal|GloboTech Communications|
-|10|103.181.255.143|3128|Indonesia|Tuban|PT Giga Digital Nusantara|
-|11|223.82.60.107|655|China|Guangzhou|China Mobile communications corporation|
-|12|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|67.43.228.250|13755|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|13755|Canada|Montreal|GloboTech Communications|
-|15|122.54.151.122|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|116.108.1.126|10045|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|20|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|171.6.79.135|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|45.236.107.122|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|12.131.14.114|3128|United States|Kenedy|AT&T Services, Inc.|
+|13|38.253.95.62|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|14|103.13.204.46|8090|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|15|190.122.88.144|8080|Argentina|Puerto Tirol|Servicios y Telecomunicaciones S.A|
+|16|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|186.123.85.127|9090|Argentina|San Miguel de Tucumán|Techtel LMDS Comunicaciones Interactivas S.A.|
+|19|103.243.82.26|100|Bangladesh|Cox's Bazar|Aamra Outsourcing Ltd.|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
