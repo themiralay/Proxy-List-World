@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|7|188.132.150.94|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|8|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
-|9|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
-|10|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|11|103.168.254.120|8080|Indonesia|Kudus|PT Fahasa Tri Data|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.164.178|1091|Canada|Montreal|GloboTech Communications|
-|18|121.224.156.178|8089|China|Nanjing|China Telecom|
-|19|121.227.109.27|8089|China|Nanjing|China Telecom|
-|20|67.43.227.226|21915|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|5|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|6|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
+|7|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|72.10.160.170|29901|Canada|Montreal|GloboTech Communications|
+|14|116.108.1.126|10043|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|201.47.88.19|3128|Brazil|Maringá|Vivo|
+|16|67.43.236.18|22913|Canada|Montreal|GloboTech Communications|
+|17|222.68.36.186|2324|China|Shanghai|China Telecom (Group)|
+|18|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|19|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|20|60.188.49.53|1999|China|Taizhou|Chinanet|
 
 
 
