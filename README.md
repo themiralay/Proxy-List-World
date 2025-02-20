@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4299** proxies at the latest update. Usable proxies are below.
+> Scraper found **4388** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|393|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2087|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|67.43.227.228|2143|Canada|Montreal|GloboTech Communications|
-|7|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
 |8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|103.106.219.204|8585|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|11|103.67.85.142|3127|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|12|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
-|13|207.230.8.68|999|Colombia|Bogotá|Cogent Communications|
-|14|60.54.8.222|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|17|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
-|18|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
-|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|20|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|67.43.227.228|2143|Canada|Montreal|GloboTech Communications|
+|14|201.151.53.211|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|67.43.236.22|26913|Canada|Montreal|GloboTech Communications|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
