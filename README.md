@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|14.247.183.63|8080|Vietnam|Hanoi|VNPT|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|103.242.105.188|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.158.121.74|1080|Indonesia|Indramayu|CDN|
-|9|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|10|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|11|203.111.253.134|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|12|103.171.83.199|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
-|13|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc|
-|14|188.132.222.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|16|38.9.48.163|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
+|9|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|17|103.158.121.74|1080|Indonesia|Indramayu|CDN|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|106.115.87.35|9100|China|Handan|Chinanet|
 
 
 
