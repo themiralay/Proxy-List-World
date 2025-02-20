@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4684** proxies at the latest update. Usable proxies are below.
+> Scraper found **4519** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|331|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2592|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|3|103.133.26.119|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|178.212.48.80|8080|Poland|Gmina Świebodzin|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|177.93.59.246|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|10|36.94.82.107|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.163.103.238|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
-|14|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|17|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|67.43.228.250|12909|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|72.10.160.170|1475|Canada|Montreal|GloboTech Communications|
+|1|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.59.213.29|8080|India|Thāne|India Gaming Center|
+|3|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|4|121.227.178.105|8089|China|Nanjing|China Telecom|
+|5|134.236.100.61|8080|Thailand|Pattaya|CAT-BB|
+|6|121.227.109.29|8089|China|Nanjing|China Telecom|
+|7|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|8|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|114.223.54.35|8089|China|Wuxi|Chinanet|
+|10|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|177.93.59.246|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|72.10.160.90|33069|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|19755|Canada|Montreal|GloboTech Communications|
+|17|38.253.95.62|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|18|49.146.240.69|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|19|67.43.227.228|12227|Canada|Montreal|GloboTech Communications|
+|20|116.108.1.126|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
