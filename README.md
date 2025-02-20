@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|125.25.150.39|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|5|192.135.91.19|3128|Pakistan|Karachi|Fiberlink Pvt.Ltd|
-|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|7|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|9|72.10.160.90|8433|Canada|Montreal|GloboTech Communications|
-|10|43.224.116.125|8080|Bangladesh|Kāfrul|Next Online Limited|
-|11|67.43.236.21|17941|Canada|Montreal|GloboTech Communications|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|72.10.160.170|14743|Canada|Montreal|GloboTech Communications|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|117.90.238.203|8089|China|Zhenjiang|Chinanet|
-|16|168.220.86.232|10080|United States|Chicago|Fly.io, Inc.|
-|17|72.10.160.171|30487|Canada|Montreal|GloboTech Communications|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.228.250|9761|Canada|Montreal|GloboTech Communications|
+|4|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|192.135.91.19|3128|Pakistan|Karachi|Fiberlink Pvt.Ltd|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
+|14|38.199.30.195|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|15|157.15.67.43|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|16|171.224.81.193|10008|Vietnam|Hanoi|Viettel Corporation|
+|17|103.165.222.188|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|116.108.1.126|10027|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
