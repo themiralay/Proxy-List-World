@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|6|102.66.221.38|8080|South Africa|Stellenbosch|HERO TELECOMS (PTY) LTD|
-|7|184.82.46.123|8080|Thailand|Khon Kaen|AIS-Fibre|
-|8|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|9|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|106.115.87.35|9100|China|Handan|Chinanet|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|15|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|72.10.160.171|29737|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|19885|Canada|Montreal|GloboTech Communications|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|13|103.55.224.122|8080|Indonesia|Karawang|PT Gapura Era Digital|
+|14|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|15|102.222.173.65|8080|Botswana|Gaborone|Donya Digital (Pty) Ltd|
+|16|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|17|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|106.115.87.35|9100|China|Handan|Chinanet|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
