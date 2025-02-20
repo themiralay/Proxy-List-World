@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|174.138.118.57|3128|United States|Clifton|DigitalOcean, LLC|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|12|103.149.177.204|3128|Indonesia|Cawang|PT Herza Digital Indonesia|
-|13|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
-|14|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|102.164.252.150|8080|Equatorial Guinea|Bata|Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|194.124.36.248|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|67.43.227.228|2143|Canada|Montreal|GloboTech Communications|
+|7|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|103.106.219.204|8585|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|11|103.67.85.142|3127|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|12|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|13|207.230.8.68|999|Colombia|Bogotá|Cogent Communications|
+|14|60.54.8.222|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
+|18|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|20|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
 
 
 
