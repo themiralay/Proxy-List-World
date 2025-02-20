@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|171.6.79.135|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
-|4|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|111.75.190.5|655|China|Taohua|Chinanet|
-|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
-|10|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|11|103.82.246.49|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|12|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
-|13|72.10.160.170|32891|Canada|Montreal|GloboTech Communications|
-|14|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|15|106.115.87.35|9100|China|Handan|Chinanet|
-|16|190.52.100.195|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|67.43.228.251|25523|Canada|Montreal|GloboTech Communications|
-|18|45.58.147.27|3128|The Netherlands|Amsterdam|Sharktech|
-|19|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|72.10.160.90|19109|Canada|Montreal|GloboTech Communications|
+|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|12.131.14.114|3128|United States|Kenedy|AT&T Services, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|103.86.117.13|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|12|103.81.221.151|8080|Indonesia|Bandung|STARNET|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|1.52.203.6|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|19|111.75.190.5|655|China|Taohua|Chinanet|
+|20|200.71.111.26|999|Mexico|Xicotepec de Juárez|Digy Networks S.A De C.V.|
 
 
 
