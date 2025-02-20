@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|5|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|6|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|11|67.43.236.18|8253|Canada|Montreal|GloboTech Communications|
-|12|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|13|72.10.164.178|20919|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|8253|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|3413|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.22|7745|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|8253|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|7707|Canada|Montreal|GloboTech Communications|
-|19|150.107.192.65|8080|India|Chennai|World Phone-LCO Operation|
-|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.156.16.243|8080|Indonesia|Jatibarang|RSTNET|
+|7|157.100.114.131|999|Ecuador|Guayaquil|Telconet S.A|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|14|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|15|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|106.115.87.35|9100|China|Handan|Chinanet|
+|18|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|67.43.236.18|22627|Canada|Montreal|GloboTech Communications|
 
 
 
