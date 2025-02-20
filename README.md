@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3895** proxies at the latest update. Usable proxies are below.
+> Scraper found **4194** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|531|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|296|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|299|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2138|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|3|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|4|77.93.143.38|3096|United States|Ashburn|Tier.Net Technologies LLC|
-|5|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|67.43.227.226|27109|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|16757|Canada|Montreal|GloboTech Communications|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.160.91|25491|Canada|Montreal|GloboTech Communications|
-|11|110.188.37.60|2324|China|Muping|Chinanet|
-|12|67.43.228.252|5513|Canada|Montreal|GloboTech Communications|
-|13|121.227.109.32|8089|China|Nanjing|China Telecom|
-|14|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|15|121.224.156.131|8089|China|Nanjing|China Telecom|
-|16|72.10.164.178|27771|Canada|Montreal|GloboTech Communications|
-|17|117.90.238.192|8089|China|Zhenjiang|Chinanet|
-|18|85.170.0.7|8080|France|Montigny-le-Bretonneux|Societe Francaise Du Radiotelephone - SFR SA|
-|19|72.10.160.91|25491|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|16687|Canada|Montreal|GloboTech Communications|
+|1|103.125.16.103|8080|Indonesia|Tangerang|JAVAMEDIA|
+|2|182.52.205.195|8080|Thailand|Phuket|TOT Public Company Limited|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|5|86.98.21.7|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|72.10.160.172|15121|Canada|Montreal|GloboTech Communications|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|72.10.164.178|21837|Canada|Montreal|GloboTech Communications|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|116.108.1.126|10038|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|103.56.206.48|1691|Indonesia|Sukabumi|Argon Data Communication|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|103.143.168.25|83|India|Hyderabad|Aspt Networks Pvt Ltd|
 
 
 
