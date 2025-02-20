@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|4|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|5|65.1.244.232|80|India|Mumbai|Amazon.com|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|67.43.227.226|3175|Canada|Montreal|GloboTech Communications|
-|11|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|72.10.164.178|22411|Canada|Montreal|GloboTech Communications|
+|3|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|4|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|72.10.164.178|22411|Canada|Montreal|GloboTech Communications|
+|8|180.97.220.151|11080|China|Nanjing|Chinanet|
+|9|118.99.123.232|8888|Indonesia|Malang|BIZNET|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|16|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|17|103.110.10.162|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|18|72.10.164.178|22411|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|72.10.160.172|31785|Canada|Montreal|GloboTech Communications|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|67.43.228.250|20379|Canada|Montreal|GloboTech Communications|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|20|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
 
 
 
