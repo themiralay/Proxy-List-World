@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|67.43.227.226|9151|Canada|Montreal|GloboTech Communications|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|72.10.160.91|29871|Canada|Montreal|GloboTech Communications|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|67.43.236.18|10731|Canada|Montreal|GloboTech Communications|
-|10|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
-|11|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|12|67.43.236.18|10731|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|188.125.169.144|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|116.108.1.126|10027|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|67.43.227.226|9151|Canada|Montreal|GloboTech Communications|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|72.10.160.91|29871|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|25219|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|67.43.236.18|25219|Canada|Montreal|GloboTech Communications|
+|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|18|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|45.92.38.211|8080|Sweden|Stockholm|LogicForge Limited|
+|20|209.146.18.230|8082|Philippines|Manila|Cogent Communications|
 
 
 
