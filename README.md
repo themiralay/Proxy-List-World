@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|103.171.255.59|8080|Indonesia|Sleman|ZKI|
-|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|157.20.233.210|8080|Indonesia|Mranggen|PT Applewifi Selalu Lancar|
-|11|121.224.156.189|8089|China|Nanjing|China Telecom|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|49.146.63.77|8080|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|139.159.97.82|10900|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|125.26.211.159|8080|Thailand|Hua Hin|TOT Public Company Limited|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.228.253|26497|Canada|Montreal|GloboTech Communications|
-|20|111.75.189.3|655|China|Taohua|Chinanet|
+|2|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|3|157.230.31.202|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|112.209.51.118|8082|Philippines|Cadiz|Philippine Long Distance Telephone Co.|
+|5|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
+|12|38.156.72.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|38.158.202.121|999|Mexico|Aguascalientes|Universidad Autonoma Del Estado De Morelos|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|170.205.31.126|3128|United States|Los Angeles|Advin Services LLC|
+|20|89.163.242.72|8118|Germany|Frankfurt am Main|WIIT AG|
 
 
 
