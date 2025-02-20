@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3830** proxies at the latest update. Usable proxies are below.
+> Scraper found **3789** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|538|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|497|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|228|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2138|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.68.214.130|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|2|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|5|109.165.177.125|8082|Bosnia and Herzegovina|Bosanski Brod|TEOL-ADSL|
-|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|7|67.43.227.226|23065|Canada|Montreal|GloboTech Communications|
-|8|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|9|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|12|180.254.144.176|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
-|13|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|14|171.6.207.170|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|177.136.125.202|9999|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|18|96.30.192.185|8888|United States|Atlanta|Choopa|
-|19|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|20|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
+|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|27.112.67.1|8181|Indonesia|Jakarta|GRAHANET|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|125.25.34.225|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|9|67.43.236.19|3971|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.18|30707|Canada|Montreal|GloboTech Communications|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|67.43.227.227|13701|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|13701|Canada|Montreal|GloboTech Communications|
+|14|102.0.15.216|3346|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|15|96.30.192.185|8888|United States|Atlanta|Choopa|
+|16|115.127.139.90|58080|Bangladesh|Dhaka|BRACNet Limited|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|20|103.133.61.230|8080|Indonesia|Pringsewu|TLINK|
 
 
 
