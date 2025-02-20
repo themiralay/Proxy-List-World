@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|4|1.20.250.241|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
-|5|103.189.116.133|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|9|1.55.135.209|8080|Vietnam|Hanoi|FPT Telecom Company|
-|10|103.110.10.162|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
-|13|175.29.199.6|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|14|67.43.236.18|7741|Canada|Montreal|GloboTech Communications|
-|15|114.80.36.63|3081|China|Shanghai|China Telecom (Group)|
-|16|101.255.140.34|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.125.18.40|8080|Indonesia|Tangerang|JAVAMEDIA|
+|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|19|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
