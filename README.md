@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|14.247.183.63|8080|Vietnam|Hanoi|VNPT|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|12|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|14.247.183.63|8080|Vietnam|Hanoi|VNPT|
+|4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|202.162.213.180|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|11|103.158.121.74|1080|Indonesia|Indramayu|CDN|
+|12|203.111.253.134|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
 |13|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|203.111.253.134|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|200.24.132.86|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|188.132.150.70|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
