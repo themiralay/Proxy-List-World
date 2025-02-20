@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|4|20.237.22.7|3128|United States|Boydton|Microsoft Corporation|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|3|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
 |5|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|8|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|9|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|6|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|121.224.156.189|8089|China|Nanjing|China Telecom|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|20|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|116.108.1.126|10032|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|116.108.1.126|10032|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|18|72.10.160.172|27211|Canada|Montreal|GloboTech Communications|
+|19|45.123.142.10|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|20|203.170.66.154|8080|Pakistan|Lahore|Netsol CONNECT LHE Core|
 
 
 
