@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|3|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|4|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|5|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|8|67.43.236.18|10365|Canada|Montreal|GloboTech Communications|
-|9|103.214.103.18|8083|Indonesia|Batam|SMARTPLUS|
-|10|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|11|36.93.140.71|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|12|72.10.164.178|26473|Canada|Montreal|GloboTech Communications|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|59.63.205.36|655|China|Taohua|Chinanet|
-|16|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|17|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|18|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|19|111.72.196.54|2324|China|Taohua|Chinanet|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|2|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|3|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|4|103.78.1.117|39114|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|8|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|10|119.2.45.102|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|11|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|12|111.72.196.54|2324|China|Taohua|Chinanet|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|38.43.123.131|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
+|17|111.75.189.3|655|China|Taohua|Chinanet|
+|18|168.197.182.138|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|19|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|67.43.227.226|29791|Canada|Montreal|GloboTech Communications|
 
 
 
