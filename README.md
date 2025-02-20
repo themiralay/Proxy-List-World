@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|14.39.239.79|64312|South Korea|Eunpyeong-gu|Korea Telecom|
-|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|118.113.244.234|2324|China|Shanghai|Chinanet|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|12|103.181.255.137|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|13|67.43.228.251|25209|Canada|Montreal|GloboTech Communications|
-|14|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|72.10.164.178|23589|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|38.194.254.198|3128|Mexico|Zapopan|Ientc S De RL De CV|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|159.89.239.166|18091|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.236.18|23479|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|5|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
+|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|11|179.43.3.5|8080|Colombia|Medellín|Planet Telecom Colombia S.A.S|
+|12|103.217.216.126|63123|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|217.119.115.132|8080|Slovakia|Levice|ENERGOTEL a.s.|
+|15|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|16|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
+|19|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|20|189.124.85.77|33333|Brazil|Presidente Prudente|America-NET Ltda.|
 
 
 
