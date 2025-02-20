@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.247.15.97|231|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|202.145.10.251|8080|Indonesia|Bogor|PT UniNET Media Sakti|
-|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|18|103.155.198.161|8037|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|19|72.10.160.170|17129|Canada|Montreal|GloboTech Communications|
-|20|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|14|72.10.160.170|8773|Canada|Montreal|GloboTech Communications|
+|15|103.138.185.1|83|India|Chittorgarh|Mahrth Internet Service Private Limited|
+|16|171.240.145.46|5104|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
