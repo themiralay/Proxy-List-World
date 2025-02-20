@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
 |2|49.49.9.91|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 |3|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|67.43.236.21|28951|Canada|Montreal|GloboTech Communications|
-|6|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|7|209.14.118.129|999|Colombia|Quinchía|AGIS|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|171.4.191.52|8080|Thailand|Chanthaburi|Triple T Broadband Public Company Limited|
-|10|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|9|103.155.65.71|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|10|49.70.190.251|2324|China|Zhenjiang|Chinanet|
 |11|72.10.160.91|29217|Canada|Montreal|GloboTech Communications|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|14|180.105.244.238|1080|China|Nanjing|Chinanet|
-|15|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|16|121.227.109.27|8089|China|Nanjing|China Telecom|
-|17|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
-|18|67.43.236.18|19665|Canada|Montreal|GloboTech Communications|
-|19|182.253.195.178|8080|Indonesia|Palembang|BIZNET|
-|20|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|12|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|72.10.160.90|4069|Canada|Montreal|GloboTech Communications|
+|16|160.19.17.33|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
+|17|67.43.236.18|19665|Canada|Montreal|GloboTech Communications|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|120.133.37.235|1080|China|Chaowai|IDC, China Telecommunications Corporation|
+|20|181.209.72.174|999|Argentina|Pirané|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
