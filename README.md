@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|67.43.228.251|3517|Canada|Montreal|GloboTech Communications|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|9|72.10.164.178|30361|Canada|Montreal|GloboTech Communications|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.163.103.238|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
-|12|27.189.129.40|8089|China|Langfang|Chinanet|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|72.10.160.170|32707|Canada|Montreal|GloboTech Communications|
-|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|67.43.236.18|31389|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|25237|Canada|Montreal|GloboTech Communications|
-|18|118.113.245.207|2324|China|Shanghai|Chinanet|
-|19|72.10.160.92|6033|Canada|Montreal|GloboTech Communications|
-|20|27.189.133.48|8089|China|Langfang|Chinanet|
+|4|122.54.151.122|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|8|124.121.92.209|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|15|72.10.164.178|21747|Canada|Montreal|GloboTech Communications|
+|16|60.188.49.53|1999|China|Taizhou|Chinanet|
+|17|67.43.228.251|3517|Canada|Montreal|GloboTech Communications|
+|18|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|19|72.10.160.91|2255|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|4399|Canada|Montreal|GloboTech Communications|
 
 
 
