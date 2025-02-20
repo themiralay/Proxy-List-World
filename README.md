@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|208.72.109.49|16088|United States|Noblesville|On-Ramp Indiana, Inc.|
-|6|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|38.159.223.18|999|Dominican Republic|Cristo Rey|REYNOSO, S.R.L.|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|113.192.30.217|8081|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|9|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|208.72.109.49|16088|United States|Noblesville|On-Ramp Indiana, Inc.|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|67.43.227.226|21181|Canada|Montreal|GloboTech Communications|
 |14|171.224.81.193|11590|Vietnam|Hanoi|Viettel Corporation|
-|15|116.108.1.126|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|67.43.228.250|2083|Canada|Montreal|GloboTech Communications|
-|17|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|18|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|72.10.160.91|10117|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|21993|Canada|Montreal|GloboTech Communications|
+|15|149.86.203.217|8080|Italy|Riccione|Sirius Technology SRL|
+|16|113.192.48.25|8181|Indonesia|Batu|PT.Global Media Data Prima|
+|17|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|38.172.154.165|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|179.1.128.57|999|Colombia|Algeciras|InterNexa Global Network|
 
 
 
