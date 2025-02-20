@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|2|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|5|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|1.52.203.6|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|38.52.135.65|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|7|177.93.46.139|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|38.172.130.209|999|Peru|Lima|Conex TV E.I.R.L.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|60.188.49.53|1999|China|Taizhou|Chinanet|
-|12|72.10.160.170|28303|Canada|Montreal|GloboTech Communications|
-|13|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|14|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|15|72.10.160.90|5717|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|20381|Canada|Montreal|GloboTech Communications|
-|17|27.189.128.129|8089|China|Langfang|Chinanet|
-|18|72.10.160.170|28303|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|28303|Canada|Montreal|GloboTech Communications|
-|20|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|72.10.160.170|32053|Canada|Montreal|GloboTech Communications|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|15|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|16|38.172.130.222|999|Peru|Lima|Conex TV E.I.R.L.|
+|17|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|18|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
