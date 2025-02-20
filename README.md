@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|67.43.227.227|5279|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|13041|Canada|Montreal|GloboTech Communications|
-|10|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|11|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|13|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|16|118.113.246.242|2324|China|Shanghai|Chinanet|
-|17|67.43.227.226|24909|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|26815|Canada|Montreal|GloboTech Communications|
-|19|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
-|20|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|117.68.110.16|9443|China|Hefei|China Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
+|14|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|15|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|67.43.228.253|12305|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.164.178|20383|Canada|Montreal|GloboTech Communications|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
