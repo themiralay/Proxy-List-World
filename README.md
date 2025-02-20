@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4350** proxies at the latest update. Usable proxies are below.
+> Scraper found **4315** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|597|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|368|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2159|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2124|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|5|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|6|49.49.9.91|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|8|103.133.26.119|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.138.185.1|83|India|Chittorgarh|Mahrth Internet Service Private Limited|
-|12|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|67.43.228.250|27555|Canada|Montreal|GloboTech Communications|
+|11|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|12|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
 |13|67.43.228.250|27555|Canada|Montreal|GloboTech Communications|
-|14|103.155.65.65|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|15|106.225.164.39|655|China|Beijing|China Telecom|
-|16|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
-|19|72.10.160.170|19429|Canada|Montreal|GloboTech Communications|
-|20|134.35.146.246|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|14.29.116.148|727|China|Guangzhou|Chinanet|
+|15|134.35.146.246|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|18|67.43.236.18|20275|Canada|Montreal|GloboTech Communications|
+|19|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|203.142.71.52|8080|Indonesia|Jakarta|BIZNET|
 
 
 
