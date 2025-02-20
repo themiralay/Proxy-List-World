@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.49.9.91|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|2|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|203.150.128.161|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|5.129.18.247|8080|Russia|Novosibirsk|Novotelecom Ltd.|
-|8|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|103.145.68.200|8181|Indonesia|Surabaya|ALFANET|
-|11|137.59.12.212|8080|Indonesia|Labansari|CROSSNET|
-|12|157.66.16.33|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|18|72.10.164.178|14689|Canada|Montreal|GloboTech Communications|
-|19|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
-|20|156.244.32.223|3128|Colombia|Bogotá|Kaopu Cloud HK Limited|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|49.49.9.91|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|38.51.79.112|1987|Argentina|Rosario|Teledifusora S.A.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|38.9.142.146|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|16|204.199.72.162|999|Colombia|Bogotá|CTL Colombia|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|72.10.160.170|29499|Canada|Montreal|GloboTech Communications|
+|20|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
 
 
 
