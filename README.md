@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|27.112.67.1|8181|Indonesia|Jakarta|GRAHANET|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|125.25.34.225|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|9|67.43.236.19|3971|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|30707|Canada|Montreal|GloboTech Communications|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|67.43.227.227|13701|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|13701|Canada|Montreal|GloboTech Communications|
-|14|102.0.15.216|3346|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|96.30.192.185|8888|United States|Atlanta|Choopa|
-|16|115.127.139.90|58080|Bangladesh|Dhaka|BRACNet Limited|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|20|103.133.61.230|8080|Indonesia|Pringsewu|TLINK|
+|1|86.98.21.7|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|3|124.158.146.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|4|86.98.21.7|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
+|6|103.19.79.255|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|49.49.208.152|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|96.30.192.185|8888|United States|Atlanta|Choopa|
+|13|1.4.250.240|8080|Thailand|Laem Ngop|TOT Public Company Limited|
+|14|176.208.101.50|8080|Russia|Taman'|PJSC Rostelecom|
+|15|144.48.162.117|8080|Bangladesh|Dhaka|Cue Club Technology|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|177.72.156.75|8080|Brazil|Santa Isabel do Ivaí|Torres e Anselmi Ltda|
+|18|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|185.133.36.116|65432|The Netherlands|Halfweg|EK-Media B.V.|
 
 
 
