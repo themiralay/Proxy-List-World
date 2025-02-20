@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|103.101.216.38|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
 |4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|10|89.163.242.72|8118|Germany|Frankfurt am Main|WIIT AG|
-|11|67.43.228.250|25455|Canada|Montreal|GloboTech Communications|
-|12|103.122.142.174|8080|Bangladesh|Lālmohan|Carnival Internet|
-|13|27.189.134.177|8089|China|Langfang|Chinanet|
-|14|27.189.129.18|8089|China|Langfang|Chinanet|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|72.10.160.91|20911|Canada|Montreal|GloboTech Communications|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|27.189.135.190|8089|China|Langfang|Chinanet|
-|19|72.10.160.90|29423|Canada|Montreal|GloboTech Communications|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|195.133.217.61|3128|Russia|Moscow|JSC Mastertel|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|173.212.244.38|3128|France|Lauterbourg|Contabo GmbH|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|178.73.192.17|8118|Sweden|Staffanstorp|Portlane Network|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
