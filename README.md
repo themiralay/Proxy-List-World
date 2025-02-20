@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|5|121.227.109.50|8089|China|Nanjing|China Telecom|
-|6|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|7|117.84.72.237|8089|China|Nanjing|Chinanet|
-|8|121.227.109.44|8089|China|Nanjing|China Telecom|
-|9|67.43.228.251|24847|Canada|Montreal|GloboTech Communications|
-|10|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|11|118.113.244.234|2324|China|Shanghai|Chinanet|
-|12|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|15|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|16|103.159.78.227|8080|Pakistan|Lahore|Call 2 Phone Private Limited|
-|17|67.43.228.250|6453|Canada|Montreal|GloboTech Communications|
-|18|121.227.109.54|8089|China|Nanjing|China Telecom|
-|19|27.189.133.129|8089|China|Langfang|Chinanet|
-|20|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|7|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|103.247.21.117|1111|Indonesia|Bekasi|PT wifian Solution|
+|12|118.113.244.234|2324|China|Shanghai|Chinanet|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|15|103.155.65.71|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|16|157.66.16.33|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|18|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|157.66.37.28|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|20|72.10.164.178|29951|Canada|Montreal|GloboTech Communications|
 
 
 
