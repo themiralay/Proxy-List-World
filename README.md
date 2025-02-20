@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|103.157.79.46|8080|Indonesia|Jakarta|EASTMEDIA|
-|5|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|6|190.119.90.114|8080|Peru|Lima|America Movil Peru S.A.C.|
-|7|149.34.210.60|9090|Turkey|Gebze|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|38.194.236.185|3128|Mexico|Tlacolula de Matamoros|Ientc S De RL De CV|
-|12|103.153.62.244|8181|Indonesia|Weleri|IMEDIANET|
-|13|223.204.52.252|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
-|16|116.108.1.126|10062|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|18|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.184.180.21|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|67.43.228.250|1233|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|1233|Canada|Montreal|GloboTech Communications|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|67.43.228.251|3117|Canada|Montreal|GloboTech Communications|
+|14|41.65.67.167|1976|Egypt|Awsīm|Enterprise|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|67.43.227.230|16791|Canada|Montreal|GloboTech Communications|
+|18|121.224.156.175|8089|China|Nanjing|China Telecom|
+|19|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.27.111.156|1080|Hong Kong|Kwai Chung|Hong Kong San Ai Net Int'l Limited|
 
 
 
