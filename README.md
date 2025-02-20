@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|5|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
-|6|180.251.252.125|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|45.123.142.77|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|67.43.227.226|23065|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|12241|Canada|Montreal|GloboTech Communications|
-|12|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|72.10.160.91|12241|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|67.43.236.18|14601|Canada|Montreal|GloboTech Communications|
-|17|177.93.59.228|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|18|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|19|125.25.10.17|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|157.66.51.80|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|1|103.68.214.130|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|2|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|5|109.165.177.125|8082|Bosnia and Herzegovina|Bosanski Brod|TEOL-ADSL|
+|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|7|67.43.227.226|23065|Canada|Montreal|GloboTech Communications|
+|8|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|9|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|12|180.254.144.176|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
+|13|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|14|171.6.207.170|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|177.136.125.202|9999|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|18|96.30.192.185|8888|United States|Atlanta|Choopa|
+|19|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
+|20|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
 
 
 
