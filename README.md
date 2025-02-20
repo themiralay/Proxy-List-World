@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|67.43.228.251|22187|Canada|Montreal|GloboTech Communications|
-|11|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
-|12|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|121.224.156.150|8089|China|Nanjing|China Telecom|
-|14|185.255.89.169|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|18|103.153.96.147|8181|Indonesia|Serang|NITNET|
-|19|78.130.246.65|1881|Bulgaria|Plovdiv|"Cooolbox" AD|
-|20|222.215.137.18|3218|China|Deyang|Chinanet|
+|2|119.47.91.123|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|159.89.239.166|18091|United States|North Bergen|DigitalOcean, LLC|
+|16|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|17|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|18|103.164.223.51|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
