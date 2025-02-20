@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|4|5.202.29.95|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|5|45.159.250.127|8118|Kazakhstan|Almaty|Stark Industries Solutions LTD|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|72.10.160.170|32707|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|12|103.167.170.199|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|188.125.169.144|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|67.43.236.20|1531|Canada|Montreal|GloboTech Communications|
-|19|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|20|116.108.1.126|10036|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|7|8.215.108.194|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|12|72.10.160.170|31827|Canada|Montreal|GloboTech Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|222.215.137.18|3218|China|Deyang|Chinanet|
 
 
 
