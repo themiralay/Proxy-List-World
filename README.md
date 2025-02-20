@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|125.25.150.39|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|125.25.150.39|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|7|116.108.1.126|10019|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|7|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|8|72.10.160.173|21707|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.174|31227|Canada|Montreal|GloboTech Communications|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|17|72.10.164.178|33223|Canada|Montreal|GloboTech Communications|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|49.146.63.77|8080|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|20|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|67.43.236.18|4059|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|1237|Canada|Montreal|GloboTech Communications|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|72.10.164.178|1979|Canada|Montreal|GloboTech Communications|
 
 
 
