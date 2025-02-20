@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|2|171.7.123.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|4|182.53.65.88|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|7|38.156.75.141|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|10|106.115.87.35|9100|China|Handan|Chinanet|
-|11|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|67.43.227.226|25769|Canada|Montreal|GloboTech Communications|
-|14|221.225.67.249|8089|China|Suzhou|CHINANET jiangsu province network|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|72.10.160.91|14053|Canada|Montreal|GloboTech Communications|
-|17|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|49.49.190.182|8080|Thailand|Chai Badan|Triple T Broadband Public Company Limited|
-|19|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|20|103.255.243.9|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|1|86.98.21.7|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|103.147.134.157|8090|Indonesia|Wakduwa’ Barat|PT.MURNI MAKMUR ABADI|
+|3|180.254.152.174|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
+|4|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|5|101.108.120.27|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|150.107.244.126|8080|Indonesia|Bogor|Infrastruktur STARNET|
+|7|103.247.21.44|1111|Indonesia|Bekasi|PT wifian Solution|
+|8|103.54.218.77|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|11|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
+|12|62.171.152.14|8080|France|Lauterbourg|Contabo GmbH|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|119.82.254.164|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|19|38.172.130.222|999|Peru|Lima|Conex TV E.I.R.L.|
+|20|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
