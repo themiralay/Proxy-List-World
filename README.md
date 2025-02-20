@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4157** proxies at the latest update. Usable proxies are below.
+> Scraper found **3839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|297|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2118|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|2|80.78.21.67|8118|Sweden|Malmo|ab stract|
-|3|103.54.218.77|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|1|117.20.57.8|3128|Indonesia|Yogyakarta|CITRA|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|129.154.227.14|3128|India|Mumbai|Oracle Corporation|
 |4|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
-|5|38.172.130.222|999|Peru|Lima|Conex TV E.I.R.L.|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|223.204.125.30|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|38.41.5.187|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|13|171.6.200.116|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|72.10.160.91|30323|Canada|Montreal|GloboTech Communications|
-|15|116.108.1.126|10063|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|72.10.164.178|12965|Canada|Montreal|GloboTech Communications|
-|17|201.73.228.20|3128|Brazil|Belo Horizonte|Claro S.A|
-|18|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|19|67.43.228.251|33081|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|31011|Canada|Montreal|GloboTech Communications|
+|5|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|6|157.66.51.80|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|7|171.7.111.240|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|9|186.225.233.137|8080|Brazil|Tijucas|Unetvale Servicos e Equipamentos LTDA|
+|10|109.62.183.217|8080|Russia|Stroitel|PJSC Rostelecom|
+|11|116.108.1.126|10024|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|80.78.21.67|8118|Sweden|Malmo|ab stract|
+|13|14.39.239.79|52495|South Korea|Eunpyeong-gu|Korea Telecom|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|17|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|118.113.245.108|2324|China|Shanghai|Chinanet|
+|19|223.205.101.98|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|20|38.172.130.222|999|Peru|Lima|Conex TV E.I.R.L.|
 
 
 
