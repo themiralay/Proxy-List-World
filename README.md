@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.106.79.236|7979|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|124.158.146.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|5|207.248.0.177|999|Chile|Requínoa|Grupo Metrowan Telecom SPA|
-|6|109.165.193.92|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|38.156.15.160|999|Mexico|Teocaltiche|Wistarip S De RL De CV|
-|10|190.85.34.139|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|11|86.98.21.7|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|72.10.164.178|3433|Canada|Montreal|GloboTech Communications|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|98.97.148.19|7979|Argentina|Buenos Aires|SpaceX Starlink|
-|15|103.156.141.81|3127|Indonesia|Langsepan|PT Tekling Media Telematika|
-|16|38.66.207.1|999|Venezuela|Valencia|Wifi-prado C.A|
-|17|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|18|67.43.228.250|22723|Canada|Montreal|GloboTech Communications|
-|19|27.74.212.35|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|20|38.156.233.132|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|86.98.21.7|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|67.43.227.226|29067|Canada|Montreal|GloboTech Communications|
+|11|171.4.91.74|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|45.123.142.77|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.191.254.2|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|16|61.5.22.37|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|17|67.43.227.226|29067|Canada|Montreal|GloboTech Communications|
+|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|77.243.15.83|3246|Russia|Kursk|Sovtest-Internet|
+|20|103.137.179.180|8080|Philippines|Yapak|Paradise Cable Television Network|
 
 
 
