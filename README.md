@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.150.128.243|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|178.63.17.240|10095|Germany|Falkenstein|Hetzner Online GmbH|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|203.150.128.243|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|107.174.224.179|3128|United States|Dallas|HostPapa|
 |6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|9|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|13|58.147.190.90|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|14|72.10.160.170|9847|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|26467|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|12303|Canada|Montreal|GloboTech Communications|
-|17|117.68.110.16|9443|China|Hefei|China Telecom|
-|18|5.78.108.63|3128|United States|Hillsboro|Hetzner Online GmbH|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|8|72.10.160.91|9475|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.18|26467|Canada|Montreal|GloboTech Communications|
+|10|103.247.23.28|9223|Indonesia|Baturaden|PT wifian Solution|
+|11|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|17|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
+|18|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|67.43.236.18|26467|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|21791|Canada|Montreal|GloboTech Communications|
 
 
 
