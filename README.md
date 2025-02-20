@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|103.125.18.40|8080|Indonesia|Tangerang|JAVAMEDIA|
 |2|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|3|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|7|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|91.149.224.226|1080|Norway|Sandefjord|Gigahost|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.144.189.95|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|5|103.171.245.154|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|194.124.37.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
+|11|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|12|202.5.37.104|17382|Bangladesh|Chittagong|BBTS-NEW|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|19|67.43.227.229|7527|Canada|Montreal|GloboTech Communications|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
