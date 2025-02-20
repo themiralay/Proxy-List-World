@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|1.33.37.125|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|182.105.82.38|655|China|Taohua|Chinanet|
-|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|14|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|15|212.175.61.20|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|16|103.210.35.114|3001|Indonesia|Sleman|Diskominfo DIY|
-|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
-|20|116.206.242.110|3888|Indonesia|Jakarta|CBN|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|103.167.87.48|39045|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|119.157.83.34|8080|Pakistan|Faisalabad|Pakistan Telecommuication company limited|
+|9|200.106.165.81|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
+|10|103.166.178.221|8080|Indonesia|Sangkalputung|GSM|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|13|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|8.222.251.136|1055|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|18|103.180.118.107|7100|Indonesia|Setro|PT Persada Data Multimedia|
+|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
+|20|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
 
 
 
