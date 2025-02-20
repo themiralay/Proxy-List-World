@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|4|72.10.164.178|4603|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|12.131.14.114|3128|United States|Kenedy|AT&T Services, Inc.|
 |5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|72.10.160.170|31677|Canada|Montreal|GloboTech Communications|
-|8|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|9|45.174.79.65|999|Mexico|Delicias|Raul Duarte Urita|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|12|117.44.64.85|655|China|Taohua|Chinanet|
-|13|67.43.227.226|18299|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|29267|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|7997|Canada|Montreal|GloboTech Communications|
-|16|61.143.225.39|6868|China|Guangzhou|Chinanet|
-|17|72.10.160.170|31677|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|18299|Canada|Montreal|GloboTech Communications|
-|19|111.75.190.5|655|China|Taohua|Chinanet|
-|20|222.68.36.186|2324|China|Shanghai|China Telecom (Group)|
+|6|12.131.14.114|3128|United States|Kenedy|AT&T Services, Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|12|72.10.160.171|20439|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|31895|Canada|Montreal|GloboTech Communications|
+|14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|67.43.236.18|31895|Canada|Montreal|GloboTech Communications|
+|17|223.205.206.247|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|18|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
