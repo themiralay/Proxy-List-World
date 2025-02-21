@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
 |2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
-|5|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|6|171.7.111.240|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|67.43.228.254|11383|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.251|4763|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.229|10929|Canada|Montreal|GloboTech Communications|
-|10|58.147.190.90|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|11|116.254.96.43|3125|Indonesia|Jakarta|SpaceX Starlink|
-|12|72.10.160.94|31195|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|22579|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|27.189.132.196|8089|China|Langfang|Chinanet|
-|17|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|18|103.160.184.76|8080|Indonesia|Ponorogo|PT Trisari Data Indonusa|
-|19|91.196.92.32|8020|Ukraine|Odesa|ONE TELECOM|
-|20|67.43.228.253|19133|Canada|Montreal|GloboTech Communications|
+|3|72.10.160.94|31195|Canada|Montreal|GloboTech Communications|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|72.10.164.178|4031|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.170|31127|Canada|Montreal|GloboTech Communications|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|67.43.228.253|19133|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|31127|Canada|Montreal|GloboTech Communications|
+|11|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|12|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|13|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|16|72.10.160.90|24945|Canada|Montreal|GloboTech Communications|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|67.43.228.251|13023|Canada|Montreal|GloboTech Communications|
+|19|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|20|114.80.32.8|3081|China|Shanghai|China Telecom (Group)|
 
 
 
