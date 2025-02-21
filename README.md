@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|6|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|7|72.10.160.170|23389|Canada|Montreal|GloboTech Communications|
-|8|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|123.122.162.153|1081|China|Beijing|China Unicom Beijing Province Network|
-|10|72.10.164.178|14797|Canada|Montreal|GloboTech Communications|
-|11|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|116.108.1.126|10011|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|27.189.134.192|8089|China|Langfang|Chinanet|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.164.178|14797|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|23389|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|16873|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|23899|Canada|Montreal|GloboTech Communications|
+|1|188.166.114.54|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|72.10.160.170|31783|Canada|Montreal|GloboTech Communications|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|67.43.228.250|23231|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.174|16873|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|3667|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|14|115.72.173.63|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|223.25.100.234|8080|Indonesia|Prapen|SINERGINET|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|72.10.160.172|31783|Canada|Montreal|GloboTech Communications|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
 
 
 
