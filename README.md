@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|4|67.43.236.18|17899|Canada|Montreal|GloboTech Communications|
-|5|67.43.236.18|17899|Canada|Montreal|GloboTech Communications|
-|6|116.108.1.126|10032|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|157.66.50.0|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|67.43.227.229|11239|Canada|Montreal|GloboTech Communications|
-|11|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|12|67.43.228.250|14015|Canada|Montreal|GloboTech Communications|
-|13|117.68.110.16|9443|China|Hefei|China Telecom|
-|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|67.43.236.18|17899|Canada|Montreal|GloboTech Communications|
-|17|103.126.86.91|1204|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|18|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|19|27.124.75.2|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|67.43.236.18|9317|Canada|Montreal|GloboTech Communications|
+|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|72.10.160.171|11445|Canada|Montreal|GloboTech Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|72.10.160.90|2747|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|17469|Canada|Montreal|GloboTech Communications|
+|11|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|12|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
+|13|72.10.160.91|10817|Canada|Montreal|GloboTech Communications|
+|14|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|15|103.192.81.54|6363|Indonesia|Sintang|PT Antar Data Informatika|
+|16|72.10.160.90|2747|Canada|Montreal|GloboTech Communications|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|19|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
