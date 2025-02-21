@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|2|49.49.3.212|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|4|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|5|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|6|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
-|10|103.160.202.194|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
-|11|190.97.230.50|999|Venezuela|Caracas|Viginet C.A|
+|1|58.69.117.149|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|2|103.133.26.103|8082|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|3|180.180.80.158|8080|Thailand|Rayong|TOT Public Company Limited|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|9|14.56.86.66|3128|South Korea|Yangju|Korea Telecom|
+|10|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|119.95.236.252|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|13|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|15|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|16|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|125.24.63.49|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|13|196.29.192.226|8080|Angola|Luanda|MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L|
+|14|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
+|15|177.93.58.33|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|16|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|17|103.105.57.64|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|18|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|19|103.106.180.49|83|India|Amalāpuram|Inet Fiber India Private Limited|
+|20|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
