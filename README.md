@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|101.255.150.58|8089|Indonesia|Jakarta|PT Remala Abadi|
-|4|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|103.146.185.139|1111|Indonesia|Ponorogo|YAMNET|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.209.187.98|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
-|10|222.127.52.20|8082|Philippines|Lahug|INNOVE|
-|11|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
-|14|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|16|181.209.125.195|999|Argentina|Buenos Aires|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|186.192.78.7|8080|Brazil|Crateús|AtualNet Provedor de Internet Ltda|
-|20|88.99.214.87|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|103.247.14.25|9285|Indonesia|Klaten|TERABIT|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|7|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|8|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|9|103.171.255.59|8080|Indonesia|Sleman|ZKI|
+|10|103.155.169.201|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|11|114.80.32.8|3081|China|Shanghai|China Telecom (Group)|
+|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|13|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|38.172.131.228|999|Peru|Lima|Conex TV E.I.R.L.|
+|18|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|19|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|20|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
 
 
 
