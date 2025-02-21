@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|131.100.49.97|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
-|10|72.10.164.178|30293|Canada|Montreal|GloboTech Communications|
-|11|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|12|67.43.236.18|32225|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|13193|Canada|Montreal|GloboTech Communications|
-|14|118.113.246.46|2324|China|Shanghai|Chinanet|
-|15|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|67.43.236.18|32225|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|13193|Canada|Montreal|GloboTech Communications|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|101.255.140.34|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|122.3.55.18|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|8|103.161.195.27|1080|Indonesia|Wonosari|PT Java Media Grup|
+|9|90.174.128.42|3128|Spain|Madrid|Uni2|
+|10|103.144.18.91|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|11|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|12|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|49.70.190.115|2324|China|Zhenjiang|Chinanet|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|19|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|20|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
