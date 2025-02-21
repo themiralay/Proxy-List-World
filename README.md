@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|67.43.227.226|3387|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.170|20387|Canada|Montreal|GloboTech Communications|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|72.10.160.170|20387|Canada|Montreal|GloboTech Communications|
-|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|9|118.113.244.159|2324|China|Shanghai|Chinanet|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.160.170|20387|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|14639|Canada|Montreal|GloboTech Communications|
-|14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.171|13769|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|30343|Canada|Montreal|GloboTech Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|67.43.227.226|3387|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|7|116.108.1.126|10017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|67.43.227.230|27977|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|8405|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|20401|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|8405|Canada|Montreal|GloboTech Communications|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|14|67.43.236.18|14639|Canada|Montreal|GloboTech Communications|
+|15|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
