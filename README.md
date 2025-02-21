@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|180.112.182.214|8089|China|Nanjing|Chinanet|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|72.10.160.170|12265|Canada|Montreal|GloboTech Communications|
-|7|118.113.246.236|2324|China|Shanghai|Chinanet|
-|8|67.43.236.19|3505|Canada|Montreal|GloboTech Communications|
-|9|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|72.10.160.91|25751|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.22|11673|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|4095|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|5793|Canada|Montreal|GloboTech Communications|
-|14|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|67.43.227.226|4159|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.21|14719|Canada|Montreal|GloboTech Communications|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|114.225.152.212|8089|China|Changzhou|Chinanet|
-|20|67.43.227.228|5793|Canada|Montreal|GloboTech Communications|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
+|6|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|7|67.43.236.18|18701|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|6055|Canada|Montreal|GloboTech Communications|
+|9|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|10|67.43.236.19|3505|Canada|Montreal|GloboTech Communications|
+|11|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|12|118.113.246.236|2324|China|Shanghai|Chinanet|
+|13|201.150.119.171|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|67.43.236.20|24363|Canada|Montreal|GloboTech Communications|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
