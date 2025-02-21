@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|161.49.94.40|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|72.10.160.90|13033|Canada|Montreal|GloboTech Communications|
-|18|110.42.51.242|3128|China|Ningbo|China Telecom|
-|19|190.217.13.251|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|193.34.144.169|80|Germany|Munich|Contabo GmbH|
+|5|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
+|6|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|222.127.52.20|8082|Philippines|Lahug|INNOVE|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|160.19.178.42|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|12|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|72.10.164.178|20039|Canada|Montreal|GloboTech Communications|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
