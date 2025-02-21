@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|2|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|3|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|4|118.113.244.251|2324|China|Shanghai|Chinanet|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|72.10.160.170|5783|Canada|Montreal|GloboTech Communications|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.160.170|5783|Canada|Montreal|GloboTech Communications|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|13|67.43.227.226|32921|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|11443|Canada|Montreal|GloboTech Communications|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|72.10.160.91|10997|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|25855|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|13369|Canada|Montreal|GloboTech Communications|
+|1|203.150.128.8|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|9|81.90.149.186|3128|Iran|Tehran|Afranet|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|103.247.14.115|9285|Indonesia|Klaten|TERABIT|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|67.43.236.20|17987|Canada|Montreal|GloboTech Communications|
 |19|72.10.160.92|17323|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|27031|Canada|Montreal|GloboTech Communications|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
