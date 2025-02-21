@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.154.230.78|8080|Indonesia|Lamongan|DIGITNET|
-|4|128.140.61.200|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|11|181.209.122.114|999|Argentina|Nueva Lehmann|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|17|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|27.189.134.89|8089|China|Langfang|Chinanet|
-|19|72.10.164.178|28655|Canada|Montreal|GloboTech Communications|
-|20|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|186.3.98.230|999|Ecuador|Pichincha|Telconet S.A|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
+|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
