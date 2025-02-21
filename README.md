@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.150.128.111|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|103.175.46.13|8080|Indonesia|Arjawinangun|PT Internet Keluarga Indonesia|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|72.10.160.91|6991|Canada|Montreal|GloboTech Communications|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.160.91|6991|Canada|Montreal|GloboTech Communications|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|118.113.246.149|2324|China|Shanghai|Chinanet|
-|13|67.43.236.18|19009|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|13103|Canada|Montreal|GloboTech Communications|
-|15|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|67.43.227.227|31893|Canada|Montreal|GloboTech Communications|
-|17|116.108.1.126|10047|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|49.146.240.69|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|5|102.0.13.20|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|6|103.97.140.238|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|7|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|9|138.59.20.220|9999|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|17|121.237.165.110|1080|China|Nanjing|Chinanet|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|103.189.197.113|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
 
 
 
