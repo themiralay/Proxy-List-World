@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|24.152.58.138|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|38.54.116.95|80|Oman|Muscat|Kaopu Cloud HK Limited|
-|11|190.97.226.2|999|Venezuela|Caracas|Viginet C.A|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|177.93.40.57|999|Colombia|Cartagena del Chairá|TV AZTECA SUCURSAL COLOMBIA|
-|14|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|15|103.172.249.234|3128|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|122.248.252.163|3128|Singapore|Singapore|AMAZON-EC2|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|4|41.65.160.171|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|101.255.208.61|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|181.39.12.225|999|Ecuador|Guayaquil|Telconet S.A|
+|9|24.152.58.138|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|10|103.140.167.185|8080|Bangladesh|Sonargaon|Access Communication|
+|11|103.169.148.2|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
+|12|103.130.17.26|8081|Indonesia|Jakarta|Authorize Advertise Via PT. Eka Mas Republik|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.180.118.99|8044|Indonesia|Setro|PT Persada Data Multimedia|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|65.1.244.232|80|India|Mumbai|Amazon.com|
+|20|74.50.210.42|8080|Myanmar|Mandalay|Ooredoo Myanmar Limited|
 
 
 
