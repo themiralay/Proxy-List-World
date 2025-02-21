@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.23.40.80|10008|Vietnam|Hanoi|FPT Telecom Company|
-|2|203.150.113.93|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|81.90.149.186|3128|Iran|Tehran|Afranet|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|116.108.250.182|10030|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.120.76.253|8181|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|10|72.10.160.172|17475|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|21681|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|7457|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|14975|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|17475|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|18991|Canada|Montreal|GloboTech Communications|
-|16|125.87.94.69|2324|China|Chongqing|China Telecom|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|67.43.228.250|12603|Canada|Montreal|GloboTech Communications|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|49.70.190.251|2324|China|Zhenjiang|Chinanet|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|4|203.150.113.93|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|8|103.171.255.188|8080|Indonesia|Sleman|ZKI|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|15|116.108.250.182|10030|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|67.43.236.19|21013|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|12111|Canada|Montreal|GloboTech Communications|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|20|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
