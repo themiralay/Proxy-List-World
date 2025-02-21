@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.10.227.55|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|38.7.206.186|999|Chile|Santiago|Grupo ZGH SPA|
-|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|34.155.165.55|3128|France|Paris|Google LLC|
-|7|178.124.71.251|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|5|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|6|125.24.163.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|38.7.206.186|999|Chile|Santiago|Grupo ZGH SPA|
 |8|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|125.24.63.49|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|145.224.108.136|8080|Bulgaria|Sofia|SpaceX Starlink|
-|13|121.227.183.191|8089|China|Nanjing|China Telecom|
-|14|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|54.179.162.237|8888|Singapore|Singapore|Amazon.com, Inc.|
-|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|18|67.43.227.226|22171|Canada|Montreal|GloboTech Communications|
-|19|113.190.63.92|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|1.10.227.55|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|9|125.24.63.49|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|103.190.171.213|8181|Indonesia|Jakarta|WMS|
+|11|115.77.166.165|10001|Vietnam|Vũng Tàu|Viettel Group|
+|12|119.13.84.138|3128|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|13|1.10.227.55|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|14|170.239.205.210|999|Colombia|Bogotá|FIBERNET|
+|15|38.7.3.1|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|16|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|17|114.232.14.225|1080|China|Nanjing|Chinanet|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|39.112.223.134|8118|South Korea|Dong-gu|SK Broadband Co Ltd|
+|20|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
 
 
 
