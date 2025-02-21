@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.121.2.248|8080|Thailand|Bangkok|TRUEBB|
-|2|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|45.159.65.98|3128|United Kingdom|London|G.Network Communications Limited|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|82.202.215.147|1080|Russia|St Petersburg|JSC Selectel|
+|4|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|10|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|45.159.65.98|3128|United Kingdom|London|G.Network Communications Limited|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|16|121.227.118.163|8089|China|Nanjing|China Telecom|
-|17|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
-|18|103.151.227.74|8080|Indonesia|Bandung|URBANACCESS|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|95.183.82.125|8080|Russia|Moscow|Flex Ltd|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|157.100.63.48|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|9|115.72.173.63|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|10|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|11|124.121.2.248|8080|Thailand|Bangkok|TRUEBB|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|15|115.77.252.75|10027|Vietnam|Ho Chi Minh City|Viettel Group|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|18|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|19|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
+|20|125.87.83.162|2324|China|Chongqing|China Telecom|
 
 
 
