@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.23.40.80|10008|Vietnam|Hanoi|FPT Telecom Company|
+|1|103.153.96.147|8181|Indonesia|Serang|NITNET|
 |2|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|3|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|7|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|103.171.255.188|8080|Indonesia|Sleman|ZKI|
-|10|203.150.113.93|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|201.159.107.165|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
 |13|72.10.160.170|13435|Canada|Montreal|GloboTech Communications|
-|14|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|113.23.40.80|10008|Vietnam|Hanoi|FPT Telecom Company|
-|19|116.108.250.182|10030|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|14|187.49.83.164|8286|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|15|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|16|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.227.230|24239|Canada|Montreal|GloboTech Communications|
+|19|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
+|20|103.82.134.199|40146|Vietnam|Thanh Khê|Cloudfly Corporation|
 
 
 
