@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|7|67.43.236.18|12053|Canada|Montreal|GloboTech Communications|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|11|59.63.205.36|655|China|Taohua|Chinanet|
-|12|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|13|139.255.64.140|8080|Indonesia|Jakarta|PT. LINKNET|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|27.189.130.179|8089|China|Langfang|Chinanet|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|1.53.207.74|8080|Vietnam|Ô Chợ Dừa|FPT Telecom Company|
-|19|115.178.49.67|8080|Indonesia|Bandung|NOC SIMAYA|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|115.77.139.186|10014|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|157.15.66.100|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|10|45.174.95.242|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|38.52.161.196|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|181.12.169.91|11201|Argentina|Chascomús|Telecom Argentina S.A|
+|16|150.107.192.65|8080|India|Chennai|World Phone-LCO Operation|
+|17|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|18|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|61.164.204.130|4999|China|Hangzhou|Chinanet|
 
 
 
