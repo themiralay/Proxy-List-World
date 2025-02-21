@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|2|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|5|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|67.43.236.19|29203|Canada|Montreal|GloboTech Communications|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|14|115.112.231.148|443|India|Mumbai|Tata Communications Limited|
-|15|114.80.36.63|3081|China|Shanghai|China Telecom (Group)|
-|16|67.43.227.230|8739|Canada|Montreal|GloboTech Communications|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|72.10.160.170|8907|Canada|Montreal|GloboTech Communications|
-|19|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|4|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|72.10.160.170|8907|Canada|Montreal|GloboTech Communications|
+|9|177.234.209.86|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|67.43.227.230|8739|Canada|Montreal|GloboTech Communications|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|1.4.163.42|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|16|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.236.19|29203|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|24943|Canada|Montreal|GloboTech Communications|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
