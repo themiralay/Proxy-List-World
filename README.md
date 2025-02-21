@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|61.7.191.139|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
-|8|38.194.251.246|999|Mexico|Jerécuaro|Ientc S De RL De CV|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|186.96.71.108|999|Venezuela|Caracas|Gold Data C.A|
-|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|115.77.139.186|10027|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.91|3993|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|67.43.227.226|11111|Canada|Montreal|GloboTech Communications|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|202.57.25.196|1111|Indonesia|Semarang|announced of WINET|
+|1|61.7.191.139|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|2|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
+|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|9|186.96.160.204|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|10|23.97.109.3|3128|Brazil|São Paulo|Microsoft Corporation|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|45.180.16.212|9292|Brazil|Araçatuba|Link Brasil Telecomunicacoes Ltda|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|117.121.202.13|20280|Indonesia|Purwokerto|PT Sekawan Global Komunika|
+|17|72.10.164.178|28337|Canada|Montreal|GloboTech Communications|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
 
 
 
