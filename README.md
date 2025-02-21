@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|223.206.62.164|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|12|125.87.90.49|8089|China|Chongqing|China Telecom|
-|13|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
-|14|182.253.109.18|8080|Indonesia|Jakarta|Biznet Metronet|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|103.133.61.173|3030|Indonesia|Pringsewu|TLINK|
+|1|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|2|189.180.108.128|8118|Mexico|El Pueblito|UNINET|
+|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|187.134.186.148|8080|Mexico|Ahome|Uninet S.A. de C.V.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|115.77.166.165|10001|Vietnam|Vũng Tàu|Viettel Group|
+|11|223.206.62.164|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|12|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.133.26.103|8082|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|16|125.24.163.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|18|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|19|103.132.181.98|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
+|20|195.189.190.252|9090|Spain|San Bartolomé|Suballocated IT1|
 
 
 
