@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|72.10.160.90|32591|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.170|32901|Canada|Montreal|GloboTech Communications|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|121.227.146.123|8089|China|Nanjing|China Telecom|
-|8|114.223.54.50|8089|China|Wuxi|Chinanet|
-|9|72.10.160.170|32901|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.171|8223|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|11257|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|67.43.236.21|20211|Canada|Montreal|GloboTech Communications|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.174|10649|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|29937|Canada|Montreal|GloboTech Communications|
-|17|118.113.247.201|2324|China|Shanghai|Chinanet|
-|18|67.43.236.18|11257|Canada|Montreal|GloboTech Communications|
-|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|72.10.160.90|32591|Canada|Montreal|GloboTech Communications|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|116.99.34.23|4001|Vietnam|Hanoi|Viettel Corporation|
+|6|72.10.160.90|22525|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.171|8223|Canada|Montreal|GloboTech Communications|
+|8|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|9|49.48.208.145|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|10|72.10.160.170|20459|Canada|Montreal|GloboTech Communications|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|103.175.46.13|8080|Indonesia|Arjawinangun|PT Internet Keluarga Indonesia|
+|13|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
+|14|72.10.160.174|10649|Canada|Montreal|GloboTech Communications|
+|15|170.80.234.145|8080|Brazil|Olinda|Agility Telecom Ltda|
+|16|72.10.160.172|17475|Canada|Montreal|GloboTech Communications|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|20|67.43.227.226|1257|Canada|Montreal|GloboTech Communications|
 
 
 
