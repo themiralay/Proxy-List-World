@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|3|177.234.209.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|67.43.227.226|4253|Canada|Montreal|GloboTech Communications|
-|8|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|67.43.228.250|14029|Canada|Montreal|GloboTech Communications|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|118.113.246.157|2324|China|Shanghai|Chinanet|
-|13|72.10.160.91|5915|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|15547|Canada|Montreal|GloboTech Communications|
-|15|118.113.244.17|2324|China|Shanghai|Chinanet|
-|16|67.43.228.250|14029|Canada|Montreal|GloboTech Communications|
-|17|189.157.232.17|8080|Mexico|San Luis Potosí City|UNINET|
-|18|67.43.227.228|3595|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|32603|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|25315|Canada|Montreal|GloboTech Communications|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|72.10.160.91|5915|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.173|15547|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|67.43.228.250|18493|Canada|Montreal|GloboTech Communications|
+|14|45.5.116.145|999|Guatemala|Guatemala City|Infinitum S.A.|
+|15|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|67.43.227.226|11739|Canada|Montreal|GloboTech Communications|
+|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|18|177.234.209.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|128.199.113.85|9090|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
