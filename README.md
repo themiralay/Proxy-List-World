@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|115.72.173.63|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|9|67.43.236.19|21665|Canada|Montreal|GloboTech Communications|
-|10|27.189.131.82|8089|China|Langfang|Chinanet|
-|11|72.10.160.170|13991|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|200.125.170.11|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|67.43.227.228|26711|Canada|Montreal|GloboTech Communications|
-|15|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.228.254|31177|Canada|Montreal|GloboTech Communications|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|8|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|9|49.70.190.251|2324|China|Zhenjiang|Chinanet|
+|10|114.9.26.194|3128|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|13|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|14|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|67.43.236.19|13141|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|13141|Canada|Montreal|GloboTech Communications|
+|18|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
