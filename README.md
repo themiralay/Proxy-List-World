@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|3|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|67.43.228.250|28691|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.171|1841|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.18|25951|Canada|Montreal|GloboTech Communications|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|72.10.164.178|6433|Canada|Montreal|GloboTech Communications|
-|11|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|67.43.227.230|4783|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.229|28819|Canada|Montreal|GloboTech Communications|
-|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|118.113.245.187|2324|China|Shanghai|Chinanet|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|27.189.131.238|8089|China|Langfang|Chinanet|
-|19|67.43.228.251|4077|Canada|Montreal|GloboTech Communications|
-|20|218.1.197.149|2324|China|Shanghai|China Telecom (Group)|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|61.160.247.69|9999|China|Nanjing|China Telecom|
+|17|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
