@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|134.236.61.2|8080|Thailand|Bang Rak|CAT-BB|
-|7|1.180.51.194|8800|China|Haoxinying|Chinanet|
-|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|67.43.227.228|2593|Canada|Montreal|GloboTech Communications|
-|11|27.189.134.207|8089|China|Langfang|Chinanet|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|72.10.164.178|13945|Canada|Montreal|GloboTech Communications|
+|5|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|6|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|7|67.43.228.250|4919|Canada|Montreal|GloboTech Communications|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|67.43.227.228|2593|Canada|Montreal|GloboTech Communications|
+|10|181.209.122.114|999|Argentina|Nueva Lehmann|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
 |12|67.43.228.250|4919|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27757|Canada|Montreal|GloboTech Communications|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|67.43.227.226|9013|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|17025|Canada|Montreal|GloboTech Communications|
-|18|27.189.130.184|8089|China|Langfang|Chinanet|
-|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|67.43.227.227|5963|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|13945|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|13945|Canada|Montreal|GloboTech Communications|
+|15|213.32.104.189|8080|France|Gravelines|OVH SAS|
+|16|14.241.39.169|8080|Vietnam|Bắc Giang|VNPT|
+|17|67.43.227.227|5963|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|5963|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|19181|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|32305|Canada|Montreal|GloboTech Communications|
 
 
 
