@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
-|2|103.147.247.125|8080|Indonesia|Tangerang|PLBNET|
-|3|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|13|1.10.227.55|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|14|113.11.183.51|8181|Indonesia|Bandung|BIZNET|
-|15|78.101.91.191|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|16|49.49.8.113|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|17|38.7.3.1|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|180.114.96.103|8089|China|Nanjing|Chinanet|
-|19|67.43.228.253|2011|Canada|Montreal|GloboTech Communications|
-|20|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
+|1|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|3|184.82.52.220|8080|Thailand|Khon Kaen|AIS-Fibre|
+|4|113.11.183.51|8181|Indonesia|Bandung|BIZNET|
+|5|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|6|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|7|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|12|103.132.181.98|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
+|13|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
+|14|54.179.162.237|8888|Singapore|Singapore|Amazon.com, Inc.|
+|15|110.188.37.224|2324|China|Muping|Chinanet|
+|16|125.87.87.255|2324|China|Shanghai|China Telecom|
+|17|49.48.44.113|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|18|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|19|125.27.107.67|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|20|18.117.106.251|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
