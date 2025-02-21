@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
-|10|103.120.76.94|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|11|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|12|180.191.40.57|8082|Philippines|Tarlac City|Globe Telecom|
-|13|1.4.163.243|8080|Thailand|Nonthaburi|TOT Public Company Limited|
-|14|67.43.228.250|11655|Canada|Montreal|GloboTech Communications|
-|15|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|16|72.10.160.91|15395|Canada|Montreal|GloboTech Communications|
-|17|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
-|18|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|19|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|20|67.43.227.226|17615|Canada|Montreal|GloboTech Communications|
+|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|2|1.10.133.163|8080|Thailand|Ban Saladan|TOT Public Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|9|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|12|156.200.123.170|8080|Egypt|Giza|TE Data|
+|13|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|67.43.228.250|11655|Canada|Montreal|GloboTech Communications|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|18|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|19|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
