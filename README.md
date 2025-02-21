@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4127** proxies at the latest update. Usable proxies are below.
+> Scraper found **3790** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|459|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|252|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2153|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|150.107.244.126|8080|Indonesia|Bogor|Infrastruktur STARNET|
-|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|12|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|13|67.43.227.226|31273|Canada|Montreal|GloboTech Communications|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|177.130.104.86|33333|Brazil|Presidente Prudente|America-NET Ltda.|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|67.43.236.19|21997|Canada|Montreal|GloboTech Communications|
-|19|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|125.87.88.34|2324|China|Chongqing|China Telecom|
+|3|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|4|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|7|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|12|181.119.107.106|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|67.43.236.19|18251|Canada|Montreal|GloboTech Communications|
+|15|38.45.247.139|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
+|16|103.112.144.29|8118|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|17|67.43.228.252|20601|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|28959|Canada|Montreal|GloboTech Communications|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|114.129.19.139|8080|Indonesia|Bualu|PT Hipernet Indodata|
 
 
 
