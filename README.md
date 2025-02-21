@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.189.197.166|8787|Indonesia|Serang|PT Graha Sumber Teknologi|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|72.10.164.178|12841|Canada|Montreal|GloboTech Communications|
-|9|171.245.22.239|8080|Vietnam|Haiphong|Viettel Corporation|
-|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|11|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|12|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|13|72.10.164.178|12841|Canada|Montreal|GloboTech Communications|
-|14|184.82.46.123|8080|Thailand|Khon Kaen|AIS-Fibre|
-|15|45.179.71.90|3180|Brazil|Salvador|Marktec Telecom|
-|16|67.43.236.18|30137|Canada|Montreal|GloboTech Communications|
-|17|181.78.13.203|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|103.203.232.69|1080|Indonesia|Kedok|INDANA|
-|19|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
-|20|103.242.106.176|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|72.10.164.178|5807|Canada|Montreal|GloboTech Communications|
+|7|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|8|72.10.164.178|5807|Canada|Montreal|GloboTech Communications|
+|9|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|67.43.236.18|12923|Canada|Montreal|GloboTech Communications|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|157.15.139.139|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|38.156.233.93|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|17|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|18|72.10.160.170|32699|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|19857|Canada|Montreal|GloboTech Communications|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
