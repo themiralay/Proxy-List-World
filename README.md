@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.144.18.91|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|6|116.108.1.126|10029|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
-|10|121.227.118.142|8089|China|Nanjing|China Telecom|
-|11|72.10.160.90|6121|Canada|Montreal|GloboTech Communications|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|72.10.164.178|7109|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|22171|Canada|Montreal|GloboTech Communications|
-|15|121.227.146.118|8089|China|Nanjing|China Telecom|
-|16|187.85.157.210|8080|Argentina|Puerto Iguazú|Ggnet Telecom Backbone|
-|17|157.15.40.250|8080|Indonesia|Madiun|TRISARI|
-|18|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|19|111.72.200.28|2324|China|Taohua|Chinanet|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|103.22.99.235|8080|Indonesia|Magetan|KHALISTAGROUP|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|103.144.18.91|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|125.87.88.23|2324|China|Chongqing|China Telecom|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|165.232.43.62|3125|United Kingdom|Slough|DigitalOcean, LLC|
+|11|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|12|14.29.116.148|727|China|Guangzhou|Chinanet|
+|13|49.70.190.251|2324|China|Zhenjiang|Chinanet|
+|14|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
+|15|67.43.227.227|19145|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|18033|Canada|Montreal|GloboTech Communications|
+|17|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|18|103.166.158.167|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|19|202.131.153.146|1111|India|Mangalore|D-Vois Broadband Pvt Ltd|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
