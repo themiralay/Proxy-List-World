@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |2|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|49.156.20.58|8080|Indonesia|Central Java|PT Palapa Global Nusantara|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|69.144.132.50|80|United States|Cut Bank|Charter Communications|
-|8|72.10.160.171|8041|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.251|29479|Canada|Montreal|GloboTech Communications|
-|10|60.28.38.131|10304|China|Shanghai|CNC Group CHINA169 Tianjin Province Network|
-|11|67.43.227.227|29871|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|25807|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|26953|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|11109|Canada|Montreal|GloboTech Communications|
+|3|103.125.16.102|8080|Indonesia|Tangerang|JAVAMEDIA|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|10|115.72.173.63|10010|Vietnam|Vũng Tàu|VIETELmetro|
+|11|118.113.244.117|2324|China|Shanghai|Chinanet|
+|12|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
+|13|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|14|67.43.228.250|12925|Canada|Montreal|GloboTech Communications|
 |15|72.10.160.91|13409|Canada|Montreal|GloboTech Communications|
-|16|121.224.156.172|8089|China|Nanjing|China Telecom|
-|17|181.78.75.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|67.43.228.253|25511|Canada|Montreal|GloboTech Communications|
-|19|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|20|72.10.160.171|8041|Canada|Montreal|GloboTech Communications|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|157.119.222.23|8080|Indonesia|Semarang|DESNET|
+|18|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|20|67.43.228.251|29479|Canada|Montreal|GloboTech Communications|
 
 
 
