@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|213.134.208.187|8080|Russia|Tuapse|NewCom Port|
-|4|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|5|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|115.72.173.63|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|8|116.108.250.182|10024|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|67.43.227.226|15305|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|16977|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|15305|Canada|Montreal|GloboTech Communications|
-|13|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
-|14|67.43.236.19|18475|Canada|Montreal|GloboTech Communications|
-|15|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|18|72.10.160.170|16977|Canada|Montreal|GloboTech Communications|
-|19|4.155.2.13|9400|United States|Quincy|Microsoft Corporation|
-|20|67.43.228.251|25119|Canada|Montreal|GloboTech Communications|
+|1|113.23.40.80|10008|Vietnam|Hanoi|FPT Telecom Company|
+|2|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|38.252.82.0|9090|Brazil|Centro|Dione Balarim Prieto Tecnologia e Internet|
+|6|142.171.168.135|8888|United States|Los Angeles|Multacom Corporation|
+|7|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|12|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|110.136.58.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|116.108.250.182|10030|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|182.253.193.157|8080|Indonesia|Jambi City|BIZNET|
+|16|211.154.161.90|8213|China|Haidian|Beijing Dian-Xin-Tong Network Technologies Co., Ltd.|
+|17|118.113.247.194|2324|China|Shanghai|Chinanet|
+|18|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
 
 
 
