@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.172.221.231|3128|South Korea|Incheon|Korea Telecom|
-|2|203.150.128.8|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|94.177.106.127|3128|Romania|Bucharest|ZetServers|
+|2|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|3|93.170.6.146|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|4|203.150.128.8|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|10|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|11|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|12|121.101.129.108|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|13|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|19|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|20|67.43.236.18|14297|Canada|Montreal|GloboTech Communications|
+|7|36.92.150.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|8|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|67.43.236.20|28733|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|5865|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|10295|Canada|Montreal|GloboTech Communications|
+|19|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
