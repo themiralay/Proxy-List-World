@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3765** proxies at the latest update. Usable proxies are below.
+> Scraper found **4065** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|501|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|243|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|67.43.236.21|26135|Canada|Montreal|GloboTech Communications|
-|6|115.72.173.63|10004|Vietnam|Vũng Tàu|VIETELmetro|
-|7|67.43.228.250|25963|Canada|Montreal|GloboTech Communications|
-|8|49.70.190.200|2324|China|Zhenjiang|Chinanet|
-|9|27.189.131.240|8089|China|Langfang|Chinanet|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|72.10.160.171|22453|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|25963|Canada|Montreal|GloboTech Communications|
-|13|102.176.228.219|8080|South Africa|Durban|Thusaconnect|
-|14|116.108.1.126|10065|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|201.77.98.131|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|16|67.43.227.227|17373|Canada|Montreal|GloboTech Communications|
-|17|118.112.194.201|2324|China|Muping|Chinanet|
-|18|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|19|67.43.236.18|28835|Canada|Montreal|GloboTech Communications|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.247.23.201|8080|Indonesia|Baturaden|PT wifian Solution|
+|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|9|118.113.246.201|2324|China|Shanghai|Chinanet|
+|10|117.44.64.85|655|China|Taohua|Chinanet|
+|11|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
+|12|201.77.98.131|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|13|67.43.227.227|17373|Canada|Montreal|GloboTech Communications|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|16|203.170.66.154|8080|Pakistan|Lahore|Netsol CONNECT LHE Core|
+|17|67.43.228.250|25963|Canada|Montreal|GloboTech Communications|
+|18|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|20|72.10.160.170|17989|Canada|Montreal|GloboTech Communications|
 
 
 
