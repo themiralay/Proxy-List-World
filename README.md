@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|119.28.66.206|3128|Hong Kong|Hong Kong|ComsenzNet|
-|11|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|60.208.20.82|12301|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.162.54.250|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
-|15|170.245.132.86|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
-|16|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|59.48.221.174|2023|China|Yangquan|Chinanet|
-|19|8.219.168.160|3188|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|218.187.65.127|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|61.7.191.139|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
+|12|181.78.84.79|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|13|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|17|103.227.186.68|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
 
 
 
