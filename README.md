@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|207.248.3.61|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
-|3|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
-|4|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|8|182.105.82.38|655|China|Taohua|Chinanet|
-|9|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|10|27.189.131.191|8089|China|Langfang|Chinanet|
-|11|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|194.124.36.248|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|111.72.134.147|2324|China|Taohua|Chinanet|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|72.10.160.90|22451|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|26901|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|26723|Canada|Montreal|GloboTech Communications|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
+|1|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|67.43.227.227|26723|Canada|Montreal|GloboTech Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.91|28491|Canada|Montreal|GloboTech Communications|
+|10|190.94.213.58|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|72.10.160.90|22451|Canada|Montreal|GloboTech Communications|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|67.43.228.252|20679|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.171|25559|Canada|Montreal|GloboTech Communications|
+|15|103.179.46.49|6789|India|Thāne|Jeebr Cloud Solution PVT LTD|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|20|121.237.165.110|1080|China|Nanjing|Chinanet|
 
 
 
