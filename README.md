@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|178.236.247.94|9050|United States|Los Angeles|xorek.cloud International LTD|
-|6|178.115.230.100|8080|Austria|Graz|customers with static IP|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|45.189.252.226|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|10|72.10.160.173|32607|Canada|Montreal|GloboTech Communications|
-|11|121.224.156.178|8089|China|Nanjing|China Telecom|
-|12|67.43.227.226|31685|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|20203|Canada|Montreal|GloboTech Communications|
-|14|121.224.156.184|8089|China|Nanjing|China Telecom|
-|15|67.43.228.252|1831|Canada|Montreal|GloboTech Communications|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|61.7.191.139|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|18|67.43.228.253|29961|Canada|Montreal|GloboTech Communications|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|49.148.106.194|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|38.191.161.90|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|12|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|13|72.10.160.173|32607|Canada|Montreal|GloboTech Communications|
+|14|177.93.46.139|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|67.43.227.230|14449|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.252|20601|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|2135|Canada|Montreal|GloboTech Communications|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
