@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|121.227.178.93|8089|China|Nanjing|China Telecom|
-|4|121.230.8.144|1080|China|Nanjing|Chinanet|
-|5|67.43.236.18|18335|Canada|Montreal|GloboTech Communications|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|72.10.160.90|19523|Canada|Montreal|GloboTech Communications|
-|8|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|9|27.124.75.2|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
-|10|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|67.43.228.251|25687|Canada|Montreal|GloboTech Communications|
-|15|119.28.66.206|3128|Hong Kong|Hong Kong|ComsenzNet|
-|16|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|17|67.43.236.18|18335|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|11851|Canada|Montreal|GloboTech Communications|
-|19|128.14.237.163|60080|Taiwan|Taipei|Zenlayer Inc|
-|20|72.10.160.90|19523|Canada|Montreal|GloboTech Communications|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|4|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|7|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|115.77.139.186|10021|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|67.43.236.18|17715|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|19523|Canada|Montreal|GloboTech Communications|
+|11|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
+|12|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|13|177.93.46.139|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|200.71.111.89|999|Mexico|Xicotepec de Juárez|Digy Networks S.A De C.V.|
+|16|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|103.25.81.116|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|19|1.4.250.103|8080|Thailand|Laem Ngop|TOT Public Company Limited|
+|20|209.14.119.220|999|Colombia|Chinácota|AGIS|
 
 
 
