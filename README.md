@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.115.230.100|8080|Austria|Graz|customers with static IP|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|121.227.179.188|8089|China|Nanjing|China Telecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|41.77.13.186|53281|Malawi|Lilongwe|Globe LLW SR|
-|12|67.43.227.230|5669|Canada|Montreal|GloboTech Communications|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|121.224.156.189|8089|China|Nanjing|China Telecom|
-|15|119.28.66.206|3128|Hong Kong|Hong Kong|ComsenzNet|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|116.108.1.126|10036|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|67.43.228.250|32413|Canada|Montreal|GloboTech Communications|
-|19|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|20|72.10.164.178|3509|Canada|Montreal|GloboTech Communications|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|67.43.228.252|30873|Canada|Montreal|GloboTech Communications|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|67.43.227.230|32025|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|18773|Canada|Montreal|GloboTech Communications|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|109.230.82.172|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|72.10.160.91|9373|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|27655|Canada|Montreal|GloboTech Communications|
+|18|103.230.81.22|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
