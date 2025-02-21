@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|101.108.113.179|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|117.84.72.237|8089|China|Nanjing|Chinanet|
-|12|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|117.81.127.206|8089|China|Nanjing|China Telecom|
-|14|67.43.228.250|2137|Canada|Montreal|GloboTech Communications|
-|15|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|16|72.10.160.172|6215|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.228.253|26547|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|2137|Canada|Montreal|GloboTech Communications|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|101.108.113.179|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|103.190.78.60|7777|Indonesia|Jinglong|PT Blitar Sarana Data|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|12|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|13|41.65.162.72|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.236.21|32271|Canada|Montreal|GloboTech Communications|
+|19|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
