@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
-|2|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|3|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|89.163.242.72|8118|Germany|Frankfurt am Main|WIIT AG|
-|7|67.43.236.18|27279|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.226|31117|Canada|Montreal|GloboTech Communications|
-|9|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|67.43.236.18|27279|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|2703|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|31337|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|9091|Canada|Montreal|GloboTech Communications|
-|15|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|16|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|72.10.164.178|21523|Canada|Montreal|GloboTech Communications|
-|19|27.189.130.29|8089|China|Langfang|Chinanet|
-|20|67.43.236.18|27279|Canada|Montreal|GloboTech Communications|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|4|67.43.227.226|31117|Canada|Montreal|GloboTech Communications|
+|5|201.234.196.106|9443|Ecuador|Quito|Level 3 ECUADOR LVLT S.A|
+|6|67.43.236.20|24363|Canada|Montreal|GloboTech Communications|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|72.10.160.173|31337|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.250|6473|Canada|Montreal|GloboTech Communications|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|72.10.160.90|14721|Canada|Montreal|GloboTech Communications|
+|12|181.209.111.85|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|72.10.160.170|24377|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|8713|Canada|Montreal|GloboTech Communications|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|38.43.123.179|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|103.134.222.186|8080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|19|67.43.236.20|24363|Canada|Montreal|GloboTech Communications|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
