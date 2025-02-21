@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|65.1.244.232|80|India|Mumbai|Amazon.com|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|218.187.65.127|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|41.65.160.171|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|14|202.57.25.196|1111|Indonesia|Semarang|announced of WINET|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|157.15.40.62|8082|Indonesia|Madiun|TRISARI|
-|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|19|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|121.227.44.157|8089|China|Nanjing|China Telecom|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
+|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.172.131.228|999|Peru|Lima|Conex TV E.I.R.L.|
+|18|67.43.228.250|15285|Canada|Montreal|GloboTech Communications|
+|19|190.119.160.29|59842|Peru|Lima region|America Movil Peru S.A.C.|
+|20|160.22.118.150|39030|Vietnam|An Hải|Sandclock Service Trading Company Limited|
 
 
 
