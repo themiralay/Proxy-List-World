@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|7|223.82.60.230|655|China|Guangzhou|China Mobile communications corporation|
-|8|116.108.1.126|10027|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|12|117.44.64.85|655|China|Taohua|Chinanet|
-|13|67.43.228.250|28233|Canada|Montreal|GloboTech Communications|
-|14|118.113.246.37|2324|China|Shanghai|Chinanet|
-|15|72.10.160.170|21367|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|28233|Canada|Montreal|GloboTech Communications|
-|17|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|19|72.10.160.170|21367|Canada|Montreal|GloboTech Communications|
-|20|38.250.119.90|999|Peru|Lima region|Bantel SAC|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|9|101.109.147.65|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|10|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|181.224.173.51|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.111.39.85|8080|Pakistan|Rawalpindi|GH Wireless Internet Service|
+|19|67.43.228.250|9761|Canada|Montreal|GloboTech Communications|
+|20|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
