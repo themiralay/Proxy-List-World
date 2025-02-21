@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4084** proxies at the latest update. Usable proxies are below.
+> Scraper found **3809** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|454|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2153|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|177.234.209.81|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|67.43.236.18|20747|Canada|Montreal|GloboTech Communications|
-|13|114.224.74.196|8089|China|Wuxi|Chinanet|
-|14|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.227.226|11079|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|11079|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|3|177.234.209.81|999|Ecuador|Quito|Ufinet Panama S.A.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|116.108.1.126|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|91.132.131.239|8888|United Kingdom|Cardiff|Spectrum Internet Ltd|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|67.43.228.250|12135|Canada|Montreal|GloboTech Communications|
+|13|177.234.209.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|67.43.228.251|22327|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|26717|Canada|Montreal|GloboTech Communications|
+|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|17|118.113.245.185|2324|China|Shanghai|Chinanet|
+|18|67.43.236.18|26717|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|19145|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.19|19145|Canada|Montreal|GloboTech Communications|
 
 
 
