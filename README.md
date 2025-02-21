@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|8|27.131.250.222|8080|Indonesia|Jakarta|SpaceX Starlink|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|67.43.228.252|26437|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|22675|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|17619|Canada|Montreal|GloboTech Communications|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|67.43.228.251|20237|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11325|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|10797|Canada|Montreal|GloboTech Communications|
-|17|115.72.173.63|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|18|103.46.11.27|7777|Indonesia|Malang|Lintas Data Prima, PT|
-|19|67.43.228.250|22675|Canada|Montreal|GloboTech Communications|
-|20|190.239.208.84|999|Peru|El Porvenir|Telefonica del Peru|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|10|110.172.187.97|8080|India|Coimbatore|World Phone Internet Service Pvt. Ltd|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|103.155.196.105|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|13|115.72.173.63|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|72.10.160.90|3781|Canada|Montreal|GloboTech Communications|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|18|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|19|115.127.139.90|58080|Bangladesh|Dhaka|BRACNet Limited|
+|20|67.43.228.251|20237|Canada|Montreal|GloboTech Communications|
 
 
 
