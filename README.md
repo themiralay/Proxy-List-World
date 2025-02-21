@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|188.132.222.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|112.78.40.210|8080|Indonesia|Jakarta|PT DES Teknologi Informasi|
-|6|103.209.187.98|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|119.28.66.206|3128|Hong Kong|Hong Kong|ComsenzNet|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|67.43.228.250|23377|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|27675|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|10705|Canada|Montreal|GloboTech Communications|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|116.99.34.23|4001|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.227.226|27675|Canada|Montreal|GloboTech Communications|
-|18|116.108.1.126|10027|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|67.43.228.250|23377|Canada|Montreal|GloboTech Communications|
-|20|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|4|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|67.43.228.250|8305|Canada|Montreal|GloboTech Communications|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|67.43.227.226|24589|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|24589|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|8305|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|24589|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|67.43.228.250|8305|Canada|Montreal|GloboTech Communications|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.227.226|24589|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|8305|Canada|Montreal|GloboTech Communications|
+|20|103.217.213.124|32650|India|Guntur|E Net Entertainment Pvt Ltd|
 
 
 
