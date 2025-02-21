@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|2|51.91.76.186|8080|France|Roubaix|OVH SAS|
-|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|115.72.173.63|10005|Vietnam|Vũng Tàu|VIETELmetro|
-|8|67.43.236.20|11491|Canada|Montreal|GloboTech Communications|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|67.43.236.18|3335|Canada|Montreal|GloboTech Communications|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|157.66.16.68|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|5|188.247.61.234|8080|Russia|Volgograd|Unico network|
+|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|8|72.10.164.178|4031|Canada|Montreal|GloboTech Communications|
+|9|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|10|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|12|67.43.228.251|31859|Canada|Montreal|GloboTech Communications|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.160.170|19309|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.21|31429|Canada|Montreal|GloboTech Communications|
-|16|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.215.187.67|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|72.10.160.91|7867|Canada|Montreal|GloboTech Communications|
-|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|13|113.53.89.124|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|159.146.103.200|3128|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
+|17|72.10.160.170|31127|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|28985|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|18935|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|31127|Canada|Montreal|GloboTech Communications|
 
 
 
