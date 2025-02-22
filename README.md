@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|101.109.57.108|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|67.43.236.19|12189|Canada|Montreal|GloboTech Communications|
-|5|67.43.227.227|3521|Canada|Montreal|GloboTech Communications|
-|6|218.1.197.244|2324|China|Shanghai|China Telecom (Group)|
-|7|103.247.21.44|1111|Indonesia|Bekasi|PT wifian Solution|
+|2|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|67.43.236.19|4425|Canada|Montreal|GloboTech Communications|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
 |8|118.113.245.8|2324|China|Shanghai|Chinanet|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|202.74.245.82|36|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|72.10.164.178|22381|Canada|Montreal|GloboTech Communications|
-|12|118.113.244.134|2324|China|Shanghai|Chinanet|
-|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|16|67.43.236.18|6773|Canada|Montreal|GloboTech Communications|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|72.10.160.170|22713|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|27861|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|11|67.43.227.229|11239|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|19595|Canada|Montreal|GloboTech Communications|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|67.43.236.18|20617|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|19595|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|17707|Canada|Montreal|GloboTech Communications|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|72.10.160.170|17707|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|7165|Canada|Montreal|GloboTech Communications|
+|20|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
 
 
 
