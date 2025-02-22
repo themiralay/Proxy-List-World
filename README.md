@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|49.70.190.137|2324|China|Zhenjiang|Chinanet|
 |3|49.70.190.251|2324|China|Zhenjiang|Chinanet|
-|4|118.113.245.144|2324|China|Shanghai|Chinanet|
-|5|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|6|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|7|114.224.74.235|8089|China|Wuxi|Chinanet|
-|8|121.232.181.147|8089|China|Nanjing|Chinanet|
-|9|27.189.129.176|8089|China|Langfang|Chinanet|
-|10|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|180.105.244.212|1080|China|Nanjing|Chinanet|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|67.43.227.226|18987|Canada|Montreal|GloboTech Communications|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|72.10.160.170|13423|Canada|Montreal|GloboTech Communications|
-|18|103.141.200.189|8080|Bangladesh|Chittagong|Smart Link|
-|19|49.70.190.137|2324|China|Zhenjiang|Chinanet|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.105.57.102|1111|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|5|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|67.43.236.18|31503|Canada|Montreal|GloboTech Communications|
+|8|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|67.43.227.226|14653|Canada|Montreal|GloboTech Communications|
+|13|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
+|14|118.113.247.194|2324|China|Shanghai|Chinanet|
+|15|45.201.132.65|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
+|16|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|17|77.245.99.162|81|Kazakhstan|Oral|JSC "KazTransCom"|
+|18|181.13.53.38|8081|Argentina|San Miguel de Tucumán|Noanet S.A|
+|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|20|103.181.255.221|1080|Indonesia|Tuban|PT Giga Digital Nusantara|
 
 
 
