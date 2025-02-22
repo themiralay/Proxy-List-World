@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.186.239.73|6969|Bangladesh|Rāngāmāti|Novel Chakma|
-|8|27.189.131.49|8089|China|Langfang|Chinanet|
-|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|10|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|43.156.70.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.164.178|26531|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|21499|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|20609|Canada|Montreal|GloboTech Communications|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|67.43.236.18|27737|Canada|Montreal|GloboTech Communications|
+|1|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|103.87.171.16|32650|India|Jaipur|Tejays|
+|6|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|7|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|67.43.227.226|26683|Canada|Montreal|GloboTech Communications|
+|12|103.120.76.94|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
+|13|171.4.16.75|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|14|67.43.227.227|16079|Canada|Montreal|GloboTech Communications|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|67.43.236.18|27883|Canada|Montreal|GloboTech Communications|
+|17|8.243.163.126|3128|Colombia|Andes|CTL Colombia|
+|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|179.43.3.5|8080|Colombia|Medellín|Planet Telecom Colombia S.A.S|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
