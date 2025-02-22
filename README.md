@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|183.96.85.167|65001|South Korea|Gangbuk-gu|Korea Telecom|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.160.15.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|4|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|8|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|12|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|103.125.160.178|83|India|Hyderabad|CtrlS|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.227.226|4733|Canada|Montreal|GloboTech Communications|
+|1|8.217.59.198|3699|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|8|103.255.243.9|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|67.43.227.226|8797|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|8565|Canada|Montreal|GloboTech Communications|
+|15|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|17|67.43.236.20|19063|Canada|Montreal|GloboTech Communications|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|67.43.236.19|27977|Canada|Montreal|GloboTech Communications|
 
 
 
