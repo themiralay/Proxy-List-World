@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|43.160.196.25|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|2|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|49.48.147.18|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|4|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|36.68.33.165|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|8|103.139.126.85|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|9|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|10|123.253.37.209|8080|Bangladesh|Dhaka|Onesky Communications Limited|
-|11|114.31.15.190|2024|Bangladesh|Dimla|BDCOM Online Limited|
-|12|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
-|13|190.97.226.26|999|Venezuela|Caracas|Viginet C.A|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|103.160.202.194|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
-|16|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|17|72.10.160.174|25555|Canada|Montreal|GloboTech Communications|
-|18|117.68.110.16|9443|China|Hefei|China Telecom|
-|19|58.56.179.162|3382|China|Jinan|Chinanet|
-|20|171.6.18.25|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|171.224.29.1|8080|Vietnam|Hanoi|Viettel Corporation|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|103.24.213.141|8090|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|67.43.227.230|7559|Canada|Montreal|GloboTech Communications|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|19|72.10.160.171|30991|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|17461|Canada|Montreal|GloboTech Communications|
 
 
 
