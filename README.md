@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|2|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|9|222.127.71.148|8082|Philippines|Lahug|INNOVE|
-|10|67.43.227.230|31269|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|30557|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|28375|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|30557|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|8063|Canada|Montreal|GloboTech Communications|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|118.113.244.127|2324|China|Shanghai|Chinanet|
-|17|72.10.160.91|8063|Canada|Montreal|GloboTech Communications|
-|18|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|19|72.10.160.90|16847|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|6553|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|31.204.199.54|81|Montenegro|Podgorica|Crnogorski Telekom|
+|10|72.10.160.90|17941|Canada|Montreal|GloboTech Communications|
+|11|187.1.16.36|92|Brazil|Barueri|America-NET Ltda.|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|67.43.227.230|31269|Canada|Montreal|GloboTech Communications|
+|14|189.72.85.254|8080|Brazil|Itajaí|V tal|
+|15|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.228.253|8371|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|32605|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|6195|Canada|Montreal|GloboTech Communications|
 
 
 
