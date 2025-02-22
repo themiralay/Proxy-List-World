@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|185.125.169.24|8118|Norway|Sandefjord|TERRAHOST|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
-|12|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|103.133.26.11|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|18|72.10.164.178|17049|Canada|Montreal|GloboTech Communications|
-|19|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|20|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|103.18.77.110|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|5|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|9|185.125.169.24|8118|Norway|Sandefjord|TERRAHOST|
+|10|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
+|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|103.247.23.201|8080|Indonesia|Baturaden|PT wifian Solution|
+|15|195.218.231.98|3128|Russia|St Petersburg|EDN Sovintel|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|72.10.164.178|30771|Canada|Montreal|GloboTech Communications|
+|18|49.151.91.48|8080|Philippines|Province of Nueva Vizcaya|Philippine Long Distance Telephone Co.|
+|19|177.234.247.234|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|20|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
