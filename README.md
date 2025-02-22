@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|103.187.162.91|8080|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
-|8|103.154.77.227|89|Indonesia|Sleman|T2NET|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|102.212.201.225|8080|South Africa|Johannesburg|JENNY INTERNET (PTY) LTD|
-|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.160.170|15465|Canada|Montreal|GloboTech Communications|
-|16|131.100.48.241|999|Colombia|Neiva|Fibernet TV SAS|
-|17|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|72.10.160.90|29367|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29367|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.194|8089|China|Langfang|Chinanet|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|11|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|116.108.1.126|10011|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|72.10.160.170|15465|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|23809|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|15465|Canada|Montreal|GloboTech Communications|
+|20|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
 
 
 
