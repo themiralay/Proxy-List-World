@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|2|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|67.43.228.250|13901|Canada|Montreal|GloboTech Communications|
-|8|118.113.246.10|2324|China|Shanghai|Chinanet|
-|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|72.10.164.178|14691|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|12547|Canada|Montreal|GloboTech Communications|
-|12|118.113.246.228|2324|China|Shanghai|Chinanet|
-|13|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|14|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|17|114.80.38.120|3081|China|Shanghai|China Telecom (Group)|
-|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|20|125.87.85.155|2324|China|Shanghai|China Telecom|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|8|72.10.164.178|15631|Canada|Montreal|GloboTech Communications|
+|9|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|10|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|11|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|12|125.87.85.155|2324|China|Shanghai|China Telecom|
+|13|152.231.88.213|999|Chile|Santiago|Entel Chile S.A.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|16|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|20|118.113.246.10|2324|China|Shanghai|Chinanet|
 
 
 
