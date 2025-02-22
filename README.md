@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.146.240.69|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|2|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|3|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|4|38.7.16.85|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|179.228.241.22|8080|Brazil|Sertãozinho|Vivo|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|11|116.99.33.20|4001|Vietnam|Hanoi|Viettel Corporation|
-|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|45.162.132.9|999|Chile|Santiago|Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada|
+|10|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|11|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|12|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|13|38.7.16.85|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
 |16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|18|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|157.119.222.23|8080|Indonesia|Semarang|DESNET|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|181.224.173.51|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
