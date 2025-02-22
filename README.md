@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|72.10.160.91|13785|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.90|25605|Canada|Montreal|GloboTech Communications|
-|7|115.72.14.120|10013|Vietnam|Vũng Tàu|VIETELmetro|
-|8|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|125.87.87.255|2324|China|Shanghai|China Telecom|
-|11|111.72.131.123|2324|China|Taohua|Chinanet|
-|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|67.43.228.253|3653|Canada|Montreal|GloboTech Communications|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|118.99.123.232|8888|Indonesia|Malang|BIZNET|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|19|72.10.160.171|23451|Canada|Montreal|GloboTech Communications|
-|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|6|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|9|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|10|72.10.160.90|3585|Canada|Montreal|GloboTech Communications|
+|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|67.43.228.253|3653|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.19|9823|Canada|Montreal|GloboTech Communications|
+|15|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|17|72.10.160.90|3585|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.19|9823|Canada|Montreal|GloboTech Communications|
+|19|38.250.119.207|999|Peru|Lima region|Bantel SAC|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
