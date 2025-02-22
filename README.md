@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|121.227.146.64|8089|China|Nanjing|China Telecom|
-|8|101.109.16.52|8080|Thailand|Kabin Buri|TOT Public Company Limited|
-|9|67.43.227.226|10247|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|134.236.82.93|8080|Thailand|Chiang Mai|CAT-BB|
-|14|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|15|182.253.109.18|8080|Indonesia|Jakarta|Biznet Metronet|
-|16|67.43.227.226|10247|Canada|Montreal|GloboTech Communications|
-|17|103.187.178.125|8080|India|Faridabad|Playernet Technologies PVT LTD|
-|18|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|19|72.10.160.170|1639|Canada|Montreal|GloboTech Communications|
-|20|117.44.64.85|655|China|Taohua|Chinanet|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|4|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|194.164.63.54|3128|Germany|Berlin|IONOS SE|
+|6|103.125.18.40|8080|Indonesia|Tangerang|JAVAMEDIA|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|49.49.198.85|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|9|103.187.178.125|8080|India|Faridabad|Playernet Technologies PVT LTD|
+|10|171.6.6.149|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|65.109.177.226|8118|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.127.220.158|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|14|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|15|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|16|209.126.0.54|3128|United States|St Louis|Nubes, LLC|
+|17|186.96.68.66|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|209.126.0.54|3128|United States|St Louis|Nubes, LLC|
+|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
