@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.149.42.154|3128|Indonesia|Majalengka|PT Giandra Saka Media|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|81.90.149.186|3128|Iran|Tehran|Afranet|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|38.49.151.106|999|Mexico|Tlanchinol|Ientc S De RL De CV|
-|12|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|14|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|114.223.62.69|8089|China|Nanjing|Chinanet|
-|18|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|19|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|5|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|6|186.215.87.194|30005|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
+|7|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|72.10.160.93|23121|Canada|Montreal|GloboTech Communications|
+|17|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
+|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
