@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|185.200.38.213|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|212.127.78.23|39811|Poland|Wroclaw|Korbank S. A.|
-|11|72.10.160.90|32197|Canada|Montreal|GloboTech Communications|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|14|72.10.164.178|5413|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|25177|Canada|Montreal|GloboTech Communications|
-|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|17|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
-|18|181.204.81.181|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|19|72.10.160.90|32197|Canada|Montreal|GloboTech Communications|
-|20|106.225.164.39|655|China|Beijing|China Telecom|
+|3|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|6|186.215.43.128|3128|Brazil|Recife|TELEFÔNICA BRASIL S.A|
+|7|171.224.29.1|8080|Vietnam|Hanoi|Viettel Corporation|
+|8|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|9|58.136.169.187|8080|Thailand|Bangkok|AIS-Fibre|
+|10|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|72.10.164.178|5413|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29859|Canada|Montreal|GloboTech Communications|
+|15|65.20.205.85|1971|Iraq|Tikrit|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|16|41.73.243.39|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|111.75.190.5|655|China|Taohua|Chinanet|
+|19|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|20|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
 
 
 
