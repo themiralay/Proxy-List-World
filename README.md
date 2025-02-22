@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|9|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|16|111.224.185.141|3128|China|Shijiazhuang|Chinanet|
-|17|72.10.160.170|24551|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|67.43.227.229|30083|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|180.127.149.224|1080|China|Nanjing|Chinanet|
+|11|72.10.160.90|28721|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|28721|Canada|Montreal|GloboTech Communications|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|72.10.164.178|8939|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|32917|Canada|Montreal|GloboTech Communications|
+|16|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|72.10.160.92|10715|Canada|Montreal|GloboTech Communications|
+|20|111.224.185.141|3128|China|Shijiazhuang|Chinanet|
 
 
 
