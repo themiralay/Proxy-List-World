@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|11|54.151.158.181|8888|Singapore|Singapore|Amazon Technologies Inc.|
-|12|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|67.43.228.252|25277|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|19|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|54.162.165.12|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|102.219.231.22|8080|South Africa|Standerton|Soepa Soap Vervaardigers CC|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|45.184.152.161|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|94.68.245.147|8080|Greece|Náousa|OTEnet|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|102.66.104.162|8865|South Africa|Thulamahashi|Herotel|
+|15|54.162.165.12|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|67.43.228.252|25277|Canada|Montreal|GloboTech Communications|
 
 
 
