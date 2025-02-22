@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4501** proxies at the latest update. Usable proxies are below.
+> Scraper found **4050** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|511|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|158|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2606|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2155|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|3|103.180.126.66|8181|Indonesia|Jakarta|PT Alam Media Data|
-|4|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|117.68.110.16|9443|China|Hefei|China Telecom|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|106.225.164.39|655|China|Beijing|China Telecom|
-|13|115.45.69.184|923|China|Guangzhou|ShenZhen Topway Video Communication Co. Ltd|
-|14|72.10.160.170|8623|Canada|Montreal|GloboTech Communications|
-|15|131.100.48.241|999|Colombia|Neiva|Fibernet TV SAS|
-|16|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|18|123.122.162.153|1081|China|Beijing|China Unicom Beijing Province Network|
-|19|157.66.50.111|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|149.86.203.217|8080|Italy|Riccione|Sirius Technology SRL|
+|6|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|103.151.227.218|8080|Indonesia|Bandung|URBANACCESS|
+|10|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|11|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|17|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|19|14.29.116.148|727|China|Guangzhou|Chinanet|
+|20|182.105.82.38|655|China|Taohua|Chinanet|
 
 
 
