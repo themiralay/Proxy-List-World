@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|2|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |3|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|67.43.228.252|3077|Canada|Montreal|GloboTech Communications|
-|10|102.66.104.162|8865|South Africa|Thulamahashi|Herotel|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|72.10.160.173|16037|Canada|Montreal|GloboTech Communications|
-|13|189.72.85.254|8080|Brazil|Itajaí|V tal|
-|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|67.43.236.18|10705|Canada|Montreal|GloboTech Communications|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
+|4|38.43.123.133|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|9|203.190.46.103|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|10|182.253.66.148|8989|Indonesia|Jakarta|BIZNET|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|181.129.158.134|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|15|119.95.236.252|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|16|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|19|202.58.77.228|8080|Indonesia|Cirebon|PT Data Buana Nusantara|
+|20|201.150.119.171|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
 
 
 
