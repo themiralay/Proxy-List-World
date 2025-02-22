@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |9|72.10.160.91|19887|Canada|Montreal|GloboTech Communications|
-|10|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|121.227.118.133|8089|China|Nanjing|China Telecom|
-|13|121.232.181.159|8089|China|Nanjing|Chinanet|
-|14|61.143.225.39|6868|China|Guangzhou|Chinanet|
-|15|72.10.160.171|18933|Canada|Montreal|GloboTech Communications|
-|16|218.1.197.19|2324|China|Shanghai|China Telecom (Group)|
-|17|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|18|61.160.247.69|9999|China|Nanjing|China Telecom|
-|19|72.10.160.174|20759|Canada|Montreal|GloboTech Communications|
-|20|18.136.119.32|8888|Singapore|Singapore|Amazon Technologies Inc.|
+|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|12|118.113.244.103|2324|China|Shanghai|Chinanet|
+|13|103.156.17.240|8080|Indonesia|Jatiwangi|RSTNET|
+|14|67.43.227.227|18199|Canada|Montreal|GloboTech Communications|
+|15|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|72.10.160.174|20759|Canada|Montreal|GloboTech Communications|
+|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|125.87.85.155|2324|China|Shanghai|China Telecom|
+|20|72.10.160.91|19887|Canada|Montreal|GloboTech Communications|
 
 
 
