@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.78.17.78|999|Colombia|Andalucía|IFX Networks Argentina S.R.L|
-|2|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|3|186.96.73.190|999|Venezuela|Caracas|Gold Data USA Inc|
-|4|103.86.117.13|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|160.191.88.207|3128|Vietnam|Quận Bình Thạnh|GOLDEN|
-|7|49.48.40.111|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|8|103.247.216.70|8080|Indonesia|Jakarta|PT. Parsaoran Global Datatrans|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|190.239.208.84|999|Peru|El Porvenir|Telefonica del Peru|
-|12|138.68.129.50|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|177.107.20.149|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|16|180.125.186.135|1080|China|Nanjing|Chinanet|
-|17|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|1|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|4|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|182.53.20.80|8080|Thailand|Si Racha|TOT Public Company Limited|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|103.247.216.70|8080|Indonesia|Jakarta|PT. Parsaoran Global Datatrans|
+|10|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|11|103.247.13.131|8080|Indonesia|Klaten|TERABIT|
+|12|1.55.135.209|8080|Vietnam|Hanoi|FPT Telecom Company|
+|13|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|115.178.49.47|8080|Indonesia|Bandung|NOC SIMAYA|
+|15|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|38.172.131.228|999|Peru|Lima|Conex TV E.I.R.L.|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
