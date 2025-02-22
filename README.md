@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|104.128.228.69|8118|United States|Los Angeles|HostUS|
 |5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|114.224.74.248|8089|China|Wuxi|Chinanet|
-|9|72.10.160.170|28329|Canada|Montreal|GloboTech Communications|
-|10|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|118.113.246.201|2324|China|Shanghai|Chinanet|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|67.43.227.226|3235|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|72.10.160.170|28329|Canada|Montreal|GloboTech Communications|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|67.43.236.20|16297|Canada|Montreal|GloboTech Communications|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|118.113.246.201|2324|China|Shanghai|Chinanet|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|20|67.43.227.226|27505|Canada|Montreal|GloboTech Communications|
 
 
 
