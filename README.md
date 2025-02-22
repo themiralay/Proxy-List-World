@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.26.123.76|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|6|67.43.227.226|2559|Canada|Montreal|GloboTech Communications|
-|7|103.176.96.136|8080|Indonesia|Karawang|PT Global Sarana Elektronika|
-|8|180.97.220.151|11080|China|Nanjing|Chinanet|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|81.90.149.186|3128|Iran|Tehran|Afranet|
-|12|103.192.174.59|8082|Indonesia|Bandung|PT JKB Telematika Indonesia|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|103.179.252.75|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.236.20|22171|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24073|Canada|Montreal|GloboTech Communications|
-|19|190.61.90.116|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|9|103.176.96.136|8080|Indonesia|Karawang|PT Global Sarana Elektronika|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|203.175.103.25|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
