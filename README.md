@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|2|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|180.125.186.190|1080|China|Nanjing|Chinanet|
-|10|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|11|72.10.160.91|6391|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|30199|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|11893|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|18|67.43.228.250|3943|Canada|Montreal|GloboTech Communications|
-|19|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|20|72.10.164.178|7271|Canada|Montreal|GloboTech Communications|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|6|103.73.193.243|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|7|38.52.221.187|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|8|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|9|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|72.10.160.170|23315|Canada|Montreal|GloboTech Communications|
+|19|125.87.87.255|2324|China|Shanghai|China Telecom|
+|20|72.10.160.170|23315|Canada|Montreal|GloboTech Communications|
 
 
 
