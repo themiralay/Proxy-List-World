@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|181.204.113.250|11211|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|125.87.85.91|2324|China|Shanghai|China Telecom|
-|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|116.108.1.126|10063|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|111.224.185.141|3128|China|Shijiazhuang|Chinanet|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|9|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.63.26.230|8080|Indonesia|Kresek|PT Global Media Data Prima|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|16|111.224.185.141|3128|China|Shijiazhuang|Chinanet|
+|17|72.10.160.170|24551|Canada|Montreal|GloboTech Communications|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|67.43.227.229|30083|Canada|Montreal|GloboTech Communications|
 
 
 
