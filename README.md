@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3811** proxies at the latest update. Usable proxies are below.
+> Scraper found **4111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|312|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.105.78.230|8080|Indonesia|Bojonegoro|GARUDA|
-|7|103.137.110.146|7777|Indonesia|Loa Janan|PT. Capoeng Digital Nusantara|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|72.10.164.178|8589|Canada|Montreal|GloboTech Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|49.151.91.48|8080|Philippines|Province of Nueva Vizcaya|Philippine Long Distance Telephone Co.|
-|19|137.59.161.195|8282|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|103.137.110.146|7777|Indonesia|Loa Janan|PT. Capoeng Digital Nusantara|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.18.77.110|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|36.95.142.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
 
 
 
