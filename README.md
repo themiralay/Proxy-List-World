@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
 |2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|103.203.232.73|8080|Indonesia|Kedok|INDANA|
-|5|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|11|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|12|67.43.236.19|15799|Canada|Montreal|GloboTech Communications|
-|13|111.75.190.5|655|China|Taohua|Chinanet|
-|14|121.227.118.172|8089|China|Nanjing|China Telecom|
-|15|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|16|67.43.236.18|6255|Canada|Montreal|GloboTech Communications|
-|17|118.113.245.187|2324|China|Shanghai|Chinanet|
-|18|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
-|19|27.189.135.104|8089|China|Langfang|Chinanet|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|49.70.190.217|2324|China|Zhenjiang|Chinanet|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|118.113.245.187|2324|China|Shanghai|Chinanet|
+|15|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|67.43.228.250|6879|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|5461|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|21203|Canada|Montreal|GloboTech Communications|
 |20|67.43.228.251|5461|Canada|Montreal|GloboTech Communications|
 
 
