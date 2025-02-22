@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|103.87.171.16|32650|India|Jaipur|Tejays|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|10|103.166.158.167|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|12|67.43.227.226|20803|Canada|Montreal|GloboTech Communications|
-|13|125.87.87.255|2324|China|Shanghai|China Telecom|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|111.72.128.22|2324|China|Taohua|Chinanet|
-|17|119.93.87.65|8080|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|20|110.188.37.224|2324|China|Muping|Chinanet|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.180.126.66|8181|Indonesia|Jakarta|PT Alam Media Data|
+|5|38.183.146.153|7878|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|6|101.231.178.155|7028|China|Shanghai|China Telecom (Group)|
+|7|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|23.94.98.52|3128|United States|Santa Clara|HostPapa|
+|9|23.94.98.52|3128|United States|Santa Clara|HostPapa|
+|10|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|110.188.37.19|2324|China|Muping|Chinanet|
+|13|103.87.171.16|32650|India|Jaipur|Tejays|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|103.172.71.25|9090|Indonesia|Karawang|AZNET|
+|17|103.19.79.245|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
