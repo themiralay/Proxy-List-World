@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|3|65.1.40.47|1080|India|Mumbai|Amazon.com|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|38.194.250.66|999|Mexico|Jerécuaro|Ientc S De RL De CV|
-|9|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|10|181.129.158.134|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
-|13|102.66.104.162|8865|South Africa|Thulamahashi|Herotel|
-|14|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|19|103.127.220.158|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|5|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|6|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|9|103.235.181.245|8080|Indonesia|Jakarta|PT Top Class Universal|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|47.245.58.106|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|14|180.112.180.124|8089|China|Nanjing|Chinanet|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|67.43.236.18|19663|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
