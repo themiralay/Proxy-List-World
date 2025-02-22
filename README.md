@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|121.227.118.132|8089|China|Nanjing|China Telecom|
-|6|72.10.164.178|16239|Canada|Montreal|GloboTech Communications|
-|7|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|8|72.10.160.170|13263|Canada|Montreal|GloboTech Communications|
-|9|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|10|67.43.228.251|14515|Canada|Montreal|GloboTech Communications|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|27.189.129.83|8089|China|Langfang|Chinanet|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|116.108.1.126|10061|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|121.224.156.151|8089|China|Nanjing|China Telecom|
-|17|67.43.236.18|9387|Canada|Montreal|GloboTech Communications|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|67.43.236.18|9387|Canada|Montreal|GloboTech Communications|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|72.10.164.178|6643|Canada|Montreal|GloboTech Communications|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|10|67.43.236.18|31981|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|6643|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|27429|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|31981|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|13169|Canada|Montreal|GloboTech Communications|
+|15|139.159.102.236|3128|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|45.159.65.98|3128|United Kingdom|London|G.Network Communications Limited|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|118.113.245.222|2324|China|Shanghai|Chinanet|
 
 
 
