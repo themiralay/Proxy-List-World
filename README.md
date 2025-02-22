@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4111** proxies at the latest update. Usable proxies are below.
+> Scraper found **4411** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|421|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|158|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|59.152.104.193|8080|Bangladesh|Chittagong|Earth Telecommunication ( pvt ) Limited|
-|3|171.248.118.79|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|118.99.123.232|8888|Indonesia|Malang|BIZNET|
-|7|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|8|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|11|72.10.160.173|13009|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|26757|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.22|9645|Canada|Montreal|GloboTech Communications|
-|14|103.156.248.27|8085|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|15|118.113.246.10|2324|China|Shanghai|Chinanet|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|110.188.37.224|2324|China|Muping|Chinanet|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|103.189.197.18|3030|Indonesia|Serang|PT Graha Sumber Teknologi|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|103.141.105.74|55|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|11|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|181.224.173.51|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|17|188.132.150.42|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
 
 
 
