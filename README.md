@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|203.190.117.107|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|4|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|5|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|6|172.232.62.112|3128|France|Paris|Akamai Technologies, Inc.|
-|7|103.238.232.118|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|171.228.163.125|10089|Vietnam|Hanoi|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|77.51.116.188|8080|Russia|Klin|Rostelecom networks|
+|7|186.96.97.180|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|11|38.7.20.196|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|12|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|13|186.96.73.190|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|65.20.205.85|1971|Iraq|Tikrit|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|15|190.60.36.210|999|Colombia|Mompós|IFX NETWORKS COLOMBIA|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|67.43.227.226|28531|Canada|Montreal|GloboTech Communications|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|190.120.255.205|999|Venezuela|Barquisimeto|CORPORACION FIBEX TELECOM, C.A.|
+|11|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|12|103.127.220.158|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
+|17|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|18|223.206.63.192|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|19|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
