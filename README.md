@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|201.151.53.211|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|6|101.51.173.115|8080|Thailand|Pattaya|TOT Public Company Limited|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|36.136.27.2|4999|China|Guangzhou|China Mobile|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|160.19.18.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|10|103.125.160.178|84|India|Hyderabad|CtrlS|
-|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|12|103.145.68.37|8181|Indonesia|Surabaya|ALFANET|
-|13|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|19|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|20|185.142.131.113|8080|Portugal|Mafra|LigaT Telecom Sociedade Unipessoal LDA|
+|9|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|13|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
+|14|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|15|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|18|36.91.148.36|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|72.10.160.173|22151|Canada|Montreal|GloboTech Communications|
+|20|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
