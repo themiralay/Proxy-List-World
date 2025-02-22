@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|4|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|180.112.182.241|8089|China|Nanjing|Chinanet|
-|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.227.226|5867|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|5867|Canada|Montreal|GloboTech Communications|
-|13|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|72.10.160.90|17941|Canada|Montreal|GloboTech Communications|
-|17|110.188.37.224|2324|China|Muping|Chinanet|
-|18|72.10.160.90|17941|Canada|Montreal|GloboTech Communications|
-|19|180.127.149.247|1080|China|Nanjing|Chinanet|
-|20|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|67.43.236.19|19347|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.91|24875|Canada|Montreal|GloboTech Communications|
+|11|103.191.251.195|8083|Indonesia|Batam|PT Mulia Batam Net|
+|12|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|20|14.18.126.57|3128|China|Guangzhou|China Telecom|
 
 
 
