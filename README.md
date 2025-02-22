@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|210.23.187.54|8081|Philippines|Manila|Pacific Internet Philippines, Inc.|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|45.124.170.5|8080|Bangladesh|Dhaka|Nextonline Limited|
-|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|181.62.161.70|1999|Colombia|Bogotá|Telmex Colombia S.A.|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|67.43.227.226|31019|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|103.53.78.123|8050|Indonesia|Surabaya|INTI|
-|18|67.43.228.250|2481|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|4087|Canada|Montreal|GloboTech Communications|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|16|31.58.58.213|10007|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|17|115.77.164.174|8080|Vietnam|Vũng Tàu|Viettel Group|
+|18|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|67.43.228.252|24003|Canada|Montreal|GloboTech Communications|
 
 
 
