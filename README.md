@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|5|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|8|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|9|118.113.244.74|2324|China|Shanghai|Chinanet|
-|10|67.43.227.230|8385|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|31153|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|31205|Canada|Montreal|GloboTech Communications|
-|13|118.113.245.124|2324|China|Shanghai|Chinanet|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|103.168.254.33|8080|Indonesia|Kudus|PT Fahasa Tri Data|
-|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|17|177.107.20.149|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|18|67.43.228.250|8371|Canada|Montreal|GloboTech Communications|
-|19|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|3|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|4|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|5|118.113.246.58|2324|China|Shanghai|Chinanet|
+|6|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|11|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|12|72.10.160.90|22449|Canada|Montreal|GloboTech Communications|
+|13|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|14|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|62.101.137.150|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|17|188.125.167.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|221.225.67.249|8089|China|Suzhou|CHINANET jiangsu province network|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
 
 
 
