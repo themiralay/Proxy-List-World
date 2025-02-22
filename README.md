@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|9|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
-|10|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|11|49.70.190.136|2324|China|Zhenjiang|Chinanet|
-|12|162.43.33.87|3127|Japan|Chiyoda|XSERVER Inc.|
-|13|67.43.227.226|25177|Canada|Montreal|GloboTech Communications|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|103.18.77.73|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|16|67.43.228.252|4087|Canada|Montreal|GloboTech Communications|
-|17|125.27.107.67|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|18|67.43.227.230|7559|Canada|Montreal|GloboTech Communications|
-|19|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|67.43.236.18|31619|Canada|Montreal|GloboTech Communications|
+|1|103.199.117.106|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
+|2|119.82.254.164|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|3|65.20.205.85|1971|Iraq|Tikrit|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|4|5.138.132.55|3128|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|36.68.33.165|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|103.76.109.170|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|9|147.45.49.234|3128|Japan|Tokyo|Global Connectivity Solutions LLP|
+|10|103.96.116.246|8080|Indonesia|Medan|PT Media Alvina Sejati|
+|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|12|103.247.23.73|3125|Indonesia|Baturaden|PT wifian Solution|
+|13|101.51.109.58|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|138.0.141.46|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|171.224.29.1|8080|Vietnam|Hanoi|Viettel Corporation|
+|18|1.10.227.55|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
