@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|2|45.236.171.76|999|Ecuador|Guayaquil|Codgrec S.A.|
-|3|72.10.160.94|15409|Canada|Montreal|GloboTech Communications|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|7|125.87.86.178|2324|China|Shanghai|China Telecom|
-|8|27.189.135.247|8089|China|Langfang|Chinanet|
-|9|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|10|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|11|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|14|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|15|67.43.228.252|18591|Canada|Montreal|GloboTech Communications|
+|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|72.10.160.94|15409|Canada|Montreal|GloboTech Communications|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|27.189.135.247|8089|China|Langfang|Chinanet|
+|13|67.43.236.20|15873|Canada|Montreal|GloboTech Communications|
+|14|122.3.102.216|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|103.192.174.59|8082|Indonesia|Bandung|PT JKB Telematika Indonesia|
 |16|67.43.228.250|5587|Canada|Montreal|GloboTech Communications|
-|17|124.71.124.70|4048|China|Guangzhou|Huawei Cloud Service data center|
-|18|202.63.172.18|9128|China|Beijing|CHINA UNICOM China169 Backbone|
-|19|5.35.81.51|8080|Kazakhstan|Astana|BEGET|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.228.252|18591|Canada|Montreal|GloboTech Communications|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
