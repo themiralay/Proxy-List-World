@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4908** proxies at the latest update. Usable proxies are below.
+> Scraper found **4835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|396|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2606|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.193.157|8080|Indonesia|Jambi City|BIZNET|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|4|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|5|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|6|43.228.85.141|3128|Thailand|Pak Phli|Siamdata Communication Co., ltd.|
-|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|103.147.134.85|1111|Indonesia|Wakduwa’ Barat|PT.MURNI MAKMUR ABADI|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|11|118.173.88.8|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|103.156.221.106|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|14|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|15|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|171.7.123.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|103.86.117.53|1080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|1|49.146.240.69|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|2|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|3|117.103.71.77|8715|Indonesia|Malang|NARATEL|
+|4|38.7.16.85|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|116.99.33.20|4001|Vietnam|Hanoi|Viettel Corporation|
+|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|18|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
