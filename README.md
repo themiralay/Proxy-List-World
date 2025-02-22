@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |6|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|7|72.10.160.170|3099|Canada|Montreal|GloboTech Communications|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|204.199.140.9|999|Chile|Santiago|Ingbell Chile SPA|
-|11|72.10.164.178|27377|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|26291|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|1333|Canada|Montreal|GloboTech Communications|
-|14|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|15|67.43.236.18|1333|Canada|Montreal|GloboTech Communications|
-|16|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|18|72.10.160.170|3099|Canada|Montreal|GloboTech Communications|
-|19|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|20|103.82.132.103|18209|India|Faridabad|Cloudfly Corporation|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|103.169.255.197|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|150.95.27.197|10090|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|72.10.160.170|3099|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|16407|Canada|Montreal|GloboTech Communications|
+|17|125.87.87.255|2324|China|Shanghai|China Telecom|
+|18|188.132.150.67|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|118.113.246.201|2324|China|Shanghai|Chinanet|
+|20|103.253.18.6|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
 
 
 
