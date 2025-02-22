@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|1|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|95.216.3.236|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|103.154.25.110|8080|Indonesia|Selong|HIJRAHNET|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|38.51.61.53|999|Dominican Republic|Concepción de la Vega|Central Solutions Technology S.R.L.|
-|10|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
-|11|144.48.229.33|8080|Cambodia|Phnom Penh|SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD|
-|12|47.245.58.106|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|14|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
-|15|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|16|103.57.37.120|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|4|103.147.247.171|8080|Indonesia|Tangerang|PLBNET|
+|5|101.108.78.126|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|103.133.27.46|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|7|103.97.140.120|9090|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|10|45.55.123.126|8080|United States|Clifton|DigitalOcean, LLC|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|178.252.183.242|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
