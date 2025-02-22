@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|67.43.227.226|16737|Canada|Montreal|GloboTech Communications|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.155.196.147|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|8|72.10.160.92|9959|Canada|Montreal|GloboTech Communications|
-|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|67.43.228.250|27249|Canada|Montreal|GloboTech Communications|
-|11|116.108.1.126|10043|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|206.62.64.34|8080|Brazil|Apucarana|AGIS|
-|13|72.10.160.170|6329|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|3497|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|27249|Canada|Montreal|GloboTech Communications|
-|16|27.189.128.146|8089|China|Langfang|Chinanet|
-|17|67.43.236.19|31017|Canada|Montreal|GloboTech Communications|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|67.43.227.227|14879|Canada|Montreal|GloboTech Communications|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|60.188.49.53|1999|China|Taizhou|Chinanet|
+|7|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.92|1387|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|21119|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|28133|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|14|67.43.236.18|23643|Canada|Montreal|GloboTech Communications|
+|15|111.224.185.141|3128|China|Shijiazhuang|Chinanet|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|67.43.227.227|14879|Canada|Montreal|GloboTech Communications|
+|18|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|19|72.10.160.173|3497|Canada|Montreal|GloboTech Communications|
+|20|103.156.15.133|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
 
 
 
