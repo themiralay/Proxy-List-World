@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|4|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|180.114.96.70|8089|China|Nanjing|Chinanet|
-|9|72.10.160.90|21585|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|21585|Canada|Montreal|GloboTech Communications|
-|11|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|12|67.43.227.227|19207|Canada|Montreal|GloboTech Communications|
-|13|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|14|72.10.160.90|21585|Canada|Montreal|GloboTech Communications|
-|15|101.109.57.108|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|67.43.227.226|29803|Canada|Montreal|GloboTech Communications|
-|17|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|18|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|19|67.43.227.227|19207|Canada|Montreal|GloboTech Communications|
-|20|134.35.134.72|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|4|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|6|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|27.147.218.18|63680|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|10|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|179.228.241.22|8080|Brazil|Sertãozinho|Vivo|
+|14|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|72.10.160.90|8865|Canada|Montreal|GloboTech Communications|
+|16|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|19|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|20|103.255.243.9|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
 
 
 
