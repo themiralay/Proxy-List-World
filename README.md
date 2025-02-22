@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|3|103.163.226.250|3125|Indonesia|Sidoarjo|PT.Delta Surya Solusitama|
+|1|54.162.165.12|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|119.110.233.203|3129|Thailand|Bangkok|Symphony Communication Public Company Limited|
+|3|54.162.165.12|3128|United States|Ashburn|Amazon.com, Inc.|
 |4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|6|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|7|182.253.176.159|8080|Indonesia|Bogor|BIZNET|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|41.141.17.30|8080|Morocco|Agadir|ADSL Maroc telecom|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.189.223.2|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
-|14|113.23.195.5|1231|Malaysia|Semenyih|Extreme Broadband|
-|15|116.108.1.126|10064|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|103.191.196.34|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|17|115.45.69.184|923|China|Guangzhou|ShenZhen Topway Video Communication Co. Ltd|
-|18|72.10.164.178|14825|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|11081|Canada|Montreal|GloboTech Communications|
-|20|212.175.61.20|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|10|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|12|95.216.3.236|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|157.119.222.23|8080|Indonesia|Semarang|DESNET|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|72.10.164.178|14825|Canada|Montreal|GloboTech Communications|
+|18|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|19|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
