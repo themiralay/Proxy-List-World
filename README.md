@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |3|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|180.127.149.197|1080|China|Nanjing|Chinanet|
-|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|27.189.129.243|8089|China|Langfang|Chinanet|
-|9|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|118.113.244.103|2324|China|Shanghai|Chinanet|
-|11|72.10.160.170|26503|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|6733|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16199|Canada|Montreal|GloboTech Communications|
+|4|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|72.10.160.170|22485|Canada|Montreal|GloboTech Communications|
 |14|72.10.160.90|31827|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|31419|Canada|Montreal|GloboTech Communications|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|18|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|19|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|72.10.164.178|16199|Canada|Montreal|GloboTech Communications|
+|15|118.113.244.103|2324|China|Shanghai|Chinanet|
+|16|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|17|67.43.228.254|13163|Canada|Montreal|GloboTech Communications|
+|18|118.113.245.11|2324|China|Shanghai|Chinanet|
+|19|72.10.164.178|16199|Canada|Montreal|GloboTech Communications|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
