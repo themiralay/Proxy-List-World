@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|125.26.123.76|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|3|103.147.246.93|2025|Indonesia|Tangerang|PLBNET|
-|4|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|8|103.194.46.34|8082|Indonesia|Nagara Tengah|JABNET|
-|9|81.90.149.186|3128|Iran|Tehran|Afranet|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.173.8.10|999|Colombia|Cúcuta|TV AZTECA SUCURSAL COLOMBIA|
-|13|85.135.238.247|8888|Slovakia|Bratislava|SLOVANET|
-|14|103.247.22.125|4317|Indonesia|Cilacap|PT wifian Solution|
-|15|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|38.7.1.248|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|19|181.209.107.154|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|5|66.19.21.242|7878|United States|Wellington|Windstream Communications LLC|
+|6|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|9|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|10|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|11|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
+|16|188.125.169.241|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|18|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
+|19|223.25.110.104|1056|Indonesia|Surabaya|SinergiNet|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
