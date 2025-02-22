@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|177.240.4.125|999|Mexico|Ciudad General Terán|Mega Cable, S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|111.75.190.5|655|China|Taohua|Chinanet|
-|7|61.143.203.163|10007|China|Guangzhou|Chinanet|
-|8|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|10|118.113.245.254|2324|China|Shanghai|Chinanet|
-|11|72.10.160.90|12301|Canada|Montreal|GloboTech Communications|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|117.68.110.16|9443|China|Hefei|China Telecom|
+|6|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|67.43.228.251|22313|Canada|Montreal|GloboTech Communications|
-|19|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|20|93.115.18.235|8118|The Netherlands|Dronten|Mvps LTD|
+|13|180.125.186.132|1080|China|Nanjing|Chinanet|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|116.108.1.126|10052|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|106.75.146.240|10810|China|Yangpu|UCLOUD|
+|18|114.225.152.196|8089|China|Changzhou|Chinanet|
+|19|131.100.50.179|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
+|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
