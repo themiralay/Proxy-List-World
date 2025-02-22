@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|10|27.147.144.42|96|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|67.43.228.250|5967|Canada|Montreal|GloboTech Communications|
-|13|27.189.131.65|8089|China|Langfang|Chinanet|
-|14|114.225.152.211|8089|China|Changzhou|Chinanet|
-|15|72.10.164.178|15059|Canada|Montreal|GloboTech Communications|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|103.127.220.158|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|3|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|4|103.167.68.35|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|6|144.48.117.93|62370|Bangladesh|Chittagong|EarthTelecommunication|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|72.10.164.178|22601|Canada|Montreal|GloboTech Communications|
+|9|103.117.194.250|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|10|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
+|15|103.162.62.250|8181|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
+|16|67.43.228.250|3639|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|24077|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|11063|Canada|Montreal|GloboTech Communications|
+|19|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|20|212.111.193.254|8080|Ukraine|Dnipro|User Association of Ukrainian Research and Academic Network URAN|
 
 
 
