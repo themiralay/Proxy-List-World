@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|67.43.228.252|18913|Canada|Montreal|GloboTech Communications|
-|7|103.147.98.122|8080|India|Bengaluru|Onquee Networks Pvt Ltd|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|208.72.109.49|16088|United States|Noblesville|On-Ramp Indiana, Inc.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|72.10.160.90|28443|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|67.43.228.253|28933|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|28443|Canada|Montreal|GloboTech Communications|
-|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|160.30.110.237|8082|Philippines|Quezon City|Cyber Peers Wireless Internet Services Co.|
-|18|72.10.160.170|11805|Canada|Montreal|GloboTech Communications|
-|19|121.224.156.142|8089|China|Nanjing|China Telecom|
-|20|72.10.164.178|9045|Canada|Montreal|GloboTech Communications|
+|6|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|67.43.228.253|28933|Canada|Montreal|GloboTech Communications|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|13|38.194.242.117|999|Mexico|Cardonal|Ientc S De RL De CV|
+|14|86.98.222.23|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|15|14.29.116.148|727|China|Guangzhou|Chinanet|
+|16|222.215.137.18|3218|China|Deyang|Chinanet|
+|17|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|18|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|19|117.86.6.235|1080|China|Nanjing|Chinanet|
+|20|67.43.236.18|29523|Canada|Montreal|GloboTech Communications|
 
 
 
