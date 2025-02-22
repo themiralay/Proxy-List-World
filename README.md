@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|202.182.59.225|10001|Indonesia|Duren Tiga|Arsen Kusuma Indonesia|
-|10|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
-|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.170|9721|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|9721|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23447|Canada|Montreal|GloboTech Communications|
-|20|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|1|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|2|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|88.42.237.102|8080|Italy|Piovene Rocchette|Telecom Italia S.p.A.|
+|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|6|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|13|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|14|72.10.160.170|32067|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|7935|Canada|Montreal|GloboTech Communications|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|72.10.160.170|32067|Canada|Montreal|GloboTech Communications|
+|18|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
+|19|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|20|67.43.236.18|9179|Canada|Montreal|GloboTech Communications|
 
 
 
