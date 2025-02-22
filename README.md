@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.42.104.23|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|5|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|6|171.228.115.229|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|119.42.104.23|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|6|62.171.146.119|80|France|Lauterbourg|Contabo GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|67.43.236.18|22021|Canada|Montreal|GloboTech Communications|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|103.147.30.65|3128|Indonesia|Bandung|PT Semesta Teknologi Informatika|
-|12|72.10.160.170|4985|Canada|Montreal|GloboTech Communications|
-|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|14|72.10.160.90|20147|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|22021|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|27.189.134.152|8089|China|Langfang|Chinanet|
-|19|67.43.236.18|22021|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|22021|Canada|Montreal|GloboTech Communications|
+|9|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|10|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|43.134.54.210|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|17|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|72.10.160.170|4985|Canada|Montreal|GloboTech Communications|
 
 
 
