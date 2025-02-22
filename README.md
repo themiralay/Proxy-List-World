@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|9|217.52.247.71|1981|Egypt|Cairo|Etisalat Misr|
-|10|27.147.218.18|63680|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|11|54.151.158.181|8888|Singapore|Singapore|Amazon Technologies Inc.|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|15|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
+|1|103.115.20.87|8099|Indonesia|Subang|PMYNET|
+|2|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
+|3|45.174.79.65|999|Mexico|Delicias|Raul Duarte Urita|
+|4|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|72.10.160.170|11943|Canada|Montreal|GloboTech Communications|
+|13|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|14|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
 |16|72.10.160.92|16851|Canada|Montreal|GloboTech Communications|
-|17|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|18|72.10.160.90|1201|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|16851|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
