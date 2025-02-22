@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.86.66|3128|South Korea|Yangju|Korea Telecom|
-|2|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|3|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|4|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
-|5|49.49.3.212|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|8|115.77.166.165|10001|Vietnam|Vũng Tàu|Viettel Group|
-|9|190.60.57.42|3128|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|89.116.27.24|8888|Germany|Düsseldorf|Lrtc Network Rent|
-|13|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|15|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|103.162.37.10|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|17|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|19|103.105.57.64|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
-|20|179.1.203.53|999|Colombia|Bogotá|InterNexa Global Network|
+|2|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|3|38.183.212.14|999|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|103.105.57.64|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|7|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|8|142.171.17.111|8888|United States|Los Angeles|Multacom Corporation|
+|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|11|190.60.57.42|3128|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|12|191.81.246.174|8080|Argentina|Mendoza|Telefonica de Argentina|
+|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|14|202.75.28.115|8080|Indonesia|Tegal|PT. Trans Indonesia Superkoridor|
+|15|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|16|119.95.236.252|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|17|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|18|103.158.96.18|8081|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
 
 
 
