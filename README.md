@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|72.10.160.90|11807|Canada|Montreal|GloboTech Communications|
-|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|181.188.236.18|999|Ecuador|Quito|Otecel S.A.|
-|9|67.43.228.250|16081|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|29897|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.230|23621|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|14|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
-|17|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|18|67.43.236.18|26177|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|6501|Canada|Montreal|GloboTech Communications|
-|20|222.215.137.18|3218|China|Deyang|Chinanet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|67.43.228.250|16081|Canada|Montreal|GloboTech Communications|
+|7|134.90.242.253|8080|Italy|Ragusa|NOVAQUADRI|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|202.51.214.38|8080|Indonesia|Jakarta|PT. Sejahtera Globalindo|
+|10|67.43.227.230|23621|Canada|Montreal|GloboTech Communications|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|121.227.109.46|8089|China|Nanjing|China Telecom|
+|15|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|16|223.205.96.196|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|17|114.214.165.78|10810|China|Hefei|CERNET|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|121.237.165.110|1080|China|Nanjing|Chinanet|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
