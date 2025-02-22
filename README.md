@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|5|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
-|10|208.109.234.211|8080|United States|Tempe|GoDaddy.com, LLC|
-|11|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|86.98.93.9|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|17|45.123.142.100|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|72.10.160.170|26495|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|1611|Canada|Montreal|GloboTech Communications|
+|2|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|181.209.95.205|999|Argentina|Concepción del Bermejo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|8|113.191.244.95|8080|Vietnam|Hanoi|VNPT|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|179.1.95.213|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|190.184.201.130|1987|Colombia|Bogotá|S3wireless Colombia S.A|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|19|49.70.172.194|8089|China|Zhenjiang|Chinanet|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
