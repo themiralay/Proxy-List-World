@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|3|190.97.228.46|465|Venezuela|Caracas|Viginet C.A|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
-|6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|13|125.87.88.187|2324|China|Chongqing|China Telecom|
-|14|118.113.245.212|2324|China|Shanghai|Chinanet|
-|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
-|19|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|20|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|4|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|125.87.88.187|2324|China|Chongqing|China Telecom|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|10|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|11|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|114.80.36.171|3081|China|Shanghai|China Telecom (Group)|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|18|181.198.1.82|8080|Ecuador|Guayaquil|Telconet S.A|
+|19|118.113.245.44|2324|China|Shanghai|Chinanet|
+|20|118.113.245.96|2324|China|Shanghai|Chinanet|
 
 
 
