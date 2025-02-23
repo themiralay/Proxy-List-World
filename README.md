@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4063** proxies at the latest update. Usable proxies are below.
+> Scraper found **4000** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|38|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2163|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|60.188.49.53|1999|China|Taizhou|Chinanet|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|118.113.244.225|2324|China|Shanghai|Chinanet|
-|10|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|103.190.60.29|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|15|222.215.137.18|3218|China|Deyang|Chinanet|
-|16|188.125.169.195|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|18|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|67.43.227.226|31755|Canada|Montreal|GloboTech Communications|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|3|72.10.160.90|10663|Canada|Montreal|GloboTech Communications|
+|4|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|72.10.160.170|20387|Canada|Montreal|GloboTech Communications|
+|9|121.232.181.31|8089|China|Nanjing|Chinanet|
+|10|116.108.1.126|10024|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|67.43.236.18|5989|Canada|Montreal|GloboTech Communications|
+|12|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|13|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|72.10.160.171|32013|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|10663|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|31755|Canada|Montreal|GloboTech Communications|
+|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
