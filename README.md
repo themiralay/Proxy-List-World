@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|203.150.128.187|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|5|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|6|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|8|103.238.232.118|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|109.120.133.187|8080|Sweden|Stockholm|Aeza International LTD|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|14|72.10.160.171|21409|Canada|Montreal|GloboTech Communications|
-|15|180.127.149.252|1080|China|Nanjing|Chinanet|
-|16|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|180.127.149.197|1080|China|Nanjing|Chinanet|
-|20|202.154.18.138|8080|Indonesia|Bojonegoro|DIGITNET|
+|1|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
+|5|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|6|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|7|203.150.128.187|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|202.154.18.180|8090|Indonesia|Bojonegoro|DIGITNET|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|186.96.160.202|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|13|72.10.160.171|14495|Canada|Montreal|GloboTech Communications|
+|14|111.72.197.246|2324|China|Taohua|Chinanet|
+|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|16|125.87.88.187|2324|China|Chongqing|China Telecom|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|168.197.182.138|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|19|49.70.190.218|2324|China|Zhenjiang|Chinanet|
+|20|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
