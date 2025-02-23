@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|67.43.228.251|16727|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.94|11551|Canada|Montreal|GloboTech Communications|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|118.113.247.216|2324|China|Shanghai|Chinanet|
-|13|67.43.236.18|28427|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|28427|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|25637|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|29163|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|17973|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|16727|Canada|Montreal|GloboTech Communications|
-|19|45.163.72.29|3128|Brazil|Jaraguá do Sul|GNET TELECOM SERVIÇOS COMUNICAÇÃO LTDA|
-|20|67.43.236.18|28427|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.125.19.34|8080|Indonesia|Tangerang|JAVAMEDIA|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|5|103.153.62.155|8080|Indonesia|Weleri|IMEDIANET|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|67.43.227.230|17973|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.251|16727|Canada|Montreal|GloboTech Communications|
+|9|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|182.52.216.168|8080|Thailand|Ban Chang|TOT Public Company Limited|
+|11|67.43.236.18|28427|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|67.43.228.251|16727|Canada|Montreal|GloboTech Communications|
+|14|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|15|160.20.165.231|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|19|49.49.188.72|8080|Thailand|Chai Badan|Triple T Broadband Public Company Limited|
+|20|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
 
 
 
