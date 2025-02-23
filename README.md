@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|6|72.10.164.178|21259|Canada|Montreal|GloboTech Communications|
-|7|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.164.178|21259|Canada|Montreal|GloboTech Communications|
-|11|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|67.43.236.20|7339|Canada|Montreal|GloboTech Communications|
-|13|27.189.129.223|8089|China|Langfang|Chinanet|
-|14|72.10.164.178|21259|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.22|22521|Canada|Montreal|GloboTech Communications|
-|16|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|103.83.224.176|8080|Philippines|Malolos|Rise Asia Technology Limited|
+|4|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|102.207.191.18|8080|Kenya|Nairobi|Avitech Solutions LTD|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|189.100.247.109|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|16|72.10.164.178|7717|Canada|Montreal|GloboTech Communications|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 |18|67.43.227.228|25487|Canada|Montreal|GloboTech Communications|
-|19|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|20|190.106.118.221|999|Dominican Republic|Santo Domingo|Estrela Telecom|
+|19|45.226.205.247|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
