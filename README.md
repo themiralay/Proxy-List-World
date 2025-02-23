@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
 |2|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
 |3|103.203.232.73|8080|Indonesia|Kedok|INDANA|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.203.233.144|3125|Indonesia|Kedok|INDANA|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|12|116.108.1.126|10011|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.173|29305|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|25579|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|18351|Canada|Montreal|GloboTech Communications|
-|17|103.153.247.220|8080|Indonesia|Jakarta|PRIMAHOME|
-|18|67.43.228.250|30723|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|26485|Canada|Montreal|GloboTech Communications|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|14|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|160.19.17.36|9898|Indonesia|Bengkalis|PT Media Balai Nusa|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|72.10.160.170|1509|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|18351|Canada|Montreal|GloboTech Communications|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
