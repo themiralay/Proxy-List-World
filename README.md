@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|45.179.166.14|3128|Venezuela|Maracaibo|Tecnoven Services CA|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
 |6|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|9|27.189.129.131|8089|China|Langfang|Chinanet|
-|10|72.10.160.90|16591|Canada|Montreal|GloboTech Communications|
-|11|27.189.130.90|8089|China|Langfang|Chinanet|
-|12|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
-|15|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|182.105.82.38|655|China|Taohua|Chinanet|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|67.43.227.226|29937|Canada|Montreal|GloboTech Communications|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|182.105.82.38|655|China|Taohua|Chinanet|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|166.159.90.56|53281|United States|Chicago|Verizon Business|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
