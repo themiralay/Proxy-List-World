@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|103.155.167.149|8181|Indonesia|Semarang|PT Network Lintas Fiberindo|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|8|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|10|181.209.122.114|999|Argentina|Nueva Lehmann|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|7|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|8|103.171.83.199|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
+|9|27.147.249.17|38947|Bangladesh|Chittagong|Link3 Technologies Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|72.10.160.171|27171|Canada|Montreal|GloboTech Communications|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|103.125.174.5|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|15|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
 |16|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|17|187.32.246.84|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|17|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
 |18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|72.10.160.170|11089|Canada|Montreal|GloboTech Communications|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
