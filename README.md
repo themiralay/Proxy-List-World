@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
 |6|81.90.149.186|3128|Iran|Tehran|Afranet|
 |7|67.43.227.226|6795|Canada|Montreal|GloboTech Communications|
-|8|121.227.109.30|8089|China|Nanjing|China Telecom|
-|9|72.10.164.178|3503|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|19651|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|10485|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3503|Canada|Montreal|GloboTech Communications|
-|13|218.1.197.197|2324|China|Shanghai|China Telecom (Group)|
-|14|114.80.37.192|3081|China|Shanghai|China Telecom (Group)|
-|15|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|17|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|72.10.160.90|10485|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|19723|Canada|Montreal|GloboTech Communications|
+|10|218.1.197.197|2324|China|Shanghai|China Telecom (Group)|
+|11|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|12|72.10.164.178|16153|Canada|Montreal|GloboTech Communications|
+|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|14|202.65.224.133|8080|Indonesia|Jakarta|SpaceX Starlink|
+|15|204.157.122.52|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|18|67.43.228.250|12309|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
