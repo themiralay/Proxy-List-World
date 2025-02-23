@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|27.189.135.163|8089|China|Langfang|Chinanet|
-|4|103.133.60.13|8080|Indonesia|Kedaton|TLINK|
-|5|27.189.128.210|8089|China|Langfang|Chinanet|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
+|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|8|201.47.88.19|3128|Brazil|Maringá|Vivo|
 |9|72.10.164.178|28441|Canada|Montreal|GloboTech Communications|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|12|27.189.135.148|8089|China|Langfang|Chinanet|
-|13|27.189.133.23|8089|China|Langfang|Chinanet|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|116.108.1.126|10036|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|116.108.1.126|10036|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|103.172.71.25|9090|Indonesia|Karawang|AZNET|
-|19|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
+|12|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|16|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|18|125.87.86.178|2324|China|Shanghai|China Telecom|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
 
 
 
