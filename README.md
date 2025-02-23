@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4503** proxies at the latest update. Usable proxies are below.
+> Scraper found **4529** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|26|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|582|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|6|160.19.178.42|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|7|45.163.72.29|3128|Brazil|Jaraguá do Sul|GNET TELECOM SERVIÇOS COMUNICAÇÃO LTDA|
-|8|103.162.37.82|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|9|45.70.197.178|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|10|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|72.10.160.170|22795|Canada|Montreal|GloboTech Communications|
-|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|16|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|157.66.16.69|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|10|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|11|67.43.227.230|12989|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|22795|Canada|Montreal|GloboTech Communications|
+|13|1.32.48.212|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|14|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|103.156.17.56|8181|Indonesia|Jatiwangi|RSTNET|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 |17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|67.43.227.226|5433|Canada|Montreal|GloboTech Communications|
-|19|45.224.117.114|999|Ecuador|Pelileo||
-|20|67.43.227.230|12989|Canada|Montreal|GloboTech Communications|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|125.87.85.155|2324|China|Shanghai|China Telecom|
 
 
 
