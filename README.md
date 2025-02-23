@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|67.43.236.18|14065|Canada|Montreal|GloboTech Communications|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|72.10.164.178|5455|Canada|Montreal|GloboTech Communications|
-|9|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|12|67.43.228.251|6197|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|14713|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|30751|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|15115|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|14065|Canada|Montreal|GloboTech Communications|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|115.178.49.101|8181|Indonesia|Bandung|NOC SIMAYA|
-|19|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|7|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|202.75.28.115|8080|Indonesia|Tegal|PT. Trans Indonesia Superkoridor|
+|9|181.209.122.114|999|Argentina|Nueva Lehmann|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|72.10.164.178|5455|Canada|Montreal|GloboTech Communications|
+|12|49.70.190.251|2324|China|Zhenjiang|Chinanet|
+|13|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|14|38.7.16.85|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|15|72.10.160.170|24561|Canada|Montreal|GloboTech Communications|
+|16|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|17|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|18|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.168.254.33|8080|Indonesia|Kudus|PT Fahasa Tri Data|
 
 
 
