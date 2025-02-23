@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|7|103.163.103.81|1212|Indonesia|Wonogiri|PT Mamura Inter Media|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.75.26.174|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|67.43.236.18|31575|Canada|Montreal|GloboTech Communications|
 |8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|103.36.10.118|7777|Indonesia|Bangil|PT Awinet Global Mandiri|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
-|13|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|14|67.43.236.18|31575|Canada|Montreal|GloboTech Communications|
-|15|27.77.50.61|51067|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
-|16|27.189.131.18|8089|China|Langfang|Chinanet|
-|17|185.255.89.169|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|18|67.43.227.226|14145|Canada|Montreal|GloboTech Communications|
-|19|103.131.219.26|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|11|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|12|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|67.43.236.21|14431|Canada|Montreal|GloboTech Communications|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
