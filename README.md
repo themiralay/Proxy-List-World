@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4405** proxies at the latest update. Usable proxies are below.
+> Scraper found **4343** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|32|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|436|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2698|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|72.10.160.90|24425|Canada|Montreal|GloboTech Communications|
-|11|118.113.247.88|2324|China|Shanghai|Chinanet|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|15|171.248.118.79|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|190.7.57.84|8080|Argentina|Resistencia|Gigared S.A|
-|17|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
-|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|19|59.174.96.201|1234|China|Wuhan|Chinanet|
-|20|105.27.195.194|9812|South Africa|Cape Town|SEACOM Limited|
+|8|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|9|221.228.130.4|8089|China|Nanjing|Chinanet|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|60.188.49.53|1999|China|Taizhou|Chinanet|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|15|67.43.227.226|20145|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|30949|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.230|15071|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|16815|Canada|Montreal|GloboTech Communications|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|72.10.160.171|11219|Canada|Montreal|GloboTech Communications|
 
 
 
