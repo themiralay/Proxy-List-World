@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4042** proxies at the latest update. Usable proxies are below.
+> Scraper found **4081** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|575|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|61|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|378|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2163|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|3|116.108.1.126|10065|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|187.102.221.37|32650|Brazil|São José do Jacuri|Masternet Telecomunicacao Ltda|
-|9|72.10.160.92|26635|Canada|Montreal|GloboTech Communications|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|12|170.205.31.126|3128|United States|Los Angeles|Advin Services LLC|
-|13|101.255.117.194|8095|Indonesia|Jakarta|PT Remala Abadi|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|17|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|18|111.72.197.246|2324|China|Taohua|Chinanet|
-|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|20|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
+|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|3|157.20.100.10|1111|Indonesia|Baekrajan|PT Muria Global Network|
+|4|103.172.197.235|8080|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
+|5|111.72.194.254|2324|China|Taohua|Chinanet|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|103.162.54.121|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|67.43.227.226|15593|Canada|Montreal|GloboTech Communications|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|14|67.43.228.250|7353|Canada|Montreal|GloboTech Communications|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|109.122.242.82|8080|Iran|Tehran|Avini cultural and Art Institute|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
