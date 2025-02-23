@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|98.8.195.160|443|United States|Orlando|Spectrum|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
 |6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|10|201.48.245.198|3128|Brazil|Itajaí|ALGAR TELECOM S/A|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|103.191.250.170|8083|Indonesia|Batam|PT Mulia Batam Net|
-|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|103.187.86.54|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|7|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|12|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|13|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|14|38.7.16.85|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|15|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|16|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|19|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
 
 
 
