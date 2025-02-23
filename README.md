@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
-|11|60.188.49.53|1999|China|Taizhou|Chinanet|
-|12|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
-|13|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
-|14|49.70.190.233|2324|China|Zhenjiang|Chinanet|
-|15|27.189.128.145|8089|China|Langfang|Chinanet|
-|16|72.10.160.90|28747|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|190.2.214.137|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
-|20|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|1|167.71.217.243|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|43.130.46.225|8000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|157.66.37.20|8080|Indonesia|Kalianda|PT Speed Network Indonesia|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|72.10.160.90|28747|Canada|Montreal|GloboTech Communications|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
+|18|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
+|19|202.57.26.150|8888|Indonesia|Bandung|WANET|
+|20|72.10.164.178|8245|Canada|Montreal|GloboTech Communications|
 
 
 
