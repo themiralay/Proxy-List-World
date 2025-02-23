@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|1|98.8.195.160|443|United States|Orlando|Spectrum|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |4|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|10|45.7.65.188|999|Mexico|Tulancingo|Maysnet SA De CV|
-|11|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|209.14.118.114|999|Colombia|Quinchía|AGIS|
-|17|125.87.85.155|2324|China|Shanghai|China Telecom|
-|18|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|71.42.125.220|4444|United States|Leander|Spectrum|
+|15|71.42.125.218|4444|United States|Leander|Spectrum|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|103.76.105.30|8080|Indonesia|Makassar|PT Citra Prima Media|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
