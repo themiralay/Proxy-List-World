@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4321** proxies at the latest update. Usable proxies are below.
+> Scraper found **4330** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|575|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2240|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.158.250.118|8787|Indonesia|Ngrance|VCDNET|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|171.237.119.220|1011|Vietnam|Ninh Bình|Viettel Corporation|
-|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|1|103.158.250.118|8787|Indonesia|Ngrance|VCDNET|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|121.172.221.231|3128|South Korea|Incheon|Korea Telecom|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|179.60.242.78|999|Colombia|Bogotá|ITELKOM|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|187.85.157.210|8080|Argentina|Puerto Iguazú|Ggnet Telecom Backbone|
-|16|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|17|171.4.41.186|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
-|18|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|19|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|20|67.43.236.18|20163|Canada|Montreal|GloboTech Communications|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|27.124.75.2|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|72.10.160.171|10159|Canada|Montreal|GloboTech Communications|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|67.43.228.252|7235|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|11257|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|11823|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|20875|Canada|Montreal|GloboTech Communications|
 
 
 
