@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.107.198.11|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|2|95.216.115.174|40155|Finland|Helsinki|Hetzner Online GmbH|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|114.9.27.178|10001|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|11|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|12|49.73.4.98|8089|China|Nanjing|China Telecom|
-|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.227.230|30005|Canada|Montreal|GloboTech Communications|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|121.232.181.132|8089|China|Nanjing|Chinanet|
-|20|27.189.130.118|8089|China|Langfang|Chinanet|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|4|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|7|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|47.245.58.106|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|38.156.75.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|17|72.10.164.178|23543|Canada|Montreal|GloboTech Communications|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|72.10.160.90|13399|Canada|Montreal|GloboTech Communications|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
