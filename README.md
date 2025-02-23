@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|3|101.255.148.114|8080|Indonesia|Jakarta|PT Remala Abadi|
-|4|101.109.18.5|8080|Thailand|Kabin Buri|TOT Public Company Limited|
-|5|182.53.22.106|8080|Thailand|Si Racha|TOT Public Company Limited|
-|6|182.105.82.38|655|China|Taohua|Chinanet|
-|7|157.100.63.90|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|8|121.227.146.102|8089|China|Nanjing|China Telecom|
-|9|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|218.1.197.19|2324|China|Shanghai|China Telecom (Group)|
-|11|45.224.96.249|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|13|72.10.164.178|26551|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|9417|Canada|Montreal|GloboTech Communications|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|180.114.96.98|8089|China|Nanjing|Chinanet|
-|17|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|67.43.228.250|21671|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|103.169.132.38|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|103.153.62.155|8080|Indonesia|Weleri|IMEDIANET|
+|17|101.255.208.61|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|103.156.75.130|1111|Indonesia|Gianyar|PT Trika Global Media|
 
 
 
