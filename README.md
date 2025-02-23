@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|45|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|45|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|45|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.109.53.3|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |4|72.10.160.91|30253|Canada|Montreal|GloboTech Communications|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|72.10.160.174|19237|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|16641|Canada|Montreal|GloboTech Communications|
-|9|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|116.108.1.126|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|27.189.134.91|8089|China|Langfang|Chinanet|
-|13|117.85.108.196|8089|China|Nanjing|Chinanet|
-|14|223.206.79.212|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|15|67.43.227.227|28193|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|13197|Canada|Montreal|GloboTech Communications|
-|17|118.113.244.32|2324|China|Shanghai|Chinanet|
-|18|122.54.151.122|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|27.189.128.200|8089|China|Langfang|Chinanet|
-|20|118.113.247.201|2324|China|Shanghai|Chinanet|
+|6|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
+|7|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|8|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|9|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|10|91.92.213.58|8080|Iran|Tehran|TIC|
+|11|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
+|12|157.20.98.74|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
+|13|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|18|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
+|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|20|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
 
 
 
