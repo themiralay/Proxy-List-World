@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|203.150.128.187|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|6|190.97.228.46|465|Venezuela|Caracas|Viginet C.A|
-|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|13|14.29.116.148|727|China|Guangzhou|Chinanet|
-|14|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|109.120.133.187|8080|Sweden|Stockholm|Aeza International LTD|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|12|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|116.108.1.126|10038|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|103.157.24.149|8080|Indonesia|Depok|PT Dapur Remaja Multi Sarana|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
