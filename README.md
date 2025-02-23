@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4302** proxies at the latest update. Usable proxies are below.
+> Scraper found **4259** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|305|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2180|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|66.42.54.130|3129|Singapore|Singapore|SGP VULTR|
+|3|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
 |4|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|66.42.54.130|3129|Singapore|Singapore|SGP VULTR|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.151.227.74|8080|Indonesia|Bandung|URBANACCESS|
+|8|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|10|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|11|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|12|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
 |13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
-|15|177.93.59.228|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|16|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|17|72.10.160.91|4155|Canada|Montreal|GloboTech Communications|
-|18|117.44.64.85|655|China|Taohua|Chinanet|
-|19|180.191.39.121|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|72.10.160.172|7633|Canada|Montreal|GloboTech Communications|
+|14|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|15|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|16|121.227.109.52|8089|China|Nanjing|China Telecom|
+|17|118.113.244.220|2324|China|Shanghai|Chinanet|
+|18|67.43.228.251|13533|Canada|Montreal|GloboTech Communications|
+|19|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|20|67.43.228.250|9381|Canada|Montreal|GloboTech Communications|
 
 
 
