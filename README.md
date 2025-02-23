@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|3|34.170.123.116|3128|United States|Council Bluffs|Google LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|156.244.32.223|3128|Colombia|Bogotá|Kaopu Cloud HK Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.189.131.26|8089|China|Langfang|Chinanet|
-|8|67.43.228.250|31405|Canada|Montreal|GloboTech Communications|
-|9|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
-|10|118.113.244.117|2324|China|Shanghai|Chinanet|
-|11|67.43.228.250|31405|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|16777|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|16777|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|19681|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|16777|Canada|Montreal|GloboTech Communications|
-|16|118.113.247.153|2324|China|Shanghai|Chinanet|
-|17|72.10.160.170|11403|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|11403|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|31405|Canada|Montreal|GloboTech Communications|
-|20|201.150.119.171|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
+|2|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|3|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|4|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|103.76.105.30|8080|Indonesia|Makassar|PT Citra Prima Media|
+|7|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|67.43.228.250|4575|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|26755|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|19681|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|4575|Canada|Montreal|GloboTech Communications|
+|15|103.138.185.1|83|India|Chittorgarh|Mahrth Internet Service Private Limited|
+|16|187.49.83.164|8286|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|17|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|171.5.137.133|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
 
 
 
