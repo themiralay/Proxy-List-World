@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|66.42.54.130|3129|Singapore|Singapore|SGP VULTR|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
 |4|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|103.151.227.74|8080|Indonesia|Bandung|URBANACCESS|
-|8|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|11|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|12|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|15|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|16|121.227.109.52|8089|China|Nanjing|China Telecom|
-|17|118.113.244.220|2324|China|Shanghai|Chinanet|
-|18|67.43.228.251|13533|Canada|Montreal|GloboTech Communications|
-|19|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|20|67.43.228.250|9381|Canada|Montreal|GloboTech Communications|
+|5|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|41.57.15.51|6060|South Africa|Centurion|Screamer Telecommunications|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
+|13|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
+|14|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|124.121.87.72|8080|Thailand|Bangkok|TRUEBB|
+|18|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|19|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|20|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
 
 
 
