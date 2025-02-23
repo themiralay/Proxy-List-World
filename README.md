@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|4|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|13|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|14|67.43.227.226|3401|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|5265|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|13991|Canada|Montreal|GloboTech Communications|
 |17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|67.43.227.226|3401|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|13991|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|5265|Canada|Montreal|GloboTech Communications|
+|18|8.242.178.190|999|Colombia|Santiago de Cali|CTL Colombia|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
