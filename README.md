@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|1|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |3|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|4|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|6|72.10.160.170|3995|Canada|Montreal|GloboTech Communications|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|67.43.227.226|15227|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|3995|Canada|Montreal|GloboTech Communications|
-|10|93.127.202.226|3128|France|Paris|Hostinger International Limited|
-|11|67.43.228.250|9781|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|13427|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|19373|Canada|Montreal|GloboTech Communications|
-|14|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|15|124.107.220.55|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
+|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|203.150.128.177|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|14|72.10.160.170|28259|Canada|Montreal|GloboTech Communications|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
+|18|67.43.227.226|2529|Canada|Montreal|GloboTech Communications|
+|19|45.236.215.111|60955|Brazil|Querência|Ativa Telecom Ltda|
+|20|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
 
 
 
