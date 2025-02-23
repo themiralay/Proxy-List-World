@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.178.42|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|2|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|179.99.114.7|8080|Brazil|São Paulo|Vivo|
-|4|103.162.37.82|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|5|200.41.170.212|11201|Argentina|Buenos Aires|Telefonica de Argentina|
-|6|125.87.91.238|2324|China|Chongqing|China Telecom|
-|7|67.43.236.18|26229|Canada|Montreal|GloboTech Communications|
-|8|111.72.128.4|2324|China|Taohua|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|67.43.228.250|1173|Canada|Montreal|GloboTech Communications|
-|11|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|10|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|101.255.166.134|1111|Indonesia|Jakarta|PT Remala Abadi|
-|17|180.114.96.93|8089|China|Nanjing|Chinanet|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|14|160.22.118.150|39030|Vietnam|An Hải|Sandclock Service Trading Company Limited|
+|15|67.43.236.18|26229|Canada|Montreal|GloboTech Communications|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.227.227|27477|Canada|Montreal|GloboTech Communications|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
