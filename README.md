@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|167.71.217.243|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|38.41.4.206|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|2|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|67.43.227.226|17285|Canada|Montreal|GloboTech Communications|
-|8|45.159.65.98|8080|United Kingdom|London|G.Network Communications Limited|
-|9|67.43.236.18|19537|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|10119|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|25039|Canada|Montreal|GloboTech Communications|
-|12|122.3.77.27|8082|Philippines|Cabanatuan City|Philippine Long Distance Telephone Co.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|67.43.228.250|25039|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|19063|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|26931|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|24039|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|3071|Canada|Montreal|GloboTech Communications|
-|20|116.108.1.126|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|6|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|7|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|10|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|103.151.223.203|8080|Indonesia|Bangkinang|CMEDIANET|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
+|19|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
