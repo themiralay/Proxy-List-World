@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|49.70.190.251|2324|China|Zhenjiang|Chinanet|
-|7|72.10.164.178|23791|Canada|Montreal|GloboTech Communications|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|8|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
 |10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|12|118.113.244.220|2324|China|Shanghai|Chinanet|
-|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|27.189.132.207|8089|China|Langfang|Chinanet|
-|15|72.10.160.170|7819|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|67.43.236.22|30971|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|28829|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23791|Canada|Montreal|GloboTech Communications|
+|11|202.5.37.104|17382|Bangladesh|Chittagong|BBTS-NEW|
+|12|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|16|67.43.236.18|31503|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|28829|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.21|19805|Canada|Montreal|GloboTech Communications|
+|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|20|72.10.164.178|23879|Canada|Montreal|GloboTech Communications|
 
 
 
