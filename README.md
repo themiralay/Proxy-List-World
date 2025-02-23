@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.58.106|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|60.188.49.53|1999|China|Taizhou|Chinanet|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|103.131.232.5|8080|Australia|Goulburn|YLess4U Pty Ltd|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|157.15.80.32|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|17|114.9.27.178|10001|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|72.10.164.178|30771|Canada|Montreal|GloboTech Communications|
-|19|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|20|116.108.1.126|10059|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|12|49.70.190.218|2324|China|Zhenjiang|Chinanet|
+|13|113.200.168.238|1082|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
+|14|103.209.187.98|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|72.10.160.90|23049|Canada|Montreal|GloboTech Communications|
+|17|77.37.132.129|8080|Russia|Moscow|NCNET|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
 
 
 
