@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.53.22.106|8080|Thailand|Si Racha|TOT Public Company Limited|
-|2|157.20.244.64|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|3|101.109.18.5|8080|Thailand|Kabin Buri|TOT Public Company Limited|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|1|101.109.18.5|8080|Thailand|Kabin Buri|TOT Public Company Limited|
+|2|182.53.22.106|8080|Thailand|Si Racha|TOT Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|118.113.244.238|2324|China|Shanghai|Chinanet|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|67.43.236.18|32985|Canada|Montreal|GloboTech Communications|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|116.108.1.126|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
-|16|72.10.160.90|10801|Canada|Montreal|GloboTech Communications|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|19|14.17.80.4|5308|China|Guangzhou|Chinanet|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|111.72.197.246|2324|China|Taohua|Chinanet|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|111.72.194.254|2324|China|Taohua|Chinanet|
+|17|190.94.213.211|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|20|103.180.123.19|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
