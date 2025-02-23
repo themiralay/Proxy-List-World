@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|27.189.129.235|8089|China|Langfang|Chinanet|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|9|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|10|72.10.164.178|26363|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|29121|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|11339|Canada|Montreal|GloboTech Communications|
-|13|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|14|103.172.121.26|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
-|15|72.10.160.92|18699|Canada|Montreal|GloboTech Communications|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.91|11425|Canada|Montreal|GloboTech Communications|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|20|111.72.196.200|2324|China|Taohua|Chinanet|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|8|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|9|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|42.81.223.38|7890|China|Youyilu|Tianjij, |
+|12|49.49.188.72|8080|Thailand|Chai Badan|Triple T Broadband Public Company Limited|
+|13|67.43.228.250|32745|Canada|Montreal|GloboTech Communications|
+|14|156.155.29.118|8080|South Africa|Port Elizabeth|AxxessNetworks|
+|15|38.252.213.35|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|16|72.10.160.91|11425|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|22719|Canada|Montreal|GloboTech Communications|
+|18|114.80.37.192|3081|China|Shanghai|China Telecom (Group)|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
