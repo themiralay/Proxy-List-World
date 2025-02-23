@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|101.108.112.124|8080|Thailand|Bangkok|TOT Public Company Limited|
 |2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|5|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|72.10.160.170|14581|Canada|Montreal|GloboTech Communications|
-|9|118.113.246.164|2324|China|Shanghai|Chinanet|
-|10|67.43.228.251|25335|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|18213|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|26109|Canada|Montreal|GloboTech Communications|
-|13|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
-|14|72.10.160.91|31583|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|8167|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|14581|Canada|Montreal|GloboTech Communications|
-|17|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|18|72.10.160.171|11219|Canada|Montreal|GloboTech Communications|
-|19|118.113.244.85|2324|China|Shanghai|Chinanet|
-|20|67.43.236.18|31333|Canada|Montreal|GloboTech Communications|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|72.10.160.90|29701|Canada|Montreal|GloboTech Communications|
+|7|118.113.244.85|2324|China|Shanghai|Chinanet|
+|8|118.113.244.251|2324|China|Shanghai|Chinanet|
+|9|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|10|61.218.155.200|44901|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|11|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
+|12|118.113.246.164|2324|China|Shanghai|Chinanet|
+|13|72.10.160.174|16845|Canada|Montreal|GloboTech Communications|
+|14|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
+|15|67.43.227.230|26109|Canada|Montreal|GloboTech Communications|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|72.10.160.91|31583|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|26435|Canada|Montreal|GloboTech Communications|
 
 
 
