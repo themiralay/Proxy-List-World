@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4382** proxies at the latest update. Usable proxies are below.
+> Scraper found **4410** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|461|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|269|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2702|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.41.4.206|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|2|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|6|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|7|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|10|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|103.151.223.203|8080|Indonesia|Bangkinang|CMEDIANET|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|18|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
-|19|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
-|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.189.129.235|8089|China|Langfang|Chinanet|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|9|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|10|72.10.164.178|26363|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|29121|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|11339|Canada|Montreal|GloboTech Communications|
+|13|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
+|14|103.172.121.26|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
+|15|72.10.160.92|18699|Canada|Montreal|GloboTech Communications|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|72.10.160.91|11425|Canada|Montreal|GloboTech Communications|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|20|111.72.196.200|2324|China|Taohua|Chinanet|
 
 
 
