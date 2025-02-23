@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|203.150.128.149|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|12|72.10.160.170|5065|Canada|Montreal|GloboTech Communications|
-|13|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|103.186.91.29|8080|Indonesia|Guyangan|PT Akses Data Internusa|
-|15|72.10.160.90|28081|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|219.92.203.20|8080|Malaysia|Kuala Lumpur|TMnet|
-|18|125.87.92.158|2324|China|Chongqing|China Telecom|
-|19|103.137.179.180|8080|Philippines|Yapak|Paradise Cable Television Network|
-|20|45.159.65.98|3128|United Kingdom|London|G.Network Communications Limited|
+|1|203.150.128.149|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.158.250.118|8787|Indonesia|Ngrance|VCDNET|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|5.138.132.55|3128|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|6|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|159.89.239.166|18091|United States|North Bergen|DigitalOcean, LLC|
+|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|45.159.65.98|3128|United Kingdom|London|G.Network Communications Limited|
+|12|45.159.65.98|3128|United Kingdom|London|G.Network Communications Limited|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|67.43.228.250|31903|Canada|Montreal|GloboTech Communications|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
