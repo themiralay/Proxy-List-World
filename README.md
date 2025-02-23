@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.133.26.103|8082|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|72.10.160.90|25091|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|28397|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|21363|Canada|Montreal|GloboTech Communications|
-|17|27.189.128.239|8089|China|Langfang|Chinanet|
-|18|72.10.160.90|25091|Canada|Montreal|GloboTech Communications|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|72.10.164.178|28579|Canada|Montreal|GloboTech Communications|
+|1|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|15|103.172.70.47|1111|Indonesia|Karawang|AZNET|
+|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|210.79.30.193|8080|Australia|Sydney|Australia Power Control Systems|
+|20|125.87.91.255|2324|China|Chongqing|China Telecom|
 
 
 
