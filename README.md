@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|5|185.88.154.247|8585|Iran|Tehran|Parsian High Tech Company PJSC|
-|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|49.70.190.211|2324|China|Zhenjiang|Chinanet|
-|9|103.242.106.119|8080|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|12|45.188.124.106|999|Mexico|Lagunillas|Digy Networks S.A De C.V.|
-|13|103.139.98.159|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|210.5.104.126|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|103.99.27.189|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|19|14.17.80.4|5308|China|Guangzhou|Chinanet|
-|20|27.189.135.137|8089|China|Langfang|Chinanet|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|122.3.77.27|8082|Philippines|Cabanatuan City|Philippine Long Distance Telephone Co.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|67.43.236.18|1677|Canada|Montreal|GloboTech Communications|
+|18|91.121.106.55|4444|France|Roubaix|OVH SAS|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 
 
 
