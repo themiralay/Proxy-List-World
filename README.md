@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|3|14.29.116.148|727|China|Guangzhou|Chinanet|
-|4|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|5|154.64.219.61|8888|United States|Jacksonville|OSNET Wireless|
-|6|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|9|67.43.228.250|10387|Canada|Montreal|GloboTech Communications|
-|10|49.84.175.92|8089|China|Nanjing|China Telecom|
-|11|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|12|202.178.127.182|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|67.43.236.19|23899|Canada|Montreal|GloboTech Communications|
-|18|112.64.155.147|1088|China|Shanghai|China Unicom CHINA169 Shanghai Province Network|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|1|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|2|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|3|121.101.133.81|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|8|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|209.126.15.81|3128|United States|St Louis|Nubes, LLC|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|16|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|17|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
 
 
 
