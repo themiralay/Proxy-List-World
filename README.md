@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.26.97.183|8080|Thailand|Krathum Baen|TOT Public Company Limited|
-|2|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|6|72.10.160.170|25727|Canada|Montreal|GloboTech Communications|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|67.43.227.226|2547|Canada|Montreal|GloboTech Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|103.192.174.57|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
-|16|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|18|67.43.236.18|23613|Canada|Montreal|GloboTech Communications|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|60.188.49.53|1999|China|Taizhou|Chinanet|
+|1|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|125.26.97.183|8080|Thailand|Krathum Baen|TOT Public Company Limited|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|116.254.99.120|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|111.72.194.254|2324|China|Taohua|Chinanet|
+|20|103.192.174.57|1080|Indonesia|Bandung|PT JKB Telematika Indonesia|
 
 
 
