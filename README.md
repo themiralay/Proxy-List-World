@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|2|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|72.10.160.170|15561|Canada|Montreal|GloboTech Communications|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|7|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|8|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|9|103.172.70.47|1111|Indonesia|Karawang|AZNET|
-|10|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|15561|Canada|Montreal|GloboTech Communications|
-|12|185.198.2.113|11223|Poland|Osjaków|Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS|
-|13|27.189.129.253|8089|China|Langfang|Chinanet|
-|14|179.1.129.70|8080|Colombia|Bogotá|InterNexa Global Network|
-|15|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.91|27477|Canada|Montreal|GloboTech Communications|
-|18|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
-|19|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|20|67.43.228.250|26185|Canada|Montreal|GloboTech Communications|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|51.222.32.193|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|223.204.53.108|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|113.90.238.31|1088|China|Shenzhen|Chinanet|
+|10|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|14|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|15|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|19|27.74.11.34|5103|Vietnam|Long An|Newass2011xDSLHN|
+|20|64.176.6.165|13920|Chile|Santiago|The Constant Company|
 
 
 
