@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|72.10.164.178|26551|Canada|Montreal|GloboTech Communications|
-|5|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|8|72.10.160.170|22217|Canada|Montreal|GloboTech Communications|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|118.113.244.84|2324|China|Shanghai|Chinanet|
-|11|72.10.160.170|22217|Canada|Montreal|GloboTech Communications|
-|12|157.66.51.80|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|13|103.156.16.58|8181|Indonesia|Pamanukan|RSTNET|
-|14|103.242.105.111|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|15|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|72.10.160.90|23577|Canada|Montreal|GloboTech Communications|
+|1|151.80.199.88|3128|France|Roubaix|OVH SAS|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|6|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|118.113.244.84|2324|China|Shanghai|Chinanet|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|157.66.51.80|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|12|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.236.18|24893|Canada|Montreal|GloboTech Communications|
+|14|91.196.169.251|65432|The Netherlands|Zoetermeer|Rijndata B.V. IP Infrastructure|
+|15|72.10.160.170|22217|Canada|Montreal|GloboTech Communications|
+|16|118.113.247.194|2324|China|Shanghai|Chinanet|
 |17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
-|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|72.10.164.178|26551|Canada|Montreal|GloboTech Communications|
 
 
 
