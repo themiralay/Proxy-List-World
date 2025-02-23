@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|72.10.160.172|14085|Canada|Montreal|GloboTech Communications|
-|14|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|67.43.227.226|12619|Canada|Montreal|GloboTech Communications|
-|16|118.113.246.82|2324|China|Shanghai|Chinanet|
-|17|72.10.160.90|19183|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|19183|Canada|Montreal|GloboTech Communications|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|118.113.244.84|2324|China|Shanghai|Chinanet|
+|1|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|3|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|4|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|118.113.244.117|2324|China|Shanghai|Chinanet|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|72.10.160.172|14085|Canada|Montreal|GloboTech Communications|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|72.10.160.90|17639|Canada|Montreal|GloboTech Communications|
+|13|118.113.244.84|2324|China|Shanghai|Chinanet|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|67.43.227.226|15827|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|17639|Canada|Montreal|GloboTech Communications|
+|17|222.215.137.18|3218|China|Deyang|Chinanet|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.10.160.170|24561|Canada|Montreal|GloboTech Communications|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
