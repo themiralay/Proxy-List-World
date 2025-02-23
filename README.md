@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|5|27.189.133.15|8089|China|Langfang|Chinanet|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|67.43.227.226|1281|Canada|Montreal|GloboTech Communications|
-|10|121.232.181.186|8089|China|Nanjing|Chinanet|
-|11|77.221.135.56|3128|United States|Middletown|Closed Joint Stock Company "AbkhazMedia"|
-|12|67.43.228.250|13157|Canada|Montreal|GloboTech Communications|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|72.10.160.90|14049|Canada|Montreal|GloboTech Communications|
-|15|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|114.218.167.30|8089|China|Nanjing|China Telecom|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|1.20.198.191|3128|Thailand|Bangkok|TOT Public Company Limited|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|157.66.16.69|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|103.169.255.201|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|110.137.24.126|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|67.43.227.226|1281|Canada|Montreal|GloboTech Communications|
 
 
 
