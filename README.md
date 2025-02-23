@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|43.130.46.225|8000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|116.108.1.126|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|67.43.236.21|24865|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|72.10.164.178|20019|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.228.252|27299|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|20019|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|72.10.160.93|24775|Canada|Montreal|GloboTech Communications|
+|9|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|67.43.228.250|10799|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|81.90.149.186|3128|Iran|Tehran|Afranet|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|72.10.164.178|25477|Canada|Montreal|GloboTech Communications|
 
 
 
