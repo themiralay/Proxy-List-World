@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|7|67.43.228.251|18387|Canada|Montreal|GloboTech Communications|
-|8|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
-|9|72.10.160.90|10525|Canada|Montreal|GloboTech Communications|
-|10|110.188.37.232|2324|China|Muping|Chinanet|
-|11|121.224.156.177|8089|China|Nanjing|China Telecom|
-|12|67.43.236.20|32365|Canada|Montreal|GloboTech Communications|
-|13|117.81.127.241|8089|China|Nanjing|China Telecom|
-|14|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
-|15|185.255.89.169|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|16|218.85.5.108|597|China|Fuzhou|Chinanet|
-|17|201.150.119.171|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
-|18|121.224.156.153|8089|China|Nanjing|China Telecom|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|4|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|5|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|72.10.160.90|18707|Canada|Montreal|GloboTech Communications|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|67.43.236.20|7319|Canada|Montreal|GloboTech Communications|
+|9|49.48.97.21|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|12|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|13|67.43.236.18|22835|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|72.10.160.90|18707|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|5413|Canada|Montreal|GloboTech Communications|
+|18|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
