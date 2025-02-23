@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3883** proxies at the latest update. Usable proxies are below.
+> Scraper found **3937** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|534|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|241|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2147|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|101.109.53.3|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|36.90.24.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|14.17.80.4|5308|China|Guangzhou|Chinanet|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|178.252.177.33|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
-|20|90.156.196.155|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|2|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|3|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|5|38.7.131.18|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|27.189.134.89|8089|China|Langfang|Chinanet|
+|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|13|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|16|67.43.228.250|23377|Canada|Montreal|GloboTech Communications|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|67.43.228.250|23377|Canada|Montreal|GloboTech Communications|
+|19|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|20|67.43.236.20|30267|Canada|Montreal|GloboTech Communications|
 
 
 
