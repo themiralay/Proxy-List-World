@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |4|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|5|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|8|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|67.43.236.20|27017|Canada|Montreal|GloboTech Communications|
-|11|186.96.160.204|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|12|101.108.112.124|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|67.43.228.250|20443|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|20443|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|20443|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|31581|Canada|Montreal|GloboTech Communications|
-|17|181.225.78.57|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|72.10.164.178|2419|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|30343|Canada|Montreal|GloboTech Communications|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|67.43.228.250|20443|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.250|20443|Canada|Montreal|GloboTech Communications|
+|8|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|67.43.228.250|20443|Canada|Montreal|GloboTech Communications|
+|10|182.253.38.179|3128|Indonesia|Jakarta|BIZNET|
+|11|103.105.126.26|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|72.10.164.178|16425|Canada|Montreal|GloboTech Communications|
+|14|103.36.10.223|8080|Indonesia|Bangil|PT Awinet Global Mandiri|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|60.188.49.53|1999|China|Taizhou|Chinanet|
+|17|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
+|20|67.43.227.226|9675|Canada|Montreal|GloboTech Communications|
 
 
 
