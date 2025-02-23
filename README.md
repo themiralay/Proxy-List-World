@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
-|7|72.10.160.170|23459|Canada|Montreal|GloboTech Communications|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|72.10.160.170|32225|Canada|Montreal|GloboTech Communications|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|103.147.246.189|3127|Indonesia|Tangerang|PLBNET|
 |9|8.242.178.190|999|Colombia|Santiago de Cali|CTL Colombia|
-|10|67.43.227.227|28021|Canada|Montreal|GloboTech Communications|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|72.10.160.90|30209|Canada|Montreal|GloboTech Communications|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|72.10.164.178|19793|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|23655|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19793|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.22|30193|Canada|Montreal|GloboTech Communications|
-|18|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|19|67.43.236.18|30193|Canada|Montreal|GloboTech Communications|
-|20|27.189.135.224|8089|China|Langfang|Chinanet|
+|10|160.20.165.230|8587|Ecuador|Naranjal|Ufinet Panama S.A.|
+|11|67.43.227.227|28021|Canada|Montreal|GloboTech Communications|
+|12|203.175.102.22|8082|Indonesia|Sukasari|PT. Mitra Kita Brilian|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|20|67.43.227.226|13971|Canada|Montreal|GloboTech Communications|
 
 
 
