@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|8|180.125.186.190|1080|China|Nanjing|Chinanet|
-|9|67.43.236.18|17515|Canada|Montreal|GloboTech Communications|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|72.10.160.170|11339|Canada|Montreal|GloboTech Communications|
-|13|112.64.155.147|1088|China|Shanghai|China Unicom CHINA169 Shanghai Province Network|
-|14|72.10.160.94|11159|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|17515|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|17515|Canada|Montreal|GloboTech Communications|
-|17|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
-|18|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|19|14.39.239.241|58080|South Korea|Eunpyeong-gu|Korea Telecom|
-|20|67.43.236.21|13213|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|11|60.188.49.53|1999|China|Taizhou|Chinanet|
+|12|89.104.102.209|58080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|67.43.236.18|4007|Canada|Montreal|GloboTech Communications|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|45.159.65.98|8080|United Kingdom|London|G.Network Communications Limited|
+|20|67.43.236.18|4007|Canada|Montreal|GloboTech Communications|
 
 
 
