@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|103.93.176.70|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
-|6|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|15|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
-|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|19|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|20|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|11|113.160.210.180|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|103.93.176.70|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|16|61.143.203.163|10007|China|Guangzhou|Chinanet|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|19|117.68.110.16|9443|China|Hefei|China Telecom|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
