@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4176** proxies at the latest update. Usable proxies are below.
+> Scraper found **4163** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|409|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2163|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.18.5|8080|Thailand|Kabin Buri|TOT Public Company Limited|
-|2|182.53.22.106|8080|Thailand|Si Racha|TOT Public Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|101.255.148.114|8080|Indonesia|Jakarta|PT Remala Abadi|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|182.53.22.106|8080|Thailand|Si Racha|TOT Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|51.91.76.186|8080|France|Roubaix|OVH SAS|
+|7|101.109.18.5|8080|Thailand|Kabin Buri|TOT Public Company Limited|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|103.125.16.103|8080|Indonesia|Tangerang|JAVAMEDIA|
 |11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|111.72.197.246|2324|China|Taohua|Chinanet|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|61.76.102.64|3087|South Korea|Ulju-gun|Korea Telecom|
 |14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|111.72.194.254|2324|China|Taohua|Chinanet|
-|17|190.94.213.211|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|103.180.123.19|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|15|223.70.126.84|3128|China|Beijing|China Mobile communications corporation|
+|16|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|17|103.39.49.100|9090|Indonesia|Cirebon|PT. Mega Mentari Mandiri|
+|18|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.227.226|1645|Canada|Montreal|GloboTech Communications|
+|20|118.113.244.225|2324|China|Shanghai|Chinanet|
 
 
 
