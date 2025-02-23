@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|187.102.221.37|32650|Brazil|São José do Jacuri|Masternet Telecomunicacao Ltda|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|3|116.108.1.126|10065|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|72.10.160.92|26635|Canada|Montreal|GloboTech Communications|
-|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|9|115.245.46.172|8080|India|Visakhapatnam|Reliance Jio Infocomm Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
-|13|60.188.49.53|1999|China|Taizhou|Chinanet|
-|14|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|187.102.221.37|32650|Brazil|São José do Jacuri|Masternet Telecomunicacao Ltda|
+|9|72.10.160.92|26635|Canada|Montreal|GloboTech Communications|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|12|170.205.31.126|3128|United States|Los Angeles|Advin Services LLC|
+|13|101.255.117.194|8095|Indonesia|Jakarta|PT Remala Abadi|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|49.70.190.218|2324|China|Zhenjiang|Chinanet|
+|17|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|111.72.197.246|2324|China|Taohua|Chinanet|
+|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|20|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
 
 
 
