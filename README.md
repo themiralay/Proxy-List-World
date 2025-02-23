@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|45.179.166.14|3128|Venezuela|Maracaibo|Tecnoven Services CA|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |4|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|8|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|187.72.132.170|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|121.172.221.231|3128|South Korea|Incheon|Korea Telecom|
-|14|171.246.83.236|4007|Vietnam|Can Tho|Viettel Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|18|118.113.245.134|2324|China|Shanghai|Chinanet|
-|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|20|125.87.81.135|2324|China|Chongqing|China Telecom|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|200.125.169.142|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|7|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
+|10|49.51.244.112|8888|United States|Santa Clara|OPHL|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|118.113.245.44|2324|China|Shanghai|Chinanet|
+|13|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|14|125.87.80.200|2324|China|Chongqing|China Telecom|
+|15|103.160.202.194|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|16|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
