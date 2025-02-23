@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|4|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|72.10.160.170|7889|Canada|Montreal|GloboTech Communications|
-|7|103.155.65.71|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|11|222.68.40.176|2324|China|Shanghai|China Telecom (Group)|
-|12|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|14|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|15|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|16|116.108.1.126|10065|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|67.43.236.21|3229|Canada|Montreal|GloboTech Communications|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|20|67.43.227.226|3641|Canada|Montreal|GloboTech Communications|
+|1|203.150.128.187|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|103.163.103.238|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|182.253.123.250|8087|Indonesia|Bandung|BIZNET|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|91.239.17.22|8080|Russia|Ulyanovsk|Telecom.ru Ltd|
+|13|72.10.160.170|7889|Canada|Montreal|GloboTech Communications|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|112.201.191.192|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|67.43.236.21|3229|Canada|Montreal|GloboTech Communications|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
