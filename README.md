@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.142.78.197|8080|Indonesia|Jakarta|BIZNET|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
 |3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|5|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|202.176.1.25|4343|India|Ballia|RailTel Corporation|
-|11|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|12|117.68.110.16|9443|China|Hefei|China Telecom|
-|13|116.108.1.126|10052|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|67.43.236.18|25579|Canada|Montreal|GloboTech Communications|
-|16|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|20|111.72.130.77|2324|China|Taohua|Chinanet|
+|4|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|7|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|10|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|103.169.255.197|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|190.110.98.204|999|Chile|Santa Cruz|Silica Networks Argentina S.A.|
+|15|103.183.10.169|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|19|103.76.105.30|8080|Indonesia|Makassar|PT Citra Prima Media|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
