@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.242.178.190|999|Colombia|Santiago de Cali|CTL Colombia|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|116.108.1.126|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|72.10.160.170|12805|Canada|Montreal|GloboTech Communications|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|72.10.160.170|12805|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.91|23549|Canada|Montreal|GloboTech Communications|
+|10|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|11|45.236.215.111|60955|Brazil|Querência|Ativa Telecom Ltda|
 |12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|27.189.130.104|8089|China|Langfang|Chinanet|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
 |14|72.10.160.91|23549|Canada|Montreal|GloboTech Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
-|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|18|72.10.160.170|12805|Canada|Montreal|GloboTech Communications|
-|19|222.68.39.162|2324|China|Shanghai|China Telecom (Group)|
-|20|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|72.10.160.90|21063|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|21063|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|14407|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|26531|Canada|Montreal|GloboTech Communications|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
