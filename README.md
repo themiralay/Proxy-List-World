@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.105.76.214|9090|Indonesia|Ngoro|GARUDA|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|18|180.105.244.218|1080|China|Nanjing|Chinanet|
-|19|180.105.244.214|1080|China|Nanjing|Chinanet|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|72.10.164.178|20237|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|22015|Canada|Montreal|GloboTech Communications|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|16|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|17|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
