@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.82.36.159|21503|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|4|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|5|186.96.31.46|7070|Mexico|Guadalajara|Total Play Telecomunicaciones SA De CV|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|38.194.250.66|999|Mexico|Jerécuaro|Ientc S De RL De CV|
-|9|103.234.35.152|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|58.136.169.187|8080|Thailand|Bangkok|AIS-Fibre|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|67.43.228.253|5861|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.94|24293|Canada|Montreal|GloboTech Communications|
-|13|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|184.82.52.220|8080|Thailand|Khon Kaen|AIS-Fibre|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|14.29.116.148|727|China|Guangzhou|Chinanet|
 |15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|27.189.132.16|8089|China|Langfang|Chinanet|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|204.199.140.23|999|Chile|Santiago|Ingbell Chile SPA|
+|17|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|18|72.10.160.91|25527|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|7239|Canada|Montreal|GloboTech Communications|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
