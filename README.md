@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|218.187.64.35|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|103.44.19.196|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|2|101.255.150.57|8089|Indonesia|Jakarta|PT Remala Abadi|
+|3|171.6.75.87|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |4|171.238.125.36|5106|Vietnam|Ninh Bình|Viettel Corporation|
-|5|101.255.150.57|8089|Indonesia|Jakarta|PT Remala Abadi|
-|6|1.2.223.95|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|103.44.19.196|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|8|103.127.220.250|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|9|171.6.75.87|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|5|45.154.24.131|8080|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|6|103.148.44.155|8085|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|7|103.127.220.250|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|8|157.15.62.22|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|9|1.2.223.95|8080|Thailand|Bangkok|TOT Public Company Limited|
 |10|223.206.60.247|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|103.148.44.155|8085|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|12|157.15.62.22|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|13|115.72.4.24|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|14|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|17|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|177.136.12.138|55443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|11|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|218.187.64.35|8080|Taiwan|Taichung|Asia Pacific On-line Services Inc.|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|182.253.137.4|8080|Indonesia|Jakarta|BIZNET|
+|16|103.63.26.119|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|38.252.82.103|9090|Brazil|Centro|Dione Balarim Prieto Tecnologia e Internet|
+|19|187.102.221.100|32650|Brazil|São José do Jacuri|Masternet Telecomunicacao Ltda|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
