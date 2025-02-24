@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|124.122.1.107|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|8|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|9|27.189.133.70|8089|China|Langfang|Chinanet|
-|10|14.39.239.79|56270|South Korea|Eunpyeong-gu|Korea Telecom|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|8|192.135.91.19|3128|Pakistan|Karachi|Fiberlink Pvt.Ltd|
+|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |11|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|12|114.80.37.192|3081|China|Shanghai|China Telecom (Group)|
-|13|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|14|72.10.160.170|13371|Canada|Montreal|GloboTech Communications|
-|15|27.189.131.128|8089|China|Langfang|Chinanet|
-|16|72.10.160.90|3235|Canada|Montreal|GloboTech Communications|
-|17|27.189.133.103|8089|China|Langfang|Chinanet|
-|18|67.43.227.226|6989|Canada|Montreal|GloboTech Communications|
-|19|38.43.123.133|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
-|20|72.10.164.178|5039|Canada|Montreal|GloboTech Communications|
+|12|31.173.247.205|8081|Russia|Novosibirsk|MegaFon|
+|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
+|16|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|72.10.164.178|31683|Canada|Montreal|GloboTech Communications|
 
 
 
