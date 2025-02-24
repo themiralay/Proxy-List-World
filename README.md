@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
 |3|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.190.46.37|3125|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|6|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|5|103.156.86.107|8080|Indonesia|Palopo|PT Chacha Networking System|
+|6|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
 |7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|116.203.151.31|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|157.20.222.3|8080|Indonesia|Serpong|PT Berlian Optical Solution|
+|11|116.203.151.31|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|113.53.61.222|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|19|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
