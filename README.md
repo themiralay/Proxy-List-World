@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|1.2.171.164|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|10|103.81.254.138|8080|Indonesia|Rengasdengklok|PT. Nusa Jaya Prasetyo|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|165.22.13.22|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.18.77.65|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|15|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|190.61.101.72|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|18|72.10.160.92|5613|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|30695|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|16193|Canada|Montreal|GloboTech Communications|
+|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|8|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|9|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|10|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|14|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|15|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
+|18|45.70.85.33|58080|Brazil|Tupã|B.B.S COMUNICAÇÕES LTDA ME|
+|19|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|20|203.175.103.25|8080|Indonesia|Kuningan|PT. Mitra Kita Brilian|
 
 
 
