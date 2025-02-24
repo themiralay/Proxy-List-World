@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|3|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
 |6|72.10.160.91|8353|Canada|Montreal|GloboTech Communications|
-|7|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|72.10.160.170|1883|Canada|Montreal|GloboTech Communications|
-|10|146.0.78.109|1080|The Netherlands|Amsterdam|Hostkey B V|
-|11|67.43.228.250|13755|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|67.43.236.19|28147|Canada|Montreal|GloboTech Communications|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|67.43.228.253|2337|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|28147|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|28147|Canada|Montreal|GloboTech Communications|
-|19|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|118.113.244.143|2324|China|Shanghai|Chinanet|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|67.43.228.250|26749|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|26749|Canada|Montreal|GloboTech Communications|
+|13|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|14|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|67.43.228.252|5457|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|2337|Canada|Montreal|GloboTech Communications|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|20|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
