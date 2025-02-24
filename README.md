@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.142.78.225|8080|Indonesia|Jakarta|BIZNET|
-|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|67.43.236.18|32163|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|72.10.160.170|17311|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|17311|Canada|Montreal|GloboTech Communications|
-|15|131.100.51.42|999|Colombia|Neiva|Fibernet TV SAS|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|160.22.118.150|39030|Vietnam|An Hải|Sandclock Service Trading Company Limited|
-|18|72.10.160.90|8263|Canada|Montreal|GloboTech Communications|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|67.43.227.227|24319|Canada|Montreal|GloboTech Communications|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.142.78.225|8080|Indonesia|Jakarta|BIZNET|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|72.10.160.170|14907|Canada|Montreal|GloboTech Communications|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
