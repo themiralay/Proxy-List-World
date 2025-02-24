@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|67.43.228.250|6045|Canada|Montreal|GloboTech Communications|
-|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|4|27.74.8.42|5103|Vietnam|Long An|Newass2011xDSLHN|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|67.43.236.21|22037|Canada|Montreal|GloboTech Communications|
-|10|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|11|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|72.10.164.178|26803|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|17913|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|17643|Canada|Montreal|GloboTech Communications|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.92|16005|Canada|Montreal|GloboTech Communications|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|67.43.228.250|6045|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|4|38.156.75.141|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|116.108.1.126|10038|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
+|18|78.108.108.9|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|19|103.167.86.234|39231|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|20|186.0.144.141|9595|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
 
 
 
