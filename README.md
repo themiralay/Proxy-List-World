@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|118.113.247.122|2324|China|Shanghai|Chinanet|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|160.242.19.122|8080|Angola|Luanda|Paratus Telecommunications Limited|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|72.10.160.171|22719|Canada|Montreal|GloboTech Communications|
-|19|27.189.131.226|8089|China|Langfang|Chinanet|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|49.146.51.131|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|9|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|10|78.141.220.53|6969|The Netherlands|Amsterdam|The Constant Company, LLC|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|158.101.47.61|9091|United States|Phoenix|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|18|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|72.10.160.171|29771|Canada|Montreal|GloboTech Communications|
 
 
 
