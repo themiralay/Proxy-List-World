@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|8|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|8|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|11|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|15|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|20|48.218.42.243|3128|Japan|Tokyo|Microsoft Corporation|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|112.205.62.154|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|27.131.248.143|8081|Indonesia|Jakarta|SpaceX Starlink|
+|15|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|103.189.223.35|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
 
 
 
