@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|1|101.109.58.221|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|37.152.171.172|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|10|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|37.152.171.172|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|10|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |11|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|14|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|15|72.10.160.170|32355|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|7875|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|32861|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|4041|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|4041|Canada|Montreal|GloboTech Communications|
-|20|204.199.140.8|999|Chile|Santiago|Ingbell Chile SPA|
+|13|103.214.102.170|8083|Indonesia|Batam|SMARTPLUS|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|72.10.160.170|32355|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|27.74.8.42|5104|Vietnam|Long An|Newass2011xDSLHN|
+|19|67.43.236.21|6229|Canada|Montreal|GloboTech Communications|
+|20|222.127.220.113|8085|Philippines|Quezon City|GLBB|
 
 
 
