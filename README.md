@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|12|61.218.155.200|44901|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|14|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|103.101.193.46|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|19|103.228.243.149|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|23.143.160.193|999|Puerto Rico|Santo Domingo|Unonet Corp|
+|17|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|67.43.236.20|3017|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|4865|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|21943|Canada|Montreal|GloboTech Communications|
 
 
 
