@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|3|14.39.239.79|56270|South Korea|Eunpyeong-gu|Korea Telecom|
-|4|150.107.245.241|8080|Indonesia|Margahayukencana|Infrastruktur STARNET|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|11|182.253.109.253|8080|Indonesia|Jakarta|Biznet Metronet|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|203.150.128.171|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|2|150.107.245.241|8080|Indonesia|Margahayukencana|Infrastruktur STARNET|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|103.190.171.155|1111|Indonesia|Jakarta|WMS|
+|13|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|203.150.128.171|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|17|103.20.88.122|8080|Indonesia|Trucuk|PT Indo Teknologi Konstruksi|
 |18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|19|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |20|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
 
 
