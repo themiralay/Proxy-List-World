@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|17|103.154.230.78|8080|Indonesia|Lamongan|DIGITNET|
-|18|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
-|19|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|20|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|3|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|7|54.145.69.96|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|54.145.69.96|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|14|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|15|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
+|18|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|19|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
