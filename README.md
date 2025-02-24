@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|5|116.108.1.126|10061|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|45.4.1.208|999|Chile|Santiago|Tlink SPA|
-|8|67.43.236.18|5115|Canada|Montreal|GloboTech Communications|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|45.184.152.129|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|11|67.43.236.18|5115|Canada|Montreal|GloboTech Communications|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|121.227.183.183|8089|China|Nanjing|China Telecom|
-|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|118.113.245.2|2324|China|Shanghai|Chinanet|
-|16|159.192.102.249|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|17|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|18|72.10.160.171|3049|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|10427|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|64.227.141.33|9090|India|Bengaluru|DigitalOcean, LLC|
+|2|138.201.139.121|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|103.191.250.146|8083|Indonesia|Batam|PT Mulia Batam Net|
+|4|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|6|49.70.190.218|2324|China|Zhenjiang|Chinanet|
+|7|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|38.172.129.27|999|Peru|Lima|Conex TV E.I.R.L.|
+|10|103.234.26.113|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|38.191.211.107|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
 
 
 
