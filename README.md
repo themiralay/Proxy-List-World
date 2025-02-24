@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|103.226.232.164|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|47.88.17.136|18080|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|6|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|49.70.190.206|2324|China|Zhenjiang|Chinanet|
 |14|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|15|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|16|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|18|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|19|67.43.228.250|20973|Canada|Montreal|GloboTech Communications|
+|15|103.68.214.10|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|16|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|61.160.247.69|9999|China|Nanjing|China Telecom|
 |20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
