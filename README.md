@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.95.118|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|176.9.235.199|443|Germany|Falkenstein|Hetzner Online GmbH|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|8|67.43.228.250|27241|Canada|Montreal|GloboTech Communications|
-|9|27.189.130.57|8089|China|Langfang|Chinanet|
-|10|185.79.243.74|8080|Poland|Włodowice|PHU Kario-Sat Sp. z o.o.|
-|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|14|49.70.190.237|2324|China|Zhenjiang|Chinanet|
-|15|67.43.227.227|25673|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|4889|Canada|Montreal|GloboTech Communications|
-|17|103.203.232.85|8080|Indonesia|Kedok|INDANA|
-|18|67.43.228.251|30351|Canada|Montreal|GloboTech Communications|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|43.153.95.118|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|176.9.235.199|443|Germany|Falkenstein|Hetzner Online GmbH|
+|8|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|10|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|13|103.171.240.138|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|14|115.77.166.165|10001|Vietnam|Vũng Tàu|Viettel Group|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|103.80.110.190|8080|Bhutan|Thimphu|Tshering NORBU t/a NANO|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
