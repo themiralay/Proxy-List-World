@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|15|67.43.236.20|31621|Canada|Montreal|GloboTech Communications|
-|16|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.228.251|2047|Canada|Montreal|GloboTech Communications|
-|19|34.131.64.219|8080|India|New Delhi|Google LLC|
-|20|116.108.1.126|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|13|67.43.236.20|24507|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.251|2047|Canada|Montreal|GloboTech Communications|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|67.43.228.250|20839|Canada|Montreal|GloboTech Communications|
+|18|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|19|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
