@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.150.113.94|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|54.87.50.101|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.150.113.94|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |4|54.87.50.101|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|8|115.85.78.91|8111|Indonesia|Jakarta|Sudirman Central Business District|
-|9|72.10.160.90|25609|Canada|Montreal|GloboTech Communications|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|45.4.1.208|999|Chile|Santiago|Tlink SPA|
-|13|117.85.108.249|8089|China|Nanjing|Chinanet|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|171.6.6.149|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|102.213.248.54|8080|Kenya|Nairobi|Optinode Group LLP|
-|18|103.68.214.123|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|19|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|20|67.43.228.250|1977|Canada|Montreal|GloboTech Communications|
+|5|54.87.50.101|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
+|7|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.68.214.123|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|13|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|81.31.245.17|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
