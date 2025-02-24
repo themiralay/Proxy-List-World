@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.142.78.225|8080|Indonesia|Jakarta|BIZNET|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|67.43.236.18|7815|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|16785|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|16785|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|16785|Canada|Montreal|GloboTech Communications|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|15|109.238.180.90|8080|Iran|Bushehr|KOL IP|
-|16|45.201.132.65|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
-|17|67.43.228.250|19057|Canada|Montreal|GloboTech Communications|
-|18|27.189.133.104|8089|China|Langfang|Chinanet|
-|19|72.10.164.178|24157|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|7815|Canada|Montreal|GloboTech Communications|
+|1|203.142.78.225|8080|Indonesia|Jakarta|BIZNET|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|1.2.176.35|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|72.10.160.90|4243|Canada|Montreal|GloboTech Communications|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|67.43.236.18|2057|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|4243|Canada|Montreal|GloboTech Communications|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|13|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|16|67.43.228.250|9603|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|9603|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|9423|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|18615|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|10527|Canada|Montreal|GloboTech Communications|
 
 
 
