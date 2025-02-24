@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.255.132.210|1111|Indonesia|Banjarnegara|PT Sarana Kawan Setia|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|93.190.14.206|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
+|7|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
 |8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|109.120.133.187|8080|Sweden|Stockholm|Aeza International LTD|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
-|14|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
-|16|67.43.236.19|21255|Canada|Montreal|GloboTech Communications|
-|17|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|18|121.232.181.159|8089|China|Nanjing|Chinanet|
-|19|27.189.130.22|8089|China|Langfang|Chinanet|
-|20|72.10.160.91|13897|Canada|Montreal|GloboTech Communications|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|27.70.234.19|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.242.105.89|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|18|38.172.128.238|999|Peru|Lima|Conex TV E.I.R.L.|
+|19|118.113.245.78|2324|China|Shanghai|Chinanet|
+|20|72.10.160.173|21183|Canada|Montreal|GloboTech Communications|
 
 
 
