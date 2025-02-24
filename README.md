@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|27.66.206.175|25100|Vietnam|Hanoi|Viettel Group|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|27.66.206.175|25100|Vietnam|Hanoi|Viettel Group|
 |6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|203.190.46.27|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|9|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|10|65.182.3.154|8080|Honduras|Tegucigalpa|Amnet US LLC|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|201.218.150.4|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
-|13|201.150.119.170|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
-|14|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|7|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|8|103.124.139.197|2024|Indonesia|Kebumen Satu|Global Media Data Prima|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
+|11|190.60.57.42|3128|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|12|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|103.75.96.142|1111|Indonesia|Utan|MORATELINDO|
+|15|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|27.66.206.175|25100|Vietnam|Hanoi|Viettel Group|
-|19|118.113.245.159|2324|China|Shanghai|Chinanet|
-|20|72.10.160.171|5923|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|5923|Canada|Montreal|GloboTech Communications|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|72.10.160.90|25991|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|25991|Canada|Montreal|GloboTech Communications|
 
 
 
