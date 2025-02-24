@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.73.111.29|5106|Vietnam|Hanoi|Newass2011xDSLHN|
 |3|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|6|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|7|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
-|8|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|9|27.131.248.143|8081|Indonesia|Jakarta|SpaceX Starlink|
-|10|103.154.230.78|8080|Indonesia|Lamongan|DIGITNET|
-|11|1.4.163.166|8080|Thailand|Nonthaburi|TOT Public Company Limited|
-|12|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|15|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|16|116.203.151.31|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|17|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|5|103.169.132.70|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|6|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|11|113.53.61.222|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|14|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
 |18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|175.103.53.221|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
