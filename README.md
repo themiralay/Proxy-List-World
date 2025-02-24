@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|8|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
-|11|27.189.129.24|8089|China|Langfang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|49.149.125.200|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|18.214.16.201|8888|United States|Ashburn|Amazon.com, Inc.|
+|9|103.163.102.212|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
 |13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|72.10.160.170|7769|Canada|Montreal|GloboTech Communications|
-|16|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|20|67.43.227.226|14305|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|21639|Canada|Montreal|GloboTech Communications|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|72.10.160.170|32267|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|72.10.160.171|1371|Canada|Montreal|GloboTech Communications|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
