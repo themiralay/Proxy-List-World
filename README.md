@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|45.229.9.146|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|67.43.228.252|10981|Canada|Montreal|GloboTech Communications|
-|12|116.108.1.126|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|14|27.189.129.67|8089|China|Langfang|Chinanet|
-|15|72.10.160.173|10103|Canada|Montreal|GloboTech Communications|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.227.227|3681|Canada|Montreal|GloboTech Communications|
-|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|19|103.175.240.54|9191|Indonesia|Banyumas|LDP|
-|20|72.10.160.90|21947|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|10|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|208.72.110.129|16088|United States|Noblesville|On-Ramp Indiana, Inc.|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|186.96.31.46|7070|Mexico|Guadalajara|Total Play Telecomunicaciones SA De CV|
+|19|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|20|72.10.160.173|10103|Canada|Montreal|GloboTech Communications|
 
 
 
