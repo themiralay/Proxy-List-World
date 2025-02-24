@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|203.150.113.23|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |4|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|177.81.25.226|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
-|15|37.152.171.172|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|20|59.36.239.108|21133|China|Jiangmen|Chinanet|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|36.90.25.187|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
