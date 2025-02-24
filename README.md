@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.228.243.175|8080|Indonesia|Jakarta|SpaceX Starlink|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|4|103.191.196.96|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|6|67.43.236.18|28491|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
-|10|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|116.108.1.126|10016|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|67.43.236.18|28491|Canada|Montreal|GloboTech Communications|
-|15|27.189.130.167|8089|China|Langfang|Chinanet|
-|16|202.182.55.44|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|67.43.228.250|5295|Canada|Montreal|GloboTech Communications|
-|18|103.226.232.205|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|19|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|5295|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
+|9|67.43.228.250|16491|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.18|28491|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.230|9331|Canada|Montreal|GloboTech Communications|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|15|72.10.160.90|17643|Canada|Montreal|GloboTech Communications|
+|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|18|72.10.160.94|22633|Canada|Montreal|GloboTech Communications|
+|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|20|67.43.227.230|9331|Canada|Montreal|GloboTech Communications|
 
 
 
