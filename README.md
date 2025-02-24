@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |7|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|8|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|57.128.201.50|3128|Poland|Warsaw|OVH SAS|
-|13|5.78.86.154|8080|United States|Hillsboro|Hetzner Online GmbH|
-|14|182.52.25.212|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|157.20.222.3|8080|Indonesia|Serpong|PT Berlian Optical Solution|
-|16|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|43.243.174.3|82|India|Pune|Shah Solutions|
-|19|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|20|60.53.115.29|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|15|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|16|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
+|17|110.78.159.112|8080|Thailand|Bang Rak|CAT-BB|
+|18|112.205.62.154|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|19|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|20|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
 
 
 
