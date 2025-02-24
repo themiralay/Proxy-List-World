@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|5|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.122.168.226|8080|India|Noida|Spacetrade Internet Pvt Ltd|
-|10|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.228.243.77|8080|Indonesia|Jakarta|SpaceX Starlink|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.176.227.197|8009|Indonesia|Bandung|PT Pass Internet Indonesia|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|102.68.79.231|8080|Kenya|Ruiru|Unwired Communications Ltd|
-|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|72.10.160.90|32131|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|72.10.160.170|21083|Canada|Montreal|GloboTech Communications|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|72.10.160.170|15973|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|26615|Canada|Montreal|GloboTech Communications|
+|14|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|204.199.140.23|999|Chile|Santiago|Ingbell Chile SPA|
+|17|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|18|72.10.160.173|27305|Canada|Montreal|GloboTech Communications|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|60.188.49.53|1999|China|Taizhou|Chinanet|
 
 
 
