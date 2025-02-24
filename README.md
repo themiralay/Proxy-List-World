@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|170.246.176.226|3182|Argentina|Venado Tuerto|NORBERTO CARLOS WEHRLI (INFORMÁTICA VENADO)|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|11|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
-|12|62.69.253.32|8080|Poland|Świnoujście|Fornet Swinoujscie|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|62.69.253.32|8080|Poland|Świnoujście|Fornet Swinoujscie|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
+|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.236.18|11799|Canada|Montreal|GloboTech Communications|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|17|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|18|72.10.164.178|7109|Canada|Montreal|GloboTech Communications|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
