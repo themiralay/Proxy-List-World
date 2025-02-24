@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
 |3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|125.24.97.202|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|91.220.109.197|14138|Russia|St Petersburg|TimeWeb Ltd.|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|15|27.70.234.19|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|20|165.22.13.22|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|103.87.148.16|8085|Indonesia|Pundong|Lintas Data Prima, PT|
+|12|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
 
 
 
