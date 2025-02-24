@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|37.152.171.172|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|15|67.43.227.226|10687|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|10687|Canada|Montreal|GloboTech Communications|
-|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|72.10.160.171|5031|Canada|Montreal|GloboTech Communications|
-|19|103.145.34.186|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|20|72.10.160.92|21001|Canada|Montreal|GloboTech Communications|
+|5|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.105.76.214|9090|Indonesia|Ngoro|GARUDA|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|18|180.105.244.218|1080|China|Nanjing|Chinanet|
+|19|180.105.244.214|1080|China|Nanjing|Chinanet|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
