@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|195.25.20.155|3128|France|Paris|Orange Business Services|
-|5|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|190.119.76.150|8080|Peru|Lima region|America Movil Peru S.A.C.|
+|5|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|72.10.160.170|13713|Canada|Montreal|GloboTech Communications|
-|9|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|10|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|67.43.236.19|18603|Canada|Montreal|GloboTech Communications|
-|12|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.228.253|14499|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|22187|Canada|Montreal|GloboTech Communications|
-|16|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|36.83.86.217|80|Indonesia|Makassar|PT. TELKOM INDONESIA|
-|20|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|7|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|72.10.160.170|13457|Canada|Montreal|GloboTech Communications|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|36.83.86.217|80|Indonesia|Makassar|PT. TELKOM INDONESIA|
+|17|67.43.227.227|23041|Canada|Montreal|GloboTech Communications|
+|18|189.124.91.145|7171|Brazil|Presidente Prudente|America-NET Ltda.|
+|19|72.10.164.178|7319|Canada|Montreal|GloboTech Communications|
+|20|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 
 
 
