@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.168.160|3188|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|157.66.16.69|7070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|7|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|8|45.12.239.112|3128|Russia|St Petersburg|Beget LLC|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|7|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
 |10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|11|36.73.220.59|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|60.51.51.89|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
-|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|45.172.90.244|999|Mexico|Tuxpan|Inalambrico Dedicado S.a. De C.V.|
+|12|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|16|190.60.41.28|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|17|201.150.119.171|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
+|18|188.132.222.149|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
