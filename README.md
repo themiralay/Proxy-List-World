@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|114.9.26.194|3128|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|1.2.176.117|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|8|185.103.134.36|8080|Russia|Moscow|Address AS 57191|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|11|58.186.65.82|12003|Vietnam|Hanoi|FPT Telecom Company|
-|12|217.66.215.86|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|13|206.42.53.185|8080|Brazil|Aracaju|Brisanet Servicos De Telecomunicacoes Ltda|
-|14|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|18|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|58.186.65.82|12003|Vietnam|Hanoi|FPT Telecom Company|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|103.113.152.62|11596|Bangladesh|Bhātāra|Md Ziaul Huque|
+|11|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|12|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.18|28623|Canada|Montreal|GloboTech Communications|
 
 
 
