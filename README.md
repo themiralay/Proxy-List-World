@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.95.27.197|10090|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|7|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|15|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|18|160.19.18.143|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
+|15|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
