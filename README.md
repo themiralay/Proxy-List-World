@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|5|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|38.188.178.246|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|171.228.115.229|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|10|49.48.71.245|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|103.227.187.201|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|12|72.10.164.178|12155|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|114.221.101.180|8118|China|Nanjing|Chinanet|
+|1|171.237.125.63|1026|Vietnam|Ninh Bình|Viettel Corporation|
+|2|103.227.187.201|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|8|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|38.188.178.246|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|11|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|72.10.164.178|12155|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
 |15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|72.10.160.92|2931|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|3987|Canada|Montreal|GloboTech Communications|
 |18|67.43.227.226|26167|Canada|Montreal|GloboTech Communications|
-|19|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|20|67.43.236.19|14767|Canada|Montreal|GloboTech Communications|
+|19|171.237.125.63|1026|Vietnam|Ninh Bình|Viettel Corporation|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
