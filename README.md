@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|45.170.41.193|999|Argentina|Rosario|Wi-net S.A.S.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|10|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|11|85.239.34.12|3128|Moldova|Chisinau|Alexhost SRL|
-|12|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|1.4.163.166|8080|Thailand|Nonthaburi|TOT Public Company Limited|
-|16|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|49.151.91.48|8080|Philippines|Province of Nueva Vizcaya|Philippine Long Distance Telephone Co.|
+|5|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|6|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|10|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|11|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|12|159.89.51.171|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|15|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|19|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|31.204.199.54|81|Montenegro|Podgorica|Crnogorski Telekom|
 
 
 
