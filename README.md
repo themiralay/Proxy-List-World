@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4440** proxies at the latest update. Usable proxies are below.
+> Scraper found **4483** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|578|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2654|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|27.66.205.29|25100|Vietnam|Hanoi|Viettel Group|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|27.66.205.29|25100|Vietnam|Hanoi|Viettel Group|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|14|109.120.133.187|8080|Sweden|Stockholm|Aeza International LTD|
-|15|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|117.80.188.212|8089|China|Nanjing|China Telecom|
-|19|49.84.175.112|8089|China|Nanjing|China Telecom|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|7|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|116.58.255.192|8080|Thailand|Prachin Buri|CAT-BB|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|61.7.170.211|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
+|20|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
