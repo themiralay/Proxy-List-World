@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|115.72.6.241|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|9|195.25.20.155|3128|France|Paris|Orange Business Services|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|124.158.190.130|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|12|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|38.45.44.109|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|18|67.43.228.250|24837|Canada|Montreal|GloboTech Communications|
-|19|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|195.25.20.155|3128|France|Paris|Orange Business Services|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|36.255.84.69|84|India|Bengaluru|Gatik Business Solutions|
+|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|67.43.227.226|30757|Canada|Montreal|GloboTech Communications|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|18|201.150.119.171|999|Mexico|Zapotlán de Juárez|Hulux Telecomunicaciones|
+|19|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|20|118.113.246.3|2324|China|Shanghai|Chinanet|
 
 
 
