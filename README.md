@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|58.187.230.151|12003|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|5|218.1.197.124|2324|China|Shanghai|China Telecom (Group)|
-|6|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|7|72.10.160.172|30219|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.22|4877|Canada|Montreal|GloboTech Communications|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|103.162.37.10|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|11|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|12|67.43.227.226|3035|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|17257|Canada|Montreal|GloboTech Communications|
-|14|111.72.129.138|2324|China|Taohua|Chinanet|
-|15|121.227.109.63|8089|China|Nanjing|China Telecom|
-|16|27.189.134.44|8089|China|Langfang|Chinanet|
-|17|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|125.87.86.84|2324|China|Shanghai|China Telecom|
-|20|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|5|72.10.160.172|30219|Canada|Montreal|GloboTech Communications|
+|6|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|67.43.227.227|17257|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.226|3035|Canada|Montreal|GloboTech Communications|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|67.43.228.250|17549|Canada|Montreal|GloboTech Communications|
+|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|119.93.145.82|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|67.43.236.22|4877|Canada|Montreal|GloboTech Communications|
 
 
 
