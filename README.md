@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|15|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|16|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|109.120.133.187|8080|Sweden|Stockholm|Aeza International LTD|
+|13|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|18|103.39.51.73|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
