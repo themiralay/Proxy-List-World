@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|3|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|9|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|11|160.22.92.3|8080|Indonesia|Ketanggungan|IDNIC-3MEDIASOLUSI|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|27.189.131.113|8089|China|Langfang|Chinanet|
-|14|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|15|121.227.118.137|8089|China|Nanjing|China Telecom|
-|16|27.189.133.230|8089|China|Langfang|Chinanet|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|117.80.188.211|8089|China|Nanjing|China Telecom|
-|19|117.80.188.230|8089|China|Nanjing|China Telecom|
-|20|67.43.236.18|26093|Canada|Montreal|GloboTech Communications|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|80.78.128.94|8080|Spain|Finestrat|CLOUDWIFI, SL|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|20|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
 
 
 
