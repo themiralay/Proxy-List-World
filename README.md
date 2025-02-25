@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|139.228.4.42|8080|Indonesia|Bekasi|PT. First Media, Tbk|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|103.177.199.254|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|20|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|7|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|16|72.10.164.178|26601|Canada|Montreal|GloboTech Communications|
+|17|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|18|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|19|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|61.91.162.126|8080|Thailand|Bang Phli|True Internet Corporation CO. Ltd.|
 
 
 
