@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.186.65.82|12003|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|201.187.68.180|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|6|195.25.20.155|3128|France|Paris|Orange Business Services|
-|7|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|47.245.62.91|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|9|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|17|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|18|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|19|67.43.228.250|1245|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
+|4|49.146.204.232|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
+|5|171.237.82.104|1007|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|201.187.68.180|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|47.245.62.91|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|12|195.25.20.155|3128|France|Paris|Orange Business Services|
+|13|185.133.38.132|65432|The Netherlands|Halfweg|EK-Media B.V.|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|17|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
+|18|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
