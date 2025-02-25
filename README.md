@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|3|98.8.195.160|443|United States|Orlando|Spectrum|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|9|116.108.1.126|10065|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|27.189.131.45|8089|China|Langfang|Chinanet|
-|13|67.43.228.253|14499|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|18161|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|2585|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|1577|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|18459|Canada|Montreal|GloboTech Communications|
-|18|218.1.197.108|2324|China|Shanghai|China Telecom (Group)|
-|19|67.43.228.253|14499|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|18605|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|6|35.178.104.4|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|72.10.160.173|2585|Canada|Montreal|GloboTech Communications|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|67.43.228.253|31845|Canada|Montreal|GloboTech Communications|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|72.10.160.174|18605|Canada|Montreal|GloboTech Communications|
+|13|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|103.247.23.187|8080|Indonesia|Baturaden|PT wifian Solution|
+|16|67.43.227.227|25037|Canada|Montreal|GloboTech Communications|
+|17|112.198.178.194|8082|Philippines|Nasugbu|Globe Telecom|
+|18|180.97.220.151|11080|China|Nanjing|Chinanet|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
