@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|12|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.228.250|19321|Canada|Montreal|GloboTech Communications|
-|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|72.10.160.170|2077|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.250|19321|Canada|Montreal|GloboTech Communications|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|107.152.41.245|8888|United States|Mecca|tzulo, inc.|
+|11|72.10.160.170|2077|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|18161|Canada|Montreal|GloboTech Communications|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|17|72.10.160.90|31219|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|31219|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|3695|Canada|Montreal|GloboTech Communications|
+|20|78.187.53.60|8080|Turkey|Kızıltoprak|Turk Telekomunikasyon A.S|
 
 
 
