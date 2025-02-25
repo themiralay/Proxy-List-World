@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
-|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|6|103.28.16.36|8080|Indonesia|Jakarta|PT Centrix Media Teknologi|
+|7|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|11|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|12|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|14|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|17|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|18|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|12|5.78.86.154|8080|United States|Hillsboro|Hetzner Online GmbH|
+|13|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|14|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|15|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|18|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
 
 
 
