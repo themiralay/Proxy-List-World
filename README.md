@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|5|134.35.8.138|8080|Yemen|Aden|Public Telecommunication Corporation|
-|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|12|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|67.43.228.250|24809|Canada|Montreal|GloboTech Communications|
-|14|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|168.119.185.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|9|134.35.8.138|8080|Yemen|Aden|Public Telecommunication Corporation|
+|10|34.246.112.243|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|67.43.227.226|17613|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|7245|Canada|Montreal|GloboTech Communications|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |16|67.43.236.18|7245|Canada|Montreal|GloboTech Communications|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|65.20.89.141|3129|India|Mumbai|The Constant Company|
-|19|165.22.130.247|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|67.43.228.250|24809|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|1519|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|33011|Canada|Montreal|GloboTech Communications|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|103.184.56.122|8080|Indonesia|Sukapura|PT Gading Bhakti Utama|
 
 
 
