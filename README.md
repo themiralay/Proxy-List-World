@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|180.112.182.207|8089|China|Nanjing|Chinanet|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|9|180.125.186.146|1080|China|Nanjing|Chinanet|
-|10|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|121.227.146.74|8089|China|Nanjing|China Telecom|
-|13|27.189.132.218|8089|China|Langfang|Chinanet|
-|14|121.227.109.56|8089|China|Nanjing|China Telecom|
-|15|67.43.227.226|17977|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|27.189.134.141|8089|China|Langfang|Chinanet|
-|18|49.76.205.17|8089|China|Wuxi|Chinanet|
-|19|121.227.109.58|8089|China|Nanjing|China Telecom|
-|20|121.227.118.149|8089|China|Nanjing|China Telecom|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|116.108.1.126|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|9|67.43.227.226|17977|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|15003|Canada|Montreal|GloboTech Communications|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|72.10.160.90|4033|Canada|Montreal|GloboTech Communications|
+|13|217.119.115.132|8080|Slovakia|Levice|ENERGOTEL a.s.|
+|14|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
+|15|45.159.65.98|8080|United Kingdom|London|G.Network Communications Limited|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|190.2.214.137|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|19|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|20|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
