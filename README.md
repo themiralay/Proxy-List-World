@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.58.106|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|6|121.227.146.99|8089|China|Nanjing|China Telecom|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|8|27.189.132.54|8089|China|Langfang|Chinanet|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|11|118.113.244.222|2324|China|Shanghai|Chinanet|
-|12|27.189.134.7|8089|China|Langfang|Chinanet|
-|13|67.43.228.250|20305|Canada|Montreal|GloboTech Communications|
-|14|58.136.168.233|8080|Thailand|Bangkok|AIS-Fibre|
-|15|67.43.236.18|16639|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|67.43.228.252|26437|Canada|Montreal|GloboTech Communications|
+|9|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|47.245.58.106|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|72.10.164.178|21511|Canada|Montreal|GloboTech Communications|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|103.189.223.35|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
 |16|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|72.10.164.178|21511|Canada|Montreal|GloboTech Communications|
+|17|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|20|103.162.37.22|8080|Indonesia|Bandung|PT Lintas Satu Visi|
 
 
 
