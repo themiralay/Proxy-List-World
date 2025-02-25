@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|49.146.177.91|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|4|72.10.160.90|8891|Canada|Montreal|GloboTech Communications|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|67.43.227.226|16233|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.252|11309|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.251|11957|Canada|Montreal|GloboTech Communications|
-|9|27.189.134.87|8089|China|Langfang|Chinanet|
-|10|67.43.227.227|8093|Canada|Montreal|GloboTech Communications|
-|11|121.224.156.170|8089|China|Nanjing|China Telecom|
-|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|67.43.227.230|4811|Canada|Montreal|GloboTech Communications|
-|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|67.43.227.226|16233|Canada|Montreal|GloboTech Communications|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|19|192.145.205.97|8080|Brazil|Guaraciama|Vianet Guaraciama Eireli ME|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|72.10.160.90|31211|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|181.204.113.250|11211|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|12|36.94.114.142|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|49.145.120.246|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|67.43.236.18|7253|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|23463|Canada|Montreal|GloboTech Communications|
+|17|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
+|18|67.43.228.250|4531|Canada|Montreal|GloboTech Communications|
+|19|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|20|72.10.160.172|1899|Canada|Montreal|GloboTech Communications|
 
 
 
