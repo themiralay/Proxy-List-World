@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|10|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|11|207.244.254.27|3189|United States|St Louis|Nubes, LLC|
-|12|103.153.134.150|8080|Indonesia|Cikupa|WMINET|
-|13|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|45.148.248.80|1700|Iran|Tehran|Ayandeh Gostar Bastak Co. P. J. S|
-|16|209.14.119.229|999|Colombia|Chinácota|AGIS|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.236.22|32239|Canada|Montreal|GloboTech Communications|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|203.111.253.150|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|8|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|1.53.207.74|8080|Vietnam|Ô Chợ Dừa|FPT Telecom Company|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|67.43.236.22|32239|Canada|Montreal|GloboTech Communications|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|67.43.236.19|2841|Canada|Montreal|GloboTech Communications|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|18|72.10.164.178|10311|Canada|Montreal|GloboTech Communications|
+|19|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
+|20|72.10.160.170|26779|Canada|Montreal|GloboTech Communications|
 
 
 
