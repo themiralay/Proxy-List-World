@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|13|1.53.207.74|8080|Vietnam|Ô Chợ Dừa|FPT Telecom Company|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|7|116.203.7.46|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|10|115.72.10.129|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|12|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|17|103.172.71.140|8080|Indonesia|Karawang|AZNET|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|4.247.152.147|3128|India|Pune|Microsoft Corporation|
+|16|203.111.253.150|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|17|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
