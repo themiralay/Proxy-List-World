@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.108.247.178|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|49.48.102.222|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|3|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|181.209.125.189|999|Argentina|Buenos Aires|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|5|103.155.169.200|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|7|103.164.229.149|8080|Indonesia|Kudus|PT Muria Data Utama|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|119.95.236.252|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|67.43.228.251|14595|Canada|Montreal|GloboTech Communications|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|72.10.164.178|15083|Canada|Montreal|GloboTech Communications|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|118.113.246.46|2324|China|Shanghai|Chinanet|
-|20|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|1|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|72.10.164.178|10189|Canada|Montreal|GloboTech Communications|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|67.43.228.254|29793|Canada|Montreal|GloboTech Communications|
+|6|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|72.10.164.178|10189|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.251|14595|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.18|3927|Canada|Montreal|GloboTech Communications|
+|12|194.150.71.0|7060|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
+|13|103.169.238.42|8181|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
+|14|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
+|15|67.43.228.252|6877|Canada|Montreal|GloboTech Communications|
+|16|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|17|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|20|67.43.236.21|32717|Canada|Montreal|GloboTech Communications|
 
 
 
