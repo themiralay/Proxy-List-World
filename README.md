@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.38.104.166|8798|Indonesia|Wonosobo|PT Tunas Media Data|
-|2|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|7|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|8|67.43.236.19|8037|Canada|Montreal|GloboTech Communications|
-|9|27.189.129.161|8089|China|Langfang|Chinanet|
-|10|67.43.236.22|29379|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|20363|Canada|Montreal|GloboTech Communications|
-|12|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|67.43.228.250|20363|Canada|Montreal|GloboTech Communications|
-|14|118.113.246.41|2324|China|Shanghai|Chinanet|
-|15|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|20363|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|29899|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|20363|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|29899|Canada|Montreal|GloboTech Communications|
+|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|2|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|45.175.58.207|61950|Brazil|Fortaleza|Infortec - Informatica & Tecnologia Ltda - ME|
+|13|67.43.236.19|18907|Canada|Montreal|GloboTech Communications|
+|14|103.155.169.200|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|15|49.145.120.246|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|16|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|67.43.236.22|32289|Canada|Montreal|GloboTech Communications|
+|19|27.70.234.19|10008|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|67.43.228.250|26063|Canada|Montreal|GloboTech Communications|
 
 
 
