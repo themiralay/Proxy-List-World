@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.184.180.21|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|103.144.126.74|8080|Indonesia|Jakarta|RELIANCE|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|118.113.244.222|2324|China|Shanghai|Chinanet|
-|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|195.25.20.155|3128|France|Paris|Orange Business Services|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|12|177.93.46.140|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |15|51.79.255.251|20048|Singapore|Singapore|OVH SAS|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|45.174.79.65|999|Mexico|Delicias|Raul Duarte Urita|
-|18|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|19|72.10.160.172|12819|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|177.125.208.1|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
