@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|4|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|13|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|14|185.242.233.230|3128|Hong Kong|Fo Tan|Cloudie Limited|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|9|103.189.223.35|8080|Indonesia|Tangerang|PT. WIKAPLUS GLOBAL NUSANTARA|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|27.70.234.19|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|17|103.141.152.106|8989|Indonesia|Ciputat|PRIMACOM|
+|18|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
+|19|190.139.5.202|3388|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
