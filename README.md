@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|5|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|121.227.118.159|8089|China|Nanjing|China Telecom|
-|12|67.43.227.226|24309|Canada|Montreal|GloboTech Communications|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|125.87.91.194|2324|China|Chongqing|China Telecom|
+|7|45.94.73.165|8080|Ireland|Rathfarnham|Carnsore Broadband Limited|
+|8|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|9|14.103.245.15|6666|China|Beijing|BITNET|
+|10|120.28.192.178|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|11|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|12|67.43.228.251|32263|Canada|Montreal|GloboTech Communications|
 |13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|72.10.160.172|23857|Canada|Montreal|GloboTech Communications|
-|15|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|27.189.134.75|8089|China|Langfang|Chinanet|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|67.43.228.254|16709|Canada|Montreal|GloboTech Communications|
-|19|125.87.91.194|2324|China|Chongqing|China Telecom|
-|20|67.43.228.251|32263|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|16709|Canada|Montreal|GloboTech Communications|
+|15|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|16|114.80.37.90|3081|China|Shanghai|China Telecom (Group)|
+|17|67.43.228.250|32263|Canada|Montreal|GloboTech Communications|
+|18|103.163.102.212|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
+|19|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
