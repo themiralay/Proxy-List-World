@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4361** proxies at the latest update. Usable proxies are below.
+> Scraper found **4408** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|98|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|469|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|228|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2640|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|4|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|216.144.236.89|3128|United States|Los Angeles|HostPapa|
 |5|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|36.83.86.217|80|Indonesia|Makassar|PT. TELKOM INDONESIA|
-|11|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|27.70.234.19|10008|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|17|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|18|67.43.227.227|23183|Canada|Montreal|GloboTech Communications|
-|19|186.96.73.190|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|27.189.128.87|8089|China|Langfang|Chinanet|
+|10|27.189.129.203|8089|China|Langfang|Chinanet|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|72.10.164.178|15801|Canada|Montreal|GloboTech Communications|
+|13|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|67.43.227.229|18749|Canada|Montreal|GloboTech Communications|
+|15|27.189.130.150|8089|China|Langfang|Chinanet|
+|16|67.43.227.226|1947|Canada|Montreal|GloboTech Communications|
+|17|27.189.129.95|8089|China|Langfang|Chinanet|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|72.10.160.170|18809|Canada|Montreal|GloboTech Communications|
+|20|121.227.118.161|8089|China|Nanjing|China Telecom|
 
 
 
