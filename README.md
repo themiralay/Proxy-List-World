@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|4|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|19|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|2|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|10|103.76.201.126|8080|Indonesia|Cirebon|PT. Arjuna Global Teknologi Indonesia|
+|11|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|177.93.58.33|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|115.245.46.172|8080|India|Visakhapatnam|Reliance Jio Infocomm Limited|
+|18|144.48.229.33|8080|Cambodia|Phnom Penh|SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD|
+|19|103.99.136.38|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|20|103.227.187.11|6080|Indonesia|Banyuwangi|PT Master Star Network|
 
 
 
