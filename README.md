@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4368** proxies at the latest update. Usable proxies are below.
+> Scraper found **4418** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|475|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|525|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|228|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2640|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|2|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|45.175.58.207|61950|Brazil|Fortaleza|Infortec - Informatica & Tecnologia Ltda - ME|
-|13|67.43.236.19|18907|Canada|Montreal|GloboTech Communications|
-|14|103.155.169.200|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|15|49.145.120.246|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|67.43.236.22|32289|Canada|Montreal|GloboTech Communications|
-|19|27.70.234.19|10008|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|67.43.228.250|26063|Canada|Montreal|GloboTech Communications|
+|1|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|2|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|9|31.43.52.216|41890|Ukraine|Kyiv|Ukrainian Telecommunication Group LLC|
+|10|177.222.130.208|3128|Brazil|Venda Nova do Imigrante|S F INFOREDE LTDA ME|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|190.119.76.150|8080|Peru|Lima region|America Movil Peru S.A.C.|
+|13|103.46.4.93|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|14|103.105.57.102|1111|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|218.1.197.136|2324|China|Shanghai|China Telecom (Group)|
+|18|72.10.160.170|18169|Canada|Montreal|GloboTech Communications|
+|19|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|20|72.10.160.171|21919|Canada|Montreal|GloboTech Communications|
 
 
 
