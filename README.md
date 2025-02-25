@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|12|67.43.227.229|23537|Canada|Montreal|GloboTech Communications|
-|13|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
+|6|72.10.160.91|13219|Canada|Montreal|GloboTech Communications|
+|7|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|58.187.230.151|12003|Vietnam|Hanoi|FPT Telecom Company|
 |14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|72.10.164.178|6195|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|19129|Canada|Montreal|GloboTech Communications|
-|17|27.189.133.209|8089|China|Langfang|Chinanet|
-|18|27.189.128.177|8089|China|Langfang|Chinanet|
-|19|67.43.228.250|1951|Canada|Montreal|GloboTech Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|67.43.227.227|14753|Canada|Montreal|GloboTech Communications|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|72.10.160.92|22639|Canada|Montreal|GloboTech Communications|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |20|72.10.160.171|32257|Canada|Montreal|GloboTech Communications|
 
 
