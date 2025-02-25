@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|116.108.1.126|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 |7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|113.192.48.25|8181|Indonesia|Batu|PT.Global Media Data Prima|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|15|67.43.227.230|14697|Canada|Montreal|GloboTech Communications|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.227.226|31879|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|118.113.246.211|2324|China|Shanghai|Chinanet|
-|20|67.43.228.250|18789|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|18|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|19|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|20|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
 
 
 
