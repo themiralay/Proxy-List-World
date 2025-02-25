@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
 |4|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|5|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|11|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
-|12|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|13|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|19|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|20|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|103.160.205.230|8080|Indonesia|Mataram|PRIME|
 
 
 
