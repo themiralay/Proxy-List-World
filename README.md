@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|6|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|45.175.58.207|61950|Brazil|Fortaleza|Infortec - Informatica & Tecnologia Ltda - ME|
-|9|190.52.100.211|999|Venezuela|Caracas|Gold Data USA Inc|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|15|62.249.138.133|8080|Russia|Krasnoyarsk|Joint Stock Company TransTeleCom|
-|16|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|17|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|18|58.186.65.82|12003|Vietnam|Hanoi|FPT Telecom Company|
-|19|72.10.160.171|17357|Canada|Montreal|GloboTech Communications|
-|20|119.82.254.164|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|181.78.17.78|999|Colombia|Andalucía|IFX Networks Argentina S.R.L|
+|13|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
+|17|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
