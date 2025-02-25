@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|195.25.20.155|3128|France|Paris|Orange Business Services|
-|9|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|177.93.46.140|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|38.255.84.82|999|Venezuela|Caracas|Galanet Solution C.A.|
-|14|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|72.10.160.170|32817|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|20|72.10.160.93|3737|Canada|Montreal|GloboTech Communications|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|6|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|7|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|11|67.43.227.226|3035|Canada|Montreal|GloboTech Communications|
+|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|13|67.43.236.18|6615|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|13701|Canada|Montreal|GloboTech Communications|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|61.164.204.130|4999|China|Hangzhou|Chinanet|
 
 
 
