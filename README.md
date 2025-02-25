@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|3|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
-|4|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|12|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|13|223.206.66.194|8080|Thailand|Ko Pha Ngan|Triple T Broadband Public Company Limited|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|7|58.136.168.233|8080|Thailand|Bangkok|AIS-Fibre|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
+|11|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|102.164.252.150|8080|Equatorial Guinea|Bata|Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
 |14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|38.194.250.147|999|Mexico|Jerécuaro|Ientc S De RL De CV|
-|17|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|17|67.43.228.251|28333|Canada|Montreal|GloboTech Communications|
 |18|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
