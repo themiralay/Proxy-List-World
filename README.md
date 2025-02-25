@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.66.203.19|25100|Vietnam|Hanoi|Viettel Group|
-|5|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|6|103.57.37.207|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|7|103.131.19.30|8011|Indonesia|Lamongan|PT Global Media Data Prima|
-|8|103.133.26.11|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
-|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|17|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|165.22.130.247|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|165.22.130.247|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|45.92.38.214|8000|Sweden|Stockholm|LogicForge Limited|
+|10|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|13|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.133.26.11|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
 
 
 
