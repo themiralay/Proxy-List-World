@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|7|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|8|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|10|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|13|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|14|195.25.20.155|3128|France|Paris|Orange Business Services|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|72.10.160.90|11627|Canada|Montreal|GloboTech Communications|
-|18|51.79.255.251|20062|Singapore|Singapore|OVH SAS|
-|19|65.20.89.141|3129|India|Mumbai|The Constant Company|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.184.180.21|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|6|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|11|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|12|72.10.160.90|11627|Canada|Montreal|GloboTech Communications|
+|13|51.79.255.251|20062|Singapore|Singapore|OVH SAS|
+|14|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|15|72.10.164.178|1841|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|1841|Canada|Montreal|GloboTech Communications|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|103.15.88.60|39058|Vietnam|Thủ Đức|WIXCLOUD|
+|20|110.188.37.79|2324|China|Muping|Chinanet|
 
 
 
