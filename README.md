@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
-|6|58.186.65.82|12003|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|8|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|9|72.10.160.171|4187|Canada|Montreal|GloboTech Communications|
-|10|125.87.86.108|2324|China|Shanghai|China Telecom|
-|11|222.68.40.126|2324|China|Shanghai|China Telecom (Group)|
-|12|72.10.160.92|24345|Canada|Montreal|GloboTech Communications|
-|13|27.189.130.102|8089|China|Langfang|Chinanet|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|181.198.1.82|8080|Ecuador|Guayaquil|Telconet S.A|
-|17|67.43.227.226|10755|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|19337|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|10755|Canada|Montreal|GloboTech Communications|
-|20|118.113.245.51|2324|China|Shanghai|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|5|118.113.245.54|2324|China|Shanghai|Chinanet|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|125.87.86.108|2324|China|Shanghai|China Telecom|
+|8|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|9|67.43.236.18|21303|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|19337|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|13085|Canada|Montreal|GloboTech Communications|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|14|67.43.227.226|13085|Canada|Montreal|GloboTech Communications|
+|15|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|67.43.227.227|7561|Canada|Montreal|GloboTech Communications|
+|20|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
 
 
 
