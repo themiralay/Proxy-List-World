@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|213.130.141.42|1080|Hong Kong|Kowloon City|MoeChuang Network Limited|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|31.31.77.228|6969|Czechia|Hluboká nad Vltavou|WEDOS Internet|
 |5|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|13|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|14|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|15|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
-|16|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|19|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|20|157.245.249.94|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|11|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|181.119.67.146|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|38.137.252.10|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
+|19|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|20|159.89.239.166|18081|United States|North Bergen|DigitalOcean, LLC|
 
 
 
