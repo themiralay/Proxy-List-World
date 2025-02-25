@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|103.124.197.234|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|8|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|9|27.189.134.127|8089|China|Langfang|Chinanet|
-|10|72.10.160.90|21081|Canada|Montreal|GloboTech Communications|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|67.43.228.251|2777|Canada|Montreal|GloboTech Communications|
-|13|60.188.49.53|1999|China|Taizhou|Chinanet|
-|14|72.10.160.173|25265|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|7927|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|21993|Canada|Montreal|GloboTech Communications|
-|17|27.189.132.114|8089|China|Langfang|Chinanet|
-|18|72.10.160.171|32593|Canada|Montreal|GloboTech Communications|
-|19|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|116.203.151.31|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|72.10.160.173|25265|Canada|Montreal|GloboTech Communications|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|67.43.236.18|13717|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|32593|Canada|Montreal|GloboTech Communications|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
