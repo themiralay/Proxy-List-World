@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|65.20.89.141|3129|India|Mumbai|The Constant Company|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|9|190.97.234.175|999|Venezuela|Caracas|Viginet C.A|
-|10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|13|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|4|65.20.89.141|3129|India|Mumbai|The Constant Company|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
 |16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|67.43.228.254|28363|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|38.172.130.221|999|Peru|Lima|Conex TV E.I.R.L.|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
