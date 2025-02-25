@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|38.43.123.214|999|Dominican Republic|San Cristóbal|GB TELECORP DOMINICANA, S.R.L|
-|3|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|45.177.17.31|999|Guatemala|Guatemala City|MSW S.A.|
-|5|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|7|34.246.112.243|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|67.43.236.18|7253|Canada|Montreal|GloboTech Communications|
-|11|14.39.239.79|57305|South Korea|Eunpyeong-gu|Korea Telecom|
-|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|13|72.10.160.91|1763|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|8891|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|6611|Canada|Montreal|GloboTech Communications|
-|16|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|67.43.227.226|23463|Canada|Montreal|GloboTech Communications|
-|19|27.189.134.15|8089|China|Langfang|Chinanet|
-|20|67.43.236.18|7253|Canada|Montreal|GloboTech Communications|
+|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|6|67.43.227.226|23463|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.18|14601|Canada|Montreal|GloboTech Communications|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|183.91.80.194|8089|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|72.10.160.90|29013|Canada|Montreal|GloboTech Communications|
+|12|124.122.1.107|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|194.36.59.186|1500|Ireland|Sligo|Blacknight Internet Solutions Limited|
+|15|103.231.177.120|5020|Bangladesh|Habiganj|Sayed Farhad Ahmed|
+|16|67.43.236.18|14601|Canada|Montreal|GloboTech Communications|
+|17|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|18|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
