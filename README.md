@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|3|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|103.57.37.207|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|7|177.135.41.173|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
-|8|27.66.203.19|25100|Vietnam|Hanoi|Viettel Group|
-|9|103.166.149.132|8080|Australia|Brisbane|Capti Networks Pty Ltd|
-|10|91.107.176.84|2580|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|102.214.165.81|1976|Libya|Al Bayda'|Aljeel Aljadeed For Technology|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|10|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|11|27.66.203.19|25100|Vietnam|Hanoi|Viettel Group|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|177.234.194.71|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|114.5.97.150|8080|Indonesia|Sidoarjo|PT. INDOSAT Tbk|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|103.48.71.2|84|India|Pargi|Country Online Services PVT LTD|
-|20|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|15|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|16|38.183.146.153|7878|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|17|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
