@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|9|8.217.172.64|1070|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|115.178.49.117|8080|Indonesia|Bandung|NOC SIMAYA|
-|11|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|12|117.80.188.231|8089|China|Nanjing|China Telecom|
-|13|117.80.188.234|8089|China|Nanjing|China Telecom|
-|14|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|17|67.43.228.253|15235|Canada|Montreal|GloboTech Communications|
-|18|123.122.162.153|1081|China|Beijing|China Unicom Beijing Province Network|
-|19|67.43.236.18|25887|Canada|Montreal|GloboTech Communications|
-|20|117.80.188.251|8089|China|Nanjing|China Telecom|
+|1|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|59.153.98.109|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|103.217.213.124|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|67.43.228.253|7155|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|14549|Canada|Montreal|GloboTech Communications|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
