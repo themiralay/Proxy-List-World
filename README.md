@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|6|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|116.203.151.31|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|17|84.241.6.102|8080|Iran|Tehran|SHATEL DSL Network|
-|18|221.228.130.39|8089|China|Nanjing|Chinanet|
-|19|67.43.236.18|7541|Canada|Montreal|GloboTech Communications|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.154.1.49|3128|United States|Fremont|CGI GLOBAL LIMITED|
+|5|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|8|45.154.1.49|3128|United States|Fremont|CGI GLOBAL LIMITED|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|116.203.151.31|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.184.54.36|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
