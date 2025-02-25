@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|164.163.134.226|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|9|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
-|10|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|11|49.48.145.123|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|12|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|13|27.189.129.88|8089|China|Langfang|Chinanet|
-|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|15|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|67.43.227.226|31043|Canada|Montreal|GloboTech Communications|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|45.123.142.100|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|195.25.20.155|3128|France|Paris|Orange Business Services|
+|5|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|6|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|7|118.113.244.222|2324|China|Shanghai|Chinanet|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|45.252.183.252|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|67.43.227.226|31043|Canada|Montreal|GloboTech Communications|
+|12|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|182.253.109.227|8080|Indonesia|Jakarta|Biznet Metronet|
+|18|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|72.10.160.172|16673|Canada|Montreal|GloboTech Communications|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
