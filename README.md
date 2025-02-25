@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|2|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|14.143.172.246|8080|India|Kolkata|Tata Communications Limited|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|195.25.20.155|3128|France|Paris|Orange Business Services|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|10|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|11|67.43.227.226|14801|Canada|Montreal|GloboTech Communications|
-|12|125.87.80.200|2324|China|Chongqing|China Telecom|
-|13|116.108.1.126|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|27.189.130.134|8089|China|Langfang|Chinanet|
-|17|67.43.228.250|9699|Canada|Montreal|GloboTech Communications|
-|18|27.189.132.39|8089|China|Langfang|Chinanet|
-|19|27.189.133.158|8089|China|Langfang|Chinanet|
-|20|27.189.128.44|8089|China|Langfang|Chinanet|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|171.237.118.180|1021|Vietnam|Ninh Bình|Viettel Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|14|180.127.149.196|1080|China|Nanjing|Chinanet|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|72.10.160.173|6335|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|30813|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|28437|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|26483|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|10193|Canada|Montreal|GloboTech Communications|
 
 
 
