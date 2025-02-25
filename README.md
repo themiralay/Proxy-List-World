@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|190.211.6.196|999|Chile|Chillán|Telefonica del Sur S.A.|
-|4|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|7|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|8|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|177.93.51.210|999|Colombia|Vistahermosa|TV AZTECA SUCURSAL COLOMBIA|
-|13|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|72.10.160.90|10429|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|19873|Canada|Montreal|GloboTech Communications|
-|17|181.188.238.150|999|Ecuador|Quito|Otecel S.A.|
-|18|27.189.133.135|8089|China|Langfang|Chinanet|
-|19|27.189.128.45|8089|China|Langfang|Chinanet|
-|20|121.227.109.59|8089|China|Nanjing|China Telecom|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|6|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|9|72.10.160.90|10429|Canada|Montreal|GloboTech Communications|
+|10|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|11|67.43.228.250|12333|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.252|10001|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|10429|Canada|Montreal|GloboTech Communications|
+|14|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|15|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|16|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
+|19|183.236.232.160|8080|China|Guangzhou|China Mobile|
+|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
 
 
 
