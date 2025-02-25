@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|58.187.230.151|12003|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|58.187.230.151|12003|Vietnam|Hanoi|FPT Telecom Company|
-|6|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|8.217.172.64|1070|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|125.87.87.31|2324|China|Shanghai|China Telecom|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|72.10.160.172|24867|Canada|Montreal|GloboTech Communications|
-|14|27.189.129.255|8089|China|Langfang|Chinanet|
-|15|67.43.228.254|28429|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|21909|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|17607|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8199|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|72.10.160.173|7431|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|60.53.133.218|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
+|5|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|67.43.236.18|5495|Canada|Montreal|GloboTech Communications|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|67.43.228.250|17607|Canada|Montreal|GloboTech Communications|
+|17|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|20|67.43.228.250|17607|Canada|Montreal|GloboTech Communications|
 
 
 
