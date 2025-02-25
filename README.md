@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|171.5.182.225|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|118.113.244.134|2324|China|Shanghai|Chinanet|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|200.24.132.86|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 |13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|167.71.227.92|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|67.43.227.229|23537|Canada|Montreal|GloboTech Communications|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|103.93.236.106|8080|Indonesia|Depok|PT Artha Media Lintas Nusa|
-|18|72.10.160.91|22489|Canada|Montreal|GloboTech Communications|
-|19|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|20|67.43.228.251|18883|Canada|Montreal|GloboTech Communications|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|67.43.227.229|23537|Canada|Montreal|GloboTech Communications|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|67.43.227.226|23631|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|24827|Canada|Montreal|GloboTech Communications|
 
 
 
