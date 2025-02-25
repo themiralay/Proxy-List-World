@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|5.253.189.188|3128|The Netherlands|Amsterdam|NKtelecom INC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
-|7|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|58.187.230.151|12001|Vietnam|Hanoi|FPT Telecom Company|
+|3|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 |11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|72.10.160.90|11729|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|29467|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|22079|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|5517|Canada|Montreal|GloboTech Communications|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|18|67.43.228.250|5779|Canada|Montreal|GloboTech Communications|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
 
 
 
