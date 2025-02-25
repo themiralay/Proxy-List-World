@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|135.148.149.92|3128|United States|Reston|OVH SAS|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|135.148.149.92|3128|United States|Reston|OVH SAS|
-|7|5.250.180.187|3128|France|Roubaix|IONOS SE|
-|8|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|11|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|12|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|13|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|168.119.167.186|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |17|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
-|19|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|52.26.115.154|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
