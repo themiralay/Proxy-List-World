@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|72.10.160.170|2691|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.229|4139|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|32131|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|27161|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|22201|Canada|Montreal|GloboTech Communications|
-|17|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|18|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|19|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
-|20|67.43.228.250|4821|Canada|Montreal|GloboTech Communications|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|181.209.82.154|23500|Argentina|Romang|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|195.25.20.155|3128|France|Paris|Orange Business Services|
+|18|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|19|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.160.91|22201|Canada|Montreal|GloboTech Communications|
 
 
 
