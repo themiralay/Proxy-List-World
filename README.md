@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|5|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|6|144.137.217.187|80|Australia|Sydney|Telstra Internet|
-|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|195.25.20.155|3128|France|Paris|Orange Business Services|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|180.97.220.151|11080|China|Nanjing|Chinanet|
-|12|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|67.43.228.252|24445|Canada|Montreal|GloboTech Communications|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|16|67.43.228.250|17241|Canada|Montreal|GloboTech Communications|
-|17|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
-|20|67.43.236.18|7727|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|3|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|117.84.72.239|8089|China|Nanjing|Chinanet|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|15|72.10.160.94|29083|Canada|Montreal|GloboTech Communications|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|19|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|61.164.204.130|4999|China|Hangzhou|Chinanet|
 
 
 
