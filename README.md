@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|7|49.49.193.39|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|117.84.72.239|8089|China|Nanjing|Chinanet|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.10.160.170|15177|Canada|Montreal|GloboTech Communications|
-|16|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|118.113.245.212|2324|China|Shanghai|Chinanet|
-|18|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|103.125.16.104|8080|Indonesia|Tangerang|JAVAMEDIA|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|103.110.9.15|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|191.52.236.39|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|18|101.51.240.161|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|19|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
 |20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
