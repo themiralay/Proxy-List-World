@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|182.253.109.151|8080|Indonesia|Jakarta|Biznet Metronet|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|36.94.114.142|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|122.154.75.204|8080|Thailand|Samut Songkhram|CAT Telecom Public Company Limited|
-|11|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
-|12|103.238.232.158|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
-|13|134.236.61.229|8080|Thailand|Bang Rak|CAT-BB|
-|14|175.111.129.154|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
-|15|176.88.175.201|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|67.43.228.250|2951|Canada|Montreal|GloboTech Communications|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|118.113.244.132|2324|China|Shanghai|Chinanet|
-|20|67.43.228.250|2951|Canada|Montreal|GloboTech Communications|
+|2|115.72.36.121|10025|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|115.72.9.110|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|4|182.52.83.8|34599|Thailand|Ban Karon|TOT Public Company Limited|
+|5|115.72.5.63|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|6|203.150.113.32|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|36.91.129.36|3125|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|10|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|185.64.208.3|53281|Russia|Kstovo|Svyazist LLC|
+|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|14|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|15|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|16|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|17|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|18|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|19|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|20|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
 
 
 
