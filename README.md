@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|4|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|11|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
-|12|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|16|170.233.193.129|999|Chile|Santiago|MI INTERNET SPA|
-|17|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|13|38.156.75.141|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|190.60.48.103|999|Colombia|Barrancabermeja|IFX NETWORKS COLOMBIA|
+|15|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|20|170.233.193.129|999|Chile|Santiago|MI INTERNET SPA|
 
 
 
