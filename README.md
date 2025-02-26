@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|3|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|10|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|14|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|15|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|2|8.215.105.127|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|5|115.248.66.131|3129|India|Faridabad|Reliance Communications Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|9|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
+|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|121.224.156.146|8089|China|Nanjing|China Telecom|
+|20|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
 
 
 
