@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|182.253.109.151|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|223.205.19.95|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|16|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|2|182.253.109.151|8080|Indonesia|Jakarta|Biznet Metronet|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|9|115.127.133.74|62664|Bangladesh|Dhaka|BRACNet Limited|
+|10|103.13.204.89|8083|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|11|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|15|103.165.226.94|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|67.43.227.229|18683|Canada|Montreal|GloboTech Communications|
+|18|222.67.13.15|2324|China|Shanghai|China Telecom (Group)|
+|19|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|20|67.43.227.226|9141|Canada|Montreal|GloboTech Communications|
 
 
 
