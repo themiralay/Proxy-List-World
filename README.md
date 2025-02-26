@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|9|115.74.8.151|10011|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|13|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|72.10.160.90|4033|Canada|Montreal|GloboTech Communications|
-|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.227.226|12991|Canada|Montreal|GloboTech Communications|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|116.105.17.145|20062|Vietnam|Da Nang|Viettel Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|7|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|11|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|183.88.214.84|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|67.43.227.226|24643|Canada|Montreal|GloboTech Communications|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
 
 
 
