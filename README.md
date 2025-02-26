@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.2.228.213|5400|Vietnam|Hanoi|Viettel Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|203.150.128.179|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|195.25.20.155|3128|France|Paris|Orange Business Services|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|113.11.183.11|8181|Indonesia|Bandung|BIZNET|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|117.2.228.213|5400|Vietnam|Hanoi|Viettel Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|37.152.172.193|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|18|67.43.236.18|24889|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|27599|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|16775|Canada|Montreal|GloboTech Communications|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|17|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|67.43.227.226|20389|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|14863|Canada|Montreal|GloboTech Communications|
+|20|23.128.168.9|999|Puerto Rico|Guaynabo|Thundernet Wireless|
 
 
 
