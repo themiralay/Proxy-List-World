@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|2|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|5|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |12|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|19|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|20|36.50.56.71|8080|Indonesia|Cibinong|PT Andromega Data Nusantara|
+|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|138.118.104.33|8080|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|17|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|18|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|19|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|103.110.9.15|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
 
 
 
