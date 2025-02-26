@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
-|9|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
+|6|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|10|188.132.150.77|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 |12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|171.237.125.63|1024|Vietnam|Ninh Bình|Viettel Corporation|
-|16|67.43.236.19|26923|Canada|Montreal|GloboTech Communications|
-|17|94.159.102.2|45569|Germany|Frankfurt am Main|H2nexus LTD|
-|18|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
-|19|121.224.156.143|8089|China|Nanjing|China Telecom|
-|20|27.189.135.63|8089|China|Langfang|Chinanet|
+|13|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
+|18|72.10.160.90|11453|Canada|Montreal|GloboTech Communications|
+|19|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
+|20|67.43.236.19|19145|Canada|Montreal|GloboTech Communications|
 
 
 
