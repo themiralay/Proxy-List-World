@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.61.159.42|3128|United States|Dallas|RouterHosting LLC|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|115.127.133.74|62664|Bangladesh|Dhaka|BRACNet Limited|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|118.113.244.85|2324|China|Shanghai|Chinanet|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|67.43.228.250|14679|Canada|Montreal|GloboTech Communications|
-|10|116.21.253.94|3128|China|Guangzhou|Chinanet|
-|11|118.113.245.242|2324|China|Shanghai|Chinanet|
-|12|67.43.236.22|5051|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|4863|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|6421|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|31749|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|16765|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|18447|Canada|Montreal|GloboTech Communications|
-|18|118.113.244.74|2324|China|Shanghai|Chinanet|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|67.43.236.18|18379|Canada|Montreal|GloboTech Communications|
+|3|88.1.165.147|3128|Spain|Tarancón|Telefonica de Espana SAU|
+|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|118.113.244.74|2324|China|Shanghai|Chinanet|
+|10|67.43.236.22|5051|Canada|Montreal|GloboTech Communications|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|72.10.160.90|5755|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|5581|Canada|Montreal|GloboTech Communications|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|223.242.222.175|1080|China|Hefei|Chinanet|
+|16|1.2.171.164|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
+|17|67.43.228.251|8341|Canada|Montreal|GloboTech Communications|
+|18|91.92.213.58|8080|Iran|Tehran|TIC|
+|19|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
