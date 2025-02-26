@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|13|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|72.10.160.93|19931|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|67.43.228.250|7321|Canada|Montreal|GloboTech Communications|
-|20|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|115.72.9.110|10020|Vietnam|Vũng Tàu|VIETELmetro|
+|13|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|14|67.43.228.252|17527|Canada|Montreal|GloboTech Communications|
+|15|223.205.185.238|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|18|185.9.75.195|8080|Russia|Serpukhov|VIP-TELECOM|
+|19|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
+|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
