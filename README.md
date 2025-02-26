@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.53.60.95|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|188.132.222.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|182.53.22.106|8080|Thailand|Si Racha|TOT Public Company Limited|
-|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|14|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|2|38.68.134.189|80|United States|Dallas|GTHost|
+|3|113.53.60.95|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|38.68.134.189|80|United States|Dallas|GTHost|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|8|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|112.78.131.6|8080|Indonesia|Jakarta|Biznet Networks|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
 |17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
