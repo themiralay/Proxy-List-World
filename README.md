@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|10|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|13|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
-|14|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|15|195.25.20.155|3128|France|Paris|Orange Business Services|
-|16|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|6|45.92.38.214|8000|Sweden|Stockholm|LogicForge Limited|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
+|11|195.25.20.155|3128|France|Paris|Orange Business Services|
+|12|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|13|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|14|8.217.172.64|1070|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|17|36.90.25.142|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
