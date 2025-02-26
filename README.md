@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|6|115.72.11.172|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|7|8.217.172.64|1070|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|116.254.98.184|8097|Indonesia|Jakarta|SpaceX Starlink|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|4|103.171.240.142|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|7|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
+|8|103.163.244.212|83|India|Panipat|Infolink System|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
 |10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|20|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|12|198.145.118.93|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|16|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
