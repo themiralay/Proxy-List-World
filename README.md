@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.8.195.160|443|United States|Orlando|Spectrum|
-|2|51.81.153.203|3128|United States|Hillsboro|OVH SAS|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
 |6|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|103.156.17.240|8080|Indonesia|Jatiwangi|RSTNET|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|8|118.174.98.20|8080|Thailand|Lamphun|TOT Public Company Limited|
+|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.228.250|1083|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
