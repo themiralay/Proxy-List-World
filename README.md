@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|185.247.185.19|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|9|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|10|115.72.9.250|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|11|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|12|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|203.150.113.182|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|27.131.248.143|8081|Indonesia|Jakarta|SpaceX Starlink|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|200.110.104.3|999|Mexico|Río Grande|Wistarip S De RL De CV|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|3|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|10|195.25.20.155|3128|France|Paris|Orange Business Services|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|72.10.160.91|28939|Canada|Montreal|GloboTech Communications|
+|17|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|72.10.164.178|22629|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
