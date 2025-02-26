@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|195.25.20.155|3128|France|Paris|Orange Business Services|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|72.10.160.94|1733|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|12127|Canada|Montreal|GloboTech Communications|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|125.87.82.213|2324|China|Chongqing|China Telecom|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|65.20.89.139|3129|India|Mumbai|The Constant Company|
-|18|72.10.160.94|1733|Canada|Montreal|GloboTech Communications|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|72.10.160.170|9773|Canada|Montreal|GloboTech Communications|
+|5|195.25.20.155|3128|France|Paris|Orange Business Services|
+|6|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|7|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|9|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|190.119.160.27|59842|Peru|Lima region|America Movil Peru S.A.C.|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|103.209.38.133|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|19|72.10.160.93|9205|Canada|Montreal|GloboTech Communications|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
