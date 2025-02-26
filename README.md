@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.72.1.112|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|115.72.9.250|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|7|103.234.31.79|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|172.232.32.204|3128|France|Paris|Akamai Technologies, Inc.|
-|10|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
-|12|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|16|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|103.160.205.230|8080|Indonesia|Mataram|PRIME|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|195.25.20.155|3128|France|Paris|Orange Business Services|
+|6|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|115.72.1.112|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|195.26.249.42|3128|United States|St Louis|Nubes, LLC|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|15|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|122.154.129.2|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|19|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
 
 
 
