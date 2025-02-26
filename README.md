@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |2|61.7.191.94|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|3|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|103.44.19.196|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|51.159.110.214|3128|France|Paris|SCALEWAY|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|65.109.177.226|8118|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|14|171.6.6.149|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|45.92.38.214|8000|Sweden|Stockholm|LogicForge Limited|
+|8|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|13|195.25.20.155|3128|France|Paris|Orange Business Services|
+|14|103.228.246.75|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|17|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|18|103.247.13.131|8080|Indonesia|Klaten|TERABIT|
+|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
