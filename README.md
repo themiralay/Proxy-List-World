@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|103.193.144.5|8180|Indonesia|Pekanbaru|PT Lintas Jaringan Nusantara|
-|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.57.36.195|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|103.147.246.189|3127|Indonesia|Tangerang|PLBNET|
-|16|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|190.181.29.114|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
-|20|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|13|195.25.20.155|3128|France|Paris|Orange Business Services|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|18|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
