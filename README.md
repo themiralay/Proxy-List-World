@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|7|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|8|103.227.186.68|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|9|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|13|72.10.164.178|7405|Canada|Montreal|GloboTech Communications|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|27.189.128.149|8089|China|Langfang|Chinanet|
-|16|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|103.162.36.13|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|18|27.189.134.87|8089|China|Langfang|Chinanet|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|5|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|10|189.165.187.214|8080|Mexico|Puebla City|UNINET|
+|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
+|13|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|15|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
