@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|5|23.88.121.39|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|7|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|49.49.193.39|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|13|121.101.131.67|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|14|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|15|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|16|49.48.42.34|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|9|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
