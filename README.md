@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|103.228.246.75|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|8|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|9|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|72.10.160.172|15121|Canada|Montreal|GloboTech Communications|
-|16|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.160.12.96|2020|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|20|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|176.31.197.145|8080|France|Paris|OVH SAS|
+|5|103.145.34.170|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|6|38.194.250.66|999|Mexico|Jerécuaro|Ientc S De RL De CV|
+|7|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
+|11|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|12|154.73.28.253|8080|Libya|Tripoli|Rawafed|
+|13|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|14|58.187.230.151|12002|Vietnam|Hanoi|FPT Telecom Company|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
 
 
 
