@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|103.93.176.70|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
 |6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|183.88.214.84|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|67.43.236.19|24533|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|20147|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|3205|Canada|Montreal|GloboTech Communications|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|11|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|72.10.160.171|3205|Canada|Montreal|GloboTech Communications|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
