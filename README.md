@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
-|9|103.115.239.14|1111|Indonesia|Sekupang|PT Fitrah Marina Sukses|
-|10|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
-|11|186.180.22.196|8080|Colombia|Bogotá|Colombia Móvil|
-|12|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|13|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|14|34.246.112.243|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|67.43.236.19|8061|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|2407|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|27839|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|25913|Canada|Montreal|GloboTech Communications|
-|20|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|103.169.131.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|103.115.239.14|1111|Indonesia|Sekupang|PT Fitrah Marina Sukses|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|67.43.236.19|8061|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|67.43.236.18|4517|Canada|Montreal|GloboTech Communications|
+|15|202.176.1.25|4343|India|Ballia|RailTel Corporation|
+|16|101.231.178.155|7228|China|Shanghai|China Telecom (Group)|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|72.10.160.170|31901|Canada|Montreal|GloboTech Communications|
+|19|103.83.91.219|8080|Pakistan|Lahore|Y LINX (PVT.) LIMITED|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
