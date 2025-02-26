@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|3|203.150.128.232|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|1.10.229.85|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|12|161.248.190.83|8080|Philippines|San Francisco|Gemstar Cable TV|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|41.254.63.18|8080|Libya|Tripoli|LTT Network Backbone and POPs|
-|17|222.67.14.74|2324|China|Shanghai|China Telecom (Group)|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|72.10.160.173|31101|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|103.171.240.142|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|203.150.128.232|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|109.238.180.90|8080|Iran|Bushehr|KOL IP|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 
 
 
