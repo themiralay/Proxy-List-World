@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|7|103.93.176.70|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|17|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
-|18|67.43.228.251|2561|Canada|Montreal|GloboTech Communications|
-|19|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
-|20|67.43.228.250|13315|Canada|Montreal|GloboTech Communications|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|103.57.36.195|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|18|118.113.244.152|2324|China|Shanghai|Chinanet|
+|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|20|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
 
 
 
