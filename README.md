@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|190.94.212.76|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|6|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|7|195.25.20.155|3128|France|Paris|Orange Business Services|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|171.237.118.180|1012|Vietnam|Ninh Bình|Viettel Corporation|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|195.25.20.155|3128|France|Paris|Orange Business Services|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|67.43.228.250|15601|Canada|Montreal|GloboTech Communications|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|20|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
 
 
 
