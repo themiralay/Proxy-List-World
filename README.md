@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|195.25.20.155|3128|France|Paris|Orange Business Services|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|1.2.171.164|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
 |11|67.43.227.230|7189|Canada|Montreal|GloboTech Communications|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|67.43.228.250|22061|Canada|Montreal|GloboTech Communications|
-|14|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|15|181.209.82.154|23500|Argentina|Romang|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|67.43.228.250|28997|Canada|Montreal|GloboTech Communications|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
 |16|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|60.50.128.61|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|67.43.227.226|1731|Canada|Montreal|GloboTech Communications|
+|18|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|19|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|20|115.72.13.102|10001|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
