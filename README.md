@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 |2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|7|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|191.102.90.34|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|38.172.130.222|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|208.109.234.211|8080|United States|Tempe|GoDaddy.com, LLC|
+|11|103.171.255.58|8080|Indonesia|Sleman|ZKI|
+|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |15|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|67.43.227.230|17961|Canada|Montreal|GloboTech Communications|
 |20|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
