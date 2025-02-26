@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|14.39.239.241|62103|South Korea|Eunpyeong-gu|Korea Telecom|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|115.74.8.151|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|6|116.105.30.216|10057|Vietnam|Da Nang|Viettel Corporation|
-|7|115.72.13.102|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|8|115.72.11.172|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|5|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|6|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|7|116.105.30.216|10057|Vietnam|Da Nang|Viettel Corporation|
+|8|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
 |9|115.72.4.76|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|10|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|13|115.72.9.250|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|14|47.252.53.125|7890|United States|Richmond|Alibaba Cloud LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|119.93.145.82|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|14.39.239.241|62103|South Korea|Eunpyeong-gu|Korea Telecom|
+|10|115.72.11.172|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|11|115.72.9.250|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
+|14|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|15|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|45.236.129.64|3128|Chile|Santiago|ZAM LTDA.|
 
 
 
