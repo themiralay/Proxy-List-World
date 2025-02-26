@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|14.39.239.241|62103|South Korea|Eunpyeong-gu|Korea Telecom|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|115.72.1.112|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|6|182.52.83.196|34599|Thailand|Ban Karon|TOT Public Company Limited|
+|7|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|45.236.129.64|3128|Chile|Santiago|ZAM LTDA.|
-|14|52.189.122.251|3128|United States|Des Moines|Microsoft Corporation|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|195.25.20.155|3128|France|Paris|Orange Business Services|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|15|40.129.203.4|8080|United States|Linwood|Windstream Communications LLC|
+|16|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|17|203.150.113.182|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|18|195.25.20.155|3128|France|Paris|Orange Business Services|
+|19|115.74.8.151|10006|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|20|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
