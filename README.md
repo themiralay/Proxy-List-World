@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.236.83.56|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|3|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|49.48.42.34|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|36.50.56.71|8080|Indonesia|Cibinong|PT Andromega Data Nusantara|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.132.245.100|58080|India|Pune|Limerick Technologies Pvt Ltd|
+|12|121.227.183.173|8089|China|Nanjing|China Telecom|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|182.52.25.212|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
