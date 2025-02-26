@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|103.250.130.140|7777|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|47.237.13.153|10810|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|67.43.236.21|27197|Canada|Montreal|GloboTech Communications|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|16|67.43.236.18|20147|Canada|Montreal|GloboTech Communications|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|72.10.160.170|26009|Canada|Montreal|GloboTech Communications|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|18|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
