@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|195.25.20.155|3128|France|Paris|Orange Business Services|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|185.64.208.33|53281|Russia|Kstovo|Svyazist LLC|
-|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|14.17.80.4|5308|China|Guangzhou|Chinanet|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|185.64.208.33|53281|Russia|Kstovo|Svyazist LLC|
+|9|195.25.20.155|3128|France|Paris|Orange Business Services|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
+|13|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|14|200.24.228.194|3127|Chile|Los Andes|Servicios Internet Ltda|
+|15|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|16|38.41.4.166|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|171.237.118.180|1030|Vietnam|Ninh Bình|Viettel Corporation|
+|19|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
