@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|38.68.134.189|80|United States|Dallas|GTHost|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|181.209.82.154|23500|Argentina|Romang|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|11|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|86.98.93.224|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|103.48.160.42|96|Bangladesh|Nowlamary|Carnival Internet|
+|18|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|19|58.209.32.122|8089|China|Nanjing|China Telecom|
+|20|38.51.207.98|999|Venezuela|Maracaibo|Tecnoven Services CA|
 
 
 
