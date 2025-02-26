@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|7|115.72.9.110|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|10|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|11|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|13|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|103.149.239.105|8080|Indonesia|Situbondo|PT BITNIAGA CIPTA GEMILANG|
-|19|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|20|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|103.22.99.137|8080|Indonesia|Magetan|KHALISTAGROUP|
+|16|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
+|17|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
 
 
 
