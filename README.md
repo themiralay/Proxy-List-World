@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.61.123.204|3128|Vietnam|Thanh Xuân|H2 VIET NAM TECHNOLOGY SOLUTIONS COMPANY LIMITED|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|3.39.31.14|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|121.101.131.57|8085|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|10|103.159.96.178|8055|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|195.25.20.155|3128|France|Paris|Orange Business Services|
-|14|180.105.244.223|1080|China|Nanjing|Chinanet|
-|15|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
-|16|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
-|19|38.191.211.98|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|20|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|13|213.148.13.149|3128|Kazakhstan|Almaty|Haicom Limited|
+|14|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|15|102.0.15.142|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|16|103.93.236.106|8080|Indonesia|Depok|PT Artha Media Lintas Nusa|
+|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|19|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|20|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
