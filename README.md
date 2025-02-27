@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|182.253.39.206|8080|Indonesia|Jakarta|BIZNET|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|38.250.208.102|8080|Brazil|Rorainópolis Municipality|EWERTON DA SILVA LOPES TELECOMUNICAÇÕES|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|9|67.43.227.227|5659|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|28169|Canada|Montreal|GloboTech Communications|
-|11|1.2.171.164|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|12|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|13|111.72.195.251|2324|China|Taohua|Chinanet|
-|14|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
-|15|72.10.164.178|7333|Canada|Montreal|GloboTech Communications|
-|16|195.25.20.155|3128|France|Paris|Orange Business Services|
-|17|72.10.160.170|11665|Canada|Montreal|GloboTech Communications|
-|18|103.153.149.201|8036|Indonesia|Semarang|JARINGANKU|
-|19|103.183.10.174|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|20|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|1|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|203.150.113.117|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|12|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|17|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|72.10.160.90|26305|Canada|Montreal|GloboTech Communications|
+|19|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|20|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
