@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|27.189.128.63|8089|China|Langfang|Chinanet|
-|7|72.10.160.91|19831|Canada|Montreal|GloboTech Communications|
-|8|27.189.132.2|8089|China|Langfang|Chinanet|
-|9|27.189.130.0|8089|China|Langfang|Chinanet|
-|10|67.43.236.18|10705|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|10705|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|11417|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|16263|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|16263|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.160.90|16263|Canada|Montreal|GloboTech Communications|
-|17|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|177.137.238.242|8080|Brazil|Vila Velha|Dinamica Telecomunicacoes Ltda|
-|20|72.10.160.90|16263|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|180.112.180.83|8089|China|Nanjing|Chinanet|
+|6|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|180.114.96.100|8089|China|Nanjing|Chinanet|
+|9|67.43.236.18|10705|Canada|Montreal|GloboTech Communications|
+|10|114.80.37.192|3081|China|Shanghai|China Telecom (Group)|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|168.181.87.26|8080|Brazil|Sobral|M. R. MELO ALEXANDRINO|
+|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|15|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|17|72.10.160.90|8853|Canada|Montreal|GloboTech Communications|
+|18|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|19|72.10.160.90|8853|Canada|Montreal|GloboTech Communications|
+|20|38.183.194.133|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
 
 
 
