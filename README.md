@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|4|58.136.168.233|8080|Thailand|Bangkok|AIS-Fibre|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|43.153.95.118|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|37.152.171.203|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|38.224.223.248|999|Mexico|Cunduacán|Javier Tamayo Garcia|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.236.18|32957|Canada|Montreal|GloboTech Communications|
-|19|49.149.115.137|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|195.25.20.155|3128|France|Paris|Orange Business Services|
+|8|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|37.152.171.203|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|19|195.87.136.2|5331|Turkey|Şişli|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
+|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
