@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.169.254.105|8080|Indonesia|Curahjati|PT Master Star Network|
-|3|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|4|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|5|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|6|86.98.222.23|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|2|154.193.8.135|808|South Korea|Seoul|Octopus Web Solution Inc|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|103.211.107.114|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|194.150.69.56|8888|Iran|Isfahan|Gostaresh Ertebat Azin Kia Company PJSC|
-|9|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
-|10|154.193.8.135|808|South Korea|Seoul|Octopus Web Solution Inc|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|110.188.37.27|2324|China|Muping|Chinanet|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|27.189.132.88|8089|China|Langfang|Chinanet|
-|15|27.189.134.26|8089|China|Langfang|Chinanet|
-|16|118.113.244.253|2324|China|Shanghai|Chinanet|
-|17|118.113.245.212|2324|China|Shanghai|Chinanet|
-|18|27.189.129.59|8089|China|Langfang|Chinanet|
-|19|67.43.228.250|31015|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|16659|Canada|Montreal|GloboTech Communications|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|86.98.222.23|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|49.70.190.203|2324|China|Zhenjiang|Chinanet|
+|14|103.148.44.99|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|223.206.194.139|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|17|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|186.166.142.82|999|Venezuela|Guanare|TELEFONICA VENEZOLANA, C.A.|
+|19|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
