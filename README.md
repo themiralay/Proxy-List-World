@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4387** proxies at the latest update. Usable proxies are below.
+> Scraper found **4390** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|549|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|203|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2483|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|186.3.44.206|999|Ecuador|Palora|Telconet S.A|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.242.104.160|3128|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|8|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|9|195.25.20.155|3128|France|Paris|Orange Business Services|
-|10|103.155.198.46|1090|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|11|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|12|45.123.142.58|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|13|67.43.228.250|25627|Canada|Montreal|GloboTech Communications|
-|14|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|4|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|5|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
+|6|195.25.20.155|3128|France|Paris|Orange Business Services|
+|7|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|72.10.160.170|22217|Canada|Montreal|GloboTech Communications|
+|9|27.189.128.13|8089|China|Langfang|Chinanet|
+|10|72.10.160.94|6879|Canada|Montreal|GloboTech Communications|
+|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|72.10.160.91|4055|Canada|Montreal|GloboTech Communications|
+|13|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|14|67.43.227.226|14443|Canada|Montreal|GloboTech Communications|
 |15|67.43.236.18|1651|Canada|Montreal|GloboTech Communications|
-|16|184.22.0.102|8080|Thailand|Bangkok|AIS-Fibre|
-|17|72.10.160.173|32835|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.229|28639|Canada|Montreal|GloboTech Communications|
-|19|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|20|72.10.160.170|20957|Canada|Montreal|GloboTech Communications|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|27.189.129.179|8089|China|Langfang|Chinanet|
+|19|72.10.160.170|22217|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|8065|Canada|Montreal|GloboTech Communications|
 
 
 
