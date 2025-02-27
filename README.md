@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|182.52.25.212|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|103.133.26.11|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|5.10.228.196|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|12|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |13|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|14|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
-|19|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|102.217.139.31|8180|South Africa|Cape Town|Bluedog Technology|
+|15|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|18|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|19|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|20|180.245.126.2|8080|Indonesia|Tasikmalaya|PT. TELKOM INDONESIA|
 
 
 
