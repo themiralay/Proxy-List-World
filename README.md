@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|62.171.147.223|8000|France|Lauterbourg|Contabo GmbH|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|8|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|9|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|10|119.160.13.4|3128|Pakistan|Islamabad|PMCL Transit|
-|11|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|160.22.22.157|8080|Indonesia|Ciampea|PT Sarana Digital Network|
-|14|115.178.49.117|8080|Indonesia|Bandung|NOC SIMAYA|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|11|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|12|36.90.26.197|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |19|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
