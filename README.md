@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.172.120.37|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|7|180.254.154.31|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|61.245.13.107|8082|Philippines|Manila|Infinivan Incorporated|
-|15|67.43.227.226|23829|Canada|Montreal|GloboTech Communications|
-|16|27.189.130.117|8089|China|Langfang|Chinanet|
-|17|67.43.236.18|26517|Canada|Montreal|GloboTech Communications|
-|18|110.76.145.22|89|Indonesia|Surabaya|PT Pika Media Komunika|
-|19|67.43.228.253|30905|Canada|Montreal|GloboTech Communications|
-|20|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|1|101.51.163.83|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|180.254.154.31|8080|Indonesia|Banda Aceh|PT. TELKOM INDONESIA|
+|7|67.43.227.226|23829|Canada|Montreal|GloboTech Communications|
+|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|67.43.228.250|13839|Canada|Montreal|GloboTech Communications|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|17|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|18|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|19|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|36.152.20.72|12890|China|Qinnan|China Mobile Communications Corporation|
 
 
 
