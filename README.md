@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|195.25.20.155|3128|France|Paris|Orange Business Services|
+|2|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|203.150.128.153|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|72.10.160.94|12855|Canada|Montreal|GloboTech Communications|
-|8|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|7|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|125.87.95.145|2324|China|Chongqing|China Telecom|
 |9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|118.113.246.141|2324|China|Shanghai|Chinanet|
+|10|190.12.95.170|47029|Peru|Lima|WIN EMPRESAS S.A.C|
 |11|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|200.59.10.50|999|Argentina|Belén de Escobar|COTELCAM|
-|13|125.87.95.145|2324|China|Chongqing|China Telecom|
-|14|67.43.227.226|6341|Canada|Montreal|GloboTech Communications|
-|15|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|12|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|13|67.43.236.18|19035|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|13595|Canada|Montreal|GloboTech Communications|
+|15|85.15.21.102|8080|Iran|Tehran|SHATEL Network|
 |16|67.43.227.226|6341|Canada|Montreal|GloboTech Communications|
-|17|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
-|18|103.156.75.213|8787|Indonesia|Gianyar|PT Trika Global Media|
-|19|219.135.102.83|8893|China|Guangzhou|Chinanet|
-|20|87.103.135.119|4444|Russia|Kemerovo|SIBNET-IRKUTSK|
+|17|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|117.103.70.9|8715|Indonesia|Malang|NARATEL|
+|20|45.167.124.141|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
