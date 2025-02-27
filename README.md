@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|212.68.38.120|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|9|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
-|10|72.10.160.170|24001|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|31319|Canada|Montreal|GloboTech Communications|
-|12|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|72.10.160.171|4715|Canada|Montreal|GloboTech Communications|
-|14|27.189.132.25|8089|China|Langfang|Chinanet|
-|15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|16|67.43.227.227|13723|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|24001|Canada|Montreal|GloboTech Communications|
-|18|223.205.26.69|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|134.236.17.99|8080|Thailand|Phra Nakhon Si Ayutthaya|CAT-BB|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|72.10.160.170|24001|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.171|4715|Canada|Montreal|GloboTech Communications|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|72.10.160.91|21567|Canada|Montreal|GloboTech Communications|
+|10|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|13|103.133.25.185|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|14|67.43.228.252|14523|Canada|Montreal|GloboTech Communications|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|185.208.102.182|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|18|134.35.165.139|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|20|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
 
 
 
