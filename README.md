@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|195.25.20.155|3128|France|Paris|Orange Business Services|
-|8|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|13|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|49.70.190.231|2324|China|Zhenjiang|Chinanet|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|72.10.164.178|13355|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|4417|Canada|Montreal|GloboTech Communications|
-|20|38.225.86.161|999|Peru|Arequipa|Cogent Communications|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
+|9|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|10|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|195.25.20.155|3128|France|Paris|Orange Business Services|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
 
 
 
