@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|154.193.39.153|808|South Korea|Seoul|Octopus Web Solution Inc|
-|10|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|11|154.193.39.192|808|South Korea|Seoul|Octopus Web Solution Inc|
-|12|77.137.39.241|19000|Israel|Sderot|Hot-Net internet services Ltd.|
-|13|72.10.160.90|29781|Canada|Montreal|GloboTech Communications|
-|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|15|67.43.227.226|20887|Canada|Montreal|GloboTech Communications|
-|16|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|67.43.236.19|11767|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|21997|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|21997|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
+|5|81.90.149.186|3128|Iran|Tehran|Afranet|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|202.47.65.146|3128|Indonesia|Jakarta|PT Filltech Antar Nusa|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|38.194.236.168|3128|Mexico|Tlacolula de Matamoros|Ientc S De RL De CV|
+|12|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|13|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|14|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|18|185.73.214.27|8080|Russia|St Petersburg|Miran|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|181.233.89.174|999|Venezuela|Cabimas|Colnetwork C.A.|
 
 
 
