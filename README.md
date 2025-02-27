@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|9|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|11|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|195.25.20.155|3128|France|Paris|Orange Business Services|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.75.96.142|1111|Indonesia|Utan|MORATELINDO|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|20|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
