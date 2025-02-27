@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|125.27.134.211|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|223.204.52.137|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|13|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|14|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|67.43.228.250|29641|Canada|Montreal|GloboTech Communications|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|72.10.160.170|6875|Canada|Montreal|GloboTech Communications|
-|20|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|195.25.20.155|3128|France|Paris|Orange Business Services|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|65.20.188.244|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|10|201.49.101.173|3234|Brazil|Aparecida de Goiânia|ALGAR TELECOM S/A|
+|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|12|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|17|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|67.43.236.18|22617|Canada|Montreal|GloboTech Communications|
 
 
 
