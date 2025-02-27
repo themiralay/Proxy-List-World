@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|212.111.193.254|8080|Ukraine|Dnipro|User Association of Ukrainian Research and Academic Network URAN|
-|5|38.159.227.194|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|67.43.228.251|1095|Canada|Montreal|GloboTech Communications|
-|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|11|67.43.227.226|30837|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|30837|Canada|Montreal|GloboTech Communications|
-|13|49.84.175.101|8089|China|Nanjing|China Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
-|16|27.124.75.2|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
-|17|67.43.236.18|12967|Canada|Montreal|GloboTech Communications|
-|18|172.232.62.112|3128|France|Paris|Akamai Technologies, Inc.|
-|19|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|3|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|4|201.159.97.109|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
+|5|36.94.39.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|45.63.8.76|80|United States|Piscataway|The Constant Company|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|115.134.70.15|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|11|195.133.220.46|1971|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
+|12|34.101.137.167|80|Indonesia|Jakarta|Google LLC|
+|13|27.124.75.2|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
+|16|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|17|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|67.43.236.18|12967|Canada|Montreal|GloboTech Communications|
+|20|51.79.255.251|20062|Singapore|Singapore|OVH SAS|
 
 
 
