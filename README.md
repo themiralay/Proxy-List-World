@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|4|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|5|182.52.25.212|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|177.93.35.50|999|Colombia|Villagarzón|TV AZTECA SUCURSAL COLOMBIA|
-|8|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|9|72.10.164.178|9651|Canada|Montreal|GloboTech Communications|
-|10|41.65.55.2|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
-|11|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
-|12|103.156.233.77|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|13|67.43.236.18|30937|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|6863|Canada|Montreal|GloboTech Communications|
-|15|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|72.10.160.171|27617|Canada|Montreal|GloboTech Communications|
-|17|27.189.128.51|8089|China|Langfang|Chinanet|
-|18|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
-|19|196.29.192.226|8080|Angola|Luanda|MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L|
-|20|170.80.78.217|8088|Brazil|Salvador|R7R - ME|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|5.10.228.196|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|223.206.91.173|8080|Thailand|Bang Pahan|Triple T Broadband Public Company Limited|
+|10|103.18.77.77|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|11|58.147.186.226|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|67.43.228.251|16663|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|33161|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.252|9119|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|31819|Canada|Montreal|GloboTech Communications|
+|17|188.132.221.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|72.10.160.174|27447|Canada|Montreal|GloboTech Communications|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|90.174.128.42|3128|Spain|Madrid|Uni2|
 
 
 
