@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|3|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
-|7|67.43.236.18|13147|Canada|Montreal|GloboTech Communications|
-|8|121.232.181.183|8089|China|Nanjing|Chinanet|
-|9|125.87.84.18|2324|China|Shanghai|China Telecom|
-|10|67.43.228.254|3899|Canada|Montreal|GloboTech Communications|
-|11|103.219.75.2|8080|Indonesia|Serang|Bitech Networks|
-|12|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|13|67.43.228.251|25687|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26537|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|13147|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|13147|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|25687|Canada|Montreal|GloboTech Communications|
-|18|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|72.10.164.178|26537|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|67.43.227.226|4141|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.18|19035|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|4141|Canada|Montreal|GloboTech Communications|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|125.87.84.18|2324|China|Shanghai|China Telecom|
+|11|72.10.160.90|30103|Canada|Montreal|GloboTech Communications|
+|12|43.134.82.185|1111|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|67.43.236.18|19035|Canada|Montreal|GloboTech Communications|
+|14|85.239.55.140|3128|Bulgaria|Sofia|BlueVPS OU|
+|15|72.10.164.178|7529|Canada|Montreal|GloboTech Communications|
+|16|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|17|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|67.43.236.19|16145|Canada|Montreal|GloboTech Communications|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
