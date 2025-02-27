@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|103.125.154.233|8080|India|Tirupur|Live Fibernet|
-|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|72.10.160.90|4981|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|31089|Canada|Montreal|GloboTech Communications|
-|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|9|121.232.181.152|8089|China|Nanjing|Chinanet|
-|10|67.43.228.250|18579|Canada|Montreal|GloboTech Communications|
-|11|27.189.131.226|8089|China|Langfang|Chinanet|
-|12|222.67.13.216|2324|China|Shanghai|China Telecom (Group)|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|111.72.196.26|2324|China|Taohua|Chinanet|
-|15|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|16|67.43.236.22|2843|Canada|Montreal|GloboTech Communications|
+|2|14.39.239.79|62535|South Korea|Eunpyeong-gu|Korea Telecom|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
+|5|182.253.137.126|8080|Indonesia|Jakarta|BIZNET|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|72.10.164.178|31089|Canada|Montreal|GloboTech Communications|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|202.138.236.133|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
 |17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|160.191.130.65|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
-|19|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|67.43.227.226|22307|Canada|Montreal|GloboTech Communications|
+|19|125.87.93.86|2324|China|Chongqing|China Telecom|
+|20|200.205.60.2|8080|Brazil|São Paulo|Vivo|
 
 
 
