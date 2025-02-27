@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|10|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|72.10.160.90|32389|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|24893|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|32499|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|32351|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6813|Canada|Montreal|GloboTech Communications|
-|18|27.189.132.217|8089|China|Langfang|Chinanet|
-|19|118.113.246.141|2324|China|Shanghai|Chinanet|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
+|3|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|36.94.39.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|10|154.193.39.153|808|South Korea|Seoul|Octopus Web Solution Inc|
+|11|72.10.160.90|32389|Canada|Montreal|GloboTech Communications|
+|12|190.61.61.210|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|13|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|15|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|16|118.113.245.84|2324|China|Shanghai|Chinanet|
+|17|72.10.160.170|24893|Canada|Montreal|GloboTech Communications|
+|18|46.243.9.113|8080|Russia|Georgiyevsk|SerDi TeleCom, LTD|
+|19|67.43.228.250|11579|Canada|Montreal|GloboTech Communications|
+|20|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
 
 
 
