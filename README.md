@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|102.212.201.191|8080|South Africa|Johannesburg|JENNY INTERNET (PTY) LTD|
-|7|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|72.10.160.94|25697|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|3969|Canada|Montreal|GloboTech Communications|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|45.92.38.214|8000|Sweden|Stockholm|LogicForge Limited|
-|14|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|15|67.43.227.226|14987|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|18|171.237.118.180|1011|Vietnam|Ninh Bình|Viettel Corporation|
-|19|113.118.159.110|9000|China|Guangzhou|Chinanet|
-|20|118.113.245.102|2324|China|Shanghai|Chinanet|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|7|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|45.92.38.214|8000|Sweden|Stockholm|LogicForge Limited|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|182.105.82.38|655|China|Taohua|Chinanet|
+|12|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|102.135.157.33|12354|South Africa|Durbanville|Session Telecoms(PTY) Ltd|
+|14|62.193.118.61|1981|Egypt|Hada'iq al Qubbah|Etisalat|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|17|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|19|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|20|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
 
 
 
