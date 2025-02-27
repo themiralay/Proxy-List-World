@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.174.191.135|8080|Brazil|Fortaleza|P3 Telecom LTDA|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.186.193.135|8080|Indonesia|Ploso|PT Lentera Digital Nusantara|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|72.10.160.90|9161|Canada|Montreal|GloboTech Communications|
-|10|81.90.149.186|3128|Iran|Tehran|Afranet|
-|11|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|12|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|13|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
-|14|49.70.190.198|2324|China|Zhenjiang|Chinanet|
-|15|38.225.86.193|999|Peru|Arequipa|Cogent Communications|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|72.10.164.178|33161|Canada|Montreal|GloboTech Communications|
-|19|118.113.247.50|2324|China|Shanghai|Chinanet|
-|20|72.10.160.90|9161|Canada|Montreal|GloboTech Communications|
+|2|124.121.2.167|8080|Thailand|Bangkok|TRUEBB|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|13|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
+|17|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|18|118.113.244.15|2324|China|Shanghai|Chinanet|
+|19|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|20|181.45.78.113|8080|Argentina|Buenos Aires|Telecentro S.A.|
 
 
 
