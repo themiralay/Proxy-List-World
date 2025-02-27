@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|10|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|11|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|13|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|14|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|4|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|61.118.38.234|60808|Japan|Yoyogi|Open Computer Network|
+|11|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|14|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
