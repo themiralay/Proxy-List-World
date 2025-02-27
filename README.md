@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
 |3|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
 |4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|203.150.113.117|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
-|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|15|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|16|67.43.228.250|15285|Canada|Montreal|GloboTech Communications|
-|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|67.43.227.226|6987|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|18875|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|203.150.113.117|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|12|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|177.5.18.81|9080|Brazil|Curitiba|V tal|
+|14|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|15|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|16|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|17|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
+|19|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
+|20|60.188.49.53|1999|China|Taizhou|Chinanet|
 
 
 
