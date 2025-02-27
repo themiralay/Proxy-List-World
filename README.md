@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY, Inc.|
-|5|185.255.88.181|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|67.43.236.18|28751|Canada|Montreal|GloboTech Communications|
-|10|118.113.246.4|2324|China|Shanghai|Chinanet|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|51.79.255.251|20048|Singapore|Singapore|OVH SAS|
-|13|67.43.236.21|26553|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|28751|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|5887|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|6109|Canada|Montreal|GloboTech Communications|
-|17|118.113.246.241|2324|China|Shanghai|Chinanet|
-|18|67.43.228.250|5887|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6109|Canada|Montreal|GloboTech Communications|
-|20|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|49.13.63.108|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|5|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
+|6|188.132.150.67|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|7|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|11|101.109.31.87|8080|Thailand|Kabin Buri|TOT Public Company Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|103.46.10.21|7777|Indonesia|Malang|Lintas Data Prima, PT|
+|15|103.145.34.186|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|36.94.7.82|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|20|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
 
 
 
