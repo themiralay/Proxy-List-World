@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|125.27.134.211|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|157.66.85.65|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|12|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|15|67.43.227.226|3033|Canada|Montreal|GloboTech Communications|
-|16|121.227.183.173|8089|China|Nanjing|China Telecom|
-|17|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|18|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|72.10.164.178|30753|Canada|Montreal|GloboTech Communications|
+|4|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|7|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|195.25.20.155|3128|France|Paris|Orange Business Services|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|119.95.189.247|8080|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|61.7.184.188|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|121.227.183.173|8089|China|Nanjing|China Telecom|
+|19|67.43.236.18|16573|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|17615|Canada|Montreal|GloboTech Communications|
 
 
 
