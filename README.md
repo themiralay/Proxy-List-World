@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|8|103.18.77.77|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|9|113.23.157.39|1231|Malaysia|Putrajaya|Extreme Broadband|
-|10|67.43.228.250|31819|Canada|Montreal|GloboTech Communications|
-|11|27.75.203.204|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|12|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|13|67.43.236.18|15483|Canada|Montreal|GloboTech Communications|
-|14|191.243.46.22|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.227.226|17899|Canada|Montreal|GloboTech Communications|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|72.10.160.91|11685|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|67.43.228.250|18231|Canada|Montreal|GloboTech Communications|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|67.43.227.226|18285|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|25967|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|14501|Canada|Montreal|GloboTech Communications|
+|13|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|67.43.228.250|18231|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|14501|Canada|Montreal|GloboTech Communications|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|72.10.160.172|27205|Canada|Montreal|GloboTech Communications|
 
 
 
