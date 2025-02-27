@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|115.72.168.31|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |9|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|10|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|212.111.89.204|30017|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|181.232.190.213|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|17|77.242.24.49|8089|Albania|Tirana|Abissnet ISP|
-|18|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|19|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|212.111.89.204|30017|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|15|103.238.232.130|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|16|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|18|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
