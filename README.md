@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|212.68.38.120|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|5|223.205.26.69|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
-|7|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|12|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|13|36.73.179.142|8181|Indonesia|Situbondo|PT. TELKOM INDONESIA|
-|14|116.90.176.106|8888|Indonesia|Medan|PT. PANCA DUTA UTAMA|
-|15|67.43.227.227|7561|Canada|Montreal|GloboTech Communications|
-|16|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|17|43.252.238.166|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|18|115.178.49.117|8080|Indonesia|Bandung|NOC SIMAYA|
-|19|72.10.160.90|13909|Canada|Montreal|GloboTech Communications|
-|20|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|3|103.55.224.122|8080|Indonesia|Karawang|PT Gapura Era Digital|
+|4|223.205.26.69|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|7|103.184.180.204|8080|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|135.181.30.23|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|212.68.38.120|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|14|110.76.145.22|89|Indonesia|Surabaya|PT Pika Media Komunika|
+|15|72.10.160.90|15413|Canada|Montreal|GloboTech Communications|
+|16|115.178.49.117|8080|Indonesia|Bandung|NOC SIMAYA|
+|17|103.162.66.10|8080|India|Pune|Imperium Digital Network|
+|18|103.172.71.140|8080|Indonesia|Karawang|AZNET|
+|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
