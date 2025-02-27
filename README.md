@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|198.145.118.92|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|67.43.236.18|6331|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|17199|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|6331|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|20551|Canada|Montreal|GloboTech Communications|
-|15|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|209.146.18.230|8082|Philippines|Manila|Cogent Communications|
-|17|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.92|4551|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|18431|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|5491|Canada|Montreal|GloboTech Communications|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|94.182.53.244|8080|Iran|Tehran|Aria Shatel PJSC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|103.184.54.3|7777|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|14|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|16|38.52.135.65|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|17|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|72.10.164.178|16311|Canada|Montreal|GloboTech Communications|
 
 
 
