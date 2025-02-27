@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|4|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|72.10.160.91|28491|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|28355|Canada|Montreal|GloboTech Communications|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|67.43.227.227|28355|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|14111|Canada|Montreal|GloboTech Communications|
-|16|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|17|91.92.213.58|8080|Iran|Tehran|TIC|
-|18|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|19|58.33.89.106|8444|China|Shanghai|China Telecom (Group)|
-|20|180.114.96.100|8089|China|Nanjing|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|67.43.227.227|28355|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.91|28491|Canada|Montreal|GloboTech Communications|
+|11|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|12|67.43.227.226|24053|Canada|Montreal|GloboTech Communications|
+|13|103.76.108.56|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|14|72.10.160.92|16035|Canada|Montreal|GloboTech Communications|
+|15|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
+|16|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|17|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
+|18|103.186.90.133|3125|Indonesia|Guyangan|PT Akses Data Internusa|
+|19|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
