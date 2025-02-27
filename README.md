@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
 |5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY, Inc.|
-|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|187.63.158.7|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
-|12|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|13|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|14|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|15|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|16|72.10.160.90|19635|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|19635|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|25357|Canada|Montreal|GloboTech Communications|
-|19|124.160.103.162|11451|China|Hangzhou|CNC Group CHINA169 Zhejiang Province Network|
-|20|72.10.160.170|4461|Canada|Montreal|GloboTech Communications|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|195.25.20.155|3128|France|Paris|Orange Business Services|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|103.97.140.159|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|10|103.18.77.77|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|11|5.10.228.196|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|12|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|18767|Canada|Montreal|GloboTech Communications|
+|14|181.209.82.154|23500|Argentina|Romang|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|16|72.10.160.171|1965|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|4461|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
