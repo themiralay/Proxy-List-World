@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|171.237.118.180|1018|Vietnam|Ninh Bình|Viettel Corporation|
-|6|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|3|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|103.183.10.175|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|67.43.228.250|16701|Canada|Montreal|GloboTech Communications|
-|16|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|1.2.171.164|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|72.10.160.91|21271|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|16701|Canada|Montreal|GloboTech Communications|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|65.1.244.232|1080|India|Mumbai|Amazon.com|
+|14|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.160.170|8613|Canada|Montreal|GloboTech Communications|
+|17|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|18|118.113.247.216|2324|China|Shanghai|Chinanet|
+|19|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|20|180.97.220.151|11080|China|Nanjing|Chinanet|
 
 
 
