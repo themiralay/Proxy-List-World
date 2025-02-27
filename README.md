@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|5|45.172.90.244|999|Mexico|Tuxpan|Inalambrico Dedicado S.a. De C.V.|
-|6|27.147.218.18|63680|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|2.184.238.79|8080|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.178.194.199|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|72.10.160.91|24165|Canada|Montreal|GloboTech Communications|
-|15|180.112.181.94|8089|China|Nanjing|Chinanet|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|72.10.160.93|29155|Canada|Montreal|GloboTech Communications|
+|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|9|119.11.205.129|8080|Indonesia|Jakarta|PT. NTT Indonesia|
+|10|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|182.52.47.91|8080|Thailand|Bang Kruai|TOT Public Company Limited|
+|13|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|14|67.43.228.250|24043|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|19157|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|31399|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|7225|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|29155|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|18|109.163.231.187|8080|Romania|Bucharest|Voxility SRL|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
