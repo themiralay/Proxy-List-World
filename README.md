@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|124.121.2.217|8080|Thailand|Bangkok|TRUEBB|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|124.121.2.217|8080|Thailand|Bangkok|TRUEBB|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.171.255.58|8080|Indonesia|Sleman|ZKI|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |14|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|67.43.236.18|17481|Canada|Montreal|GloboTech Communications|
-|20|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|15|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|208.109.234.211|8080|United States|Tempe|GoDaddy.com, LLC|
 
 
 
