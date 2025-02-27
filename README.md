@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|72.10.160.91|14335|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.226|25563|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.91|14335|Canada|Montreal|GloboTech Communications|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|72.10.160.171|32763|Canada|Montreal|GloboTech Communications|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|62.171.130.62|3128|France|Lauterbourg|Contabo GmbH|
-|14|67.43.236.18|24633|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|5949|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|67.43.228.251|4493|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|14335|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|118.113.245.242|2324|China|Shanghai|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|72.10.160.90|26727|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.91|2085|Canada|Montreal|GloboTech Communications|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|118.113.245.242|2324|China|Shanghai|Chinanet|
+|16|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.227.226|25563|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|26727|Canada|Montreal|GloboTech Communications|
+|19|36.88.170.170|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
