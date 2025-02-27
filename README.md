@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|61.7.191.245|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|7|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|8|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|61.7.191.245|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|4|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|189.100.247.109|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
 |12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|17|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|14|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
