@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
-|10|103.155.198.141|1080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|195.25.20.155|3128|France|Paris|Orange Business Services|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|67.43.228.252|29993|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|25119|Canada|Montreal|GloboTech Communications|
-|16|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|17|67.43.236.18|6379|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|6575|Canada|Montreal|GloboTech Communications|
-|19|12.165.234.129|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|20|72.10.160.170|25119|Canada|Montreal|GloboTech Communications|
+|2|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|223.206.91.173|8080|Thailand|Bang Pahan|Triple T Broadband Public Company Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|195.25.20.155|3128|France|Paris|Orange Business Services|
+|9|91.185.52.73|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
+|12|103.155.198.141|1080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|13|72.10.160.90|32715|Canada|Montreal|GloboTech Communications|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|187.134.186.148|8080|Mexico|Ahome|Uninet S.A. de C.V.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
