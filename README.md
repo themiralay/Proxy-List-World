@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|5|72.10.160.90|5713|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.170|18991|Canada|Montreal|GloboTech Communications|
-|7|27.189.135.165|8089|China|Langfang|Chinanet|
-|8|67.43.236.20|16445|Canada|Montreal|GloboTech Communications|
-|9|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|10|182.105.82.38|655|China|Taohua|Chinanet|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|49.84.175.103|8089|China|Nanjing|China Telecom|
-|13|67.43.236.18|19619|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|19669|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|19619|Canada|Montreal|GloboTech Communications|
-|16|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|17|222.215.137.18|3218|China|Deyang|Chinanet|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|67.43.228.251|13985|Canada|Montreal|GloboTech Communications|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|78.38.99.74|8080|Iran|Gorgan|Iran Telecommunication Company PJS|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|7|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|8|72.10.160.170|25483|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|5713|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|26259|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.171|2353|Canada|Montreal|GloboTech Communications|
+|12|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|72.10.164.178|16413|Canada|Montreal|GloboTech Communications|
+|15|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|72.10.160.170|25483|Canada|Montreal|GloboTech Communications|
+|18|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|103.228.246.75|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|20|103.156.248.48|8080|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
 
 
 
