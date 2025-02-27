@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|1|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|2|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|67.43.227.229|17705|Canada|Montreal|GloboTech Communications|
-|6|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|7|67.43.227.226|1583|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.226|1583|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.19|30159|Canada|Montreal|GloboTech Communications|
-|10|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|67.43.236.18|18615|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|18615|Canada|Montreal|GloboTech Communications|
-|15|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|67.43.227.230|6335|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|17705|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|27343|Canada|Montreal|GloboTech Communications|
-|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|101.109.31.87|8080|Thailand|Kabin Buri|TOT Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.85.141.180|3128|United States|Portland|Amazon.com, Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|10|161.49.97.9|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|11|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
+|12|103.133.61.173|3030|Indonesia|Pringsewu|TLINK|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|171.238.125.36|5106|Vietnam|Ninh Bình|Viettel Corporation|
+|15|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|16|72.10.164.178|23215|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|24145|Canada|Montreal|GloboTech Communications|
+|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|19|181.129.235.114|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|20|67.43.227.229|17705|Canada|Montreal|GloboTech Communications|
 
 
 
