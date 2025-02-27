@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|67.43.236.19|11981|Canada|Montreal|GloboTech Communications|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|103.195.252.37|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|10|67.43.227.227|4445|Canada|Montreal|GloboTech Communications|
-|11|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|12|67.43.236.18|32883|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|21431|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|5851|Canada|Montreal|GloboTech Communications|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|72.10.160.170|9833|Canada|Montreal|GloboTech Communications|
-|18|91.107.182.7|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|103.243.177.129|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
-|20|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|4|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|5|103.75.96.70|8080|Indonesia|Utan|MORATELINDO|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|198.145.118.92|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
+|14|67.43.236.19|11981|Canada|Montreal|GloboTech Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|18|188.132.222.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
