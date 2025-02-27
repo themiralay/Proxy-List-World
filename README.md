@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|2|72.10.164.178|3987|Canada|Montreal|GloboTech Communications|
-|3|67.43.227.227|19119|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
 |4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|6|72.10.160.90|7267|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|15065|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.250|17529|Canada|Montreal|GloboTech Communications|
-|9|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
-|10|37.210.208.202|8080|Qatar|Doha|Ooredoo-MBB|
-|11|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|12|72.10.160.171|31119|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.228.251|8423|Canada|Montreal|GloboTech Communications|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.164.178|3987|Canada|Montreal|GloboTech Communications|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|67.43.228.252|2703|Canada|Montreal|GloboTech Communications|
+|5|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|6|72.10.160.90|29881|Canada|Montreal|GloboTech Communications|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|9|103.162.222.243|8080|Indonesia|Banyuwangi|PT Cahaya Artha Daya|
+|10|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|11|67.43.228.252|2703|Canada|Montreal|GloboTech Communications|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|72.10.160.90|29881|Canada|Montreal|GloboTech Communications|
+|15|154.90.49.103|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|16|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|17|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
+|18|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
