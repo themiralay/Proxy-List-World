@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|154.193.8.135|808|South Korea|Seoul|Octopus Web Solution Inc|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|190.52.100.195|999|Venezuela|Caracas|Gold Data USA Inc|
-|6|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|94.140.224.134|65056|Russia|Petrozavodsk|CityLink Ltd|
-|12|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|13|72.10.160.93|14143|Canada|Montreal|GloboTech Communications|
-|14|27.189.130.197|8089|China|Langfang|Chinanet|
-|15|72.10.164.178|28285|Canada|Montreal|GloboTech Communications|
-|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|17|72.10.160.93|14143|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|1681|Canada|Montreal|GloboTech Communications|
-|19|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|20|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|67.43.228.250|31185|Canada|Montreal|GloboTech Communications|
+|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|8|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|9|64.227.134.174|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|67.43.236.20|25347|Canada|Montreal|GloboTech Communications|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|14|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|103.191.254.2|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|17|190.61.90.116|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|72.10.160.171|19669|Canada|Montreal|GloboTech Communications|
+|20|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
