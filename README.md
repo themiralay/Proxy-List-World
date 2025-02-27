@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|125.27.134.211|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|193.122.106.183|47495|South Korea|Seoul|Oracle Corporation|
-|6|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|7|103.175.240.87|8080|Indonesia|Banyumas|LDP|
-|8|101.255.165.130|1111|Indonesia|Jakarta|PT Remala Abadi|
-|9|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|10|177.234.236.134|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|160.20.38.18|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|5|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|9|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|119.95.189.247|8080|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
 |15|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|20|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
