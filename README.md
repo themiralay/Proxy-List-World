@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4373** proxies at the latest update. Usable proxies are below.
+> Scraper found **4375** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|200|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|483|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|272|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|154.193.39.213|808|South Korea|Seoul|Octopus Web Solution Inc|
-|9|49.84.134.2|8089|China|Nanjing|China Telecom|
-|10|72.10.160.90|9867|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|9867|Canada|Montreal|GloboTech Communications|
-|12|118.113.244.134|2324|China|Shanghai|Chinanet|
-|13|154.193.37.168|808|South Korea|Seoul|Octopus Web Solution Inc|
-|14|154.193.40.202|808|South Korea|Seoul|Octopus Web Solution Inc|
-|15|72.10.160.93|1425|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|9867|Canada|Montreal|GloboTech Communications|
-|17|109.176.250.90|8888|Austria|Vienna|Nessus GmbH|
-|18|27.189.134.129|8089|China|Langfang|Chinanet|
-|19|222.215.137.18|3218|China|Deyang|Chinanet|
-|20|72.10.160.170|13527|Canada|Montreal|GloboTech Communications|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|222.215.137.18|3218|China|Deyang|Chinanet|
+|7|118.113.244.134|2324|China|Shanghai|Chinanet|
+|8|58.11.81.224|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|9|72.10.160.93|1425|Canada|Montreal|GloboTech Communications|
+|10|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
+|11|72.10.160.170|19689|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|4981|Canada|Montreal|GloboTech Communications|
+|13|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|14|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|15|67.43.227.226|13025|Canada|Montreal|GloboTech Communications|
+|16|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|72.10.160.90|4981|Canada|Montreal|GloboTech Communications|
+|18|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|19|103.184.54.28|8090|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|20|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
 
 
 
