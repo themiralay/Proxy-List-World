@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|2|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|189.240.60.162|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|38.211.25.10|8080|Indonesia|Parigi|PT Putra Garsel Interkoneksi|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|115.72.1.31|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|17|67.43.227.227|1841|Canada|Montreal|GloboTech Communications|
-|18|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|62.171.147.223|8000|France|Lauterbourg|Contabo GmbH|
+|5|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|6|81.90.149.186|3128|Iran|Tehran|Afranet|
+|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|12|195.133.220.46|1971|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|115.72.1.31|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|15|72.10.160.94|21203|Canada|Montreal|GloboTech Communications|
+|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|17|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|18|67.43.228.251|3967|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|30057|Canada|Montreal|GloboTech Communications|
+|20|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
