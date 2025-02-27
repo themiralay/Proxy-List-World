@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|116.118.48.147|3128|Vietnam|Hanoi|SPT|
-|4|128.90.43.190|8118|United States|Austin|Paradise Networks LLC|
+|2|116.105.16.3|20081|Vietnam|Da Nang|Viettel Corporation|
+|3|116.105.18.159|20058|Vietnam|Da Nang|Viettel Corporation|
+|4|124.107.198.11|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
 |5|128.90.43.190|8118|United States|Austin|Paradise Networks LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|37.152.171.203|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|10|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
-|11|185.208.102.182|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|13|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
-|14|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|15|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|16|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|6|5.189.174.81|8888|France|Lauterbourg|Contabo GmbH|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|9|8.219.153.91|825|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|1.160.3.107|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|195.25.20.155|3128|France|Paris|Orange Business Services|
+|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.172|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|37.152.171.203|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|17|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
