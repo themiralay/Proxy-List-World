@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
-|5|38.172.130.219|999|Peru|Lima|Conex TV E.I.R.L.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|67.43.236.18|23403|Canada|Montreal|GloboTech Communications|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.228.250|3049|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|4077|Canada|Montreal|GloboTech Communications|
-|17|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|43.250.147.180|29008|China|Shanghai|China Unicom CHINA169 Shanghai Network|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|195.25.20.155|3128|France|Paris|Orange Business Services|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|103.214.9.96|3128|Vietnam|Thanh Xuân|MEGACORE|
+|9|158.160.52.208|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|13|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|14|125.27.134.211|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|111.75.190.5|655|China|Taohua|Chinanet|
+|18|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
