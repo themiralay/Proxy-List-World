@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4401** proxies at the latest update. Usable proxies are below.
+> Scraper found **4402** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|272|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|14.39.239.79|62535|South Korea|Eunpyeong-gu|Korea Telecom|
-|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|8.215.80.87|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|27.189.132.190|8089|China|Langfang|Chinanet|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|67.43.228.250|25257|Canada|Montreal|GloboTech Communications|
-|11|114.224.74.199|8089|China|Wuxi|Chinanet|
-|12|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|13|72.10.160.171|8275|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|12355|Canada|Montreal|GloboTech Communications|
-|15|117.81.238.69|8089|China|Nanjing|China Telecom|
-|16|67.43.227.226|5957|Canada|Montreal|GloboTech Communications|
-|17|27.189.131.141|8089|China|Langfang|Chinanet|
-|18|67.43.227.226|5957|Canada|Montreal|GloboTech Communications|
-|19|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|20|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|60.51.51.89|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|3|182.253.137.126|8080|Indonesia|Jakarta|BIZNET|
+|4|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|201.76.9.115|8080|Brazil|Criciúma|Contato Internet EIRELI|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|121.101.133.81|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|9|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
+|10|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|195.25.20.155|3128|France|Paris|Orange Business Services|
+|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|117.84.72.239|8089|China|Nanjing|Chinanet|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|36.93.8.34|11000|Indonesia|Bogor|Telekomunikasi Indonesia|
+|18|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
