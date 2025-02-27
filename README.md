@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|72.10.160.172|21695|Canada|Montreal|GloboTech Communications|
-|6|118.113.245.242|2324|China|Shanghai|Chinanet|
-|7|27.189.132.190|8089|China|Langfang|Chinanet|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|67.43.227.226|2053|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|31115|Canada|Montreal|GloboTech Communications|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|115.127.139.106|48134|Bangladesh|Dhaka|BRACNet Limited|
+|5|78.38.99.74|8080|Iran|Gorgan|Iran Telecommunication Company PJS|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|67.43.236.21|25769|Canada|Montreal|GloboTech Communications|
+|10|118.113.245.242|2324|China|Shanghai|Chinanet|
 |11|72.10.160.90|20855|Canada|Montreal|GloboTech Communications|
-|12|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|58.209.32.77|8089|China|Nanjing|China Telecom|
-|14|27.189.129.26|8089|China|Langfang|Chinanet|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|67.43.228.250|31115|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|20855|Canada|Montreal|GloboTech Communications|
-|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|19|67.43.227.227|16403|Canada|Montreal|GloboTech Communications|
-|20|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|14|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|15|202.57.25.196|1111|Indonesia|Semarang|announced of WINET|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|19|67.43.227.230|5585|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
