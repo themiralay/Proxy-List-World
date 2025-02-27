@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|38.137.252.10|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
-|9|110.76.145.22|89|Indonesia|Surabaya|PT Pika Media Komunika|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|72.10.160.170|17457|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|17457|Canada|Montreal|GloboTech Communications|
-|13|182.105.82.38|655|China|Taohua|Chinanet|
-|14|27.189.130.77|8089|China|Langfang|Chinanet|
-|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|27.189.132.30|8089|China|Langfang|Chinanet|
-|17|72.10.160.170|17457|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|19703|Canada|Montreal|GloboTech Communications|
-|19|222.67.13.216|2324|China|Shanghai|China Telecom (Group)|
-|20|171.7.65.76|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|2|202.47.65.146|3128|Indonesia|Jakarta|PT Filltech Antar Nusa|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|38.137.252.10|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|160.19.16.17|9869|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|9|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|12|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|13|212.252.73.23|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|72.10.160.170|28933|Canada|Montreal|GloboTech Communications|
+|20|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
 
 
 
