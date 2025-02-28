@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4399** proxies at the latest update. Usable proxies are below.
+> Scraper found **4391** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|423|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|436|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|233|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2587|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|216.144.236.89|3128|United States|Los Angeles|HostPapa|
 |8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|12|72.10.160.170|33149|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
-|15|67.43.228.250|24419|Canada|Montreal|GloboTech Communications|
-|16|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|17|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|11|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
+|12|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|14|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|16|67.43.236.19|9961|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|29501|Canada|Montreal|GloboTech Communications|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|72.10.164.178|18629|Canada|Montreal|GloboTech Communications|
+|20|103.169.254.45|6080|Indonesia|Curahjati|PT Master Star Network|
 
 
 
