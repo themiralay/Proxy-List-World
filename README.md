@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|101.255.148.114|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
-|14|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|15|195.25.20.155|3128|France|Paris|Orange Business Services|
-|16|181.192.2.23|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|17|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|18|221.161.204.152|3149|South Korea|Changwon|Korea Telecom|
-|19|111.72.195.251|2324|China|Taohua|Chinanet|
-|20|67.43.228.254|18269|Canada|Montreal|GloboTech Communications|
+|2|14.167.123.194|8080|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|3|27.131.248.143|8081|Indonesia|Jakarta|SpaceX Starlink|
+|4|101.255.148.114|8080|Indonesia|Jakarta|PT Remala Abadi|
+|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|7|90.156.194.71|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|118.113.245.112|2324|China|Shanghai|Chinanet|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|67.43.236.19|11981|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|26211|Canada|Montreal|GloboTech Communications|
+|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
