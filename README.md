@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|9|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
-|10|202.58.77.228|8080|Indonesia|Cirebon|PT Data Buana Nusantara|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
-|15|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|18|49.70.190.202|2324|China|Zhenjiang|Chinanet|
-|19|27.189.135.44|8089|China|Langfang|Chinanet|
-|20|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|8|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
+|9|42.114.177.100|10002|Vietnam|Hanoi|FPT Telecom Company|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|13|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|14|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|202.47.88.10|8080|Indonesia|Jombang|PT. Java Digital Nusantara|
+|17|67.43.227.226|2571|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|30917|Canada|Montreal|GloboTech Communications|
+|19|210.212.143.129|3128|India|Vadodara|BSNL Internet|
+|20|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
 
 
 
