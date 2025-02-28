@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|181.174.224.64|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|117.80.188.255|8089|China|Nanjing|China Telecom|
-|8|67.43.227.230|12989|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.251|28423|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|4615|Canada|Montreal|GloboTech Communications|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|67.43.228.250|32605|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|26951|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|31219|Canada|Montreal|GloboTech Communications|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|181.174.224.64|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|4|103.155.198.161|8037|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|185.26.232.26|8080|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
+|7|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|125.25.229.223|8080|Thailand|Uttaradit|TOT Public Company Limited|
+|10|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|11|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
+|12|206.42.53.185|8080|Brazil|Aracaju|Brisanet Servicos De Telecomunicacoes Ltda|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|125.87.82.42|2324|China|Chongqing|China Telecom|
 |15|72.10.160.170|26951|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|31219|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|28423|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|31219|Canada|Montreal|GloboTech Communications|
-|19|175.141.160.156|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|20|72.10.160.172|28315|Canada|Montreal|GloboTech Communications|
+|16|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|17|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|18|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|19|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
 
 
 
