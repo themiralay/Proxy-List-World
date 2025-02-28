@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|97.79.251.186|80|United States|Dallas|Spectrum|
+|2|97.79.251.186|80|United States|Dallas|Spectrum|
+|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
 |4|97.79.251.186|80|United States|Dallas|Spectrum|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|7|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|8|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
-|9|72.10.160.170|10575|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|14867|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|8613|Canada|Montreal|GloboTech Communications|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|15|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|16|195.133.220.46|1971|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
-|17|36.50.11.196|8080|Bangladesh|Gazipur|Stardust Telecom Ltd|
-|18|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|19|27.189.131.160|8089|China|Langfang|Chinanet|
-|20|124.217.107.60|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|7|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|8|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|9|103.180.118.103|8090|Indonesia|Setro|PT Persada Data Multimedia|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|12|103.247.23.70|2022|Indonesia|Baturaden|PT wifian Solution|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|112.198.178.194|8082|Philippines|Nasugbu|Globe Telecom|
+|16|72.10.160.170|10575|Canada|Montreal|GloboTech Communications|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
