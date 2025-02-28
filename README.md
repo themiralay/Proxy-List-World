@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|5|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|96.30.79.84|8081|Thailand|Pattaya|Symphony Communication Public Company Limited|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|103.230.81.110|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|13|38.43.150.76|999|Peru|Lima|Nextnet SAC|
-|14|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|189.7.145.111|3128|Brazil|Pelotas|Claro NXT Telecomunicacoes Ltda|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
+|4|38.68.134.189|80|United States|Dallas|GTHost|
+|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|113.192.31.142|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|7|103.154.230.69|8080|Indonesia|Lamongan|DIGITNET|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|38.68.134.189|80|United States|Dallas|GTHost|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|115.127.139.106|48134|Bangladesh|Dhaka|BRACNet Limited|
+|15|90.174.128.42|3128|Spain|Madrid|Uni2|
+|16|102.219.209.86|3346|Kenya|Nairobi|Vijiji Connect LTD|
+|17|72.10.160.173|16687|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|11663|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|4105|Canada|Montreal|GloboTech Communications|
+|20|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
 
 
 
