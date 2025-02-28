@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.72.196.193|8888|Ireland|Dublin|Amazon.com, Inc.|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|45.191.47.4|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
 |4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|45.191.47.4|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
-|6|54.186.107.222|3128|United States|Portland|Amazon.com, Inc.|
-|7|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|8|188.132.150.94|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|9|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
-|10|180.107.218.63|8089|China|Nanjing|China Telecom|
-|11|121.232.181.141|8089|China|Nanjing|Chinanet|
-|12|42.114.177.100|10003|Vietnam|Hanoi|FPT Telecom Company|
-|13|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|14|49.151.97.114|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|15|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
-|16|125.87.89.80|2324|China|Chongqing|China Telecom|
-|17|72.10.160.90|31191|Canada|Montreal|GloboTech Communications|
-|18|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|19|27.189.129.177|8089|China|Langfang|Chinanet|
-|20|72.10.160.93|13995|Canada|Montreal|GloboTech Communications|
+|5|185.200.37.246|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|103.179.84.244|8080|Indonesia|Boyolali|PT CYB Media Group|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|54.186.107.222|3128|United States|Portland|Amazon.com, Inc.|
+|11|188.132.150.94|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
+|13|140.227.119.54|3128|Japan|Chiyoda|InfoSphere|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|16|118.113.245.112|2324|China|Shanghai|Chinanet|
+|17|54.72.196.193|8888|Ireland|Dublin|Amazon.com, Inc.|
+|18|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|67.43.227.226|19661|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|19919|Canada|Montreal|GloboTech Communications|
 
 
 
