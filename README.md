@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |3|38.54.15.107|8080|Vietnam|Ho Chi Minh City|Kaopu Cloud HK Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|103.91.149.140|8080|Indonesia|Ciputat|PT. Yasmin Amanah Media|
-|8|103.247.20.106|1111|Indonesia|Bekasi|PT Yasmin Amanah Media|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|11|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|12|195.25.20.155|3128|France|Paris|Orange Business Services|
-|13|67.43.236.22|2863|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|17805|Canada|Montreal|GloboTech Communications|
-|15|49.84.175.68|8089|China|Nanjing|China Telecom|
-|16|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|17|67.43.236.18|19031|Canada|Montreal|GloboTech Communications|
-|18|27.189.128.49|8089|China|Langfang|Chinanet|
-|19|72.10.160.170|17805|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|27883|Canada|Montreal|GloboTech Communications|
+|4|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|103.234.26.113|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|16|119.18.147.179|96|Bangladesh|Chittagong|BBTS Network|
+|17|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|103.214.102.171|8083|Indonesia|Batam|SMARTPLUS|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
