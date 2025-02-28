@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|190.189.249.108|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|5|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|6|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
-|7|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
-|8|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|72.10.164.178|16909|Canada|Montreal|GloboTech Communications|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.189.134.133|8089|China|Langfang|Chinanet|
-|13|121.227.109.42|8089|China|Nanjing|China Telecom|
-|14|121.227.118.129|8089|China|Nanjing|China Telecom|
-|15|49.70.190.79|2324|China|Zhenjiang|Chinanet|
-|16|72.10.160.91|21041|Canada|Montreal|GloboTech Communications|
-|17|27.189.134.174|8089|China|Langfang|Chinanet|
-|18|67.43.228.250|14553|Canada|Montreal|GloboTech Communications|
-|19|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|20|72.10.164.178|16909|Canada|Montreal|GloboTech Communications|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|103.135.24.6|8080|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|42.114.177.100|10003|Vietnam|Hanoi|FPT Telecom Company|
+|6|118.113.245.112|2324|China|Shanghai|Chinanet|
+|7|72.10.160.174|3199|Canada|Montreal|GloboTech Communications|
+|8|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|9|49.48.103.194|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|187.45.105.25|8080|Brazil|Maravilha|Mhnet Telecom|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|113.192.48.53|8080|Indonesia|Batu|PT.Global Media Data Prima|
+|16|158.140.170.211|8080|Indonesia|Surabaya|MYREPUBLIC|
+|17|183.88.214.84|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|18|15.204.240.177|3128|United States|Reston|OVH SAS|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|117.80.188.255|8089|China|Nanjing|China Telecom|
 
 
 
