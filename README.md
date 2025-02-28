@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|110.76.145.59|89|Indonesia|Surabaya|PT Pika Media Komunika|
-|4|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|1.20.169.102|8080|Thailand|Pattaya|TOT Public Company Limited|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|200.106.165.81|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
-|9|103.181.255.227|3128|Indonesia|Tuban|PT Giga Digital Nusantara|
-|10|223.204.118.143|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|190.61.61.210|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|12|27.189.130.212|8089|China|Langfang|Chinanet|
-|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.236.19|27737|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|27737|Canada|Montreal|GloboTech Communications|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|122.54.193.69|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|11|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|14|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|154.193.39.22|808|South Korea|Seoul|Octopus Web Solution Inc|
-|20|190.110.35.105|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|18|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|67.43.236.19|17891|Canada|Montreal|GloboTech Communications|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
