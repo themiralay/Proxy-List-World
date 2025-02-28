@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|1.20.169.102|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|5|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|210.87.125.210|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|8|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|9|45.159.115.181|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|13|208.77.131.6|8888|United States|Midland|ACD.net|
-|14|103.159.96.148|1080|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|15|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|16|117.80.188.232|8089|China|Nanjing|China Telecom|
-|17|103.170.64.200|1111|India|Pune|Dream Cables|
-|18|49.70.190.202|2324|China|Zhenjiang|Chinanet|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|27.189.131.104|8089|China|Langfang|Chinanet|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|5|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|49.70.190.202|2324|China|Zhenjiang|Chinanet|
+|10|117.44.64.85|655|China|Taohua|Chinanet|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.164.178|15453|Canada|Montreal|GloboTech Communications|
+|15|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
+|16|67.43.227.230|15237|Canada|Montreal|GloboTech Communications|
+|17|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
+|19|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|20|49.84.175.67|8089|China|Nanjing|China Telecom|
 
 
 
