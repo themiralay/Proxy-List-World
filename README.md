@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|45.159.113.155|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|7|45.159.115.181|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.106.79.236|7979|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|11|210.87.125.210|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|12|27.189.130.224|8089|China|Langfang|Chinanet|
-|13|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.227.228|1979|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|25879|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|32827|Canada|Montreal|GloboTech Communications|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|72.10.160.170|9249|Canada|Montreal|GloboTech Communications|
-|20|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|3|45.159.115.181|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|4|103.127.220.106|8181|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|8|38.41.4.166|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|9|67.43.227.228|1979|Canada|Montreal|GloboTech Communications|
+|10|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|117.44.64.85|655|China|Taohua|Chinanet|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|14.39.239.241|59693|South Korea|Eunpyeong-gu|Korea Telecom|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|67.43.227.226|32827|Canada|Montreal|GloboTech Communications|
+|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|18|72.10.160.90|24379|Canada|Montreal|GloboTech Communications|
+|19|103.131.219.26|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|20|58.209.137.168|8089|China|Nanjing|China Telecom|
 
 
 
