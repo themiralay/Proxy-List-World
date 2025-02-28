@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|186.113.232.105|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP BIC|
-|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|2|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
+|3|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
-|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|9|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
-|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|67.43.228.250|24733|Canada|Montreal|GloboTech Communications|
-|15|27.189.135.135|8089|China|Langfang|Chinanet|
-|16|67.43.227.226|33127|Canada|Montreal|GloboTech Communications|
-|17|168.196.114.89|56000|Argentina|Añatuya|SAN GABRIEL VIDEO CABLE COLOR S.A.|
-|18|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
-|19|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
+|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|10|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|11|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|16|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|118.113.246.70|2324|China|Shanghai|Chinanet|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
