@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
-|3|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|171.99.253.227|8080|Thailand|Nonthaburi|True Internet Corporation CO. Ltd.|
-|7|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|8|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|154.193.40.173|808|South Korea|Seoul|Octopus Web Solution Inc|
-|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
-|16|67.43.236.18|19151|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|5391|Canada|Montreal|GloboTech Communications|
-|18|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|19|67.43.228.250|24195|Canada|Montreal|GloboTech Communications|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.155.199.63|8080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
+|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|38.183.215.126|999|Venezuela|Santa Rita|WISP TECNOGER, C.A.|
+|13|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|14|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|15|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|16|45.65.172.71|8080|Brazil|Dourados|Abel F Dos Santos - ME|
+|17|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|18|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
 
 
 
