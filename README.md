@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.15.89.46|39046|Vietnam|Thủ Đức|WIXCLOUD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|6|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|113.23.98.81|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|49.48.43.224|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|103.21.144.138|8080|Australia|Osborne Park|Vonex Pty Ltd|
-|20|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|6|27.131.248.143|8081|Indonesia|Jakarta|SpaceX Starlink|
+|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.148.44.253|8181|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|10|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|11|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|20|49.48.43.224|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 
 
 
