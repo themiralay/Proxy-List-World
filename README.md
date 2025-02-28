@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|38.54.15.107|8080|Vietnam|Ho Chi Minh City|Kaopu Cloud HK Limited|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
-|12|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|72.10.160.174|19505|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|32855|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|14347|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4165|Canada|Montreal|GloboTech Communications|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|72.10.160.170|21677|Canada|Montreal|GloboTech Communications|
+|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|72.10.164.178|10999|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|7815|Canada|Montreal|GloboTech Communications|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
