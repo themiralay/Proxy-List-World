@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.189.135.233|8089|China|Langfang|Chinanet|
-|4|72.10.160.90|13531|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.91|21071|Canada|Montreal|GloboTech Communications|
-|6|27.189.134.156|8089|China|Langfang|Chinanet|
-|7|190.97.252.18|999|Venezuela|Ciudad Guayana|Viginet C.A|
-|8|72.10.164.178|28057|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.18|12547|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|17743|Canada|Montreal|GloboTech Communications|
-|11|27.189.131.45|8089|China|Langfang|Chinanet|
-|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|67.43.227.226|22217|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|18203|Canada|Montreal|GloboTech Communications|
-|15|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
-|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|110.188.37.79|2324|China|Muping|Chinanet|
-|18|72.10.160.91|21071|Canada|Montreal|GloboTech Communications|
-|19|117.44.64.85|655|China|Taohua|Chinanet|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|1|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|7|67.43.236.18|12547|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.91|18587|Canada|Montreal|GloboTech Communications|
+|9|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|222.68.36.153|2324|China|Shanghai|China Telecom (Group)|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|13|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
+|16|72.10.164.178|22431|Canada|Montreal|GloboTech Communications|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|72.10.160.90|13531|Canada|Montreal|GloboTech Communications|
+|19|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
+|20|67.43.236.18|12547|Canada|Montreal|GloboTech Communications|
 
 
 
