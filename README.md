@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|38.68.134.189|80|United States|Dallas|GTHost|
-|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|38.68.134.189|80|United States|Dallas|GTHost|
-|8|103.154.230.69|8080|Indonesia|Lamongan|DIGITNET|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|96.30.79.84|8081|Thailand|Pattaya|Symphony Communication Public Company Limited|
-|11|113.192.6.190|80|Vietnam|Thanh Xuân|BASE|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
-|15|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
-|16|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|17|102.0.15.216|3346|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|103.186.91.103|8080|Indonesia|Guyangan|PT Akses Data Internusa|
-|20|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|6|38.68.134.189|80|United States|Dallas|GTHost|
+|7|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|103.154.230.69|8080|Indonesia|Lamongan|DIGITNET|
+|10|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|11|154.193.40.173|808|South Korea|Seoul|Octopus Web Solution Inc|
+|12|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|14|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|114.9.53.102|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|157.20.233.184|8080|Indonesia|Mranggen|PT Applewifi Selalu Lancar|
+|20|72.10.164.178|15143|Canada|Montreal|GloboTech Communications|
 
 
 
