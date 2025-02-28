@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|7|118.173.88.54|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|223.204.94.19|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|9|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
-|10|118.113.245.112|2324|China|Shanghai|Chinanet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|118.175.30.26|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|17|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|27.189.128.128|8089|China|Langfang|Chinanet|
-|20|27.189.133.130|8089|China|Langfang|Chinanet|
+|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
+|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|118.113.245.112|2324|China|Shanghai|Chinanet|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|14|103.145.68.200|8181|Indonesia|Surabaya|ALFANET|
+|15|172.96.171.76|8080|Puerto Rico|Bayamón|Fuse Telecom LLC|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|18|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
+|19|67.43.236.18|3707|Canada|Montreal|GloboTech Communications|
+|20|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
