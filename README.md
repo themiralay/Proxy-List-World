@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|5|187.134.155.142|8080|Mexico|Ahome|Uninet S.A. de C.V.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|103.155.198.161|8037|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|202.148.16.150|8080|Indonesia|Jakarta|PT. Core Mediatech|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|10|181.174.224.64|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
-|11|72.10.160.91|23635|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|23203|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|4381|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.19|14407|Canada|Montreal|GloboTech Communications|
-|15|208.77.131.6|8888|United States|Midland|ACD.net|
-|16|67.43.227.227|14625|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|4473|Canada|Montreal|GloboTech Communications|
-|18|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|20|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|7|181.174.224.64|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|8|38.156.74.249|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|72.10.160.170|23203|Canada|Montreal|GloboTech Communications|
+|10|177.93.58.53|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|13|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|14|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|15|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
+|16|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|17|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|18|1.4.144.34|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
+|20|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
 
 
 
