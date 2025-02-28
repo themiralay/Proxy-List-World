@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|49.48.42.34|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|8|72.10.160.171|17749|Canada|Montreal|GloboTech Communications|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.160.90|6547|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|7941|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|25901|Canada|Montreal|GloboTech Communications|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|15|27.189.129.65|8089|China|Langfang|Chinanet|
-|16|72.10.160.170|11889|Canada|Montreal|GloboTech Communications|
-|17|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|18|67.43.236.18|7941|Canada|Montreal|GloboTech Communications|
-|19|117.44.64.85|655|China|Taohua|Chinanet|
-|20|206.42.53.185|8080|Brazil|Aracaju|Brisanet Servicos De Telecomunicacoes Ltda|
+|7|38.41.4.166|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|8|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|9|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|10|125.87.88.6|2324|China|Chongqing|China Telecom|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|14|154.79.244.62|58792|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|78.26.146.59|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
+|17|72.10.160.170|9903|Canada|Montreal|GloboTech Communications|
+|18|118.113.245.112|2324|China|Shanghai|Chinanet|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.156.75.213|8787|Indonesia|Gianyar|PT Trika Global Media|
 
 
 
