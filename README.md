@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|66.19.21.242|7878|United States|Wellington|Windstream Communications LLC|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|118.113.245.215|2324|China|Shanghai|Chinanet|
-|9|180.114.96.100|8089|China|Nanjing|Chinanet|
-|10|111.75.189.3|655|China|Taohua|Chinanet|
-|11|67.43.228.250|31437|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|2561|Canada|Montreal|GloboTech Communications|
-|13|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|14|72.10.160.172|12175|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|14527|Canada|Montreal|GloboTech Communications|
-|16|180.114.96.100|8089|China|Nanjing|Chinanet|
-|17|121.227.118.141|8089|China|Nanjing|China Telecom|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|118.113.245.8|2324|China|Shanghai|Chinanet|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|2|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|3|154.193.40.246|808|South Korea|Seoul|Octopus Web Solution Inc|
+|4|154.193.39.68|808|South Korea|Seoul|Octopus Web Solution Inc|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|180.232.171.210|8080|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|14|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
+|15|45.225.120.36|40033|Brazil|Paripiranga|Centrosulnet Informatica Eireli|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|67.43.227.226|14591|Canada|Montreal|GloboTech Communications|
+|19|103.159.194.121|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|20|154.193.37.82|808|South Korea|Seoul|Octopus Web Solution Inc|
 
 
 
