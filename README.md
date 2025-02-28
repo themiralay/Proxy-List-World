@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
-|4|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
-|5|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|10|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|154.193.40.220|808|South Korea|Seoul|Octopus Web Solution Inc|
-|14|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|15|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|67.43.228.250|1883|Canada|Montreal|GloboTech Communications|
-|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.227.226|21445|Canada|Montreal|GloboTech Communications|
-|19|27.189.130.203|8089|China|Langfang|Chinanet|
-|20|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|1|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|12|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|13|38.194.254.90|999|Mexico|Zapopan|Ientc S De RL De CV|
+|14|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
+|15|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|16|72.10.160.174|3493|Canada|Montreal|GloboTech Communications|
+|17|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|114.223.62.88|8089|China|Nanjing|Chinanet|
 
 
 
