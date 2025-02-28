@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|45.159.115.181|9090|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|5|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|186.0.144.81|9797|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|67.43.227.226|32827|Canada|Montreal|GloboTech Communications|
-|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|11|67.43.228.251|32301|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|8411|Canada|Montreal|GloboTech Communications|
-|13|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|14|67.43.227.226|32827|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|13167|Canada|Montreal|GloboTech Communications|
-|16|103.160.205.86|8080|Indonesia|Mataram|PRIME|
-|17|103.134.222.186|8080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.189.133.45|8089|China|Langfang|Chinanet|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|4|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|41.59.227.49|3128|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
+|8|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|67.43.236.22|28229|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|33243|Canada|Montreal|GloboTech Communications|
+|15|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|16|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|17|72.10.160.90|30337|Canada|Montreal|GloboTech Communications|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|222.186.128.181|8457|China|Nanjing|Chinanet|
+|20|67.43.228.251|32301|Canada|Montreal|GloboTech Communications|
 
 
 
