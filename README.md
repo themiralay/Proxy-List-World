@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|181.174.224.64|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
-|4|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|7|182.160.114.214|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|10|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|183.66.135.142|22222|China|Chongqing|Chinanet|
-|13|72.10.164.178|5993|Canada|Montreal|GloboTech Communications|
-|14|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|4|181.174.224.64|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|103.228.246.75|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|8|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
+|12|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|13|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|183.66.135.142|22222|China|Chongqing|Chinanet|
 |15|67.43.236.20|4473|Canada|Montreal|GloboTech Communications|
-|16|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|72.10.160.172|32237|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|7209|Canada|Montreal|GloboTech Communications|
-|19|118.113.245.14|2324|China|Shanghai|Chinanet|
-|20|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|16|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|103.24.214.230|8080|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
+|18|154.193.37.243|808|South Korea|Seoul|Octopus Web Solution Inc|
+|19|103.169.132.38|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|20|118.113.245.112|2324|China|Shanghai|Chinanet|
 
 
 
