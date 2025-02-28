@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|9|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|121.224.156.141|8089|China|Nanjing|China Telecom|
-|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|121.224.156.146|8089|China|Nanjing|China Telecom|
-|14|121.224.156.157|8089|China|Nanjing|China Telecom|
-|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|121.224.156.153|8089|China|Nanjing|China Telecom|
-|17|49.70.190.231|2324|China|Zhenjiang|Chinanet|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|27.147.218.162|8080|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|6|103.39.51.55|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|7|103.227.187.11|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|8|103.80.88.76|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|216.144.236.89|3128|United States|Los Angeles|HostPapa|
+|16|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|17|67.43.228.250|12897|Canada|Montreal|GloboTech Communications|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|67.43.228.250|12897|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|25323|Canada|Montreal|GloboTech Communications|
 
 
 
