@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|9|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|10|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|11|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|12|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|102.209.18.96|8080|Kenya|Nyahururu|Vennet Solutions Limited|
-|17|1.2.185.133|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|20|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|192.135.91.19|3128|Pakistan|Karachi|Fiberlink Pvt.Ltd|
+|10|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|11|103.82.132.206|36729|India|Faridabad|Cloudfly Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|1.2.185.133|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|115.147.63.59|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|72.10.164.178|19703|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.229|4697|Canada|Montreal|GloboTech Communications|
 
 
 
