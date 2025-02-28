@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|164.163.134.227|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|7|35.92.227.104|3128|United States|Portland|Amazon.com, Inc.|
-|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|9|67.43.227.226|15305|Canada|Montreal|GloboTech Communications|
-|10|2.59.181.125|19059|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|11|67.43.228.250|25447|Canada|Montreal|GloboTech Communications|
-|12|117.54.140.94|8080|Indonesia|Jakarta|PT IndoInternet|
-|13|54.186.107.222|3128|United States|Portland|Amazon.com, Inc.|
-|14|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|15|72.10.164.178|11661|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|26285|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|6413|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|4109|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|6413|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|6699|Canada|Montreal|GloboTech Communications|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|6|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
+|7|195.25.20.155|3128|France|Paris|Orange Business Services|
+|8|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|2.59.181.125|19059|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|118.113.245.112|2324|China|Shanghai|Chinanet|
+|15|72.10.164.178|13393|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|19283|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|25389|Canada|Montreal|GloboTech Communications|
+|18|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|20|103.85.12.165|1234|Indonesia|Ciputat|PT. Hesta Media Sinergi|
 
 
 
