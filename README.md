@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|120.28.192.178|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|2|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|216.144.236.89|3128|United States|Los Angeles|HostPapa|
 |3|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|41.59.227.49|3128|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|200.106.165.81|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|10|27.189.129.13|8089|China|Langfang|Chinanet|
-|11|72.10.160.91|30703|Canada|Montreal|GloboTech Communications|
-|12|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|13|72.10.164.178|14327|Canada|Montreal|GloboTech Communications|
-|14|35.92.227.104|3128|United States|Portland|Amazon.com, Inc.|
-|15|49.84.134.40|8089|China|Nanjing|China Telecom|
-|16|118.113.247.251|2324|China|Shanghai|Chinanet|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.236.19|31147|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|24691|Canada|Montreal|GloboTech Communications|
+|4|200.10.29.129|9991|Colombia|Villavicencio|Super Redes S.A.S|
+|5|160.20.165.229|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|13|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
+|14|112.209.47.250|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|15|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
+|18|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|38.66.207.1|999|Venezuela|Valencia|Wifi-prado C.A|
 
 
 
