@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4678** proxies at the latest update. Usable proxies are below.
+> Scraper found **4626** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|522|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|349|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2627|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|5|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|6|180.232.171.210|8080|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|13|195.25.20.155|3128|France|Paris|Orange Business Services|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|16|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|20|67.43.236.18|9545|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|66.19.21.242|7878|United States|Wellington|Windstream Communications LLC|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|118.113.245.215|2324|China|Shanghai|Chinanet|
+|9|180.114.96.100|8089|China|Nanjing|Chinanet|
+|10|111.75.189.3|655|China|Taohua|Chinanet|
+|11|67.43.228.250|31437|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.251|2561|Canada|Montreal|GloboTech Communications|
+|13|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|14|72.10.160.172|12175|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|14527|Canada|Montreal|GloboTech Communications|
+|16|180.114.96.100|8089|China|Nanjing|Chinanet|
+|17|121.227.118.141|8089|China|Nanjing|China Telecom|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|118.113.245.8|2324|China|Shanghai|Chinanet|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
