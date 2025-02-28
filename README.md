@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|118.174.89.5|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|180.178.103.67|8213|Indonesia|Jakarta|PT Hipernet Indodata|
-|9|103.18.77.25|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|10|146.56.52.57|20403|India|Mumbai|Oracle Corporation|
-|11|103.40.121.94|8090|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|12|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|13|188.246.186.246|8082|Russia|Moscow|WEST-CALL|
-|14|72.10.160.90|29045|Canada|Montreal|GloboTech Communications|
-|15|27.189.132.70|8089|China|Langfang|Chinanet|
-|16|72.10.164.178|25003|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|29045|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|32833|Canada|Montreal|GloboTech Communications|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|72.10.160.172|32061|Canada|Montreal|GloboTech Communications|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|202.154.18.138|8080|Indonesia|Bojonegoro|DIGITNET|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.120.76.94|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|72.10.160.172|32061|Canada|Montreal|GloboTech Communications|
+|10|223.94.35.21|7012|China|Hangzhou|China Mobile communications corporation|
+|11|72.10.164.178|31789|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.252|20125|Canada|Montreal|GloboTech Communications|
+|13|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
+|14|171.4.66.70|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|17|72.10.160.170|32833|Canada|Montreal|GloboTech Communications|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|49.146.177.91|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
 
 
 
