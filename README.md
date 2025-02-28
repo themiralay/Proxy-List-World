@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|195.25.20.155|3128|France|Paris|Orange Business Services|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|14|67.43.228.250|9891|Canada|Montreal|GloboTech Communications|
-|15|27.189.130.239|8089|China|Langfang|Chinanet|
-|16|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|67.43.228.251|1055|Canada|Montreal|GloboTech Communications|
-|19|27.189.131.99|8089|China|Langfang|Chinanet|
-|20|27.189.132.144|8089|China|Langfang|Chinanet|
+|6|103.147.247.125|8080|Indonesia|Tangerang|PLBNET|
+|7|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
+|8|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
+|9|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|10|103.214.102.171|8083|Indonesia|Batam|SMARTPLUS|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|110.232.83.27|8080|Indonesia|Medan|NUSANET-MDN|
+|14|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|15|20.243.174.96|3128|Japan|Tokyo|Microsoft Corporation|
+|16|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
+|17|36.93.8.34|11000|Indonesia|Bogor|Telekomunikasi Indonesia|
+|18|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|45.252.183.227|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
 
 
 
