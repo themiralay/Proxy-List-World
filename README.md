@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|182.253.235.133|3128|Indonesia|Jakarta|BIZNET|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|201.222.29.73|8080|Brazil|Lagoa da Prata|Netwise Informatica Ltda|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|15|67.43.236.18|24133|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|29225|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|14723|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|26291|Canada|Montreal|GloboTech Communications|
-|19|114.223.54.41|8089|China|Wuxi|Chinanet|
-|20|67.43.227.227|33143|Canada|Montreal|GloboTech Communications|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|171.99.253.227|8080|Thailand|Nonthaburi|True Internet Corporation CO. Ltd.|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|182.253.235.133|3128|Indonesia|Jakarta|BIZNET|
+|11|72.10.160.91|7281|Canada|Montreal|GloboTech Communications|
+|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|13|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|14|67.43.228.250|22753|Canada|Montreal|GloboTech Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|67.43.228.250|22753|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|22753|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|67.43.228.250|22753|Canada|Montreal|GloboTech Communications|
 
 
 
