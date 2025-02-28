@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|103.186.100.113|3128|Vietnam|Quận Một|DATAHUB|
-|6|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|103.230.81.33|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|201.163.219.195|8080|Mexico|Cunduacán|Alestra, S. de R.L. de C.V.|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|125.25.229.223|8080|Thailand|Uttaradit|TOT Public Company Limited|
-|13|117.44.64.85|655|China|Taohua|Chinanet|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.228.250|31185|Canada|Montreal|GloboTech Communications|
-|16|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|17|157.15.62.100|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|18|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
-|20|67.43.227.226|8049|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|3|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|4|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.34.227.28|8080|Brazil|Canela|UNIFIQUE TELECOMUNICACOES S/A|
+|7|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
+|8|42.114.177.100|10003|Vietnam|Hanoi|FPT Telecom Company|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|67.43.227.228|25701|Canada|Montreal|GloboTech Communications|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|12|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|13|72.10.164.178|21549|Canada|Montreal|GloboTech Communications|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|72.10.164.178|21549|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|67.43.236.19|4871|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|2299|Canada|Montreal|GloboTech Communications|
+|19|118.113.244.15|2324|China|Shanghai|Chinanet|
+|20|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
 
 
 
