@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|2|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|176.88.175.195|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|67.43.236.20|32365|Canada|Montreal|GloboTech Communications|
-|12|58.32.17.138|1070|China|Shanghai|CHINANET-SH|
-|13|14.39.239.241|50562|South Korea|Eunpyeong-gu|Korea Telecom|
-|14|67.43.236.18|7125|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|8951|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|7125|Canada|Montreal|GloboTech Communications|
-|17|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|72.10.164.178|33261|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|10935|Canada|Montreal|GloboTech Communications|
+|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|11|157.15.66.100|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|12|180.190.200.107|8082|Philippines|Lahug|Globe Telecom|
+|13|195.25.20.155|3128|France|Paris|Orange Business Services|
+|14|45.167.90.25|999|Argentina|Yerba Buena|Sircom S.R.L.|
+|15|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
+|16|67.43.236.18|12695|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|11967|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|32365|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|72.10.160.91|26825|Canada|Montreal|GloboTech Communications|
 
 
 
