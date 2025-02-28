@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|3|103.109.59.179|9080|Bangladesh|Nabīnagar|HelloTech Limited|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|6|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
-|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|10|58.32.42.32|1070|China|Shanghai|CHINANET-SH|
-|11|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|67.43.236.21|18493|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|19353|Canada|Montreal|GloboTech Communications|
-|16|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|17|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|18|101.231.178.155|7228|China|Shanghai|China Telecom (Group)|
-|19|67.43.236.18|9979|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|14343|Canada|Montreal|GloboTech Communications|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|4|31.31.77.228|6969|Czechia|Hluboká nad Vltavou|WEDOS Internet|
+|5|154.193.38.158|808|South Korea|Seoul|Octopus Web Solution Inc|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|102.209.148.2|8080|Ghana|Abesim|Sunyani Technical University|
+|12|5.160.57.36|8080|Iran|Tehran|RSPN|
+|13|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.160.92|8085|Canada|Montreal|GloboTech Communications|
+|16|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|72.10.160.171|26043|Canada|Montreal|GloboTech Communications|
+|18|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|19|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|20|72.10.160.173|22063|Canada|Montreal|GloboTech Communications|
 
 
 
