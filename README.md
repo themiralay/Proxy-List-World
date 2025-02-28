@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
-|5|67.43.227.230|13563|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.18|14419|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.19|31147|Canada|Montreal|GloboTech Communications|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|121.227.183.183|8089|China|Nanjing|China Telecom|
-|10|67.43.227.229|21787|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.229|21787|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|18435|Canada|Montreal|GloboTech Communications|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|180.112.180.124|8089|China|Nanjing|Chinanet|
-|15|72.10.164.178|15979|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|32731|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|32731|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.227.227|12303|Canada|Montreal|GloboTech Communications|
-|20|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|67.43.236.18|14419|Canada|Montreal|GloboTech Communications|
+|4|72.10.164.178|28057|Canada|Montreal|GloboTech Communications|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|7|103.165.157.123|8085|Indonesia|Taman|MEGADATA-ISP|
+|8|72.10.164.178|28057|Canada|Montreal|GloboTech Communications|
+|9|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|10|67.43.227.226|32731|Canada|Montreal|GloboTech Communications|
+|11|197.221.85.214|8080|Ghana|Accra|Dimension Data Ltd|
+|12|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
+|13|72.10.160.170|22135|Canada|Montreal|GloboTech Communications|
+|14|200.94.96.174|999|Mexico|Tlaquepaque|Alestra, S. de R.L. de C.V.|
+|15|67.43.228.251|18203|Canada|Montreal|GloboTech Communications|
+|16|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|154.90.48.10|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|72.10.160.91|30703|Canada|Montreal|GloboTech Communications|
+|19|15.204.240.177|3128|United States|Reston|OVH SAS|
+|20|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
 
 
 
