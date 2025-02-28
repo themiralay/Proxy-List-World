@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.90.124|8131|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.134.246.71|1111|Indonesia|Tabanan|Wisuandha Network Globalindo|
-|3|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|4|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|5|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|173.208.246.194|40000|United States|Kansas City|WholeSale Internet|
-|7|35.85.177.236|3128|United States|Portland|Amazon.com, Inc.|
-|8|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|9|121.227.183.173|8089|China|Nanjing|China Telecom|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|12|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|13|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|16|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|19|67.43.236.20|28149|Canada|Montreal|GloboTech Communications|
-|20|125.87.89.34|2324|China|Chongqing|China Telecom|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|38.54.15.107|8080|Vietnam|Ho Chi Minh City|Kaopu Cloud HK Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
+|13|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|200.125.170.222|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|72.10.164.178|1229|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1229|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.19|8587|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|67.43.236.18|33157|Canada|Montreal|GloboTech Communications|
 
 
 
