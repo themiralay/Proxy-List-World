@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|124.122.1.107|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|31.31.77.228|6969|Czechia|Hluboká nad Vltavou|WEDOS Internet|
-|5|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|8|72.10.160.170|18929|Canada|Montreal|GloboTech Communications|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|72.10.160.92|29495|Canada|Montreal|GloboTech Communications|
-|11|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|188.127.82.194|62244|United Kingdom|Manchester|Vaioni Group Ltd|
-|16|72.10.160.173|21295|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|25653|Canada|Montreal|GloboTech Communications|
-|18|109.176.250.90|8888|Austria|Vienna|Nessus GmbH|
-|19|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|20|67.43.236.18|14961|Canada|Montreal|GloboTech Communications|
+|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|3|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|83.217.23.35|8090|Russia|Moscow|PJSC Rostelecom|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|114.141.50.211|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|102.209.148.2|8080|Ghana|Abesim|Sunyani Technical University|
+|10|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|36.90.25.213|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|72.10.160.170|23051|Canada|Montreal|GloboTech Communications|
+|16|103.26.176.65|8080|Indonesia|Sekayu|PT Lintas Jaringan Nusantara|
+|17|72.10.160.92|29495|Canada|Montreal|GloboTech Communications|
+|18|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|19|103.228.246.75|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|20|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
