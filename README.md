@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.193.40.18|808|South Korea|Seoul|Octopus Web Solution Inc|
-|2|154.193.39.212|808|South Korea|Seoul|Octopus Web Solution Inc|
-|3|49.48.90.74|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|62.249.138.133|8080|Russia|Krasnoyarsk|Joint Stock Company TransTeleCom|
-|6|91.92.124.241|8080|Iran|Tehran|TIC|
-|7|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|118.113.244.54|2324|China|Shanghai|Chinanet|
-|10|58.209.137.168|8089|China|Nanjing|China Telecom|
-|11|72.10.160.90|13423|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|13963|Canada|Montreal|GloboTech Communications|
-|13|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
-|14|27.189.135.161|8089|China|Langfang|Chinanet|
-|15|67.43.227.226|29513|Canada|Montreal|GloboTech Communications|
-|16|27.189.132.80|8089|China|Langfang|Chinanet|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|27.189.129.157|8089|China|Langfang|Chinanet|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|27.189.135.224|8089|China|Langfang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|4|49.48.90.74|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|5|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|67.43.227.226|29513|Canada|Montreal|GloboTech Communications|
+|12|117.44.64.85|655|China|Taohua|Chinanet|
+|13|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|14|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|49.70.190.231|2324|China|Zhenjiang|Chinanet|
+|20|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
 
 
 
