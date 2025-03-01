@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|41|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|41|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|41|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|65.109.200.49|80|Finland|Helsinki|Hetzner Online GmbH|
-|4|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|103.169.238.42|8181|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|16|121.101.129.108|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|17|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
-|18|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|19|72.10.164.178|19755|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|4|115.72.34.160|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|160.242.19.122|8080|Angola|Luanda|Paratus Telecommunications Limited|
+|9|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|10|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|125.87.90.156|2324|China|Chongqing|China Telecom|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|72.10.160.172|4439|Canada|Montreal|GloboTech Communications|
+|17|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
+|18|165.22.13.22|8888|United States|North Bergen|DigitalOcean, LLC|
+|19|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|20|154.90.49.55|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 
 
 
