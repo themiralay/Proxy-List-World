@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
 |5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|118.113.245.112|2324|China|Shanghai|Chinanet|
-|9|67.43.228.250|24407|Canada|Montreal|GloboTech Communications|
-|10|191.243.46.22|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|11|27.189.131.141|8089|China|Langfang|Chinanet|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|202.65.227.62|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|72.10.164.178|7109|Canada|Montreal|GloboTech Communications|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|27.189.135.173|8089|China|Langfang|Chinanet|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|72.10.160.90|26863|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|13829|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|26253|Canada|Montreal|GloboTech Communications|
+|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|212.175.61.2|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|5.53.23.106|8080|Russia|Surgut|Metroset Ltd|
+|12|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|67.43.227.230|19889|Canada|Montreal|GloboTech Communications|
+|14|103.40.121.94|8090|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|15|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|118.113.245.54|2324|China|Shanghai|Chinanet|
+|17|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
