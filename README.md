@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
 |5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|190.2.213.250|999|Colombia|Vetas|TV AZTECA SUCURSAL COLOMBIA|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.243.163.126|3128|Colombia|Andes|CTL Colombia|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|67.43.227.229|23335|Canada|Montreal|GloboTech Communications|
-|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|18|124.107.198.11|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|19|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|8|8.243.163.126|3128|Colombia|Andes|CTL Colombia|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|67.43.236.19|21343|Canada|Montreal|GloboTech Communications|
+|14|177.234.209.86|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|18|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|19|72.10.164.178|15773|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1441|Canada|Montreal|GloboTech Communications|
 
 
 
