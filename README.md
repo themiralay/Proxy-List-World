@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|7|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|8|49.70.190.121|2324|China|Zhenjiang|Chinanet|
-|9|113.90.237.153|1088|China|Shenzhen|Chinanet|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|14|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|15|67.43.227.226|8091|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|31945|Canada|Montreal|GloboTech Communications|
-|17|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|190.120.251.5|8989|Venezuela|Barinas|CORPORACION FIBEX TELECOM, C.A.|
-|20|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
+|4|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|16|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|17|67.43.228.250|11841|Canada|Montreal|GloboTech Communications|
+|18|109.127.82.18|8080|Iraq|Erbil|Newroz Telecom|
+|19|168.181.87.26|8080|Brazil|Sobral|M. R. MELO ALEXANDRINO|
+|20|176.88.117.137|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
