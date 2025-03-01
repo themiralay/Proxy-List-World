@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.95.247.7|3128|United States|Santa Clara|HostPapa|
-|2|103.74.107.215|49758|Vietnam|Kim Bài|VIETSERVER|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|23.95.240.19|6789|United States|Los Angeles|HostPapa|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|23.95.240.19|6789|United States|Los Angeles|HostPapa|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|103.74.107.215|49758|Vietnam|Kim Bài|VIETSERVER|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|8|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|9|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|125.87.80.37|2324|China|Chongqing|China Telecom|
-|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
-|15|46.243.9.113|8080|Russia|Georgiyevsk|SerDi TeleCom, LTD|
-|16|103.82.246.251|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|17|118.99.123.232|8888|Indonesia|Malang|BIZNET|
-|18|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|19|72.10.160.170|26727|Canada|Montreal|GloboTech Communications|
-|20|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|11|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|190.61.61.210|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|15|67.43.227.226|9357|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|13975|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|19|72.10.160.170|14595|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|14289|Canada|Montreal|GloboTech Communications|
 
 
 
