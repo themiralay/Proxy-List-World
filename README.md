@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|23.95.240.19|6789|United States|Los Angeles|HostPapa|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|115.72.40.72|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|23.94.98.52|3128|United States|Santa Clara|HostPapa|
-|10|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|13|117.82.226.214|8089|China|Nanjing|China Telecom|
-|14|67.43.236.18|28747|Canada|Montreal|GloboTech Communications|
-|15|27.189.134.239|8089|China|Langfang|Chinanet|
-|16|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|17|121.232.181.166|8089|China|Nanjing|Chinanet|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|121.232.181.147|8089|China|Nanjing|Chinanet|
-|20|72.10.160.172|3299|Canada|Montreal|GloboTech Communications|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|11|200.125.168.213|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|118.113.245.112|2324|China|Shanghai|Chinanet|
+|16|177.136.12.160|55443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|17|90.174.128.42|3128|Spain|Madrid|Uni2|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
