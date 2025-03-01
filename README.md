@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|33|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|33|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|33|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|67.43.227.228|30139|Canada|Montreal|GloboTech Communications|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|125.87.87.182|2324|China|Shanghai|China Telecom|
-|10|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|72.10.160.90|28311|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|31443|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|5669|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|31443|Canada|Montreal|GloboTech Communications|
-|16|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|17|72.10.160.90|28311|Canada|Montreal|GloboTech Communications|
-|18|103.177.235.133|83|India|Bengaluru|Coastal Live Channel|
-|19|117.84.184.44|8089|China|Nanjing|Chinanet|
-|20|41.212.106.222|8080|Kenya|Nairobi|Wananchi Group (K) LTD|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|67.43.228.250|24323|Canada|Montreal|GloboTech Communications|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|72.10.160.170|25625|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|24323|Canada|Montreal|GloboTech Communications|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|67.43.228.250|24323|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|19|154.90.48.10|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|15.204.240.177|3128|United States|Reston|OVH SAS|
 
 
 
