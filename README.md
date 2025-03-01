@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|42.114.177.100|10002|Vietnam|Hanoi|FPT Telecom Company|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|103.147.134.177|8090|Indonesia|Wakduwa’ Barat|PT.MURNI MAKMUR ABADI|
-|9|103.199.214.48|1009|India|Nainital|RailTel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|204.199.140.21|999|Chile|Santiago|Ingbell Chile SPA|
-|14|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|189.100.205.106|8090|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|16|154.193.40.173|808|South Korea|Seoul|Octopus Web Solution Inc|
-|17|72.10.164.178|26071|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|29185|Canada|Montreal|GloboTech Communications|
-|19|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|122.3.55.18|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|103.81.221.151|8080|Indonesia|Bandung|STARNET|
+|6|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|49.145.120.246|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|160.20.165.231|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|42.114.177.100|10002|Vietnam|Hanoi|FPT Telecom Company|
+|16|8.242.178.190|999|Colombia|Santiago de Cali|CTL Colombia|
+|17|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|19|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
