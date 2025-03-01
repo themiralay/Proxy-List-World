@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|103.55.253.12|8080|Indonesia|Surabaya|Lintas Daya|
-|5|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|6|106.75.226.193|8119|China|Yangpu|UCLOUD|
-|7|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|9|72.10.160.170|2155|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|5375|Canada|Montreal|GloboTech Communications|
-|11|49.145.48.235|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|14|67.43.227.228|25089|Canada|Montreal|GloboTech Communications|
-|15|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|16|38.7.20.196|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|17|72.10.160.173|21295|Canada|Montreal|GloboTech Communications|
-|18|159.89.239.166|18091|United States|North Bergen|DigitalOcean, LLC|
-|19|67.43.228.250|28579|Canada|Montreal|GloboTech Communications|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|103.40.121.94|8090|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|12|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
+|13|118.113.245.112|2324|China|Shanghai|Chinanet|
+|14|115.72.14.167|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|15|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|117.54.140.94|8080|Indonesia|Jakarta|PT IndoInternet|
+|17|67.43.227.226|22323|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|20|103.126.87.144|8081|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
 
 
 
