@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4436** proxies at the latest update. Usable proxies are below.
+> Scraper found **4536** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -31,8 +31,8 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|468|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|269|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2473|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|270|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2572|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|124.121.2.185|8080|Thailand|Bangkok|TRUEBB|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|202.154.18.138|8080|Indonesia|Bojonegoro|DIGITNET|
-|9|189.73.53.94|8080|Brazil|Curitiba|V tal|
-|10|195.133.220.46|1971|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|67.43.227.227|3681|Canada|Montreal|GloboTech Communications|
-|13|121.232.181.149|8089|China|Nanjing|Chinanet|
-|14|27.189.129.109|8089|China|Langfang|Chinanet|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|97.79.251.186|80|United States|Dallas|Spectrum|
+|8|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|9|157.66.16.68|8877|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|154.193.36.252|808|South Korea|Seoul|Octopus Web Solution Inc|
+|12|157.66.50.111|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|111.72.193.243|2324|China|Taohua|Chinanet|
 |15|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|16|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|218.1.197.61|2324|China|Shanghai|China Telecom (Group)|
-|18|187.125.52.251|8080|Brazil|Lauro de Freitas|V tal|
-|19|72.10.160.174|12173|Canada|Montreal|GloboTech Communications|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|49.70.190.231|2324|China|Zhenjiang|Chinanet|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
 
 
 
