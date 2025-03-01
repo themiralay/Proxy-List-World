@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|103.186.193.135|8080|Indonesia|Ploso|PT Lentera Digital Nusantara|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|107.172.89.110|49268|United States|Santa Clara|HostPapa|
-|10|72.10.160.174|1551|Canada|Montreal|GloboTech Communications|
-|11|45.70.197.178|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|12|107.172.89.110|49268|United States|Santa Clara|HostPapa|
-|13|72.10.160.92|3159|Canada|Montreal|GloboTech Communications|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|72.10.160.91|4015|Canada|Montreal|GloboTech Communications|
-|16|27.189.132.195|8089|China|Langfang|Chinanet|
-|17|72.10.160.172|31785|Canada|Montreal|GloboTech Communications|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|118.113.245.54|2324|China|Shanghai|Chinanet|
-|20|67.43.228.250|29159|Canada|Montreal|GloboTech Communications|
+|1|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|45.252.183.228|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|41.216.160.138|8082|Nigeria|Lagos|VDT COMMUNICATIONS LIMITED|
+|11|45.229.204.123|999|Argentina|Avellaneda|Visio RED SRL|
+|12|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|107.172.89.110|49268|United States|Santa Clara|HostPapa|
+|16|107.172.89.110|49268|United States|Santa Clara|HostPapa|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
+|20|67.43.228.251|28627|Canada|Montreal|GloboTech Communications|
 
 
 
