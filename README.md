@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|81.90.149.186|3128|Iran|Tehran|Afranet|
-|8|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|49.70.172.6|2324|China|Zhenjiang|Chinanet|
-|11|67.43.236.21|10585|Canada|Montreal|GloboTech Communications|
-|12|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|13|72.10.160.170|26053|Canada|Montreal|GloboTech Communications|
-|14|42.114.177.100|10002|Vietnam|Hanoi|FPT Telecom Company|
-|15|67.43.236.18|8971|Canada|Montreal|GloboTech Communications|
-|16|125.87.89.114|2324|China|Chongqing|China Telecom|
-|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|103.164.223.51|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|49.84.134.2|8089|China|Nanjing|China Telecom|
-|20|72.10.160.173|2111|Canada|Montreal|GloboTech Communications|
+|1|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|3|27.100.39.15|8080|Australia|Sydney|Liberally Network LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|7|67.43.227.228|6839|Canada|Montreal|GloboTech Communications|
+|8|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|72.10.160.170|6207|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.173|2111|Canada|Montreal|GloboTech Communications|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|72.10.160.91|29453|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.93|2647|Canada|Montreal|GloboTech Communications|
+|15|125.87.88.6|2324|China|Chongqing|China Telecom|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|103.153.149.201|8036|Indonesia|Semarang|JARINGANKU|
+|19|67.43.228.250|22559|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|17577|Canada|Montreal|GloboTech Communications|
 
 
 
