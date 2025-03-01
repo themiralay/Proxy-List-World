@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.95.240.19|6789|United States|Los Angeles|HostPapa|
-|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|45.179.201.33|80|Colombia|Manizales|NET&COM LTDA.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|67.43.228.251|1183|Canada|Montreal|GloboTech Communications|
-|13|121.224.156.143|8089|China|Nanjing|China Telecom|
-|14|181.78.82.210|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|15|67.43.227.227|17507|Canada|Montreal|GloboTech Communications|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|67.43.228.250|4531|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|4531|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|21169|Canada|Montreal|GloboTech Communications|
-|20|27.189.130.18|8089|China|Langfang|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|23.95.240.19|6789|United States|Los Angeles|HostPapa|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|103.74.107.215|49758|Vietnam|Kim Bài|VIETSERVER|
+|8|45.252.183.227|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|9|103.101.216.38|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|10|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|186.96.68.66|999|Venezuela|Caracas|Gold Data USA Inc|
+|14|38.45.242.120|999|Mexico|San Diego de la Unión|Wifimax Connection S.a.s De C.V|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|103.133.26.100|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
 
 
 
