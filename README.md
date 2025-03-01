@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|42|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|42|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|42|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|3|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|103.75.96.142|1111|Indonesia|Utan|MORATELINDO|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|115.72.34.160|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|6|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 |13|72.10.160.170|18519|Canada|Montreal|GloboTech Communications|
-|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|15|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
 |16|67.43.228.250|31685|Canada|Montreal|GloboTech Communications|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|27.189.128.44|8089|China|Langfang|Chinanet|
+|17|103.97.140.173|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|18|115.74.5.144|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|19|103.19.79.255|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
+|20|67.43.228.251|1651|Canada|Montreal|GloboTech Communications|
 
 
 
