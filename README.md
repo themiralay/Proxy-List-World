@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.153.96.147|8181|Indonesia|Serang|NITNET|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|67.43.227.226|32535|Canada|Montreal|GloboTech Communications|
-|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|180.191.59.178|8080|Philippines|Tarlac City|Globe Telecom|
+|11|59.39.63.54|6399|China|Guangzhou|Chinanet|
 |12|177.234.209.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|72.10.160.91|7995|Canada|Montreal|GloboTech Communications|
-|15|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|67.43.236.19|2091|Canada|Montreal|GloboTech Communications|
-|17|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|18|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|19|118.113.244.62|2324|China|Shanghai|Chinanet|
-|20|177.234.209.81|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|154.193.39.192|808|South Korea|Seoul|Octopus Web Solution Inc|
+|14|154.193.40.45|808|South Korea|Seoul|Octopus Web Solution Inc|
+|15|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|38.7.206.186|999|Chile|Santiago|Grupo ZGH SPA|
+|19|177.234.209.81|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
