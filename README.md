@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|31|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|31|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|31|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|6|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
-|10|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|12|94.70.195.145|8080|Greece|Chalandri|Ote SA (Hellenic Telecommunications Organisation)|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|103.60.90.39|8181|Indonesia|Bogor|PT Meta Tekhnologi Nusantara|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
-|17|36.88.129.142|7777|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|18|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|19|67.43.236.18|2397|Canada|Montreal|GloboTech Communications|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|47.239.68.0|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|89.211.99.192|8080|Qatar|Doha|BRAS|
+|8|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|103.180.123.93|8080|Indonesia|Ketanggungan|PT Indo Telemedia Solusi|
+|11|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|42.123.100.91|3128|China|Beijing|Cloud Computing Corporation|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|72.10.164.178|32785|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|20163|Canada|Montreal|GloboTech Communications|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|72.10.164.178|32785|Canada|Montreal|GloboTech Communications|
+|19|58.209.137.169|8089|China|Nanjing|China Telecom|
+|20|67.43.228.250|12529|Canada|Montreal|GloboTech Communications|
 
 
 
