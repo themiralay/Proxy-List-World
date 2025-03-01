@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|45|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|45|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|45|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.142.234|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|202.65.227.62|8080|Indonesia|Jakarta|SpaceX Starlink|
 |4|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|202.65.227.62|8080|Indonesia|Jakarta|SpaceX Starlink|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|11|27.189.129.201|8089|China|Langfang|Chinanet|
-|12|67.43.228.254|29061|Canada|Montreal|GloboTech Communications|
-|13|121.224.156.180|8089|China|Nanjing|China Telecom|
-|14|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|180.112.180.132|8089|China|Nanjing|Chinanet|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|121.227.118.171|8089|China|Nanjing|China Telecom|
-|19|72.10.160.173|25765|Canada|Montreal|GloboTech Communications|
-|20|117.85.108.255|8089|China|Nanjing|Chinanet|
+|5|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|6|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|10|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|11|67.43.228.254|29061|Canada|Montreal|GloboTech Communications|
+|12|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|13|67.43.236.21|25349|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|26217|Canada|Montreal|GloboTech Communications|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|58.209.137.162|8089|China|Nanjing|China Telecom|
+|17|5.160.32.34|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|19|72.10.160.91|11685|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
