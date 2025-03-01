@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|47.239.68.0|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|67.43.228.250|27397|Canada|Montreal|GloboTech Communications|
-|8|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|9|72.10.160.90|14549|Canada|Montreal|GloboTech Communications|
-|10|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|11|72.10.160.170|3333|Canada|Montreal|GloboTech Communications|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|67.43.236.18|19113|Canada|Montreal|GloboTech Communications|
-|14|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|15|67.43.227.227|24985|Canada|Montreal|GloboTech Communications|
-|16|42.114.177.100|10002|Vietnam|Hanoi|FPT Telecom Company|
-|17|117.44.64.85|655|China|Taohua|Chinanet|
-|18|72.10.164.178|8551|Canada|Montreal|GloboTech Communications|
-|19|38.194.254.134|999|Mexico|Zapopan|Ientc S De RL De CV|
-|20|190.97.252.18|999|Venezuela|Ciudad Guayana|Viginet C.A|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|45.174.191.19|20183|Brazil|Fortaleza|P3 Telecom LTDA|
+|6|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|10|38.156.14.163|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|42.114.177.100|10002|Vietnam|Hanoi|FPT Telecom Company|
+|13|187.32.246.82|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|14|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|17|67.43.236.20|2123|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|4513|Canada|Montreal|GloboTech Communications|
+|19|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
