@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|4|216.144.236.89|3128|United States|Los Angeles|HostPapa|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|38.194.254.212|3128|Mexico|Zapopan|Ientc S De RL De CV|
-|11|118.113.245.112|2324|China|Shanghai|Chinanet|
-|12|67.43.236.18|30707|Canada|Montreal|GloboTech Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.227.227|32363|Canada|Montreal|GloboTech Communications|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|72.10.160.90|18643|Canada|Montreal|GloboTech Communications|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|103.180.123.93|8080|Indonesia|Ketanggungan|PT Indo Telemedia Solusi|
-|19|67.43.228.250|28241|Canada|Montreal|GloboTech Communications|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|115.72.3.2|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|67.43.236.21|30989|Canada|Montreal|GloboTech Communications|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|187.32.246.82|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|10|190.61.61.210|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|11|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|125.87.88.6|2324|China|Chongqing|China Telecom|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|15|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|16|67.43.236.18|30707|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|72.10.160.170|25707|Canada|Montreal|GloboTech Communications|
+|19|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|20|72.10.160.93|8291|Canada|Montreal|GloboTech Communications|
 
 
 
