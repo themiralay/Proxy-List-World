@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|47.239.68.0|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|7|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|8|72.10.160.170|30443|Canada|Montreal|GloboTech Communications|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|11|72.10.160.174|13197|Canada|Montreal|GloboTech Communications|
-|12|103.24.215.29|8080|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
-|13|27.189.132.192|8089|China|Langfang|Chinanet|
-|14|67.43.228.250|26837|Canada|Montreal|GloboTech Communications|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|49.48.145.123|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|17|72.10.164.178|32785|Canada|Montreal|GloboTech Communications|
-|18|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|72.10.160.170|30443|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|6|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|7|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|8|177.136.12.160|55443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|9|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|13|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
+|15|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|16|72.10.160.170|30443|Canada|Montreal|GloboTech Communications|
+|17|118.113.244.15|2324|China|Shanghai|Chinanet|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|20|5.160.32.34|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
