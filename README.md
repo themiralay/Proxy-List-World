@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|3|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|1|203.150.128.136|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
 |4|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|5|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
-|11|38.252.82.20|9090|Brazil|Centro|Dione Balarim Prieto Tecnologia e Internet|
-|12|72.10.164.178|20685|Canada|Montreal|GloboTech Communications|
-|13|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
-|14|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|67.43.228.250|7813|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|21523|Canada|Montreal|GloboTech Communications|
-|20|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|23.94.98.52|3128|United States|Santa Clara|HostPapa|
+|11|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
+|12|45.148.248.80|1700|Iran|Tehran|Ayandeh Gostar Bastak Co. P. J. S|
+|13|67.43.228.252|2167|Canada|Montreal|GloboTech Communications|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|72.10.160.90|31997|Canada|Montreal|GloboTech Communications|
+|17|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|18|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|177.125.86.108|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
 
 
 
