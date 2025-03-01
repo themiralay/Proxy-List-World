@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|182.52.83.155|34599|Thailand|Ban Karon|TOT Public Company Limited|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|223.205.187.171|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|117.80.188.250|8089|China|Nanjing|China Telecom|
-|10|67.43.236.18|10891|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|31275|Canada|Montreal|GloboTech Communications|
-|12|186.96.67.58|999|Venezuela|Caracas|Gold Data C.A|
-|13|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.172|32237|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|23021|Canada|Montreal|GloboTech Communications|
-|16|27.189.134.145|8089|China|Langfang|Chinanet|
-|17|218.1.197.63|2324|China|Shanghai|China Telecom (Group)|
-|18|72.10.164.178|28277|Canada|Montreal|GloboTech Communications|
-|19|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|20|49.76.205.57|8089|China|Wuxi|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|103.132.181.36|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|7|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|67.43.236.18|26125|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|14181|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|28277|Canada|Montreal|GloboTech Communications|
+|11|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|118.113.244.40|2324|China|Shanghai|Chinanet|
+|13|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|64.227.134.174|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|103.85.117.65|8080|Indonesia|Makassar|BOSOWA|
+|17|67.43.228.250|30009|Canada|Montreal|GloboTech Communications|
+|18|38.188.225.233|8080|Colombia|Barranquilla|Intercaribe TV S.A.S.|
+|19|180.191.51.58|8082|Philippines|Tarlac City|Globe Telecom|
+|20|102.0.17.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 
 
 
