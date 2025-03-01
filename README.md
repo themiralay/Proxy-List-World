@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|45.252.183.227|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|5|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|23.95.240.19|6789|United States|Los Angeles|HostPapa|
-|9|103.156.15.119|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|10|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
-|11|58.219.241.112|3389|China|Wuxi|Chinanet|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|67.43.227.226|6569|Canada|Montreal|GloboTech Communications|
-|14|27.189.131.222|8089|China|Langfang|Chinanet|
-|15|72.10.160.171|27699|Canada|Montreal|GloboTech Communications|
-|16|27.189.131.144|8089|China|Langfang|Chinanet|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.236.18|13341|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29911|Canada|Montreal|GloboTech Communications|
+|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|23.95.240.19|6789|United States|Los Angeles|HostPapa|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|11|188.132.221.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|13|118.113.245.112|2324|China|Shanghai|Chinanet|
+|14|181.129.158.134|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|18|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|118.113.244.15|2324|China|Shanghai|Chinanet|
 
 
 
