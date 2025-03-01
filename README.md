@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|5|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|6|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|185.242.84.22|3128|Greece|Athens|Stark Industries Solutions LTD|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|72.10.160.91|17607|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|18935|Canada|Montreal|GloboTech Communications|
-|13|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|27.189.134.186|8089|China|Langfang|Chinanet|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|72.10.164.178|5277|Canada|Montreal|GloboTech Communications|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|72.10.160.170|9047|Canada|Montreal|GloboTech Communications|
-|19|103.148.44.99|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|20|27.189.135.74|8089|China|Langfang|Chinanet|
+|4|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|5|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|124.121.2.185|8080|Thailand|Bangkok|TRUEBB|
+|9|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|10|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|181.78.82.210|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|15|103.245.36.15|8080|Indonesia|Kenali Asam|PT Mitra Bestari Prima Solusi|
+|16|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|17|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|18|72.10.164.178|5277|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|26617|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|26617|Canada|Montreal|GloboTech Communications|
 
 
 
