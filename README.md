@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|103.22.99.46|8080|Indonesia|Magetan|KHALISTAGROUP|
-|4|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|5|219.92.203.20|8080|Malaysia|Kuala Lumpur|TMnet|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|62.249.138.133|8080|Russia|Krasnoyarsk|Joint Stock Company TransTeleCom|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
+|2|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|49.48.90.74|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|223.205.187.171|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
-|12|49.70.190.231|2324|China|Zhenjiang|Chinanet|
+|11|27.124.75.2|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |13|67.43.236.21|28887|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|7049|Canada|Montreal|GloboTech Communications|
-|15|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|16|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|59.153.98.202|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|18|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|19|67.43.228.250|25401|Canada|Montreal|GloboTech Communications|
-|20|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|14|67.43.227.226|20243|Canada|Montreal|GloboTech Communications|
+|15|103.132.181.36|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
+|16|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|200.106.165.81|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
+|19|49.70.190.231|2324|China|Zhenjiang|Chinanet|
+|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
