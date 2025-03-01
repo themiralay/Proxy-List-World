@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.59.32.105|443|Poland|Warsaw|OVH SAS|
-|2|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|3|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|45.174.176.161|8088|Brazil|São Francisco do Piauí|M & G TELECON LTDA|
-|6|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|7|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|8|45.252.183.227|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|9|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|202.138.236.133|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|11|118.113.244.22|2324|China|Shanghai|Chinanet|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|14|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|15|58.209.32.87|8089|China|Nanjing|China Telecom|
-|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|117.84.184.24|8089|China|Nanjing|Chinanet|
-|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|67.43.227.226|29001|Canada|Montreal|GloboTech Communications|
+|1|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|203.111.253.146|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|6|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|118.113.244.22|2324|China|Shanghai|Chinanet|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|114.223.62.88|8089|China|Nanjing|Chinanet|
+|13|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|14|103.133.25.185|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|15|36.64.181.82|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|103.46.9.83|8090|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|103.245.36.15|8080|Indonesia|Kenali Asam|PT Mitra Bestari Prima Solusi|
+|20|72.10.164.178|18083|Canada|Montreal|GloboTech Communications|
 
 
 
