@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|115.72.34.160|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|49.249.83.13|8080|India|Hyderabad|TTL GSM|
-|7|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|118.113.245.112|2324|China|Shanghai|Chinanet|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|13|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
-|14|72.10.160.91|15111|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|27.189.133.246|8089|China|Langfang|Chinanet|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|20|67.43.227.226|26741|Canada|Montreal|GloboTech Communications|
+|2|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|4|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|5|103.101.228.50|3128|Indonesia|Jakarta|Biznet Networks|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|190.103.83.106|9100|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|9|38.183.146.21|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|117.84.72.234|8089|China|Nanjing|Chinanet|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|72.10.160.91|15111|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24001|Canada|Montreal|GloboTech Communications|
 
 
 
