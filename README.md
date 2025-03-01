@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|183.97.65.145|3128|South Korea|Dongducheon-si|Korea Telecom|
-|5|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|6|67.43.227.226|21785|Canada|Montreal|GloboTech Communications|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|9|117.44.64.85|655|China|Taohua|Chinanet|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|72.10.160.91|6501|Canada|Montreal|GloboTech Communications|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|67.43.227.226|21785|Canada|Montreal|GloboTech Communications|
-|14|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|16|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|67.43.236.20|19847|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|1|57.129.34.139|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.155.196.147|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|10|181.78.82.210|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|11|103.40.121.94|8090|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|12|181.209.82.154|23500|Argentina|Romang|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|14|67.43.228.250|24503|Canada|Montreal|GloboTech Communications|
+|15|96.30.79.84|8081|Thailand|Pattaya|Symphony Communication Public Company Limited|
+|16|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
+|17|186.96.67.58|999|Venezuela|Caracas|Gold Data C.A|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|67.43.228.250|24503|Canada|Montreal|GloboTech Communications|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
