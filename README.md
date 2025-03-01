@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|40|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|40|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|40|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
-|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
 |3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|103.91.149.140|8080|Indonesia|Ciputat|PT. Yasmin Amanah Media|
-|7|117.80.188.205|8089|China|Nanjing|China Telecom|
-|8|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|103.245.109.57|39355|Bangladesh|Comilla|ACE IT Networks Limited|
-|11|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|12|49.0.43.238|39930|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|13|182.52.47.91|8080|Thailand|Bang Kruai|TOT Public Company Limited|
-|14|67.43.236.18|7643|Canada|Montreal|GloboTech Communications|
-|15|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|19|49.74.230.5|1080|China|Nanjing|Chinanet|
-|20|185.202.58.2|3128|Iran|Arak|satiareyertebat|
+|4|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|118.113.245.112|2324|China|Shanghai|Chinanet|
+|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|118.113.245.129|2324|China|Shanghai|Chinanet|
+|14|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|15|67.43.228.250|28303|Canada|Montreal|GloboTech Communications|
+|16|1.179.148.9|55636|Thailand|Bangkok|TOT Public Company Limited|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.228.250|28303|Canada|Montreal|GloboTech Communications|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|58.209.137.186|8089|China|Nanjing|China Telecom|
 
 
 
