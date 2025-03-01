@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|45.236.171.76|999|Ecuador|Guayaquil|Codgrec S.A.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|112.199.40.53|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|7|8.243.163.126|3128|Colombia|Andes|CTL Colombia|
-|8|72.10.164.178|16035|Canada|Montreal|GloboTech Communications|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|45.148.248.80|1700|Iran|Tehran|Ayandeh Gostar Bastak Co. P. J. S|
-|11|72.10.160.90|31997|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16035|Canada|Montreal|GloboTech Communications|
-|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|115.72.46.180|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|67.43.236.18|19619|Canada|Montreal|GloboTech Communications|
-|17|139.255.33.242|8080|Indonesia|Jakarta|PT. LINKNET|
-|18|72.10.160.90|31997|Canada|Montreal|GloboTech Communications|
-|19|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|20|117.44.64.85|655|China|Taohua|Chinanet|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
+|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.148.248.80|1700|Iran|Tehran|Ayandeh Gostar Bastak Co. P. J. S|
+|9|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|10|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|12|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|15|72.10.160.90|4903|Canada|Montreal|GloboTech Communications|
+|16|117.44.64.85|655|China|Taohua|Chinanet|
+|17|72.10.164.178|20189|Canada|Montreal|GloboTech Communications|
+|18|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|19|72.10.160.90|4903|Canada|Montreal|GloboTech Communications|
+|20|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
