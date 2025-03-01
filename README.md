@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.150.128.136|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|23.94.98.52|3128|United States|Santa Clara|HostPapa|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|172.104.117.63|8181|Japan|Tokyo|Akamai Technologies|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|9|49.70.190.198|2324|China|Zhenjiang|Chinanet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|17|67.43.236.18|11849|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|15741|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31459|Canada|Montreal|GloboTech Communications|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
+|6|203.150.128.136|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|9|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.153.96.147|8181|Indonesia|Serang|NITNET|
+|12|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|13|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
+|14|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|15|182.160.114.214|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|122.54.193.69|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|67.43.236.18|11849|Canada|Montreal|GloboTech Communications|
+|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 
 
 
