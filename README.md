@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
-|2|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|3|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|1|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|191.243.46.22|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|12|67.43.227.227|26351|Canada|Montreal|GloboTech Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|72.10.160.170|24949|Canada|Montreal|GloboTech Communications|
-|15|120.39.221.86|62541|China|Wenquan|Fuzhou|
-|16|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
-|17|207.248.0.178|999|Chile|Requínoa|Grupo Metrowan Telecom SPA|
-|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|15|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|16|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|17|190.97.252.18|999|Venezuela|Ciudad Guayana|Viginet C.A|
+|18|103.120.76.94|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
+|19|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|20|157.15.62.100|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
 
 
 
