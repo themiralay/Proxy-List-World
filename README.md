@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|115.72.38.165|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|7|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|97.79.251.186|80|United States|Dallas|Spectrum|
+|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|4|97.79.251.186|80|United States|Dallas|Spectrum|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|38.211.25.10|8080|Indonesia|Parigi|PT Putra Garsel Interkoneksi|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|157.15.62.100|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|11|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
-|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|13|27.189.135.233|8089|China|Langfang|Chinanet|
-|14|67.43.228.250|8075|Canada|Montreal|GloboTech Communications|
-|15|49.70.190.239|2324|China|Zhenjiang|Chinanet|
-|16|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|20|111.72.193.243|2324|China|Taohua|Chinanet|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|103.176.96.136|8080|Indonesia|Karawang|PT Global Sarana Elektronika|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|47.239.68.0|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|47.239.68.0|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
+|16|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|47.247.141.78|8080|India|Chennai|Reliance Jio Infocomm Limited|
+|18|90.156.200.4|3128|Russia|Moscow|LLC "MASTERHOST"|
+|19|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
