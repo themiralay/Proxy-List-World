@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|10|117.44.64.85|655|China|Taohua|Chinanet|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|13|115.72.38.165|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|67.43.228.250|26993|Canada|Montreal|GloboTech Communications|
-|15|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|67.43.236.19|14487|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|20345|Canada|Montreal|GloboTech Communications|
-|19|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|20|67.43.228.251|32685|Canada|Montreal|GloboTech Communications|
+|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|72.10.160.170|5441|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|5533|Canada|Montreal|GloboTech Communications|
+|17|115.74.5.144|10007|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|103.227.187.9|6080|Indonesia|Banyuwangi|PT Master Star Network|
 
 
 
