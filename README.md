@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|49.48.45.63|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|103.238.232.118|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|176.208.101.50|8080|Russia|Taman'|PJSC Rostelecom|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|72.10.160.170|6369|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|18639|Canada|Montreal|GloboTech Communications|
-|14|49.84.175.101|8089|China|Nanjing|China Telecom|
-|15|123.20.144.69|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|67.43.228.251|23379|Canada|Montreal|GloboTech Communications|
-|17|27.189.135.208|8089|China|Langfang|Chinanet|
-|18|67.43.228.250|7123|Canada|Montreal|GloboTech Communications|
-|19|181.209.82.154|23500|Argentina|Romang|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|46.4.246.198|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
+|6|223.206.194.139|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|7|79.106.231.17|8080|Albania|Lushnjë|ONE ALBANIA SH.A.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|14|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|67.43.228.250|7123|Canada|Montreal|GloboTech Communications|
+|16|176.105.220.74|3129|Ukraine|Oleksandrivka|NPK Home-Net Ltd.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
 
 
 
