@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|115.72.9.216|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|27.189.133.141|8089|China|Langfang|Chinanet|
-|10|118.113.244.218|2324|China|Shanghai|Chinanet|
-|11|67.43.228.251|3947|Canada|Montreal|GloboTech Communications|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|14|67.43.236.18|19321|Canada|Montreal|GloboTech Communications|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|218.87.232.108|655|China|Nanchangshi|Chinanet|
-|17|182.105.82.38|655|China|Taohua|Chinanet|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|115.72.3.2|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|20|125.24.145.52|8080|Thailand|Tha Mai|TOT Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|103.56.206.48|1691|Indonesia|Sukabumi|Argon Data Communication|
+|5|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|115.72.9.216|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
+|12|118.113.245.112|2324|China|Shanghai|Chinanet|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|67.43.228.251|3947|Canada|Montreal|GloboTech Communications|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|19|103.41.90.49|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|20|181.209.66.179|1120|Argentina|La Carlota|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
