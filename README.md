@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|38.211.25.10|8080|Indonesia|Parigi|PT Putra Garsel Interkoneksi|
 |6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|8|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|154.193.36.252|808|South Korea|Seoul|Octopus Web Solution Inc|
-|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|13|180.112.180.143|8089|China|Nanjing|Chinanet|
-|14|67.43.236.19|17513|Canada|Montreal|GloboTech Communications|
-|15|45.149.93.215|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|16|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|17|72.10.160.174|6103|Canada|Montreal|GloboTech Communications|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|101.109.110.125|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|9|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|16|186.96.68.66|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|103.40.121.94|8090|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
 
 
 
