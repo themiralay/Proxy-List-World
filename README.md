@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|203.150.128.136|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|181.129.140.83|35232|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|14|45.148.248.80|1700|Iran|Tehran|Ayandeh Gostar Bastak Co. P. J. S|
-|15|67.43.228.252|2167|Canada|Montreal|GloboTech Communications|
-|16|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
-|17|72.10.160.92|25107|Canada|Montreal|GloboTech Communications|
+|4|38.252.82.20|9090|Brazil|Centro|Dione Balarim Prieto Tecnologia e Internet|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|72.10.160.171|24159|Canada|Montreal|GloboTech Communications|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|180.191.59.178|8080|Philippines|Tarlac City|Globe Telecom|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|190.97.94.3|999|Colombia|Palmira|Empresa de Recursos Tecnologicos S.A E.S.P|
+|17|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|118.113.245.121|2324|China|Shanghai|Chinanet|
-|20|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|19|72.10.160.171|24159|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|12011|Canada|Montreal|GloboTech Communications|
 
 
 
