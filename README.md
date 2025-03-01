@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|7|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|72.10.160.91|27231|Canada|Montreal|GloboTech Communications|
-|12|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|115.72.41.247|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|217.26.67.57|3180|Serbia|Belgrade|BeotelNet-ISP d.o.o|
-|16|188.132.150.69|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|209.126.15.81|3128|United States|St Louis|Nubes, LLC|
-|19|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|154.193.37.243|808|South Korea|Seoul|Octopus Web Solution Inc|
+|7|113.23.195.5|1231|Malaysia|Semenyih|Extreme Broadband|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|72.10.160.170|14653|Canada|Montreal|GloboTech Communications|
+|10|160.20.165.231|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|14|67.43.228.250|25291|Canada|Montreal|GloboTech Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|61.152.132.35|8788|China|Shanghai|China Telecom (Group)|
+|19|117.68.110.16|9443|China|Hefei|China Telecom|
+|20|154.193.39.166|808|South Korea|Seoul|Octopus Web Solution Inc|
 
 
 
