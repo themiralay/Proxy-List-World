@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|4|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|104.129.194.43|11197|United States|Reston|ZSCALER, INC.|
-|8|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
-|9|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
-|10|104.129.194.46|10659|United States|Reston|ZSCALER, INC.|
-|11|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|72.10.160.170|30115|Canada|Montreal|GloboTech Communications|
-|14|27.189.130.238|8089|China|Langfang|Chinanet|
-|15|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|16|27.189.129.22|8089|China|Langfang|Chinanet|
-|17|118.113.246.58|2324|China|Shanghai|Chinanet|
-|18|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
-|19|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|121.227.44.157|8089|China|Nanjing|China Telecom|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|115.72.40.72|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|104.129.194.43|11197|United States|Reston|ZSCALER, INC.|
+|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
+|14|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
+|15|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
+|16|118.113.245.121|2324|China|Shanghai|Chinanet|
+|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|19|104.129.194.44|10981|United States|Reston|ZSCALER, INC.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
