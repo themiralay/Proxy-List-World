@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|3|157.66.16.68|8877|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|4|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|8|103.175.240.87|8080|Indonesia|Banyumas|LDP|
-|9|97.79.251.186|80|United States|Dallas|Spectrum|
-|10|97.79.251.186|80|United States|Dallas|Spectrum|
-|11|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
-|13|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|14|27.189.134.104|8089|China|Langfang|Chinanet|
-|15|67.43.228.251|1213|Canada|Montreal|GloboTech Communications|
-|16|49.76.205.56|8089|China|Wuxi|Chinanet|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|27.189.133.67|8089|China|Langfang|Chinanet|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|38.7.221.191|8080|Chile|Santiago|Grupo ZGH SPA|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|103.158.250.118|8787|Indonesia|Ngrance|VCDNET|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|12|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|15|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|16|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|223.206.123.78|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|19|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
+|20|118.113.245.112|2324|China|Shanghai|Chinanet|
 
 
 
