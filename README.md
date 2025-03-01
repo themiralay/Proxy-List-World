@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|45.189.116.159|999|Peru|Lima|Conex TV E.I.R.L|
-|5|121.232.178.7|8089|China|Nanjing|Chinanet|
-|6|117.80.188.205|8089|China|Nanjing|China Telecom|
-|7|27.189.130.215|8089|China|Langfang|Chinanet|
-|8|72.10.160.90|30525|Canada|Montreal|GloboTech Communications|
-|9|27.189.128.38|8089|China|Langfang|Chinanet|
-|10|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|11|117.80.188.208|8089|China|Nanjing|China Telecom|
-|12|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|13|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|14|117.80.188.206|8089|China|Nanjing|China Telecom|
-|15|67.43.227.227|24279|Canada|Montreal|GloboTech Communications|
-|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.227.227|24279|Canada|Montreal|GloboTech Communications|
-|18|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|19|67.43.236.18|5677|Canada|Montreal|GloboTech Communications|
-|20|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|3|45.252.183.244|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|4|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|45.252.183.227|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|10|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|11|115.74.5.144|10008|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|12|154.193.38.121|808|South Korea|Seoul|Octopus Web Solution Inc|
+|13|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|14|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|67.43.236.18|4447|Canada|Montreal|GloboTech Communications|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|115.74.5.144|10008|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|67.43.236.18|4447|Canada|Montreal|GloboTech Communications|
 
 
 
