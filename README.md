@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|3|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|170.246.176.228|3182|Argentina|Venado Tuerto|NORBERTO CARLOS WEHRLI (INFORMÁTICA VENADO)|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|10|72.10.160.90|14213|Canada|Montreal|GloboTech Communications|
-|11|154.193.39.153|808|South Korea|Seoul|Octopus Web Solution Inc|
-|12|117.44.64.85|655|China|Taohua|Chinanet|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|15|103.144.79.27|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|16|177.234.209.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|47.245.37.87|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
-|20|77.137.39.241|19000|Israel|Sderot|Hot-Net internet services Ltd.|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|115.72.14.167|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|7|80.78.76.32|8080|Albania|Tirana|ABCom|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|117.44.64.85|655|China|Taohua|Chinanet|
+|15|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|16|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|17|103.155.199.104|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|18|115.112.231.148|443|India|Mumbai|Tata Communications Limited|
+|19|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
+|20|1.10.229.85|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
 
 
 
