@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|27.66.119.21|4033|Vietnam|Hanoi|Viettel Group|
-|8|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|9|117.44.64.85|655|China|Taohua|Chinanet|
-|10|67.43.236.20|2529|Canada|Montreal|GloboTech Communications|
-|11|58.209.137.154|8089|China|Nanjing|China Telecom|
-|12|72.10.160.171|13623|Canada|Montreal|GloboTech Communications|
-|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|67.43.228.254|4523|Canada|Montreal|GloboTech Communications|
-|15|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|72.10.164.178|32339|Canada|Montreal|GloboTech Communications|
-|17|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
-|18|27.189.132.190|8089|China|Langfang|Chinanet|
-|19|27.189.133.95|8089|China|Langfang|Chinanet|
-|20|37.182.79.112|8080|Italy|Naples|VODAFONE|
+|1|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|67.43.228.254|4523|Canada|Montreal|GloboTech Communications|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|177.234.209.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
+|16|67.43.228.250|17981|Canada|Montreal|GloboTech Communications|
+|17|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|19|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|58.209.137.144|8089|China|Nanjing|China Telecom|
 
 
 
