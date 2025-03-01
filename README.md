@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.176.96.136|8080|Indonesia|Karawang|PT Global Sarana Elektronika|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|13|103.147.134.177|8090|Indonesia|Wakduwa’ Barat|PT.MURNI MAKMUR ABADI|
+|2|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
+|3|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|103.176.96.136|8080|Indonesia|Karawang|PT Global Sarana Elektronika|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|11|117.84.72.205|8089|China|Nanjing|Chinanet|
+|12|116.206.242.110|3888|Indonesia|Jakarta|CBN|
+|13|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
 |14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.227.230|12951|Canada|Montreal|GloboTech Communications|
-|20|45.70.202.71|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|154.193.40.45|808|South Korea|Seoul|Octopus Web Solution Inc|
+|16|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|19|38.191.43.95|999|Colombia|Villavicencio|Servinet Comunicaciones S.A.S.|
+|20|38.7.23.179|999|Mexico|Donato Guerra|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
