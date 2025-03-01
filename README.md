@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
-|6|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.163.80.70|8090|Indonesia|Ngawi|PT Data Arta Sedaya|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
-|16|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|103.18.112.5|1111|Indonesia|Sedinginan|IDNIC|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
+|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|212.68.38.120|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|10|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|11|80.191.105.13|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|103.13.204.89|8083|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|14|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|103.169.41.243|8080|Indonesia|Mata Ie|Telnet Indonesia|
+|16|38.49.129.205|999|Mexico|San Antonio|Ientc S De RL De CV|
+|17|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|18|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
+|20|103.54.36.90|8674|Bangladesh|Bhātāra|Earth Telecommunication (Pvt.) Ltd|
 
 
 
