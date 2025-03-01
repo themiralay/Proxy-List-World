@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
-|4|103.18.77.31|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|118.113.245.129|2324|China|Shanghai|Chinanet|
-|7|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|8|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|118.113.246.221|2324|China|Shanghai|Chinanet|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|67.43.236.18|31801|Canada|Montreal|GloboTech Communications|
+|8|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|27.189.128.167|8089|China|Langfang|Chinanet|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|72.10.160.171|29991|Canada|Montreal|GloboTech Communications|
-|15|49.84.134.40|8089|China|Nanjing|China Telecom|
-|16|27.189.132.81|8089|China|Langfang|Chinanet|
-|17|72.10.164.178|9273|Canada|Montreal|GloboTech Communications|
-|18|27.189.133.58|8089|China|Langfang|Chinanet|
-|19|72.10.164.178|9273|Canada|Montreal|GloboTech Communications|
-|20|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|10|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|15|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|16|104.129.194.44|11273|United States|Reston|ZSCALER, INC.|
+|17|104.129.194.44|11273|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.44|11273|United States|Reston|ZSCALER, INC.|
+|19|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
+|20|72.10.164.178|13723|Canada|Montreal|GloboTech Communications|
 
 
 
