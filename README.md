@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|37.202.222.144|3128|United Arab Emirates|Dubai|Zenlayer Inc|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|191.243.46.34|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|10|115.72.9.216|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|14|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
-|15|103.160.202.198|8080|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
-|16|118.113.244.15|2324|China|Shanghai|Chinanet|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|187.134.155.142|8080|Mexico|Ahome|Uninet S.A. de C.V.|
-|19|117.44.64.85|655|China|Taohua|Chinanet|
-|20|101.255.208.61|8080|Indonesia|Bekasi|PT Remala Abadi|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|7|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|8|103.160.184.76|8080|Indonesia|Ponorogo|PT Trisari Data Indonusa|
+|9|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|10|112.209.47.250|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|103.40.121.94|8090|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|13|116.203.7.46|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|118.113.245.112|2324|China|Shanghai|Chinanet|
+|15|117.44.64.85|655|China|Taohua|Chinanet|
+|16|177.234.209.86|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|19|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
