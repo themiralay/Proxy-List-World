@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|5|118.113.245.112|2324|China|Shanghai|Chinanet|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|9|72.10.160.171|27317|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|32451|Canada|Montreal|GloboTech Communications|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|72.10.160.91|2091|Canada|Montreal|GloboTech Communications|
-|13|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
-|14|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|103.81.254.138|8080|Indonesia|Rengasdengklok|PT. Nusa Jaya Prasetyo|
-|17|67.43.236.19|5313|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|21135|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|18657|Canada|Montreal|GloboTech Communications|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|181.209.125.195|999|Argentina|Buenos Aires|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|67.43.236.18|19633|Canada|Montreal|GloboTech Communications|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|67.43.228.250|23185|Canada|Montreal|GloboTech Communications|
+|19|115.72.3.2|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|20|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
 
 
 
