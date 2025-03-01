@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|80.190.82.58|14625|United Kingdom|Portsmouth|Contabo GmbH|
-|7|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|103.133.61.197|8181|Indonesia|Pringsewu|TLINK|
-|10|75.69.60.124|8118|United States|Peabody|Comcast Cable Communications|
-|11|118.113.245.112|2324|China|Shanghai|Chinanet|
-|12|5.182.44.19|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|13|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|14|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|15|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|3|120.28.210.205|9000|Philippines|Davao City|Globe Telecom|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|45.123.142.100|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|10|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|182.52.83.54|34599|Thailand|Ban Karon|TOT Public Company Limited|
+|13|118.113.245.112|2324|China|Shanghai|Chinanet|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |16|67.43.236.19|22121|Canada|Montreal|GloboTech Communications|
-|17|20.187.167.218|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|72.10.160.170|17687|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.229|13681|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11059|Canada|Montreal|GloboTech Communications|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
+|19|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|20|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
