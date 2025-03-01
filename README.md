@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
 |2|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|3|119.160.13.4|3128|Pakistan|Islamabad|PMCL Transit|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|103.247.22.88|4317|Indonesia|Cilacap|PT wifian Solution|
-|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|6|58.69.143.223|41890|Philippines|Paombong|Philippine Long Distance Telephone Co.|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|67.43.227.227|4751|Canada|Montreal|GloboTech Communications|
-|11|103.52.16.91|8081|Indonesia|Jakarta|PT Inti Bangun Sejahtera, tbk|
-|12|67.43.236.18|6151|Canada|Montreal|GloboTech Communications|
-|13|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|1.180.80.211|7890|China|Haoxinying|Chinanet|
-|17|67.43.228.250|9491|Canada|Montreal|GloboTech Communications|
-|18|181.45.78.113|8080|Argentina|Buenos Aires|Telecentro S.A.|
-|19|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|20|72.10.160.172|10647|Canada|Montreal|GloboTech Communications|
+|8|38.250.119.207|999|Peru|Lima region|Bantel SAC|
+|9|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|182.78.42.112|83|India|Belgaum|Bharti Airtel|
+|13|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|1.180.80.211|7890|China|Haoxinying|Chinanet|
+|15|49.48.45.63|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|16|154.90.48.148|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|17|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|18|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|72.10.164.178|29329|Canada|Montreal|GloboTech Communications|
 
 
 
