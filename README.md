@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|223.206.194.139|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|35.92.227.104|3128|United States|Portland|Amazon.com, Inc.|
-|15|72.10.160.171|19007|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|19007|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|9845|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31183|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|31183|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19907|Canada|Montreal|GloboTech Communications|
+|2|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|13|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|14|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|17|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|18|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|19|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|38.7.1.248|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
 
 
 
