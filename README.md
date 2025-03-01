@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|4|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|5|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|10|36.94.7.82|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|67.43.227.227|7179|Canada|Montreal|GloboTech Communications|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|72.10.160.91|8931|Canada|Montreal|GloboTech Communications|
-|16|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|67.43.227.227|7179|Canada|Montreal|GloboTech Communications|
-|18|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|19|67.43.227.226|4393|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|28279|Canada|Montreal|GloboTech Communications|
+|1|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|2|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|9|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|67.43.227.227|31961|Canada|Montreal|GloboTech Communications|
+|12|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
+|13|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|14|45.151.70.119|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|15|72.10.160.91|22801|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|30929|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|30929|Canada|Montreal|GloboTech Communications|
+|18|154.90.48.148|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|19|72.10.164.178|30929|Canada|Montreal|GloboTech Communications|
+|20|15.204.240.177|3128|United States|Reston|OVH SAS|
 
 
 
