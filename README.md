@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 |2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|80.78.76.32|8080|Albania|Tirana|ABCom|
-|5|178.252.177.40|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|177.234.209.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|49.49.4.175|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|12|151.237.86.78|8080|Bulgaria|Kardzhali|Netroniks EOOD|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|72.10.160.90|28641|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17369|Canada|Montreal|GloboTech Communications|
-|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|183.60.141.27|443|China|Shantou|Chinanet|
-|19|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|7|118.113.245.112|2324|China|Shanghai|Chinanet|
+|8|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|9|67.43.236.20|27423|Canada|Montreal|GloboTech Communications|
+|10|103.133.25.185|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|11|115.72.14.167|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|12|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|14|103.82.246.251|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|15|112.78.131.2|8080|Indonesia|Jakarta|Biznet Networks|
+|16|151.237.86.78|8080|Bulgaria|Kardzhali|Netroniks EOOD|
+|17|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|19|154.90.49.55|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|117.44.64.85|655|China|Taohua|Chinanet|
 
 
 
