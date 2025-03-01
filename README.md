@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|23.95.240.19|6789|United States|Los Angeles|HostPapa|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|23.95.247.7|3128|United States|Santa Clara|HostPapa|
+|2|103.74.107.215|49758|Vietnam|Kim Bài|VIETSERVER|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|23.95.240.19|6789|United States|Los Angeles|HostPapa|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|103.105.57.102|1111|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
-|9|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|10|23.95.247.7|3128|United States|Santa Clara|HostPapa|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|72.10.160.170|14595|Canada|Montreal|GloboTech Communications|
-|15|90.174.128.42|3128|Spain|Madrid|Uni2|
-|16|72.10.160.170|14595|Canada|Montreal|GloboTech Communications|
-|17|110.76.145.22|89|Indonesia|Surabaya|PT Pika Media Komunika|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|125.87.80.37|2324|China|Chongqing|China Telecom|
-|20|72.10.160.170|14595|Canada|Montreal|GloboTech Communications|
+|7|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|125.87.80.37|2324|China|Chongqing|China Telecom|
+|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
+|15|46.243.9.113|8080|Russia|Georgiyevsk|SerDi TeleCom, LTD|
+|16|103.82.246.251|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|17|118.99.123.232|8888|Indonesia|Malang|BIZNET|
+|18|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|19|72.10.160.170|26727|Canada|Montreal|GloboTech Communications|
+|20|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
 
 
 
