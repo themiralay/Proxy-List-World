@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|203.150.128.41|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|223.205.187.171|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|6|103.227.186.73|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|7|125.87.90.156|2324|China|Chongqing|China Telecom|
-|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|91.107.176.84|2580|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|11|154.193.40.18|808|South Korea|Seoul|Octopus Web Solution Inc|
-|12|72.10.160.94|23003|Canada|Montreal|GloboTech Communications|
-|13|114.225.152.235|8089|China|Changzhou|Chinanet|
-|14|27.189.133.184|8089|China|Langfang|Chinanet|
-|15|117.80.188.250|8089|China|Nanjing|China Telecom|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|118.113.247.142|2324|China|Shanghai|Chinanet|
-|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|67.43.227.226|14309|Canada|Montreal|GloboTech Communications|
-|20|27.189.128.20|8089|China|Langfang|Chinanet|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|182.52.83.155|34599|Thailand|Ban Karon|TOT Public Company Limited|
+|4|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|6|125.87.90.156|2324|China|Chongqing|China Telecom|
+|7|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|72.10.160.94|23003|Canada|Montreal|GloboTech Communications|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|67.43.227.226|14309|Canada|Montreal|GloboTech Communications|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.93|22843|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|9251|Canada|Montreal|GloboTech Communications|
+|18|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|19|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
+|20|190.61.61.210|999|Colombia|Bogotá|Ufinet Panama S.A.|
 
 
 
