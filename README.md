@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|203.111.253.150|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|27.189.129.252|8089|China|Langfang|Chinanet|
-|7|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|8|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|14.39.239.241|55438|South Korea|Eunpyeong-gu|Korea Telecom|
-|11|67.43.236.19|21343|Canada|Montreal|GloboTech Communications|
-|12|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
-|13|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|14|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|67.43.236.18|22801|Canada|Montreal|GloboTech Communications|
-|16|103.46.11.190|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|67.43.228.251|20101|Canada|Montreal|GloboTech Communications|
-|19|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|20|27.189.129.227|8089|China|Langfang|Chinanet|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|4|202.154.18.24|6969|Indonesia|Bojonegoro|DIGITNET|
+|5|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|49.48.90.74|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|9|118.113.245.129|2324|China|Shanghai|Chinanet|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|109.127.82.18|8080|Iraq|Erbil|Newroz Telecom|
+|13|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|15|14.39.239.241|55438|South Korea|Eunpyeong-gu|Korea Telecom|
+|16|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
+|17|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|94.70.195.145|8080|Greece|Chalandri|Ote SA (Hellenic Telecommunications Organisation)|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
