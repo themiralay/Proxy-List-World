@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|10|115.72.9.216|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|72.10.160.170|19765|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|13163|Canada|Montreal|GloboTech Communications|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|72.10.160.93|18139|Canada|Montreal|GloboTech Communications|
-|16|188.127.82.194|62244|United Kingdom|Manchester|Vaioni Group Ltd|
-|17|72.10.160.93|18139|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|32815|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|21995|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|32815|Canada|Montreal|GloboTech Communications|
+|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|11|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|117.44.64.85|655|China|Taohua|Chinanet|
+|14|67.43.228.250|7705|Canada|Montreal|GloboTech Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|17|190.61.116.244|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|18|67.43.228.250|7705|Canada|Montreal|GloboTech Communications|
+|19|165.22.13.22|8888|United States|North Bergen|DigitalOcean, LLC|
+|20|67.43.228.251|23257|Canada|Montreal|GloboTech Communications|
 
 
 
