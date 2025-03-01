@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|103.68.214.123|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|157.66.16.36|8866|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|13|118.113.244.15|2324|China|Shanghai|Chinanet|
-|14|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|72.10.160.174|6929|Canada|Montreal|GloboTech Communications|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|190.211.4.139|999|Chile|Chillán|Telefonica del Sur S.A.|
+|4|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|118.113.244.15|2324|China|Shanghai|Chinanet|
+|11|49.151.97.114|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|17|210.1.70.22|8085|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|19|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
