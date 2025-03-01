@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|3|154.193.40.18|808|South Korea|Seoul|Octopus Web Solution Inc|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|6|178.255.148.212|8118|Norway|Oslo|Blix Solutions|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.132.181.36|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
-|13|179.125.125.243|3128|Brazil|Floriano|Virtex Telecom|
-|14|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|15|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|16|67.43.236.18|8283|Canada|Montreal|GloboTech Communications|
-|17|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
-|18|72.10.160.94|19957|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|8025|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23569|Canada|Montreal|GloboTech Communications|
+|1|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|5|103.18.77.67|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|6|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|103.158.252.79|8080|Indonesia|Brebes|Rapid Network|
+|8|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|91.92.124.241|8080|Iran|Tehran|TIC|
+|12|103.132.181.36|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
+|13|186.226.168.23|3128|Brazil|Eunápolis|Infortel Comunicacoes Ltda|
+|14|179.125.125.243|3128|Brazil|Floriano|Virtex Telecom|
+|15|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|62.249.138.133|8080|Russia|Krasnoyarsk|Joint Stock Company TransTeleCom|
+|18|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
 
 
 
