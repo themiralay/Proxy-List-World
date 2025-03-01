@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|67.43.236.18|10455|Canada|Montreal|GloboTech Communications|
-|8|121.224.156.164|8089|China|Nanjing|China Telecom|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|154.193.39.68|808|South Korea|Seoul|Octopus Web Solution Inc|
-|15|154.193.37.168|808|South Korea|Seoul|Octopus Web Solution Inc|
-|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|17|157.15.62.100|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|72.10.160.90|33021|Canada|Montreal|GloboTech Communications|
-|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|5|203.190.117.106|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|6|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|184.22.0.102|8080|Thailand|Bangkok|AIS-Fibre|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|16|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|17|72.10.160.90|33021|Canada|Montreal|GloboTech Communications|
+|18|119.95.107.16|8081|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|209.126.15.81|3128|United States|St Louis|Nubes, LLC|
 
 
 
