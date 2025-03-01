@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|2|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|4|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|67.43.228.250|32815|Canada|Montreal|GloboTech Communications|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|191.243.46.34|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|10|103.55.253.12|8080|Indonesia|Surabaya|Lintas Daya|
-|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|66.70.191.133|80|Canada|Montreal|OVH SAS|
-|14|27.189.132.137|8089|China|Langfang|Chinanet|
-|15|72.10.164.178|21121|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|32815|Canada|Montreal|GloboTech Communications|
-|17|27.189.133.239|8089|China|Langfang|Chinanet|
-|18|115.72.9.216|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|19|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|67.43.227.227|26935|Canada|Montreal|GloboTech Communications|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|3|212.175.61.2|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|4|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|5|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|177.234.209.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|11|67.43.228.250|32815|Canada|Montreal|GloboTech Communications|
+|12|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|13|72.10.164.178|21121|Canada|Montreal|GloboTech Communications|
+|14|115.74.5.144|10002|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|15|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|18|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|19|67.43.228.250|32815|Canada|Montreal|GloboTech Communications|
+|20|79.127.118.57|8080|Iran|Tehran|Asiatech Data Transmission company|
 
 
 
