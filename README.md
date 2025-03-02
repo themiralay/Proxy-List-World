@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|5.78.108.63|3128|United States|Hillsboro|Hetzner Online GmbH|
-|3|5.78.108.63|3128|United States|Hillsboro|Hetzner Online GmbH|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|121.227.118.137|8089|China|Nanjing|China Telecom|
-|6|67.43.236.20|29413|Canada|Montreal|GloboTech Communications|
-|7|121.227.118.171|8089|China|Nanjing|China Telecom|
-|8|67.43.236.19|16067|Canada|Montreal|GloboTech Communications|
-|9|121.227.118.155|8089|China|Nanjing|China Telecom|
-|10|27.189.130.208|8089|China|Langfang|Chinanet|
-|11|27.189.133.1|8089|China|Langfang|Chinanet|
-|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|121.227.118.162|8089|China|Nanjing|China Telecom|
-|14|160.191.130.65|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
-|15|67.43.227.228|1717|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.229|11723|Canada|Montreal|GloboTech Communications|
-|17|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|18|67.43.227.226|10203|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|22367|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|12811|Canada|Montreal|GloboTech Communications|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|67.43.228.250|23395|Canada|Montreal|GloboTech Communications|
+|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|12|67.43.227.229|11723|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.19|16067|Canada|Montreal|GloboTech Communications|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|16|67.43.236.18|30035|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|30035|Canada|Montreal|GloboTech Communications|
+|18|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|19|67.43.227.227|1539|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11763|Canada|Montreal|GloboTech Communications|
 
 
 
