@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|177.93.46.139|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|7|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|8|67.43.227.227|10641|Canada|Montreal|GloboTech Communications|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|67.43.236.18|22697|Canada|Montreal|GloboTech Communications|
-|11|27.189.134.17|8089|China|Langfang|Chinanet|
-|12|67.43.236.19|31097|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|17275|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|17275|Canada|Montreal|GloboTech Communications|
-|15|27.189.131.242|8089|China|Langfang|Chinanet|
-|16|67.43.228.251|32301|Canada|Montreal|GloboTech Communications|
-|17|121.232.181.168|8089|China|Nanjing|Chinanet|
-|18|67.43.228.250|4607|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|31097|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|22697|Canada|Montreal|GloboTech Communications|
+|3|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|4|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|118.113.244.15|2324|China|Shanghai|Chinanet|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|102.209.148.2|8080|Ghana|Abesim|Sunyani Technical University|
+|10|72.10.160.170|27075|Canada|Montreal|GloboTech Communications|
+|11|103.127.220.250|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|67.43.228.251|22187|Canada|Montreal|GloboTech Communications|
+|15|101.255.167.174|8080|Indonesia|Jakarta|PT Remala Abadi|
+|16|171.7.65.76|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|67.43.236.18|22697|Canada|Montreal|GloboTech Communications|
+|18|103.74.107.215|49758|Vietnam|Kim Bài|VIETSERVER|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
