@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|14.39.239.79|50095|South Korea|Eunpyeong-gu|Korea Telecom|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|103.80.98.19|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
-|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|14|67.43.236.19|13967|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|7129|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|67.43.227.226|4053|Canada|Montreal|GloboTech Communications|
-|20|222.68.37.34|2324|China|Shanghai|China Telecom (Group)|
+|5|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|6|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
+|7|121.224.156.139|8089|China|Nanjing|China Telecom|
+|8|72.10.160.171|20373|Canada|Montreal|GloboTech Communications|
+|9|121.227.183.178|8089|China|Nanjing|China Telecom|
+|10|117.81.238.102|8089|China|Nanjing|China Telecom|
+|11|49.84.175.67|8089|China|Nanjing|China Telecom|
+|12|58.209.137.157|8089|China|Nanjing|China Telecom|
+|13|121.232.181.186|8089|China|Nanjing|Chinanet|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
+|16|222.119.167.76|3049|South Korea|Jinju|Korea Telecom|
+|17|121.224.156.165|8089|China|Nanjing|China Telecom|
+|18|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|19|67.43.227.226|6237|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|20373|Canada|Montreal|GloboTech Communications|
 
 
 
