@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|106.225.164.39|655|China|Beijing|China Telecom|
-|4|27.189.129.180|8089|China|Langfang|Chinanet|
-|5|160.20.165.231|8587|Ecuador|Naranjal|Ufinet Panama S.A.|
-|6|27.189.131.166|8089|China|Langfang|Chinanet|
-|7|27.189.135.64|8089|China|Langfang|Chinanet|
-|8|27.189.132.94|8089|China|Langfang|Chinanet|
-|9|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|10|67.43.227.226|5589|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|121.232.178.136|8089|China|Nanjing|Chinanet|
-|13|27.189.129.131|8089|China|Langfang|Chinanet|
-|14|27.189.135.40|8089|China|Langfang|Chinanet|
-|15|67.43.227.226|5589|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|67.43.228.250|26987|Canada|Montreal|GloboTech Communications|
-|18|27.189.128.105|8089|China|Langfang|Chinanet|
-|19|72.10.160.170|1333|Canada|Montreal|GloboTech Communications|
-|20|27.189.131.104|8089|China|Langfang|Chinanet|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|3|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|9|67.43.227.226|5589|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|31017|Canada|Montreal|GloboTech Communications|
+|11|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|72.10.160.170|22655|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|22655|Canada|Montreal|GloboTech Communications|
+|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|17|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|46.32.15.59|3128|Iran|Tehran|Institute Cognitive Science Studies|
+|19|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|20|154.90.48.148|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 
 
 
