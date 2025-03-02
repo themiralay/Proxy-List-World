@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.76.151.114|8080|Indonesia|Karangsono|PT. Java Digital Nusantara|
+|1|51.79.207.228|3129|Singapore|Singapore|OVH SAS|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|13|125.87.81.77|2324|China|Chongqing|China Telecom|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|118.113.244.146|2324|China|Shanghai|Chinanet|
-|16|72.10.164.178|26963|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26963|Canada|Montreal|GloboTech Communications|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|27.189.128.238|8089|China|Langfang|Chinanet|
-|20|72.10.160.93|32923|Canada|Montreal|GloboTech Communications|
+|4|45.174.204.14|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|154.193.38.158|808|South Korea|Seoul|Octopus Web Solution Inc|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|45.175.237.152|999|Mexico|Francisco I. Madero|Hulux Telecomunicaciones|
+|15|45.70.201.186|999|Ecuador|Yantzaza|Ufinet Panama S.A.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|18|121.227.118.187|8089|China|Nanjing|China Telecom|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
