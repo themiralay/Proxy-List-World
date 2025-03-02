@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4547** proxies at the latest update. Usable proxies are below.
+> Scraper found **4556** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|477|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|486|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|272|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2572|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.96.176.71|3128|South Korea|Jinju|Korea Telecom|
-|2|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|1|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
 |4|107.172.208.184|1080|United States|Buffalo|HostPapa|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |6|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|11|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|18|72.10.160.91|18145|Canada|Montreal|GloboTech Communications|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|7|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|11|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
+|12|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|19|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
+|20|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
 
 
 
