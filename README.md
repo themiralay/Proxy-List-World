@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|15|45.58.147.26|3128|The Netherlands|Amsterdam|Sharktech|
-|16|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|17|104.129.194.46|11726|United States|Reston|ZSCALER, INC.|
-|18|104.129.194.43|10101|United States|Reston|ZSCALER, INC.|
-|19|67.43.227.227|14117|Canada|Montreal|GloboTech Communications|
-|20|117.44.64.85|655|China|Taohua|Chinanet|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|103.172.0.78|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|7|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|125.87.90.197|2324|China|Chongqing|China Telecom|
+|12|67.43.228.250|32813|Canada|Montreal|GloboTech Communications|
+|13|38.45.242.120|999|Mexico|San Diego de la Unión|Wifimax Connection S.a.s De C.V|
+|14|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|15|160.20.165.231|8587|Ecuador|Naranjal|Ufinet Panama S.A.|
+|16|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|17|121.101.129.108|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|103.86.116.83|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
 
 
 
