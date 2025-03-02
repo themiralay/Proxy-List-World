@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|65.1.244.232|80|India|Mumbai|Amazon.com|
-|6|212.111.89.204|39111|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|13|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|14|27.189.128.82|8089|China|Langfang|Chinanet|
-|15|72.10.160.172|21297|Canada|Montreal|GloboTech Communications|
-|16|118.113.245.112|2324|China|Shanghai|Chinanet|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|72.10.160.170|20805|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
-|20|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|1|103.183.10.175|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|2|103.97.198.253|8080|Indonesia|Temanggung|PT Borneo Global Persada|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|103.99.27.190|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|9|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|12|72.10.160.170|30765|Canada|Montreal|GloboTech Communications|
+|13|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|14|67.43.236.20|19323|Canada|Montreal|GloboTech Communications|
+|15|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|16|212.111.89.204|39111|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|118.113.245.57|2324|China|Shanghai|Chinanet|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|72.10.164.178|5727|Canada|Montreal|GloboTech Communications|
 
 
 
