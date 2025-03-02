@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|103.120.202.160|56640|Bangladesh|Dhaka|Carnival Internet|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|103.127.84.248|8080|Bangladesh|Dhaka|Incom IT Solution|
-|7|160.19.16.17|9869|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|8|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|103.120.202.160|56640|Bangladesh|Dhaka|Carnival Internet|
-|14|67.43.227.226|22927|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|21165|Canada|Montreal|GloboTech Communications|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|67.43.227.228|28535|Canada|Montreal|GloboTech Communications|
-|18|27.189.129.140|8089|China|Langfang|Chinanet|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|72.10.164.178|25959|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|21165|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|29565|Canada|Montreal|GloboTech Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.91.149.140|8080|Indonesia|Ciputat|PT. Yasmin Amanah Media|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|17|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
