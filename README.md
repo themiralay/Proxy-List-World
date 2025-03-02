@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4715** proxies at the latest update. Usable proxies are below.
+> Scraper found **4698** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|485|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2696|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|38.156.15.160|999|Mexico|Teocaltiche|Wistarip S De RL De CV|
-|9|186.113.232.105|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP BIC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|103.231.236.26|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|12|67.43.236.19|6097|Canada|Montreal|GloboTech Communications|
-|13|112.209.47.250|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|8.243.163.126|3128|Colombia|Andes|CTL Colombia|
-|18|113.160.115.254|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|19|38.7.221.191|8080|Chile|Santiago|Grupo ZGH SPA|
-|20|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|9|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
+|10|27.189.129.244|8089|China|Langfang|Chinanet|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|118.113.244.15|2324|China|Shanghai|Chinanet|
+|15|27.189.131.66|8089|China|Langfang|Chinanet|
+|16|67.43.228.250|12323|Canada|Montreal|GloboTech Communications|
+|17|221.131.172.202|9985|China|Qinnan|China Mobile communications corporation|
+|18|72.10.160.174|17783|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.22|24171|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|19939|Canada|Montreal|GloboTech Communications|
 
 
 
