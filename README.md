@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|8|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|9|162.239.194.73|8080|United States|Bardstown|AT&T Services, Inc.|
-|10|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
-|11|58.209.137.132|8089|China|Nanjing|China Telecom|
-|12|67.43.228.250|33203|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.252|7407|Canada|Montreal|GloboTech Communications|
-|14|112.201.191.192|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|15|72.10.160.173|30255|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|13739|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32737|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|26709|Canada|Montreal|GloboTech Communications|
-|19|49.70.190.218|2324|China|Zhenjiang|Chinanet|
-|20|103.145.34.186|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|7|27.189.132.217|8089|China|Langfang|Chinanet|
+|8|72.10.160.173|30255|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.92|30417|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.92|30417|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|4425|Canada|Montreal|GloboTech Communications|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|67.43.228.250|17759|Canada|Montreal|GloboTech Communications|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|95.159.105.21|8080|Iraq|Sulaymaniyah|7NETLAYERS|
+|19|154.90.48.10|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
 
 
 
