@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|58.209.137.156|8089|China|Nanjing|China Telecom|
-|7|218.1.197.139|2324|China|Shanghai|China Telecom (Group)|
-|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|45.174.205.119|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|27.189.129.158|8089|China|Langfang|Chinanet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|72.10.164.178|27245|Canada|Montreal|GloboTech Communications|
-|13|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
-|14|14.170.173.177|10015|Vietnam|Bắc Giang|VNPT-VNNIC|
-|15|27.189.133.20|8089|China|Langfang|Chinanet|
-|16|117.80.188.39|8089|China|Nanjing|China Telecom|
-|17|72.10.160.90|18891|Canada|Montreal|GloboTech Communications|
-|18|58.209.137.138|8089|China|Nanjing|China Telecom|
-|19|67.43.228.250|6837|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.18|8089|China|Langfang|Chinanet|
+|10|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|11|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
+|12|202.154.18.56|8080|Indonesia|Bojonegoro|DIGITNET|
+|13|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|223.25.100.234|8080|Indonesia|Prapen|SINERGINET|
+|15|72.10.160.171|24531|Canada|Montreal|GloboTech Communications|
+|16|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|72.10.160.170|21323|Canada|Montreal|GloboTech Communications|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
 
 
 
