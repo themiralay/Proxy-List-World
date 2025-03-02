@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.168.44.65|3127|Indonesia|Kuningan Barat|PT CYB Media Group|
+|1|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|2|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|49.48.145.123|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|67.43.227.226|28979|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|14741|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|32917|Canada|Montreal|GloboTech Communications|
-|14|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
-|15|67.43.228.250|1293|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|16769|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|14741|Canada|Montreal|GloboTech Communications|
-|18|157.66.50.111|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|19|27.189.133.30|8089|China|Langfang|Chinanet|
-|20|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
+|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|62.249.138.133|8080|Russia|Krasnoyarsk|Joint Stock Company TransTeleCom|
+|11|59.153.98.202|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|12|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
+|13|113.160.115.254|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|16|168.181.87.26|8080|Brazil|Sobral|M. R. MELO ALEXANDRINO|
+|17|195.133.220.46|1971|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
+|18|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.75.96.70|8080|Indonesia|Utan|MORATELINDO|
 
 
 
