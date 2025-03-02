@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.232.190.234|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|2|178.236.247.94|9050|United States|Los Angeles|xorek.cloud International LTD|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|171.237.120.54|1022|Vietnam|Ninh Bình|Viettel Corporation|
+|3|181.232.190.234|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|4|209.146.18.230|8082|Philippines|Manila|Cogent Communications|
+|5|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|103.169.105.93|8080|Bangladesh|Dhaka|Md Azizul Haque|
+|8|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
 |9|67.43.227.230|13699|Canada|Montreal|GloboTech Communications|
-|10|27.189.128.154|8089|China|Langfang|Chinanet|
-|11|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|12|218.1.197.30|2324|China|Shanghai|China Telecom (Group)|
-|13|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|14|67.43.228.250|28567|Canada|Montreal|GloboTech Communications|
-|15|125.87.86.55|2324|China|Shanghai|China Telecom|
-|16|27.189.130.38|8089|China|Langfang|Chinanet|
-|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|19|27.189.134.51|8089|China|Langfang|Chinanet|
-|20|27.189.131.48|8089|China|Langfang|Chinanet|
+|10|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|67.43.236.18|32561|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|15947|Canada|Montreal|GloboTech Communications|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|27.189.132.184|8089|China|Langfang|Chinanet|
+|16|67.43.236.20|31465|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.228.250|15947|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|202.138.236.133|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
 
 
 
