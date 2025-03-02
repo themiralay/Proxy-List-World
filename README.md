@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|6|49.48.203.32|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|67.43.228.252|16281|Canada|Montreal|GloboTech Communications|
-|9|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|5|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|177.93.58.105|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|110.141.237.221|5200|Australia|Melbourne|Telstra Internet|
-|12|154.193.39.208|808|South Korea|Seoul|Octopus Web Solution Inc|
-|13|72.10.160.93|20835|Canada|Montreal|GloboTech Communications|
-|14|154.193.39.213|808|South Korea|Seoul|Octopus Web Solution Inc|
-|15|72.10.160.172|29307|Canada|Montreal|GloboTech Communications|
-|16|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
-|17|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|18|72.10.160.171|25637|Canada|Montreal|GloboTech Communications|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|72.10.160.90|4669|Canada|Montreal|GloboTech Communications|
+|11|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
+|12|72.10.160.172|29307|Canada|Montreal|GloboTech Communications|
+|13|160.20.165.231|8586|Ecuador|Naranjal|Ufinet Panama S.A.|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|62.249.138.133|8080|Russia|Krasnoyarsk|Joint Stock Company TransTeleCom|
+|16|72.10.164.178|14115|Canada|Montreal|GloboTech Communications|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|19|212.111.89.204|39111|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|72.10.160.90|11961|Canada|Montreal|GloboTech Communications|
 
 
 
