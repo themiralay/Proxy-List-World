@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|3|113.53.89.124|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
-|4|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|66.19.21.242|7878|United States|Wellington|Windstream Communications LLC|
-|6|201.49.193.249|7171|Brazil|Presidente Prudente|America-NET Ltda.|
-|7|67.43.228.250|4189|Canada|Montreal|GloboTech Communications|
-|8|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|9|110.188.37.102|2324|China|Muping|Chinanet|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|195.189.190.252|9090|Spain|San Bartolomé|Suballocated IT1|
-|12|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
-|15|72.10.160.170|12487|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|4189|Canada|Montreal|GloboTech Communications|
-|17|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|111.75.190.5|655|China|Taohua|Chinanet|
-|19|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
-|20|27.189.129.8|8089|China|Langfang|Chinanet|
+|1|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|3|157.100.63.48|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|4|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|5|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|10|67.43.228.252|1651|Canada|Montreal|GloboTech Communications|
+|11|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|12|67.43.228.253|2011|Canada|Montreal|GloboTech Communications|
+|13|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|14|72.10.160.171|16117|Canada|Montreal|GloboTech Communications|
+|15|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|16|222.67.12.216|2324|China|Shanghai|China Telecom (Group)|
+|17|67.43.228.250|26267|Canada|Montreal|GloboTech Communications|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|72.10.160.170|32833|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|32833|Canada|Montreal|GloboTech Communications|
 
 
 
