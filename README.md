@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|5|72.10.164.178|30771|Canada|Montreal|GloboTech Communications|
-|6|67.43.227.228|28577|Canada|Montreal|GloboTech Communications|
-|7|118.113.246.198|2324|China|Shanghai|Chinanet|
-|8|67.43.227.226|21765|Canada|Montreal|GloboTech Communications|
-|9|27.189.134.72|8089|China|Langfang|Chinanet|
-|10|67.43.236.18|31195|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|21765|Canada|Montreal|GloboTech Communications|
-|12|118.113.245.191|2324|China|Shanghai|Chinanet|
-|13|42.51.69.208|11909|China|Zhengzhou|China Unicom Henan Province network|
-|14|27.189.130.178|8089|China|Langfang|Chinanet|
-|15|67.43.227.230|23621|Canada|Montreal|GloboTech Communications|
-|16|103.184.21.102|8080|Indonesia|Puring Kulon|PT Tekling Media Telematika|
-|17|27.189.131.239|8089|China|Langfang|Chinanet|
-|18|27.189.130.62|8089|China|Langfang|Chinanet|
-|19|116.169.61.56|10990|China|Chengdu|China Unicom CHINA169 Network|
-|20|27.189.134.242|8089|China|Langfang|Chinanet|
+|1|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|14.39.239.79|50095|South Korea|Eunpyeong-gu|Korea Telecom|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|72.10.164.178|30771|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|118.113.246.198|2324|China|Shanghai|Chinanet|
+|14|67.43.236.18|16131|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|32903|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|24015|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|32903|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.252|22527|Canada|Montreal|GloboTech Communications|
+|19|38.224.223.248|999|Mexico|Cunduacán|Javier Tamayo Garcia|
+|20|67.43.227.230|23621|Canada|Montreal|GloboTech Communications|
 
 
 
