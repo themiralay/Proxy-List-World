@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|4|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|103.82.246.251|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|8|144.48.162.102|8080|Bangladesh|Dhaka|Cue Club Technology|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|103.171.240.226|3131|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|218.1.197.54|2324|China|Shanghai|China Telecom (Group)|
-|15|118.113.245.129|2324|China|Shanghai|Chinanet|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|67.43.228.252|4105|Canada|Montreal|GloboTech Communications|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|27.189.132.4|8089|China|Langfang|Chinanet|
-|20|27.189.128.40|8089|China|Langfang|Chinanet|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|103.191.218.255|8087|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|11|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|16|190.61.90.59|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|17|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|20|110.232.83.27|8080|Indonesia|Medan|NUSANET-MDN|
 
 
 
