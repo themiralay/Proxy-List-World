@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
 |3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|9|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
-|10|27.189.129.244|8089|China|Langfang|Chinanet|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|212.175.88.208|8080|Turkey|Bulutlu|Turk Telekomunikasyon Anonim Sirketi|
-|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|118.113.244.15|2324|China|Shanghai|Chinanet|
-|15|27.189.131.66|8089|China|Langfang|Chinanet|
-|16|67.43.228.250|12323|Canada|Montreal|GloboTech Communications|
-|17|221.131.172.202|9985|China|Qinnan|China Mobile communications corporation|
-|18|72.10.160.174|17783|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|24171|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|19939|Canada|Montreal|GloboTech Communications|
+|8|222.68.37.75|1080|China|Shanghai|China Telecom (Group)|
+|9|103.133.25.185|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|10|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|11|118.113.245.112|2324|China|Shanghai|Chinanet|
+|12|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
+|13|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|14|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|113.160.204.229|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|16|67.43.236.21|11831|Canada|Montreal|GloboTech Communications|
+|17|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|18|38.191.203.242|999|Colombia|Bogotá|Hola Telecomunicacines Colombia S.A.S|
+|19|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
 
 
 
