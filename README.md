@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|3|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|103.228.246.75|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|11|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|12|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|121.227.183.183|8089|China|Nanjing|China Telecom|
-|15|72.10.160.91|3987|Canada|Montreal|GloboTech Communications|
-|16|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|118.113.244.129|2324|China|Shanghai|Chinanet|
-|18|67.43.236.19|27977|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|30625|Canada|Montreal|GloboTech Communications|
-|20|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|45.252.183.227|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|190.61.90.116|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|11|218.1.197.175|2324|China|Shanghai|China Telecom (Group)|
+|12|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
+|13|45.130.8.198|3128|Russia|Moscow|JSC Selectel|
+|14|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|15|72.10.160.92|10215|Canada|Montreal|GloboTech Communications|
+|16|38.7.23.177|999|Mexico|Donato Guerra|Internet Telefonia Y TV De Michoacan SA De CV|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|177.234.247.6|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
