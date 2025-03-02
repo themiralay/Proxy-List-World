@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|3|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|171.101.74.238|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|18|13.239.234.234|3128|Australia|Sydney|Amazon Technologies Inc.|
-|19|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
-|20|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|2|222.96.176.71|3128|South Korea|Jinju|Korea Telecom|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|13|154.193.39.68|808|South Korea|Seoul|Octopus Web Solution Inc|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
 
 
 
