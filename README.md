@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|182.253.137.236|8080|Indonesia|Jakarta|BIZNET|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|118.113.245.185|2324|China|Shanghai|Chinanet|
-|7|103.133.26.119|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|8|72.10.160.170|20049|Canada|Montreal|GloboTech Communications|
-|9|27.189.129.23|8089|China|Langfang|Chinanet|
-|10|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|11|190.12.95.170|47029|Peru|Lima|WIN EMPRESAS S.A.C|
-|12|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|72.10.164.178|32839|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|28821|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|202.63.172.18|9128|China|Beijing|CHINA UNICOM China169 Backbone|
-|18|67.43.227.226|5251|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.164.178|32839|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|171.7.23.252|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|3|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|4|72.10.164.178|18551|Canada|Montreal|GloboTech Communications|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|186.96.74.140|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|9|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|10|72.10.160.170|20049|Canada|Montreal|GloboTech Communications|
+|11|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|12|77.243.15.83|3246|Russia|Kursk|Sovtest-Internet|
+|13|77.243.15.83|3246|Russia|Kursk|Sovtest-Internet|
+|14|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|222.215.137.18|3218|China|Deyang|Chinanet|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|202.63.172.18|9128|China|Beijing|CHINA UNICOM China169 Backbone|
+|19|67.43.236.18|15067|Canada|Montreal|GloboTech Communications|
+|20|201.47.88.19|3128|Brazil|Maringá|Vivo|
 
 
 
