@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
-|7|157.66.50.111|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|8|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|11|121.227.118.172|8089|China|Nanjing|China Telecom|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|72.10.160.91|27063|Canada|Montreal|GloboTech Communications|
-|14|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|72.10.160.90|12457|Canada|Montreal|GloboTech Communications|
-|16|209.45.108.230|1011|Peru|Lima|Red Cientifica Peruana|
-|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|103.30.181.182|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
-|19|113.11.179.160|8080|Indonesia|Jakarta|BIZNET|
-|20|103.18.77.67|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|154.193.39.132|808|South Korea|Seoul|Octopus Web Solution Inc|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|72.10.160.91|27063|Canada|Montreal|GloboTech Communications|
+|9|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|10|117.44.64.85|655|China|Taohua|Chinanet|
+|11|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|12|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|103.164.229.149|8080|Indonesia|Kudus|PT Muria Data Utama|
+|15|5.160.32.34|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|67.43.227.226|15659|Canada|Montreal|GloboTech Communications|
+|18|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|19|160.191.180.159|7777|Indonesia|Grogol|PT.Global Media Data Prima|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
