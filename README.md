@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.18.112.5|1111|Indonesia|Sedinginan|IDNIC|
-|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|160.19.178.24|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|5|27.189.129.28|8089|China|Langfang|Chinanet|
-|6|67.43.236.18|19839|Canada|Montreal|GloboTech Communications|
-|7|27.189.131.189|8089|China|Langfang|Chinanet|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|67.43.227.227|8013|Canada|Montreal|GloboTech Communications|
-|10|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|11|67.43.227.226|28477|Canada|Montreal|GloboTech Communications|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|14|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|15|67.43.228.251|31683|Canada|Montreal|GloboTech Communications|
-|16|49.70.172.192|2324|China|Zhenjiang|Chinanet|
-|17|67.43.227.227|8013|Canada|Montreal|GloboTech Communications|
-|18|222.67.12.52|2324|China|Shanghai|China Telecom (Group)|
-|19|67.43.227.227|8013|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|21417|Canada|Montreal|GloboTech Communications|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|103.18.112.5|1111|Indonesia|Sedinginan|IDNIC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|15|49.70.172.192|2324|China|Zhenjiang|Chinanet|
+|16|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|17|72.10.160.170|10597|Canada|Montreal|GloboTech Communications|
+|18|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|19|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|20|117.80.188.2|8089|China|Nanjing|China Telecom|
 
 
 
