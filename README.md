@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|103.156.16.227|8080|Indonesia|Jatibarang|RSTNET|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|67.43.236.18|31737|Canada|Montreal|GloboTech Communications|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|121.232.178.25|8089|China|Nanjing|Chinanet|
-|10|72.10.160.170|16985|Canada|Montreal|GloboTech Communications|
-|11|27.189.129.105|8089|China|Langfang|Chinanet|
-|12|72.10.160.170|16985|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|5123|Canada|Montreal|GloboTech Communications|
-|14|222.68.38.112|2324|China|Shanghai|China Telecom (Group)|
-|15|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
-|16|67.43.236.19|31787|Canada|Montreal|GloboTech Communications|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|67.43.236.18|31737|Canada|Montreal|GloboTech Communications|
-|19|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
-|20|121.227.183.178|8089|China|Nanjing|China Telecom|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.170.156.244|8080|Brazil|Ibicuitinga|BEZERRA E OLIVEIRA COMÉRCIO DE EQUIP DE INF LTDA|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|222.68.38.112|2324|China|Shanghai|China Telecom (Group)|
+|13|181.115.65.194|999|Honduras|Tegucigalpa|Telgua|
+|14|103.135.24.6|8080|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|15|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|16|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
+|17|27.189.134.88|8089|China|Langfang|Chinanet|
+|18|67.43.236.19|31787|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|5123|Canada|Montreal|GloboTech Communications|
+|20|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
 
 
 
