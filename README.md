@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|103.127.220.250|2024|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|4|45.169.84.21|8080|Brazil|Itaguaí|7 Lan Comercio e Servicos Ltda|
-|5|67.43.236.18|12225|Canada|Montreal|GloboTech Communications|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|67.43.227.226|3641|Canada|Montreal|GloboTech Communications|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|14.39.239.79|50095|South Korea|Eunpyeong-gu|Korea Telecom|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|194.150.69.56|8888|Iran|Isfahan|Gostaresh Ertebat Azin Kia Company PJSC|
+|8|188.132.150.78|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 |9|14.39.239.79|50095|South Korea|Eunpyeong-gu|Korea Telecom|
-|10|121.227.109.59|8089|China|Nanjing|China Telecom|
-|11|27.189.135.247|8089|China|Langfang|Chinanet|
-|12|49.84.175.86|8089|China|Nanjing|China Telecom|
-|13|121.232.178.132|8089|China|Nanjing|Chinanet|
-|14|27.189.134.98|8089|China|Langfang|Chinanet|
-|15|72.10.164.178|29171|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|24731|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|29171|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|27263|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|16507|Canada|Montreal|GloboTech Communications|
-|20|27.189.132.42|8089|China|Langfang|Chinanet|
+|10|67.43.227.226|12431|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.18|12225|Canada|Montreal|GloboTech Communications|
+|12|81.90.149.186|3128|Iran|Tehran|Afranet|
+|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|67.43.228.250|27263|Canada|Montreal|GloboTech Communications|
+|17|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|18|72.10.160.90|24265|Canada|Montreal|GloboTech Communications|
+|19|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|20|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
 
 
 
