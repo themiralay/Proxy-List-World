@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|154.193.40.173|808|South Korea|Seoul|Octopus Web Solution Inc|
-|11|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
-|12|103.172.71.222|8081|Indonesia|Karawang|AZNET|
-|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|14|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
-|15|65.1.244.232|80|India|Mumbai|Amazon.com|
-|16|41.59.227.49|3128|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
-|17|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|65.1.244.232|80|India|Mumbai|Amazon.com|
+|7|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|103.99.27.190|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
+|16|67.43.228.250|6961|Canada|Montreal|GloboTech Communications|
+|17|103.180.119.105|8090|Indonesia|Raci Kulon|PT Persada Data Multimedia|
+|18|121.232.178.6|8089|China|Nanjing|Chinanet|
+|19|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|20|38.188.225.233|8080|Colombia|Barranquilla|Intercaribe TV S.A.S.|
 
 
 
