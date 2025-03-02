@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
-|2|103.153.247.50|3125|Indonesia|Jakarta|PRIMAHOME|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|125.25.32.206|8080|Thailand|Mae Taeng|TOT Public Company Limited|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|67.43.228.251|32585|Canada|Montreal|GloboTech Communications|
+|9|47.245.14.41|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|72.10.164.178|7623|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |12|67.43.228.253|3767|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|30231|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7623|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|32585|Canada|Montreal|GloboTech Communications|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|67.43.227.227|25837|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|72.10.160.91|30231|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|20577|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
 |20|67.43.228.250|17859|Canada|Montreal|GloboTech Communications|
 
 
