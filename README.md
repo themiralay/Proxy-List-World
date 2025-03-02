@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.210.89.215|3128|South Korea|Seongnam-si|NHNCLOUD|
-|2|115.72.41.247|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|103.245.36.15|8080|Indonesia|Kenali Asam|PT Mitra Bestari Prima Solusi|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|67.43.236.21|16233|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|32181|Canada|Montreal|GloboTech Communications|
-|11|180.125.186.155|1080|China|Nanjing|Chinanet|
-|12|27.189.134.231|8089|China|Langfang|Chinanet|
-|13|103.120.76.94|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|14|103.105.57.64|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
-|15|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|16|67.43.236.21|16233|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9055|Canada|Montreal|GloboTech Communications|
-|18|154.193.37.243|808|South Korea|Seoul|Octopus Web Solution Inc|
-|19|190.52.97.21|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|67.43.228.251|1043|Canada|Montreal|GloboTech Communications|
+|1|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|209.14.85.38|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|7|38.224.97.12|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|186.209.29.184|8888|Brazil|Criciúma|UNIFIQUE TELECOMUNICACOES S/A|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|12|185.35.130.147|58904|Russia|Moscow|Plazmatelekom LLC|
+|13|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|180.112.180.83|8089|China|Nanjing|Chinanet|
+|17|67.43.236.21|28535|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|3237|Canada|Montreal|GloboTech Communications|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
 
 
 
