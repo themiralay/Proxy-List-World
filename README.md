@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|4|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|67.43.227.226|24223|Canada|Montreal|GloboTech Communications|
-|9|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
-|10|67.43.227.227|19805|Canada|Montreal|GloboTech Communications|
-|11|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
-|12|72.10.160.94|25699|Canada|Montreal|GloboTech Communications|
-|13|27.189.130.136|8089|China|Langfang|Chinanet|
-|14|182.105.82.38|655|China|Taohua|Chinanet|
-|15|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|16|27.189.135.117|8089|China|Langfang|Chinanet|
-|17|27.189.135.180|8089|China|Langfang|Chinanet|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|72.10.164.178|27763|Canada|Montreal|GloboTech Communications|
-|20|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|8|67.43.227.226|29881|Canada|Montreal|GloboTech Communications|
+|9|140.227.123.54|3128|Japan|Tokyo|InfoSphere|
+|10|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|11|72.10.164.178|4283|Canada|Montreal|GloboTech Communications|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|15|118.113.244.15|2324|China|Shanghai|Chinanet|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|67.43.227.227|3729|Canada|Montreal|GloboTech Communications|
+|18|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|19|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|20|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
