@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
 |2|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|6|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|72.10.160.91|7383|Canada|Montreal|GloboTech Communications|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|67.43.227.226|7923|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.229|24421|Canada|Montreal|GloboTech Communications|
-|15|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|16|121.227.146.67|8089|China|Nanjing|China Telecom|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|27.189.135.64|8089|China|Langfang|Chinanet|
-|19|182.105.82.38|655|China|Taohua|Chinanet|
-|20|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|38.156.75.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|102.209.148.2|8080|Ghana|Abesim|Sunyani Technical University|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|181.115.66.234|999|Honduras|Tegucigalpa|Telgua|
+|19|103.172.197.223|8089|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
+|20|103.168.254.33|8080|Indonesia|Kudus|PT Fahasa Tri Data|
 
 
 
