@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
 |2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|3|103.156.86.130|8080|Indonesia|Palopo|PT Chacha Networking System|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|49.73.4.77|8089|China|Nanjing|China Telecom|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|102.135.137.240|12354|South Africa|Pretoria|Session Telecoms|
-|9|72.10.160.170|12067|Canada|Montreal|GloboTech Communications|
-|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|27.189.135.207|8089|China|Langfang|Chinanet|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|103.175.202.182|8090|Indonesia|Batulicin|PT Ameera Mega Buana|
-|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|67.43.228.250|3579|Canada|Montreal|GloboTech Communications|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|27.189.135.115|8089|China|Langfang|Chinanet|
+|3|171.7.23.252|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|49.73.4.77|8089|China|Nanjing|China Telecom|
+|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|103.212.211.69|8080|Indonesia|Sumber|Pemerintah Kabupaten Cirebon|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|113.11.183.112|8080|Indonesia|Bandung|BIZNET|
+|12|113.53.181.11|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|103.220.23.113|2080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|17|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|19|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|20|128.199.253.195|9090|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
