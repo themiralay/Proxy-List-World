@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|49.48.103.194|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|103.118.152.12|8080|Bangladesh|Mātuail|NEXTGENONLINE|
-|10|115.178.49.132|8080|Indonesia|Bandung|NOC SIMAYA|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|27.189.130.121|8089|China|Langfang|Chinanet|
-|15|72.10.160.170|21575|Canada|Montreal|GloboTech Communications|
-|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|121.232.181.160|8089|China|Nanjing|Chinanet|
-|19|67.43.228.251|5459|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.156|8089|China|Langfang|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|103.18.77.67|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|62.171.147.223|8000|France|Lauterbourg|Contabo GmbH|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.91.149.140|8080|Indonesia|Ciputat|PT. Yasmin Amanah Media|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|157.66.51.33|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|17|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
 
 
 
