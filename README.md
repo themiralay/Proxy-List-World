@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|3|103.172.249.234|3128|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|4|27.189.129.216|8089|China|Langfang|Chinanet|
-|5|27.189.134.240|8089|China|Langfang|Chinanet|
-|6|27.189.130.3|8089|China|Langfang|Chinanet|
-|7|103.171.255.246|8080|Indonesia|Sleman|ZKI|
-|8|67.43.236.19|24103|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.19|24103|Canada|Montreal|GloboTech Communications|
-|10|121.227.118.133|8089|China|Nanjing|China Telecom|
-|11|113.23.40.80|10015|Vietnam|Hanoi|FPT Telecom Company|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|14|67.43.236.20|19323|Canada|Montreal|GloboTech Communications|
-|15|27.189.131.178|8089|China|Langfang|Chinanet|
-|16|58.209.32.87|8089|China|Nanjing|China Telecom|
-|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|18|121.224.156.135|8089|China|Nanjing|China Telecom|
-|19|125.87.94.65|2324|China|Chongqing|China Telecom|
-|20|218.1.197.99|2324|China|Shanghai|China Telecom (Group)|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|67.43.236.20|19323|Canada|Montreal|GloboTech Communications|
+|4|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|7|113.23.40.80|10015|Vietnam|Hanoi|FPT Telecom Company|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.160.172|15663|Canada|Montreal|GloboTech Communications|
+|13|218.1.197.99|2324|China|Shanghai|China Telecom (Group)|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|103.137.179.180|8080|Philippines|Yapak|Paradise Cable Television Network|
+|16|67.43.236.18|19323|Canada|Montreal|GloboTech Communications|
+|17|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|19|67.43.228.250|1809|Canada|Montreal|GloboTech Communications|
+|20|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
