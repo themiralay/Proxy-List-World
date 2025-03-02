@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|27.189.133.89|8089|China|Langfang|Chinanet|
-|9|27.189.133.89|8089|China|Langfang|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|103.189.197.127|8080|Indonesia|Serang|PT Graha Sumber Teknologi|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|67.43.228.251|3103|Canada|Montreal|GloboTech Communications|
-|12|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|13|27.189.129.177|8089|China|Langfang|Chinanet|
-|14|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|15|67.43.228.250|7367|Canada|Montreal|GloboTech Communications|
-|16|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|17|181.129.158.134|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|18|190.61.61.66|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|19|49.84.134.63|8089|China|Nanjing|China Telecom|
-|20|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
+|13|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|14|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|15|38.7.1.248|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|16|103.36.11.183|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|17|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|19|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
+|20|103.18.77.67|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
 
 
 
