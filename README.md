@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.178.24|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|72.10.160.170|12487|Canada|Montreal|GloboTech Communications|
-|4|27.189.130.94|8089|China|Langfang|Chinanet|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|67.43.228.254|23697|Canada|Montreal|GloboTech Communications|
-|7|49.84.175.86|8089|China|Nanjing|China Telecom|
-|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|9|128.92.239.190|8080|United States|Los Angeles|Spectrum|
-|10|103.148.44.99|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|11|67.43.227.226|2337|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|10773|Canada|Montreal|GloboTech Communications|
-|13|27.189.133.88|8089|China|Langfang|Chinanet|
-|14|121.224.156.141|8089|China|Nanjing|China Telecom|
-|15|72.10.160.172|31419|Canada|Montreal|GloboTech Communications|
-|16|27.189.130.216|8089|China|Langfang|Chinanet|
-|17|125.87.86.251|2324|China|Shanghai|China Telecom|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.236.19|10773|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|2|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|67.43.236.19|24499|Canada|Montreal|GloboTech Communications|
+|5|115.127.139.106|48134|Bangladesh|Dhaka|BRACNet Limited|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|188.168.24.38|81|Russia|Irkutsk|TTK-Retail|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|67.43.236.19|24499|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|13281|Canada|Montreal|GloboTech Communications|
+|12|45.236.107.159|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|27.66.119.21|4033|Vietnam|Hanoi|Viettel Group|
+|14|72.10.160.90|8017|Canada|Montreal|GloboTech Communications|
+|15|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|16|67.43.227.228|2337|Canada|Montreal|GloboTech Communications|
+|17|85.15.21.102|8080|Iran|Tehran|SHATEL Network|
+|18|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|19|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|20|67.43.228.252|12435|Canada|Montreal|GloboTech Communications|
 
 
 
