@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.171.255.246|8080|Indonesia|Sleman|ZKI|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|104.248.96.206|6969|Singapore|Singapore|DigitalOcean, LLC|
-|7|72.10.160.92|17011|Canada|Montreal|GloboTech Communications|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|10|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|11|27.189.130.47|8089|China|Langfang|Chinanet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|27.189.128.108|8089|China|Langfang|Chinanet|
-|14|27.189.129.88|8089|China|Langfang|Chinanet|
-|15|27.189.128.40|8089|China|Langfang|Chinanet|
-|16|121.224.156.152|8089|China|Nanjing|China Telecom|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|19|72.10.160.91|19669|Canada|Montreal|GloboTech Communications|
-|20|27.189.130.243|8089|China|Langfang|Chinanet|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|7|103.247.21.236|8080|Indonesia|Bekasi|PT wifian Solution|
+|8|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
+|9|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|10|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|11|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|13|49.48.103.194|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|38.253.95.62|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
