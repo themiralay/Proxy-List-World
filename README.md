@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|2|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|6|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
-|7|121.224.156.139|8089|China|Nanjing|China Telecom|
-|8|72.10.160.171|20373|Canada|Montreal|GloboTech Communications|
-|9|121.227.183.178|8089|China|Nanjing|China Telecom|
-|10|117.81.238.102|8089|China|Nanjing|China Telecom|
-|11|49.84.175.67|8089|China|Nanjing|China Telecom|
-|12|58.209.137.157|8089|China|Nanjing|China Telecom|
-|13|121.232.181.186|8089|China|Nanjing|Chinanet|
-|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
-|16|222.119.167.76|3049|South Korea|Jinju|Korea Telecom|
-|17|121.224.156.165|8089|China|Nanjing|China Telecom|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|203.138.145.63|3128|Japan|Tokyo|SIMPLEIA|
+|9|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|154.79.244.62|58792|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|12|111.75.190.5|655|China|Taohua|Chinanet|
+|13|185.154.194.174|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|14|118.113.247.73|2324|China|Shanghai|Chinanet|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|45.5.119.222|999|Guatemala|Guatemala City|Infinitum S.A.|
+|17|67.43.228.250|4595|Canada|Montreal|GloboTech Communications|
 |18|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|19|67.43.227.226|6237|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|20373|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|20373|Canada|Montreal|GloboTech Communications|
+|20|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
 
 
 
