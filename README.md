@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|9|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|10|43.252.107.103|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|11|67.43.236.19|16281|Canada|Montreal|GloboTech Communications|
-|12|103.118.124.137|6969|Indonesia|Jakarta|Tele|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|27.189.130.153|8089|China|Langfang|Chinanet|
-|15|27.189.128.114|8089|China|Langfang|Chinanet|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|110.188.37.19|2324|China|Muping|Chinanet|
-|20|27.189.129.62|8089|China|Langfang|Chinanet|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|27.79.231.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
+|4|27.79.219.28|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.184.231|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|103.147.247.125|8080|Indonesia|Tangerang|PLBNET|
+|11|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|131.100.48.81|999|Colombia|Neiva|Fibernet TV SAS|
+|19|103.133.26.72|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
