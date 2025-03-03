@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|4|27.189.132.17|8089|China|Langfang|Chinanet|
-|5|146.56.52.57|20401|India|Mumbai|Oracle Corporation|
-|6|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|72.10.160.91|30419|Canada|Montreal|GloboTech Communications|
-|9|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
-|10|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|67.43.227.226|29067|Canada|Montreal|GloboTech Communications|
-|12|103.181.255.237|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|13|72.10.164.178|13509|Canada|Montreal|GloboTech Communications|
-|14|177.234.209.81|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|16|27.189.131.109|8089|China|Langfang|Chinanet|
-|17|218.1.197.47|2324|China|Shanghai|China Telecom (Group)|
-|18|72.10.160.170|2847|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|29067|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.72|8089|China|Langfang|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|112.201.182.35|8080|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|4|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|9|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
+|10|72.10.160.91|5491|Canada|Montreal|GloboTech Communications|
+|11|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|12|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|103.153.149.204|8035|Indonesia|Semarang|JARINGANKU|
+|15|45.174.205.119|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|16|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|17|191.81.205.224|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|18|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|19|67.43.236.19|25233|Canada|Montreal|GloboTech Communications|
+|20|209.126.15.81|3128|United States|St Louis|Nubes, LLC|
 
 
 
