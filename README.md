@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|3|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|118.113.246.157|2324|China|Shanghai|Chinanet|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|72.10.160.90|32239|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|9233|Canada|Montreal|GloboTech Communications|
-|10|27.189.128.217|8089|China|Langfang|Chinanet|
-|11|67.43.236.18|22945|Canada|Montreal|GloboTech Communications|
-|12|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|27.64.119.197|4004|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|72.10.160.90|32239|Canada|Montreal|GloboTech Communications|
-|16|27.189.128.245|8089|China|Langfang|Chinanet|
-|17|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|18|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|19|67.43.228.251|32031|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10125|Canada|Montreal|GloboTech Communications|
+|1|110.77.171.100|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|154.193.40.173|808|South Korea|Seoul|Octopus Web Solution Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|49.70.190.239|2324|China|Zhenjiang|Chinanet|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|12|41.111.242.73|80|Algeria|Ouled Moussa|Algerie Telecom|
+|13|190.2.213.169|999|Colombia|Vetas|TV AZTECA SUCURSAL COLOMBIA|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|67.43.228.251|32031|Canada|Montreal|GloboTech Communications|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|72.10.164.178|10125|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|14.39.239.241|63425|South Korea|Eunpyeong-gu|Korea Telecom|
+|20|72.10.160.90|32239|Canada|Montreal|GloboTech Communications|
 
 
 
