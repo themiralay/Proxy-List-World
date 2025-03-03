@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|45.252.183.252|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|6|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|7|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|8|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
-|9|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|12|67.43.227.226|24261|Canada|Montreal|GloboTech Communications|
-|13|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|14|38.183.146.83|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|27.189.130.188|8089|China|Langfang|Chinanet|
-|19|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|20|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|4|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|177.234.209.87|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|8|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|204.199.139.200|999|Chile|Santiago|Ingbell Chile SPA|
+|11|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|12|72.10.160.170|4535|Canada|Montreal|GloboTech Communications|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|18|67.43.227.226|26461|Canada|Montreal|GloboTech Communications|
+|19|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
