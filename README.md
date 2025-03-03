@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|67.43.227.229|18377|Canada|Montreal|GloboTech Communications|
-|6|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|58.209.137.150|8089|China|Nanjing|China Telecom|
-|11|67.43.236.21|25305|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|25157|Canada|Montreal|GloboTech Communications|
-|13|27.189.131.49|8089|China|Langfang|Chinanet|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|67.43.227.226|4429|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|6987|Canada|Montreal|GloboTech Communications|
-|17|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|18|67.43.236.18|25157|Canada|Montreal|GloboTech Communications|
-|19|113.23.40.80|10015|Vietnam|Hanoi|FPT Telecom Company|
-|20|67.43.227.227|27259|Canada|Montreal|GloboTech Communications|
+|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|3|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|67.43.236.21|25305|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.226|4429|Canada|Montreal|GloboTech Communications|
+|8|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|72.10.160.170|6987|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.173|30255|Canada|Montreal|GloboTech Communications|
+|11|38.159.223.18|999|Dominican Republic|Cristo Rey|REYNOSO, S.R.L.|
+|12|113.23.40.80|10015|Vietnam|Hanoi|FPT Telecom Company|
+|13|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
+|14|103.167.31.154|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|15|72.10.160.92|15783|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|4273|Canada|Montreal|GloboTech Communications|
+|17|190.52.100.0|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
 
 
 
