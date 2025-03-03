@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4143** proxies at the latest update. Usable proxies are below.
+> Scraper found **4171** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|36|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|410|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|438|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|271|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2500|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.72.11.159|10015|Vietnam|Vũng Tàu|VIETELmetro|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|8|200.6.179.53|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.236.20|2389|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|72.10.160.171|5541|Canada|Montreal|GloboTech Communications|
-|13|177.234.217.44|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|15|67.43.227.226|28365|Canada|Montreal|GloboTech Communications|
-|16|201.77.98.131|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|17|67.43.236.18|16851|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25213|Canada|Montreal|GloboTech Communications|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.236.18|16851|Canada|Montreal|GloboTech Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|9|72.10.160.90|11831|Canada|Montreal|GloboTech Communications|
+|10|181.119.67.148|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|11|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|207.244.254.27|3262|United States|St Louis|Nubes, LLC|
+|14|38.52.212.113|999|Guatemala|Salcajá|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|15|178.205.101.67|3129|Russia|Naberezhnyye Chelny|Tattelecom|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|67.43.228.251|31343|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|72.10.160.171|6869|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.229|31587|Canada|Montreal|GloboTech Communications|
 
 
 
