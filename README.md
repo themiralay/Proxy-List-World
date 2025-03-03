@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.74.147|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|2|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|1|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|2|171.6.74.147|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |3|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|4|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|118.113.245.159|2324|China|Shanghai|Chinanet|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|72.10.160.93|2689|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|24297|Canada|Montreal|GloboTech Communications|
-|11|218.1.197.227|2324|China|Shanghai|China Telecom (Group)|
-|12|121.232.181.172|8089|China|Nanjing|Chinanet|
-|13|103.80.110.190|80|Bhutan|Thimphu|Tshering NORBU t/a NANO|
-|14|27.79.173.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|118.113.246.211|2324|China|Shanghai|Chinanet|
-|16|118.113.244.66|2324|China|Shanghai|Chinanet|
-|17|27.189.129.230|8089|China|Langfang|Chinanet|
-|18|204.216.152.229|3128|Brazil|Vinhedo|Oracle Corporation|
-|19|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|4|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|27.79.236.143|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
+|14|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|17|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|18|72.10.160.93|2689|Canada|Montreal|GloboTech Communications|
+|19|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
