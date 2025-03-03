@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|27.79.184.231|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|27.79.179.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|10|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|11|72.10.160.90|16875|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|4873|Canada|Montreal|GloboTech Communications|
-|13|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
-|14|49.70.190.70|2324|China|Zhenjiang|Chinanet|
-|15|49.70.190.206|2324|China|Zhenjiang|Chinanet|
-|16|27.189.133.98|8089|China|Langfang|Chinanet|
-|17|121.227.183.149|8089|China|Nanjing|China Telecom|
-|18|67.43.228.250|10453|Canada|Montreal|GloboTech Communications|
-|19|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|20|67.43.236.19|19747|Canada|Montreal|GloboTech Communications|
+|1|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|3|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|103.44.12.22|8080|India|Vijayawada|SDN TELECOM PVT LTD|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|9|38.156.238.121|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|193.181.35.253|8118|Sweden|Stockholm|PVDataNet AB|
+|13|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|14|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|15|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|49.70.190.206|2324|China|Zhenjiang|Chinanet|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|148.233.136.213|80|Mexico|Santa María Chimalhuacán|Uninet S.A. de C.V.|
 
 
 
