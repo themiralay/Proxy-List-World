@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|2|222.96.176.71|3128|South Korea|Jinju|Korea Telecom|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
 |3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|107.172.96.11|24283|United States|Santa Clara|HostPapa|
 |5|176.88.175.201|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|6|207.244.254.27|3189|United States|St Louis|Nubes, LLC|
-|7|179.125.125.243|3128|Brazil|Floriano|Virtex Telecom|
-|8|67.43.228.250|12993|Canada|Montreal|GloboTech Communications|
-|9|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|118.113.247.245|2324|China|Shanghai|Chinanet|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|121.232.181.168|8089|China|Nanjing|Chinanet|
-|14|72.10.164.178|21403|Canada|Montreal|GloboTech Communications|
-|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.90|25391|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21403|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|18907|Canada|Montreal|GloboTech Communications|
-|19|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|20|67.43.228.250|12993|Canada|Montreal|GloboTech Communications|
+|6|103.220.23.55|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|9|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|10|72.10.160.171|28233|Canada|Montreal|GloboTech Communications|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|49.146.177.91|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|14|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|15|67.43.228.251|23407|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|13193|Canada|Montreal|GloboTech Communications|
+|17|125.87.86.134|2324|China|Shanghai|China Telecom|
+|18|72.10.160.91|30419|Canada|Montreal|GloboTech Communications|
+|19|190.2.214.137|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
