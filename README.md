@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|27.79.179.95|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|115.87.213.177|8080|Thailand|Bangkok|TRUEBB|
-|3|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
-|7|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|8|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|9|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|10|103.217.219.51|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|11|207.248.0.177|999|Chile|Requínoa|Grupo Metrowan Telecom SPA|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
-|14|196.29.192.226|8080|Angola|Luanda|MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L|
-|15|103.161.130.154|8080|Indonesia|Kresek|PT Jaringan Internet Nusantara|
-|16|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|17|110.188.37.186|2324|China|Muping|Chinanet|
-|18|72.10.160.174|19505|Canada|Montreal|GloboTech Communications|
-|19|27.189.133.222|8089|China|Langfang|Chinanet|
-|20|27.189.133.81|8089|China|Langfang|Chinanet|
+|3|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
+|6|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|9|103.171.83.199|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|103.11.193.67|8080|Mongolia|Ulan Bator|MCS-Univision|
+|15|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|16|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
 
 
 
