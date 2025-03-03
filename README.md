@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4209** proxies at the latest update. Usable proxies are below.
+> Scraper found **4215** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|61|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|477|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2462|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|2|171.6.74.147|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|4|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|27.79.236.143|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
-|14|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|18|72.10.160.93|2689|Canada|Montreal|GloboTech Communications|
-|19|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|3|171.6.74.147|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|5|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|6|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|7|27.79.234.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|45.173.8.13|999|Colombia|Cúcuta|TV AZTECA SUCURSAL COLOMBIA|
+|14|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|49.70.190.211|2324|China|Zhenjiang|Chinanet|
+|16|27.79.231.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|188.240.123.155|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|18|67.43.228.253|10235|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|18385|Canada|Montreal|GloboTech Communications|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
