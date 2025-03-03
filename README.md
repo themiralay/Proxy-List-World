@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|40|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|40|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|40|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|3|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|103.76.108.56|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|5|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|6|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|106.225.164.39|655|China|Beijing|China Telecom|
-|8|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|10|27.189.133.95|8089|China|Langfang|Chinanet|
-|11|27.189.132.82|8089|China|Langfang|Chinanet|
-|12|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|117.44.64.85|655|China|Taohua|Chinanet|
-|14|67.43.228.250|26507|Canada|Montreal|GloboTech Communications|
-|15|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.236.18|24323|Canada|Montreal|GloboTech Communications|
-|17|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
-|18|111.72.130.28|2324|China|Taohua|Chinanet|
-|19|218.1.197.43|2324|China|Shanghai|China Telecom (Group)|
-|20|111.75.190.5|655|China|Taohua|Chinanet|
+|1|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|41.57.136.235|6060|South Africa|Centurion|SCR PTA C|
+|5|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|6|45.171.111.255|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|7|72.10.160.170|27045|Canada|Montreal|GloboTech Communications|
+|8|103.80.98.46|8080|Indonesia|Tumpang|Advertise via PT Menaksopal|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|45.224.96.249|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
+|14|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|59.39.63.54|6399|China|Guangzhou|Chinanet|
 
 
 
