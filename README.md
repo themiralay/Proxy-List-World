@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.74.147|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|3|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|171.6.74.147|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|49.156.23.217|8077|Indonesia|Jakarta|PALAPANET|
 |5|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|6|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|7|103.135.24.6|8080|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
-|8|27.79.236.143|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.254.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|12|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
-|13|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|16|27.79.234.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|18|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|2.56.179.115|3128|United Kingdom|London|Stark Industries Solutions LTD|
+|6|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|7|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|27.189.129.244|8089|China|Langfang|Chinanet|
+|13|67.43.236.20|6727|Canada|Montreal|GloboTech Communications|
+|14|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|27.189.130.128|8089|China|Langfang|Chinanet|
+|17|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|18|46.161.194.76|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
