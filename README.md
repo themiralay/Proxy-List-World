@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4336** proxies at the latest update. Usable proxies are below.
+> Scraper found **4348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|36|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|500|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|512|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|315|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2559|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|103.18.77.94|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|6|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|176.126.196.10|3128|Spain|Peñarroya-Pueblonuevo|Procono S.A.|
-|9|82.65.27.56|80|France|Paris|Proxad / Free SAS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|12|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|13|103.163.244.212|83|India|Panipat|Infolink System|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|8.243.28.56|999|Argentina|Córdoba|Agencia Conectividad Cordoba|
-|19|157.15.62.23|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|20|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|3|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|124.217.107.60|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|7|27.189.130.66|8089|China|Langfang|Chinanet|
+|8|49.146.204.232|8080|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.70.236.194|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|13|118.113.246.155|2324|China|Shanghai|Chinanet|
+|14|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|67.43.228.254|18245|Canada|Montreal|GloboTech Communications|
+|17|118.113.245.121|2324|China|Shanghai|Chinanet|
+|18|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
+|19|72.10.164.178|8365|Canada|Montreal|GloboTech Communications|
+|20|186.211.157.19|8080|Brazil|Campo Grande|BR.Digital Provider|
 
 
 
