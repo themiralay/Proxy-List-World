@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|190.60.46.147|999|Colombia|Santiago de Cali|IFX NETWORKS COLOMBIA|
+|1|119.160.13.4|3128|Pakistan|Islamabad|PMCL Transit|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|185.255.89.169|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|5|67.43.236.18|14691|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.253|1829|Canada|Montreal|GloboTech Communications|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|67.43.227.229|17821|Canada|Montreal|GloboTech Communications|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|14.170.173.177|10015|Vietnam|Bắc Giang|VNPT-VNNIC|
-|11|72.10.160.171|3955|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|3955|Canada|Montreal|GloboTech Communications|
-|13|49.70.190.200|2324|China|Zhenjiang|Chinanet|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|67.43.228.252|2217|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|17821|Canada|Montreal|GloboTech Communications|
-|17|114.229.32.4|2324|China|Nanjing|Chinanet|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.242.105.26|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|20|72.10.160.174|5047|Canada|Montreal|GloboTech Communications|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|12.146.127.33|9080|United States|Rayville|AT&T Services, Inc.|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|12|72.10.164.178|9001|Canada|Montreal|GloboTech Communications|
+|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|72.10.164.178|9001|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|9001|Canada|Montreal|GloboTech Communications|
+|17|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|20|119.160.13.29|3128|Pakistan|Islamabad|PMCL Transit|
 
 
 
