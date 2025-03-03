@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|119.95.230.179|8081|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|6|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|49.48.103.194|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|8|34.100.253.96|80|India|Mumbai|Google LLC|
-|9|67.43.227.229|25303|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.229|25303|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|30551|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|33235|Canada|Montreal|GloboTech Communications|
-|13|113.23.40.80|10015|Vietnam|Hanoi|FPT Telecom Company|
-|14|171.237.122.78|1012|Vietnam|Ninh Bình|Viettel Corporation|
-|15|59.39.63.54|6399|China|Guangzhou|Chinanet|
-|16|67.43.228.250|8861|Canada|Montreal|GloboTech Communications|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|67.43.228.250|8861|Canada|Montreal|GloboTech Communications|
-|20|118.113.245.200|2324|China|Shanghai|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|5|203.150.113.179|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|38.41.4.166|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|113.23.40.80|10015|Vietnam|Hanoi|FPT Telecom Company|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|154.193.40.220|808|South Korea|Seoul|Octopus Web Solution Inc|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|67.43.228.253|30551|Canada|Montreal|GloboTech Communications|
 
 
 
