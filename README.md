@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4375** proxies at the latest update. Usable proxies are below.
+> Scraper found **4366** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|56|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|488|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|57|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|478|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|301|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2604|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.53.78.123|8050|Indonesia|Surabaya|INTI|
 |4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|6|91.201.115.137|25217|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
-|8|67.43.228.250|17773|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.226|9123|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|10777|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|9123|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|4381|Canada|Montreal|GloboTech Communications|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|72.10.160.171|3207|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|9123|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|67.43.227.226|9123|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|2155|Canada|Montreal|GloboTech Communications|
-|20|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|38.172.130.221|999|Peru|Lima|Conex TV E.I.R.L.|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|27.189.131.5|8089|China|Langfang|Chinanet|
+|9|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|10|27.189.131.236|8089|China|Langfang|Chinanet|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|72.10.160.172|8621|Canada|Montreal|GloboTech Communications|
+|14|117.80.188.51|8089|China|Nanjing|China Telecom|
+|15|27.189.133.241|8089|China|Langfang|Chinanet|
+|16|72.10.164.178|5333|Canada|Montreal|GloboTech Communications|
+|17|121.232.181.160|8089|China|Nanjing|Chinanet|
+|18|27.189.135.59|8089|China|Langfang|Chinanet|
+|19|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
+|20|67.43.228.250|9547|Canada|Montreal|GloboTech Communications|
 
 
 
