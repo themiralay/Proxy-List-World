@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|117.80.188.16|8089|China|Nanjing|China Telecom|
-|8|103.11.193.67|8080|Mongolia|Ulan Bator|MCS-Univision|
-|9|20.243.184.137|3128|Japan|Tokyo|Microsoft Corporation|
-|10|72.10.160.92|19479|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|5.182.44.207|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|13|27.189.130.0|8089|China|Langfang|Chinanet|
-|14|27.79.196.57|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|188.166.144.212|8118|United Kingdom|Slough|DigitalOcean, LLC|
-|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|18|27.189.134.237|8089|China|Langfang|Chinanet|
-|19|58.209.137.188|8089|China|Nanjing|China Telecom|
-|20|67.43.236.18|11865|Canada|Montreal|GloboTech Communications|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|209.80.129.2|3128|United States|Morris Plains|HopOne Internet Corporation|
+|5|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|12|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|13|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|38.225.86.209|999|Peru|Arequipa|Cogent Communications|
+|17|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|118.113.247.38|2324|China|Shanghai|Chinanet|
+|19|117.44.64.85|655|China|Taohua|Chinanet|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
