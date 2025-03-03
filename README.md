@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|112.201.182.35|8080|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|3|14.170.173.177|10001|Vietnam|Bắc Giang|VNPT-VNNIC|
-|4|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|8|27.189.130.187|8089|China|Langfang|Chinanet|
-|9|180.191.20.5|8081|Philippines|Cabanatuan City|Globe Telecom|
-|10|27.189.131.128|8089|China|Langfang|Chinanet|
-|11|67.43.228.250|28661|Canada|Montreal|GloboTech Communications|
-|12|27.189.132.99|8089|China|Langfang|Chinanet|
-|13|27.189.134.56|8089|China|Langfang|Chinanet|
-|14|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
-|16|103.145.34.170|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|17|67.43.227.226|7491|Canada|Montreal|GloboTech Communications|
-|18|27.189.131.33|8089|China|Langfang|Chinanet|
-|19|72.10.164.178|8365|Canada|Montreal|GloboTech Communications|
-|20|27.189.132.192|8089|China|Langfang|Chinanet|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|9|113.11.183.11|8181|Indonesia|Bandung|BIZNET|
+|10|67.43.227.226|27735|Canada|Montreal|GloboTech Communications|
+|11|27.189.132.99|8089|China|Langfang|Chinanet|
+|12|103.99.27.190|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|103.154.77.227|89|Indonesia|Sleman|T2NET|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|72.10.160.170|28165|Canada|Montreal|GloboTech Communications|
+|17|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|19|72.10.164.178|22905|Canada|Montreal|GloboTech Communications|
+|20|38.7.16.81|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
