@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|103.155.198.42|1090|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|27.79.219.28|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|6|103.151.226.33|8080|Indonesia|Bandung|URBANACCESS|
+|7|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|185.4.229.132|8080|Finland|Helsinki|Datalahti Oy|
 |11|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|12|154.193.37.144|808|South Korea|Seoul|Octopus Web Solution Inc|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|72.10.160.90|1269|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|28803|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|1269|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.236.18|28713|Canada|Montreal|GloboTech Communications|
-|19|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|20|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|154.193.40.18|808|South Korea|Seoul|Octopus Web Solution Inc|
+|15|154.193.37.144|808|South Korea|Seoul|Octopus Web Solution Inc|
+|16|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|17|154.193.39.213|808|South Korea|Seoul|Octopus Web Solution Inc|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|27.79.219.28|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
