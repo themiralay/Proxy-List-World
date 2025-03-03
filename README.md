@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|2|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|5|67.43.236.18|5161|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.18|5161|Canada|Montreal|GloboTech Communications|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|27.189.129.201|8089|China|Langfang|Chinanet|
-|9|72.10.160.170|6615|Canada|Montreal|GloboTech Communications|
-|10|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|49.84.175.123|8089|China|Nanjing|China Telecom|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|103.148.44.99|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|5|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|6|8.209.210.171|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|7|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
+|10|72.10.160.174|21377|Canada|Montreal|GloboTech Communications|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|67.43.228.250|27961|Canada|Montreal|GloboTech Communications|
 |13|67.43.228.250|27961|Canada|Montreal|GloboTech Communications|
-|14|27.189.132.219|8089|China|Langfang|Chinanet|
-|15|67.43.227.229|9831|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|6615|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|21377|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|27961|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6615|Canada|Montreal|GloboTech Communications|
-|20|27.189.135.236|8089|China|Langfang|Chinanet|
+|14|67.43.236.18|5161|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|27961|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|27961|Canada|Montreal|GloboTech Communications|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|19|72.10.164.178|13721|Canada|Montreal|GloboTech Communications|
+|20|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
