@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|67.43.228.251|12699|Canada|Montreal|GloboTech Communications|
-|7|27.189.135.210|8089|China|Langfang|Chinanet|
-|8|67.43.228.253|15235|Canada|Montreal|GloboTech Communications|
-|9|27.189.133.217|8089|China|Langfang|Chinanet|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|118.113.246.12|2324|China|Shanghai|Chinanet|
-|13|49.84.175.119|8089|China|Nanjing|China Telecom|
-|14|121.224.170.230|8089|China|Nanjing|China Telecom|
-|15|72.10.164.178|31371|Canada|Montreal|GloboTech Communications|
-|16|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|17|27.189.128.41|8089|China|Langfang|Chinanet|
-|18|121.227.109.45|8089|China|Nanjing|China Telecom|
-|19|72.10.160.171|15113|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|10491|Canada|Montreal|GloboTech Communications|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|8|67.43.228.251|12699|Canada|Montreal|GloboTech Communications|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|219.135.102.83|8893|China|Guangzhou|Chinanet|
+|11|67.43.228.253|13079|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|5919|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|10491|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|67.43.228.251|12699|Canada|Montreal|GloboTech Communications|
+|16|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
+|17|72.10.160.170|5919|Canada|Montreal|GloboTech Communications|
+|18|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
