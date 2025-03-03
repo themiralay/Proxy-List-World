@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.184.231|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |6|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|7|118.113.246.233|2324|China|Shanghai|Chinanet|
-|8|27.189.135.237|8089|China|Langfang|Chinanet|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|49.84.175.101|8089|China|Nanjing|China Telecom|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|67.43.236.18|12785|Canada|Montreal|GloboTech Communications|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|67.43.228.253|20775|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|27065|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|12785|Canada|Montreal|GloboTech Communications|
-|17|218.1.197.183|2324|China|Shanghai|China Telecom (Group)|
-|18|72.10.160.170|6239|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|28875|Canada|Montreal|GloboTech Communications|
-|20|118.113.247.38|2324|China|Shanghai|Chinanet|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|10|218.1.197.183|2324|China|Shanghai|China Telecom (Group)|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|67.43.236.20|23221|Canada|Montreal|GloboTech Communications|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.236.18|25887|Canada|Montreal|GloboTech Communications|
+|16|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|72.10.160.170|6239|Canada|Montreal|GloboTech Communications|
+|18|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
