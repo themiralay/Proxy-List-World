@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
-|2|181.119.67.148|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|103.189.249.140|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|49.0.33.131|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |6|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|7|49.0.33.131|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|9|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
-|10|27.189.134.254|8089|China|Langfang|Chinanet|
-|11|67.43.228.250|28253|Canada|Montreal|GloboTech Communications|
-|12|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|72.10.160.90|4981|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|22853|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|22437|Canada|Montreal|GloboTech Communications|
-|16|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|17|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|18|27.189.132.10|8089|China|Langfang|Chinanet|
-|19|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|186.96.74.140|999|Venezuela|Caracas|Gold Data USA Inc|
+|7|181.119.67.148|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|8|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|9|67.43.228.251|1551|Canada|Montreal|GloboTech Communications|
+|10|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|67.43.228.250|28253|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|31347|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.94|12855|Canada|Montreal|GloboTech Communications|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|190.94.213.206|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|72.10.160.91|28843|Canada|Montreal|GloboTech Communications|
+|19|103.125.154.233|8080|India|Tirupur|Live Fibernet|
+|20|72.10.164.178|12143|Canada|Montreal|GloboTech Communications|
 
 
 
