@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|31.172.71.22|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|72.10.160.90|26443|Canada|Montreal|GloboTech Communications|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|97.79.251.186|80|United States|Dallas|Spectrum|
-|11|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
-|12|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|178.255.148.212|8118|Norway|Oslo|Blix Solutions|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|188.132.150.78|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|67.43.236.18|7163|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|21121|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|27659|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|119.160.13.4|3128|Pakistan|Islamabad|PMCL Transit|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|72.10.160.90|28443|Canada|Montreal|GloboTech Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|9|72.10.160.170|23459|Canada|Montreal|GloboTech Communications|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|117.44.64.85|655|China|Taohua|Chinanet|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.160.171|24733|Canada|Montreal|GloboTech Communications|
+|17|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|18|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|19|67.43.228.252|16763|Canada|Montreal|GloboTech Communications|
+|20|103.172.71.222|8081|Indonesia|Karawang|AZNET|
 
 
 
