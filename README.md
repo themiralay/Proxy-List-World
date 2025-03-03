@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|67.43.227.226|2175|Canada|Montreal|GloboTech Communications|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|8|27.189.131.103|8089|China|Langfang|Chinanet|
-|9|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|121.227.111.140|8089|China|Nanjing|China Telecom|
-|12|121.227.118.154|8089|China|Nanjing|China Telecom|
-|13|67.43.228.251|1959|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|9325|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|16769|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|17319|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|15303|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|32037|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|30139|Canada|Montreal|GloboTech Communications|
-|20|121.227.109.47|8089|China|Nanjing|China Telecom|
+|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|6|59.39.63.54|6399|China|Guangzhou|Chinanet|
+|7|72.10.160.93|5097|Canada|Montreal|GloboTech Communications|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|67.43.227.226|2175|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|16769|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.172|22181|Canada|Montreal|GloboTech Communications|
+|12|222.68.41.152|2324|China|Shanghai|China Telecom (Group)|
+|13|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
+|14|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|103.112.144.29|8118|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|16|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|17|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|154.90.48.10|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|19|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|20|67.43.227.226|2175|Canada|Montreal|GloboTech Communications|
 
 
 
