@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|67.43.236.18|27829|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.230|22201|Canada|Montreal|GloboTech Communications|
-|8|27.189.131.69|8089|China|Langfang|Chinanet|
-|9|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.236.19|9261|Canada|Montreal|GloboTech Communications|
-|12|27.189.131.48|8089|China|Langfang|Chinanet|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|72.10.160.91|26713|Canada|Montreal|GloboTech Communications|
-|15|27.189.128.208|8089|China|Langfang|Chinanet|
-|16|118.113.244.54|2324|China|Shanghai|Chinanet|
-|17|67.43.228.250|29419|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|26713|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|26713|Canada|Montreal|GloboTech Communications|
-|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|67.43.227.227|7347|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.18|17263|Canada|Montreal|GloboTech Communications|
+|9|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|10|67.43.236.20|3113|Canada|Montreal|GloboTech Communications|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|67.43.228.251|13751|Canada|Montreal|GloboTech Communications|
+|13|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|14|222.215.137.18|3218|China|Deyang|Chinanet|
+|15|38.51.243.81|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|16|121.237.165.92|1080|China|Nanjing|Chinanet|
+|17|72.10.164.178|8797|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
