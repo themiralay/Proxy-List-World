@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4093** proxies at the latest update. Usable proxies are below.
+> Scraper found **4108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|404|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|419|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|274|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2427|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|8|38.43.150.76|999|Peru|Lima|Nextnet SAC|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|13|186.211.157.19|8080|Brazil|Campo Grande|BR.Digital Provider|
-|14|82.213.29.203|19000|Palestine|Ramallah|Corporate -PALTEL|
-|15|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
-|16|67.43.236.22|25627|Canada|Montreal|GloboTech Communications|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|223.205.94.214|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
-|19|72.10.164.178|25219|Canada|Montreal|GloboTech Communications|
-|20|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|1|27.76.110.88|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|72.10.164.178|10077|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.251|27333|Canada|Montreal|GloboTech Communications|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|15|27.189.130.96|8089|China|Langfang|Chinanet|
+|16|49.49.63.231|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|17|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|18|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|19|45.235.252.41|999|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
