@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|7|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|9|111.72.128.225|2324|China|Taohua|Chinanet|
-|10|27.189.130.155|8089|China|Langfang|Chinanet|
-|11|27.189.134.97|8089|China|Langfang|Chinanet|
-|12|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
-|13|222.68.42.88|1080|China|Shanghai|China Telecom (Group)|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|27.79.249.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.246.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
-|18|146.120.174.235|8080|Ukraine|Ivano-Frankivsk|Gargat Igor Vasilevich|
-|19|27.189.133.15|8089|China|Langfang|Chinanet|
-|20|27.189.128.30|8089|China|Langfang|Chinanet|
+|1|27.79.197.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|27.79.246.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.194.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.238.59|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|12|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
+|13|115.72.15.10|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|14|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|15|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|16|49.70.190.242|2324|China|Zhenjiang|Chinanet|
+|17|61.7.191.52|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
