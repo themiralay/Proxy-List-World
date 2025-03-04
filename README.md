@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|2|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.184.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|165.16.30.1|2022|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|11|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|12|58.209.137.187|8089|China|Nanjing|China Telecom|
-|13|58.209.137.175|8089|China|Nanjing|China Telecom|
-|14|58.209.137.181|8089|China|Nanjing|China Telecom|
-|15|72.10.160.90|20763|Canada|Montreal|GloboTech Communications|
-|16|121.232.181.4|8089|China|Nanjing|Chinanet|
-|17|49.84.175.123|8089|China|Nanjing|China Telecom|
-|18|180.97.220.151|11080|China|Nanjing|Chinanet|
-|19|67.43.227.227|10789|Canada|Montreal|GloboTech Communications|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|27.76.110.88|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|72.10.160.93|14957|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|24221|Canada|Montreal|GloboTech Communications|
+|9|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|10|72.10.160.94|20699|Canada|Montreal|GloboTech Communications|
+|11|82.213.29.203|18000|Palestine|Ramallah|Corporate -PALTEL|
+|12|62.40.157.231|32650|Austria|Hinterbrühl|Kabelsignal AG|
+|13|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|15|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|16|49.233.156.20|80|China|Beijing|Shenzhen Tencent Computer Systems Company Limited|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|19|42.123.100.91|3128|China|Beijing|Cloud Computing Corporation|
+|20|72.10.160.171|13045|Canada|Montreal|GloboTech Communications|
 
 
 
