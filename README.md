@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|27.79.191.58|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|37.46.19.71|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|12|186.148.181.65|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|115.127.81.142|58080|Bangladesh|Dhaka|BRACNet Limited|
-|14|37.46.19.71|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|27.189.129.178|8089|China|Langfang|Chinanet|
+|1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|158.140.170.211|8080|Indonesia|Surabaya|MYREPUBLIC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|72.10.160.172|13595|Canada|Montreal|GloboTech Communications|
+|15|125.87.82.13|2324|China|Chongqing|China Telecom|
+|16|72.10.160.172|13595|Canada|Montreal|GloboTech Communications|
+|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|67.43.227.227|27309|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|13465|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
