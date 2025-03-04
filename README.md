@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|2|65.1.40.47|80|India|Mumbai|Amazon.com|
-|3|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|27.189.135.192|8089|China|Langfang|Chinanet|
-|9|72.10.160.90|27767|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.251|9371|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|29653|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|12133|Canada|Montreal|GloboTech Communications|
-|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|14|72.10.160.91|24003|Canada|Montreal|GloboTech Communications|
-|15|27.189.132.35|8089|China|Langfang|Chinanet|
-|16|72.10.160.90|27767|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5353|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.229|24087|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|29653|Canada|Montreal|GloboTech Communications|
-|20|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
+|1|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.173.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.173.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|7|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|65.1.40.47|80|India|Mumbai|Amazon.com|
+|12|27.79.220.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|15|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|19|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
