@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.184.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.76.109.142|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|7|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|8|72.10.160.171|16379|Canada|Montreal|GloboTech Communications|
+|1|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|7|165.22.245.215|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|72.10.160.90|31577|Canada|Montreal|GloboTech Communications|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|113.160.214.209|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|72.10.160.170|30279|Canada|Montreal|GloboTech Communications|
-|17|49.84.175.91|8089|China|Nanjing|China Telecom|
-|18|67.43.228.250|20885|Canada|Montreal|GloboTech Communications|
-|19|103.46.11.190|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|20|72.10.160.90|31577|Canada|Montreal|GloboTech Communications|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|13|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
+|14|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
+|16|2.60.120.138|8080|Russia|Irkutsk|JSC Rostelecom regional branch "Siberia"|
+|17|181.78.23.162|8080|Colombia|Baranoa|IFX Networks Argentina S.R.L|
+|18|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
