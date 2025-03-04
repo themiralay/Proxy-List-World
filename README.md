@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|103.28.16.36|8080|Indonesia|Jakarta|PT Centrix Media Teknologi|
-|6|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|5.161.67.80|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|27.189.129.20|8089|China|Langfang|Chinanet|
-|10|121.224.156.174|8089|China|Nanjing|China Telecom|
-|11|121.224.156.188|8089|China|Nanjing|China Telecom|
-|12|27.79.153.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|72.10.160.170|26121|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
+|8|27.79.238.4|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|202.131.159.222|80|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|11|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|192.81.129.252|3132|United States|Fremont|Akamai Technologies, Inc.|
+|14|27.76.110.66|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 |16|72.10.164.178|24975|Canada|Montreal|GloboTech Communications|
-|17|27.189.131.222|8089|China|Langfang|Chinanet|
-|18|67.43.236.18|9287|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|27.189.134.230|8089|China|Langfang|Chinanet|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|103.67.46.243|8080|Indonesia|Jakarta|PT JARINGANKU SARANA NUSANTARA|
+|19|103.227.187.201|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|20|67.43.228.252|30195|Canada|Montreal|GloboTech Communications|
 
 
 
