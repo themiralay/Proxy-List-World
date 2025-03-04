@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|37|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|37|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|37|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|103.168.44.65|3127|Indonesia|Kuningan Barat|PT CYB Media Group|
-|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|27.79.184.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|27.79.254.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|27.79.190.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|60.188.49.53|1999|China|Taizhou|Chinanet|
-|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|16|27.189.131.68|8089|China|Langfang|Chinanet|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|19|27.189.130.215|8089|China|Langfang|Chinanet|
-|20|27.189.128.241|8089|China|Langfang|Chinanet|
+|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|2|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|5|60.188.49.53|1999|China|Taizhou|Chinanet|
+|6|49.70.190.242|2324|China|Zhenjiang|Chinanet|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|72.10.160.94|26509|Canada|Montreal|GloboTech Communications|
+|11|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|13|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|192.203.0.250|999|Puerto Rico|Fajardo|Boom NET|
+|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|17|43.138.211.50|3129|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
+|18|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|72.10.164.178|12229|Canada|Montreal|GloboTech Communications|
 
 
 
