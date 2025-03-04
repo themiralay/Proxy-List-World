@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.133.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
-|3|27.79.128.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
-|6|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|162.239.194.73|8080|United States|Bardstown|AT&T Services, Inc.|
-|9|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|10|202.154.18.180|8090|Indonesia|Bojonegoro|DIGITNET|
-|11|67.43.227.226|2445|Canada|Montreal|GloboTech Communications|
-|12|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|13|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|27.79.173.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.164.178|28145|Canada|Montreal|GloboTech Communications|
-|19|27.189.130.173|8089|China|Langfang|Chinanet|
-|20|72.10.160.90|19923|Canada|Montreal|GloboTech Communications|
+|1|27.79.184.231|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.236.143|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.128.132|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
+|6|27.79.133.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|10|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|49.151.97.114|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|16|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
+|17|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
+|18|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
 
 
 
