@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|121.224.156.177|8089|China|Nanjing|China Telecom|
-|3|121.227.109.58|8089|China|Nanjing|China Telecom|
-|4|72.10.160.170|3191|Canada|Montreal|GloboTech Communications|
-|5|27.189.129.225|8089|China|Langfang|Chinanet|
-|6|67.43.236.20|20447|Canada|Montreal|GloboTech Communications|
-|7|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|117.80.188.54|8089|China|Nanjing|China Telecom|
-|9|103.240.102.233|8080|India|Chennai|Microsense Networks Private Limited|
-|10|49.70.190.132|2324|China|Zhenjiang|Chinanet|
-|11|72.10.160.170|3191|Canada|Montreal|GloboTech Communications|
-|12|106.225.164.39|655|China|Beijing|China Telecom|
-|13|67.43.236.22|25627|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|3191|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|12733|Canada|Montreal|GloboTech Communications|
-|16|27.189.135.47|8089|China|Langfang|Chinanet|
-|17|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|18|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|19|27.189.130.127|8089|China|Langfang|Chinanet|
-|20|157.66.16.35|8855|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.76.110.88|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|27.79.254.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|222.215.137.18|3218|China|Deyang|Chinanet|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|118.113.245.242|2324|China|Shanghai|Chinanet|
+|13|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|15|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|18|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|58.209.137.187|8089|China|Nanjing|China Telecom|
 
 
 
