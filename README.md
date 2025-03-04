@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|45|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|45|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|45|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|2|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|103.56.206.65|4995|Indonesia|Sukabumi|Argon Data Communication|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|27.79.191.58|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
-|10|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|27.189.128.68|8089|China|Langfang|Chinanet|
-|14|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|67.43.227.226|21379|Canada|Montreal|GloboTech Communications|
-|19|49.84.175.112|8089|China|Nanjing|China Telecom|
-|20|114.80.37.192|3081|China|Shanghai|China Telecom (Group)|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|67.43.228.251|20445|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|21379|Canada|Montreal|GloboTech Communications|
+|9|103.162.62.250|8181|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
+|10|27.65.50.168|8083|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|114.80.36.171|3081|China|Shanghai|China Telecom (Group)|
+|16|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|121.237.165.110|1080|China|Nanjing|Chinanet|
 
 
 
