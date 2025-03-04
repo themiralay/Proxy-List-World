@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.184.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.220.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.76.109.236|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|27.189.130.158|8089|China|Langfang|Chinanet|
-|10|67.43.228.250|21995|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.21|16085|Canada|Montreal|GloboTech Communications|
-|12|103.162.30.196|10002|Vietnam|Hanoi|BKNS|
-|13|61.141.226.225|3128|China|Guangzhou|Chinanet|
-|14|27.189.135.56|8089|China|Langfang|Chinanet|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|72.10.164.178|21121|Canada|Montreal|GloboTech Communications|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|103.74.107.215|52850|Vietnam|Kim Bài|VIETSERVER|
-|19|67.43.228.251|14521|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|21995|Canada|Montreal|GloboTech Communications|
+|1|27.66.8.166|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.184.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|27.76.109.142|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|27.76.109.153|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|27.76.109.236|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|67.43.227.227|28699|Canada|Montreal|GloboTech Communications|
+|14|27.79.173.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|67.43.236.18|17121|Canada|Montreal|GloboTech Communications|
 
 
 
