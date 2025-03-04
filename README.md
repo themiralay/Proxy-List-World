@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4230** proxies at the latest update. Usable proxies are below.
+> Scraper found **4216** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|450|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|436|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|245|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2547|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|8|191.52.236.39|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|9|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|10|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|11|67.43.227.229|29139|Canada|Montreal|GloboTech Communications|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|14|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|177.93.36.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|72.10.160.174|17287|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|22029|Canada|Montreal|GloboTech Communications|
-|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|3|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|4|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|103.167.23.139|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|27.79.177.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|12|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|72.10.160.91|1971|Canada|Montreal|GloboTech Communications|
+|14|49.48.145.123|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|72.10.164.178|18559|Canada|Montreal|GloboTech Communications|
+|16|103.75.26.174|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|17|103.153.149.201|8036|Indonesia|Semarang|JARINGANKU|
+|18|186.96.74.140|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|20|27.79.249.43|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
