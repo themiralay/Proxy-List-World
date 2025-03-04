@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|27.79.200.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|7|27.79.238.59|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.76.110.66|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|10|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|49.70.190.242|2324|China|Zhenjiang|Chinanet|
-|12|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|13|49.70.190.202|2324|China|Zhenjiang|Chinanet|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|27.76.110.40|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|67.43.228.250|29003|Canada|Montreal|GloboTech Communications|
-|18|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.189.130.104|8089|China|Langfang|Chinanet|
-|20|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|6|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|7|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|11|125.87.88.217|2324|China|Chongqing|China Telecom|
+|12|49.70.190.202|2324|China|Zhenjiang|Chinanet|
+|13|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|14|27.79.200.50|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|27.76.110.40|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|18|177.125.86.108|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|19|181.119.67.148|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
