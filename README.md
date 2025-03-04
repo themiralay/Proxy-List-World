@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|115.72.5.16|10026|Vietnam|Vũng Tàu|VIETELmetro|
-|2|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|115.72.46.66|10026|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|115.72.46.66|10026|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|115.72.45.78|10025|Vietnam|Ho Chi Minh City|VIETELmetro|
 |5|27.79.153.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|27.79.135.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.200.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|115.72.45.78|10025|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|27.79.133.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|14|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|15|154.193.39.22|808|South Korea|Seoul|Octopus Web Solution Inc|
-|16|121.227.118.140|8089|China|Nanjing|China Telecom|
-|17|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|18|58.209.137.188|8089|China|Nanjing|China Telecom|
-|19|67.43.228.250|11651|Canada|Montreal|GloboTech Communications|
-|20|27.79.135.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.135.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|200.32.51.179|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|67.43.227.226|21131|Canada|Montreal|GloboTech Communications|
+|18|14.39.239.79|52763|South Korea|Eunpyeong-gu|Korea Telecom|
+|19|67.43.228.250|30165|Canada|Montreal|GloboTech Communications|
+|20|49.70.190.202|2324|China|Zhenjiang|Chinanet|
 
 
 
