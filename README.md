@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|125.87.94.179|2324|China|Chongqing|China Telecom|
-|8|27.76.110.88|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|195.87.136.2|5331|Turkey|Şişli|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
-|10|72.10.160.170|26313|Canada|Montreal|GloboTech Communications|
-|11|118.113.244.221|2324|China|Shanghai|Chinanet|
-|12|72.10.160.172|10937|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|20535|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|14949|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|16689|Canada|Montreal|GloboTech Communications|
-|16|118.113.247.38|2324|China|Shanghai|Chinanet|
-|17|58.209.137.181|8089|China|Nanjing|China Telecom|
-|18|118.113.246.198|2324|China|Shanghai|Chinanet|
-|19|27.79.184.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|58.209.137.189|8089|China|Nanjing|China Telecom|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|5|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|118.113.244.222|2324|China|Shanghai|Chinanet|
+|9|103.46.4.93|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|38.183.146.170|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.133.27.229|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|17|5.10.228.196|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|18|118.113.244.221|2324|China|Shanghai|Chinanet|
+|19|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|125.87.94.179|2324|China|Chongqing|China Telecom|
 
 
 
