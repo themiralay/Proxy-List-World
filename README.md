@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.184.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.234.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|3|103.18.77.25|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|72.10.164.178|1409|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.174|17287|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|7645|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|6681|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.229|18683|Canada|Montreal|GloboTech Communications|
-|13|27.189.129.65|8089|China|Langfang|Chinanet|
-|14|67.43.236.18|6681|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.22|28467|Canada|Montreal|GloboTech Communications|
-|16|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|67.43.228.250|22229|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|22229|Canada|Montreal|GloboTech Communications|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|27.79.177.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|103.245.109.51|8542|Bangladesh|Comilla|ACE IT Networks Limited|
+|14|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|15|27.79.133.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|67.43.228.251|30633|Canada|Montreal|GloboTech Communications|
+|17|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|18|67.43.227.229|18683|Canada|Montreal|GloboTech Communications|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|222.67.15.76|1080|China|Shanghai|China Telecom (Group)|
 
 
 
