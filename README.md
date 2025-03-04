@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|27.79.177.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.190.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|9|118.113.244.222|2324|China|Shanghai|Chinanet|
-|10|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.227.227|16135|Canada|Montreal|GloboTech Communications|
-|13|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|67.43.227.226|20287|Canada|Montreal|GloboTech Communications|
-|15|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|16|67.43.236.19|6711|Canada|Montreal|GloboTech Communications|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|67.43.227.226|20287|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|20801|Canada|Montreal|GloboTech Communications|
-|20|187.32.246.84|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|6|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|67.43.236.19|6711|Canada|Montreal|GloboTech Communications|
+|10|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|27.79.246.102|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|13|72.10.160.91|11783|Canada|Montreal|GloboTech Communications|
+|14|42.123.100.91|3128|China|Beijing|Cloud Computing Corporation|
+|15|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|183.60.141.27|443|China|Shantou|Chinanet|
+|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|19|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|20|202.136.89.28|43770|Bangladesh|Dhaka|Circle Network|
 
 
 
