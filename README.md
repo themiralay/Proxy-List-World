@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|27.79.191.58|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|5|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|45.226.225.97|999|Argentina|Pocito|CORTEZ RAUL OMAR (ZETRO INTERNET)|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|103.234.35.169|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|10|103.18.77.25|1111|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|27.79.220.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.171.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|16|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|67.43.227.227|19113|Canada|Montreal|GloboTech Communications|
-|19|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|20|67.43.236.18|10455|Canada|Montreal|GloboTech Communications|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.234.35.169|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|72.10.164.178|13533|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|13533|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|9153|Canada|Montreal|GloboTech Communications|
+|17|134.209.192.30|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|19|67.43.236.18|29345|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|30467|Canada|Montreal|GloboTech Communications|
 
 
 
