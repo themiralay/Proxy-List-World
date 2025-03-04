@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|103.171.240.82|1000|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|27.79.190.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|13|121.224.156.160|8089|China|Nanjing|China Telecom|
-|14|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|38.224.223.248|999|Mexico|Cunduacán|Javier Tamayo Garcia|
-|16|121.227.118.142|8089|China|Nanjing|China Telecom|
-|17|106.225.164.39|655|China|Beijing|China Telecom|
-|18|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
+|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|3|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.191.58|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|115.77.166.165|10001|Vietnam|Vũng Tàu|Viettel Group|
+|18|41.111.167.61|80|Algeria|Kouba|Algerie Telecom|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
