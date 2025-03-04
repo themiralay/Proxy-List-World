@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.171.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|3.128.94.31|3128|United States|Dublin|Amazon.com, Inc.|
-|3|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|3.128.94.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|6|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|45.224.152.232|999|Ecuador|Nueva Loja|Ufinet Panama S.A.|
-|12|67.43.236.18|6177|Canada|Montreal|GloboTech Communications|
-|13|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|14|27.189.132.46|8089|China|Langfang|Chinanet|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.236.19|20197|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|30601|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18417|Canada|Montreal|GloboTech Communications|
-|20|27.189.133.55|8089|China|Langfang|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|67.43.228.250|30601|Canada|Montreal|GloboTech Communications|
+|8|77.93.143.38|26654|United States|Ashburn|Tier.Net Technologies LLC|
+|9|72.10.160.90|24887|Canada|Montreal|GloboTech Communications|
+|10|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
+|11|72.10.164.178|18417|Canada|Montreal|GloboTech Communications|
+|12|103.151.227.74|8080|Indonesia|Bandung|URBANACCESS|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|45.233.169.9|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|16|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
+|17|27.79.148.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|168.194.140.132|999|Argentina|Jardín América|Swissnet S.R.L.|
+|19|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|20|67.43.236.19|20197|Canada|Montreal|GloboTech Communications|
 
 
 
