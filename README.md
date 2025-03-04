@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|2|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|65.1.40.47|80|India|Mumbai|Amazon.com|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|6|27.79.238.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|27.66.8.166|10002|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|12|72.10.164.178|13943|Canada|Montreal|GloboTech Communications|
-|13|118.113.246.157|2324|China|Shanghai|Chinanet|
-|14|72.10.160.172|14085|Canada|Montreal|GloboTech Communications|
-|15|27.79.177.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.236.19|21343|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|32697|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|27.76.109.236|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|27.79.173.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|27.79.184.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.97.140.79|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|13|27.79.220.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.76.109.142|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|27.79.173.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
