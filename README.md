@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|27.79.220.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|103.222.255.161|8055|Indonesia|Jakarta|PT Iktiar Doa Tawakal|
-|5|124.217.107.60|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.79.191.58|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|11|103.162.30.196|10009|Vietnam|Hanoi|BKNS|
-|12|45.125.222.81|8080|Bangladesh|Kāfrul|Carnival Internet|
-|13|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|14|138.204.12.16|999|Peru|Lima|Telcom Mikrotik Peru S.A.C|
-|15|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|19|27.189.129.162|8089|China|Langfang|Chinanet|
-|20|67.43.227.226|16599|Canada|Montreal|GloboTech Communications|
+|1|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|14.39.239.79|60955|South Korea|Eunpyeong-gu|Korea Telecom|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|72.10.160.90|32123|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.91|18717|Canada|Montreal|GloboTech Communications|
+|10|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|11|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|15|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|201.49.193.249|7171|Brazil|Presidente Prudente|America-NET Ltda.|
+|17|182.253.39.242|8080|Indonesia|Jakarta|BIZNET|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|202.154.18.180|8090|Indonesia|Bojonegoro|DIGITNET|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
