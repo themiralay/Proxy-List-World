@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|2|119.47.91.123|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.184.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.249.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|103.147.134.85|1111|Indonesia|Wakduwa’ Barat|PT.MURNI MAKMUR ABADI|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|103.194.46.30|8082|Indonesia|Nagara Tengah|JABNET|
-|18|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|19|125.87.93.66|2324|China|Chongqing|China Telecom|
-|20|27.189.128.97|8089|China|Langfang|Chinanet|
+|1|5.161.67.80|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|27.79.134.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|5.161.67.80|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.249.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.76.110.118|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.79.234.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|2.184.238.79|8080|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|115.245.46.172|8080|India|Visakhapatnam|Reliance Jio Infocomm Limited|
+|19|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
