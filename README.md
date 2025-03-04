@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|27.79.184.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|121.227.118.188|8089|China|Nanjing|China Telecom|
-|7|121.227.118.184|8089|China|Nanjing|China Telecom|
-|8|58.209.32.73|8089|China|Nanjing|China Telecom|
-|9|49.70.190.143|2324|China|Zhenjiang|Chinanet|
-|10|121.227.146.70|8089|China|Nanjing|China Telecom|
-|11|121.227.146.73|8089|China|Nanjing|China Telecom|
-|12|67.43.236.18|23349|Canada|Montreal|GloboTech Communications|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|223.206.143.247|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|67.43.228.250|4815|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|23349|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|15251|Canada|Montreal|GloboTech Communications|
-|19|121.227.146.69|8089|China|Nanjing|China Telecom|
-|20|67.43.227.227|5363|Canada|Montreal|GloboTech Communications|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|72.10.160.170|32983|Canada|Montreal|GloboTech Communications|
+|16|103.154.230.180|8080|Indonesia|Lamongan|DIGITNET|
+|17|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|19|67.43.227.230|1737|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1253|Canada|Montreal|GloboTech Communications|
 
 
 
