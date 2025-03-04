@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
-|6|41.59.227.49|3128|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|27.189.132.82|8089|China|Langfang|Chinanet|
-|9|72.10.160.170|29299|Canada|Montreal|GloboTech Communications|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|72.10.160.90|27299|Canada|Montreal|GloboTech Communications|
-|14|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|15|27.189.129.180|8089|China|Langfang|Chinanet|
-|16|72.10.160.170|29299|Canada|Montreal|GloboTech Communications|
-|17|27.189.133.82|8089|China|Langfang|Chinanet|
-|18|67.43.236.18|11681|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|29299|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|27299|Canada|Montreal|GloboTech Communications|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.86.117.13|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|10|72.10.160.170|21471|Canada|Montreal|GloboTech Communications|
+|11|49.48.145.123|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|13|103.162.30.196|10001|Vietnam|Hanoi|BKNS|
+|14|72.10.160.90|4965|Canada|Montreal|GloboTech Communications|
+|15|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|16|192.145.206.160|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
+|17|72.10.160.170|21471|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|15999|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|32363|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
