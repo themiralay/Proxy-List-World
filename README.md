@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4316** proxies at the latest update. Usable proxies are below.
+> Scraper found **4309** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|308|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2535|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.79.254.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.194.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.145.70|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|27.79.239.56|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|27.79.135.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|72.10.160.173|20995|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15703|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|30009|Canada|Montreal|GloboTech Communications|
-|17|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.79.238.59|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|218.1.197.144|2324|China|Shanghai|China Telecom (Group)|
+|2|27.76.110.40|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|5|112.209.47.250|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|27.79.248.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|27.79.197.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.189.132.16|8089|China|Langfang|Chinanet|
+|13|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|15|67.43.227.226|32873|Canada|Montreal|GloboTech Communications|
+|16|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|17|115.72.45.78|10025|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|67.43.236.18|19703|Canada|Montreal|GloboTech Communications|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|121.227.109.23|8089|China|Nanjing|China Telecom|
 
 
 
