@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|2|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.184.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|179.0.182.241|8032|Argentina|Corrientes|Corrientes Telecomunicaciones S.A.P.E.M.|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.239.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|23.88.121.39|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|27.79.173.42|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|118.113.244.221|2324|China|Shanghai|Chinanet|
-|12|72.10.160.90|32235|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|11721|Canada|Montreal|GloboTech Communications|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|67.43.227.229|16591|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|5351|Canada|Montreal|GloboTech Communications|
-|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.227.227|14253|Canada|Montreal|GloboTech Communications|
-|19|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|20|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|8|103.110.10.132|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|9|27.79.241.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|27.79.184.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|45.5.116.145|999|Guatemala|Guatemala City|Infinitum S.A.|
+|14|27.79.173.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.240.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|67.43.228.251|5351|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|14653|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|7715|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|32235|Canada|Montreal|GloboTech Communications|
 
 
 
