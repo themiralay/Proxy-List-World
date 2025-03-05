@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.135.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
-|6|61.247.185.50|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|7|27.189.130.175|8089|China|Langfang|Chinanet|
-|8|27.79.153.74|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|72.10.160.170|11779|Canada|Montreal|GloboTech Communications|
-|10|27.189.128.100|8089|China|Langfang|Chinanet|
-|11|67.43.228.254|29915|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|6411|Canada|Montreal|GloboTech Communications|
-|13|117.80.188.206|8089|China|Nanjing|China Telecom|
-|14|27.189.132.241|8089|China|Langfang|Chinanet|
-|15|67.43.228.252|16373|Canada|Montreal|GloboTech Communications|
-|16|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|17|67.43.228.251|25419|Canada|Montreal|GloboTech Communications|
-|18|103.117.57.200|80|Indonesia|Cicurug|BYOIP PT. Cloud Hosting Indonesia|
-|19|72.10.160.170|11779|Canada|Montreal|GloboTech Communications|
-|20|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|1|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|103.112.212.57|83|India|Bijapur|Supersonic Isp Connectivity India Pvt Ltd|
+|7|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|13|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|14|67.43.227.226|2803|Canada|Montreal|GloboTech Communications|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.160.170|11779|Canada|Montreal|GloboTech Communications|
+|17|221.131.172.202|9986|China|Qinnan|China Mobile communications corporation|
+|18|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|115.72.7.126|10026|Vietnam|Vũng Tàu|VIETELmetro|
+|20|115.72.10.32|10026|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
