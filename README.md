@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|103.87.169.150|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
-|7|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|9|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|10|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|12|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|67.43.228.251|12521|Canada|Montreal|GloboTech Communications|
-|14|14.170.173.177|10015|Vietnam|Bắc Giang|VNPT-VNNIC|
-|15|72.10.160.91|2557|Canada|Montreal|GloboTech Communications|
-|16|106.225.164.39|655|China|Beijing|China Telecom|
-|17|111.75.189.3|655|China|Taohua|Chinanet|
-|18|67.43.227.227|26147|Canada|Montreal|GloboTech Communications|
-|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|131.100.50.177|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
+|1|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|27.79.194.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.248.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|148.222.131.51|8080|Argentina|Buenos Aires|SpaceX Starlink|
+|10|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|11|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|67.43.227.230|2429|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|2557|Canada|Montreal|GloboTech Communications|
+|18|190.52.100.195|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|201.91.82.155|3128|Brazil|Santos|Vivo|
 
 
 
