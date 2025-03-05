@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|2|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|148.222.212.163|8080|Argentina|Buenos Aires|SpaceX Starlink|
-|5|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|6|27.79.194.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|38.145.211.247|8899|United States|Chicago|Enzu Inc|
-|10|67.43.228.250|19517|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|24113|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|15659|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|23329|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|10851|Canada|Montreal|GloboTech Communications|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|27.189.129.88|8089|China|Langfang|Chinanet|
-|17|72.10.160.92|3315|Canada|Montreal|GloboTech Communications|
-|18|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
-|19|117.84.194.205|8089|China|Nanjing|Chinanet|
-|20|67.43.236.19|8249|Canada|Montreal|GloboTech Communications|
+|1|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|3|27.79.194.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|9|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|13|103.247.14.166|9285|Indonesia|Klaten|TERABIT|
+|14|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|17|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|18|67.43.228.250|24733|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|11907|Canada|Montreal|GloboTech Communications|
+|20|27.79.238.59|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
