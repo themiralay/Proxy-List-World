@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|2|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|6|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|7|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.76.109.120|8088|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|10|103.217.224.201|8080|Indonesia|Ungaran|PT Nesta Indo Media|
-|11|38.145.211.247|8899|United States|Chicago|Enzu Inc|
-|12|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|67.43.227.227|5417|Canada|Montreal|GloboTech Communications|
-|14|121.232.181.172|8089|China|Nanjing|Chinanet|
-|15|121.224.156.180|8089|China|Nanjing|China Telecom|
-|16|114.219.174.58|8089|China|Nanjing|China Telecom|
-|17|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|20|217.24.162.52|8080|Ukraine|Dnipro|PrJSC "VF UKRAINE"|
+|2|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|103.76.109.120|8088|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|103.171.83.55|1111|Indonesia|Karawang|PT Multi Network Indonesia|
+|9|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.132.54.150|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|11|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|12|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|27.79.188.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|67.43.227.227|5417|Canada|Montreal|GloboTech Communications|
+|16|222.68.39.124|2324|China|Shanghai|China Telecom (Group)|
+|17|222.68.38.96|2324|China|Shanghai|China Telecom (Group)|
+|18|77.243.15.83|3246|Russia|Kursk|Sovtest-Internet|
+|19|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|20|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 
 
 
