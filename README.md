@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|6|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|202.77.112.245|8080|Indonesia|Tangerang|LINKNET|
-|13|38.145.211.246|8899|United States|Chicago|Enzu Inc|
-|14|103.56.206.48|1691|Indonesia|Sukabumi|Argon Data Communication|
-|15|103.76.109.120|8088|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|16|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|17|167.250.180.126|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|18|23.147.112.74|8080|United States|Nogales|NGX Networks|
-|19|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.164.192.83|8080|Indonesia|Kebonsari|PT Chayo Anugrah Teknologi|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|11|201.91.248.67|20183|Brazil|Osasco|Vivo|
+|12|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|13|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|38.145.211.246|8899|United States|Chicago|Enzu Inc|
+|15|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|49.70.190.237|2324|China|Nanjing|Chinanet|
+|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
