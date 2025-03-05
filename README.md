@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.48.48.246|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|112.198.130.41|8082|Philippines|Nasugbu|Globe Telecom|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|9|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|49.70.190.237|2324|China|Nanjing|Chinanet|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|27.189.133.119|8089|China|Langfang|Chinanet|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|67.43.236.20|25331|Canada|Montreal|GloboTech Communications|
-|19|27.189.129.241|8089|China|Langfang|Chinanet|
-|20|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|49.48.48.246|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|103.171.83.55|1111|Indonesia|Karawang|PT Multi Network Indonesia|
+|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|11|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.56.206.48|1691|Indonesia|Sukabumi|Argon Data Communication|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|27.79.188.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|19|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|201.91.248.67|20183|Brazil|Osasco|Vivo|
 
 
 
