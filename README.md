@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.193.36.252|808|South Korea|Seoul|Octopus Web Solution Inc|
-|2|154.193.8.70|808|South Korea|Seoul|Octopus Web Solution Inc|
-|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.151.226.33|8080|Indonesia|Bandung|URBANACCESS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|5|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
 |6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|10|45.123.142.69|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|11|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|170.83.76.22|999|Venezuela|Los Teques|Galanet Solution C.A.|
-|13|23.128.168.9|999|Puerto Rico|Guaynabo|Thundernet Wireless|
-|14|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|15|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|16|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|38.145.211.246|8899|United States|Chicago|Enzu Inc|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|38.145.211.247|8899|United States|Chicago|Enzu Inc|
-|20|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|41.180.70.2|8080|South Africa|Boksburg|X-DSL Networking Solutions|
+|9|154.193.36.252|808|South Korea|Seoul|Octopus Web Solution Inc|
+|10|154.193.8.70|808|South Korea|Seoul|Octopus Web Solution Inc|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|13|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|14|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|72.10.160.90|14287|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.36.10.118|7777|Indonesia|Bangil|PT Awinet Global Mandiri|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
