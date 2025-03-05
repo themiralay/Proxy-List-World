@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|20.84.7.175|3128|United States|Boydton|Microsoft Corporation|
-|6|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|7|20.84.7.175|3128|United States|Boydton|Microsoft Corporation|
-|8|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|72.10.164.178|17145|Canada|Montreal|GloboTech Communications|
-|12|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|13|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|103.36.10.118|7777|Indonesia|Bangil|PT Awinet Global Mandiri|
-|16|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|17|72.10.160.93|27363|Canada|Montreal|GloboTech Communications|
-|18|121.224.156.147|8089|China|Nanjing|China Telecom|
-|19|49.70.190.217|2324|China|Zhenjiang|Chinanet|
-|20|72.10.160.170|12901|Canada|Montreal|GloboTech Communications|
+|1|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|4|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|5|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|6|203.150.113.156|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|103.212.211.69|8080|Indonesia|Sumber|Pemerintah Kabupaten Cirebon|
+|8|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
+|11|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
+|12|181.119.67.148|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|13|101.255.132.211|8080|Indonesia|Jakarta|PT Remala Abadi|
+|14|27.76.110.40|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|17|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|20|49.70.190.217|2324|China|Zhenjiang|Chinanet|
 
 
 
