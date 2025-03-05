@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|1|27.79.232.96|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|3|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|5|161.246.52.58|3128|Thailand|Lat Bua Luang|King Mongkut's Institute of Technology Ladkrabang|
-|6|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.24.215.29|8085|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
-|10|38.145.211.246|8899|United States|Chicago|Enzu Inc|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|13|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|15|91.220.109.197|21874|Russia|St Petersburg|TimeWeb Ltd.|
-|16|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|19|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|20|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|3|27.79.154.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|45.201.132.65|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|10|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|11|103.234.35.152|8082|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|12|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|13|27.79.232.96|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|23.88.121.39|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|103.133.61.173|3030|Indonesia|Pringsewu|TLINK|
+|17|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
