@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4412** proxies at the latest update. Usable proxies are below.
+> Scraper found **4326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|442|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|318|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2533|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|5|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|8|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|38.145.211.247|8899|United States|Chicago|Enzu Inc|
-|10|103.76.109.120|8088|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|11|27.79.188.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|103.85.117.6|8080|Indonesia|Makassar|BOSOWA|
-|20|117.44.64.85|655|China|Taohua|Chinanet|
+|3|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
+|4|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|103.171.83.55|1111|Indonesia|Karawang|PT Multi Network Indonesia|
+|9|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|10|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.160.90|4823|Canada|Montreal|GloboTech Communications|
+|12|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|27.189.132.110|8089|China|Langfang|Chinanet|
+|14|72.10.160.173|11413|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|1117|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|17261|Canada|Montreal|GloboTech Communications|
+|17|27.189.133.186|8089|China|Langfang|Chinanet|
+|18|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|20|72.10.160.171|24639|Canada|Montreal|GloboTech Communications|
 
 
 
