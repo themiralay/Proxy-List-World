@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|192.9.188.22|6344|Australia|Sydney|Oracle Corporation|
-|3|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|38.145.211.247|8899|United States|Chicago|Enzu Inc|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|7|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|8|27.79.200.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|10|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|11|27.79.222.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|114.91.25.2|2324|China|Shanghai|China Telecom (Group)|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.151.226.33|8080|Indonesia|Bandung|URBANACCESS|
+|6|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|8|115.87.213.177|8080|Thailand|Bangkok|TRUEBB|
+|9|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|10|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|11|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|72.10.160.171|28727|Canada|Montreal|GloboTech Communications|
-|14|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|27.79.197.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.189.129.168|8089|China|Langfang|Chinanet|
-|18|27.189.128.172|8089|China|Langfang|Chinanet|
-|19|67.43.236.18|12425|Canada|Montreal|GloboTech Communications|
-|20|27.189.131.193|8089|China|Langfang|Chinanet|
+|14|114.91.25.2|2324|China|Shanghai|China Telecom (Group)|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|36.37.163.254|8080|Cambodia|Kampot|VIETTEL (CAMBODIA) PTE., LTD|
+|20|62.3.30.118|8080|Georgia|Tbilisi|Enbinet Ltd.|
 
 
 
