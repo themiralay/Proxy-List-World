@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|2|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
-|10|67.43.228.252|5105|Canada|Montreal|GloboTech Communications|
-|11|223.206.123.78|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|67.43.227.226|20295|Canada|Montreal|GloboTech Communications|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|1.180.80.211|7890|China|Haoxinying|Chinanet|
-|15|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|38.172.131.64|999|Peru|Lima|Conex TV E.I.R.L.|
-|17|72.10.160.172|32305|Canada|Montreal|GloboTech Communications|
-|18|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|19|67.43.227.230|19889|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|3559|Canada|Montreal|GloboTech Communications|
+|4|27.76.110.40|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|27.76.110.88|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.151.227.74|8080|Indonesia|Bandung|URBANACCESS|
+|11|27.79.246.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.141.149.194|8080|Indonesia|Banda Aceh|PT Acehlink Media|
+|13|1.180.80.211|7890|China|Haoxinying|Chinanet|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|72.10.160.92|13273|Canada|Montreal|GloboTech Communications|
 
 
 
