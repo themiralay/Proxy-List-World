@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|2|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|3|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|4|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|60.53.133.218|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
-|6|186.225.229.49|8080|Brazil|Tijucas|Unetvale Servicos e Equipamentos LTDA|
-|7|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|103.179.84.254|8080|Indonesia|Boyolali|PT CYB Media Group|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|12|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|72.10.160.170|10039|Canada|Montreal|GloboTech Communications|
-|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|17|27.189.131.241|8089|China|Langfang|Chinanet|
-|18|72.10.160.171|16055|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|31221|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|9811|Canada|Montreal|GloboTech Communications|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|3|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|187.17.171.30|92|Brazil|Birigui|America-NET Ltda.|
+|11|27.79.194.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|67.43.228.250|31723|Canada|Montreal|GloboTech Communications|
+|15|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|222.215.137.18|3218|China|Deyang|Chinanet|
+|17|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
+|18|67.43.228.250|31723|Canada|Montreal|GloboTech Communications|
+|19|185.208.102.182|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
 
 
 
