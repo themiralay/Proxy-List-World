@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|5|103.191.218.255|8087|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|6|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|23.88.121.39|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|12|67.43.227.226|15619|Canada|Montreal|GloboTech Communications|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.227.226|15619|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|13741|Canada|Montreal|GloboTech Communications|
-|17|186.225.60.74|8089|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|18|67.43.228.253|33139|Canada|Montreal|GloboTech Communications|
-|19|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|3|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|103.111.82.134|8080|Indonesia|Gandul|ICONPLN|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|67.43.228.250|27861|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|18113|Canada|Montreal|GloboTech Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|67.43.228.250|27861|Canada|Montreal|GloboTech Communications|
+|17|37.26.86.206|47464|Albania|Tirana|ATU|
+|18|67.43.228.251|26353|Canada|Montreal|GloboTech Communications|
+|19|103.145.132.16|8080|Bangladesh|Sonargaon|Md Raisul Islam|
 |20|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 
 
