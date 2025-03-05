@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4436** proxies at the latest update. Usable proxies are below.
+> Scraper found **4393** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|108|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|429|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2533|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|4|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
+|4|49.48.48.4|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|27.79.232.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|11|67.43.236.18|10647|Canada|Montreal|GloboTech Communications|
-|12|92.247.12.136|9510|Bulgaria|Sofia|A1 Bulgaria EAD|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|15|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
-|16|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|17|154.90.48.148|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|18|67.43.236.19|30917|Canada|Montreal|GloboTech Communications|
-|19|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|124.217.107.60|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|13|117.80.188.202|8089|China|Nanjing|China Telecom|
+|14|125.87.90.174|2324|China|Chongqing|China Telecom|
+|15|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|192.9.188.22|8080|Australia|Sydney|Oracle Corporation|
+|18|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|19|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
 
 
 
