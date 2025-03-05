@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.232.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.238.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.200.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|27.79.197.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|45.70.202.160|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|27.79.232.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.236.18|15283|Canada|Montreal|GloboTech Communications|
-|15|27.79.153.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|72.10.160.91|12937|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25909|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|22223|Canada|Montreal|GloboTech Communications|
-|19|27.79.248.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.154.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.70.202.160|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|103.133.61.173|3030|Indonesia|Pringsewu|TLINK|
+|7|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|8|209.14.118.114|999|Colombia|Quinchía|AGIS|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|12|103.99.27.190|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|222.127.103.129|8080|Philippines|Pasig|INNOVE|
+|16|111.72.195.196|2324|China|Taohua|Chinanet|
+|17|103.247.22.129|8080|Indonesia|Cilacap|PT wifian Solution|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|72.10.164.178|22511|Canada|Montreal|GloboTech Communications|
+|20|49.70.190.242|2324|China|Zhenjiang|Chinanet|
 
 
 
