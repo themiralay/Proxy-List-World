@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4173** proxies at the latest update. Usable proxies are below.
+> Scraper found **4271** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|329|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2447|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|27.76.110.83|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.254.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|110.141.237.221|5200|Australia|Melbourne|Telstra Internet|
-|15|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|18|67.43.228.250|25407|Canada|Montreal|GloboTech Communications|
-|19|180.97.220.151|11080|China|Nanjing|Chinanet|
-|20|67.43.236.19|19343|Canada|Montreal|GloboTech Communications|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.232.96|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
+|7|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|156.155.29.117|8080|South Africa|Port Elizabeth|AxxessNetworks|
+|15|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|118.99.84.203|8080|Indonesia|Prapen|BIZNET|
+|18|103.167.170.199|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|19|182.40.96.33|808|China|Jinan|China Telecom|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
