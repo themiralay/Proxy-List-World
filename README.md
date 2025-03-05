@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|103.125.190.213|5026|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|5|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.209.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
 |6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|67.43.236.18|16643|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.171|30831|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|72.10.160.91|6225|Canada|Montreal|GloboTech Communications|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|15|67.43.236.18|16643|Canada|Montreal|GloboTech Communications|
-|16|121.224.156.160|8089|China|Nanjing|China Telecom|
-|17|27.189.134.141|8089|China|Langfang|Chinanet|
-|18|72.10.164.178|14653|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|16659|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14653|Canada|Montreal|GloboTech Communications|
+|7|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|8|27.79.232.122|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|156.155.29.117|8080|South Africa|Port Elizabeth|AxxessNetworks|
+|17|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.222.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|147.28.145.213|9400|United States|Ashburn|Packet Host, Inc.|
 
 
 
