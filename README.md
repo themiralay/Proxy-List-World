@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|4|103.122.1.172|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|103.172.197.234|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|7|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|8|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|67.43.227.226|28551|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|29535|Canada|Montreal|GloboTech Communications|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|72.10.160.90|21791|Canada|Montreal|GloboTech Communications|
-|13|27.189.128.130|8089|China|Langfang|Chinanet|
-|14|72.10.164.178|33241|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|9261|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|29535|Canada|Montreal|GloboTech Communications|
-|17|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|18|27.189.131.56|8089|China|Langfang|Chinanet|
-|19|67.43.228.250|1233|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|29535|Canada|Montreal|GloboTech Communications|
+|2|91.147.89.190|3128|Kazakhstan|Almaty Oblysy|NLS Kazakhstan LLC|
+|3|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|4|103.144.18.91|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|5|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|6|103.154.77.227|89|Indonesia|Sleman|T2NET|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|9|67.43.236.18|2991|Canada|Montreal|GloboTech Communications|
+|10|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|67.43.228.254|19337|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|2991|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|2991|Canada|Montreal|GloboTech Communications|
+|15|103.190.78.12|8082|Indonesia|Jinglong|PT Blitar Sarana Data|
+|16|67.43.236.18|2991|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|58.147.189.11|8080|Indonesia|Pontianak|PT Transhybrid Communication|
+|19|72.10.160.90|1279|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|33241|Canada|Montreal|GloboTech Communications|
 
 
 
