@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.151.151.166|3128|Syria|Damascus|Syrian Telecom|
-|2|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|67.43.227.226|12353|Canada|Montreal|GloboTech Communications|
-|6|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|72.10.160.90|28693|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.18|18377|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|26679|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.252|23017|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|21111|Canada|Montreal|GloboTech Communications|
-|13|175.47.237.95|6128|China|Harbin|Daqing zhongji petroleum telecommunication construction limited cpmpany|
-|14|134.209.152.201|9090|India|Bengaluru|DigitalOcean, LLC|
-|15|67.43.228.250|3035|Canada|Montreal|GloboTech Communications|
-|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|67.43.227.227|26211|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|26211|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|91.201.115.137|25217|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|103.105.78.145|8080|Indonesia|Kediri|GARUDA|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|6|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|7|102.214.106.114|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|72.10.160.170|19985|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.174|17287|Canada|Montreal|GloboTech Communications|
+|11|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|12|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|67.43.228.252|23017|Canada|Montreal|GloboTech Communications|
+|15|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|16|72.10.164.178|6209|Canada|Montreal|GloboTech Communications|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|72.10.164.178|6209|Canada|Montreal|GloboTech Communications|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|72.10.164.178|6209|Canada|Montreal|GloboTech Communications|
 
 
 
