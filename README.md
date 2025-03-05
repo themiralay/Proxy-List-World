@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|49.48.48.246|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|49.48.48.4|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|2|8.209.242.82|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|49.48.48.246|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|7|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|27.147.249.17|38947|Bangladesh|Chittagong|Link3 Technologies Limited|
+|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|13|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|35.176.148.8|1080|United Kingdom|London|Amazon Technologies Inc.|
-|16|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|17|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|18|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|20|27.66.119.21|4033|Vietnam|Hanoi|Viettel Group|
+|15|72.10.160.91|12265|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|24495|Canada|Montreal|GloboTech Communications|
+|17|121.232.181.166|8089|China|Nanjing|Chinanet|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|114.219.174.17|8089|China|Nanjing|China Telecom|
+|20|67.43.236.19|26747|Canada|Montreal|GloboTech Communications|
 
 
 
