@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
+|2|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|121.224.156.181|8089|China|Nanjing|China Telecom|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|121.224.156.146|8089|China|Nanjing|China Telecom|
-|13|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|119.47.91.123|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|67.43.228.250|29383|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|16659|Canada|Montreal|GloboTech Communications|
-|19|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|5|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|38.145.211.246|8899|United States|Chicago|Enzu Inc|
+|8|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|9|117.44.64.85|655|China|Taohua|Chinanet|
+|10|45.187.105.197|8080|Brazil|Bertópolis|Jnet Bahia Comunicacao Multimidia Ltda|
+|11|180.97.220.151|11080|China|Nanjing|Chinanet|
+|12|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|13|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|45.115.253.30|83|India|Mathura|Elxire Services|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|19|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
