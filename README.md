@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.79.248.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|78.129.155.75|8080|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|6|121.232.178.6|8089|China|Nanjing|Chinanet|
-|7|121.224.170.228|8089|China|Nanjing|China Telecom|
-|8|72.10.160.171|13635|Canada|Montreal|GloboTech Communications|
-|9|218.1.197.154|2324|China|Shanghai|China Telecom (Group)|
-|10|121.227.118.167|8089|China|Nanjing|China Telecom|
-|11|218.1.197.121|2324|China|Shanghai|China Telecom (Group)|
-|12|218.1.197.232|2324|China|Shanghai|China Telecom (Group)|
-|13|121.232.181.165|8089|China|Nanjing|Chinanet|
-|14|121.227.118.170|8089|China|Nanjing|China Telecom|
-|15|27.189.133.52|8089|China|Langfang|Chinanet|
-|16|121.224.170.223|8089|China|Nanjing|China Telecom|
-|17|72.10.160.170|23663|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|121.227.118.175|8089|China|Nanjing|China Telecom|
-|20|27.189.130.199|8089|China|Langfang|Chinanet|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|49.70.190.225|2324|China|Nanjing|Chinanet|
+|5|118.113.245.8|2324|China|Shanghai|Chinanet|
+|6|72.10.160.171|13635|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.18|25135|Canada|Montreal|GloboTech Communications|
+|8|27.79.194.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|67.43.228.254|25755|Canada|Montreal|GloboTech Communications|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|115.72.39.209|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|128.199.113.85|9090|Singapore|Singapore|DigitalOcean, LLC|
+|15|180.112.242.121|8089|China|Nanjing|Chinanet|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|18|72.10.164.178|6251|Canada|Montreal|GloboTech Communications|
+|19|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|42.123.100.91|3128|China|Beijing|Cloud Computing Corporation|
 
 
 
