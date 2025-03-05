@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4289** proxies at the latest update. Usable proxies are below.
+> Scraper found **4327** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|454|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|492|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|356|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2480|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|103.215.187.66|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|9|181.78.13.137|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|16|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|17|209.126.15.81|3128|United States|St Louis|Nubes, LLC|
-|18|67.43.227.227|24727|Canada|Montreal|GloboTech Communications|
-|19|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|3|171.4.66.70|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|72.10.160.92|4173|Canada|Montreal|GloboTech Communications|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|13|103.105.57.64|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|14|72.10.160.170|22409|Canada|Montreal|GloboTech Communications|
+|15|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|72.10.164.178|1991|Canada|Montreal|GloboTech Communications|
+|17|190.122.88.144|8080|Argentina|Puerto Tirol|Servicios y Telecomunicaciones S.A|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
