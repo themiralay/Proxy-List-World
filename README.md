@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
-|3|188.132.150.94|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|4|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
-|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|7|27.189.133.242|8089|China|Langfang|Chinanet|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|67.43.227.226|20875|Canada|Montreal|GloboTech Communications|
-|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|27.189.129.205|8089|China|Langfang|Chinanet|
-|12|67.43.236.18|29591|Canada|Montreal|GloboTech Communications|
-|13|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.236.18|29591|Canada|Montreal|GloboTech Communications|
-|15|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.189.131.116|8089|China|Langfang|Chinanet|
-|17|27.189.128.201|8089|China|Langfang|Chinanet|
-|18|218.1.197.147|2324|China|Shanghai|China Telecom (Group)|
-|19|197.248.57.193|8080|Kenya|Nairobi|Safaricom Limited|
-|20|72.10.160.91|14949|Canada|Montreal|GloboTech Communications|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|38.49.129.205|999|Mexico|Santa María Amajac|Ientc S De RL De CV|
+|4|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|5|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|188.132.150.94|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|103.148.28.218|3125|Indonesia|Palu|DEWATA|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|11|190.122.88.116|6969|Argentina|Buenos Aires|Servicios y Telecomunicaciones S.A|
+|12|27.79.200.50|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.228.250|11675|Canada|Montreal|GloboTech Communications|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|18|67.43.236.18|29591|Canada|Montreal|GloboTech Communications|
+|19|111.72.195.111|2324|China|Taohua|Chinanet|
+|20|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
 
 
 
