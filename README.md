@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|2|43.153.99.86|1130|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|27.79.135.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.224.97.12|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|8|65.1.40.47|80|India|Mumbai|Amazon.com|
-|9|115.72.7.126|10026|Vietnam|Vũng Tàu|VIETELmetro|
-|10|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
-|11|67.43.228.250|32319|Canada|Montreal|GloboTech Communications|
-|12|103.59.44.207|3114|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|27.189.130.154|8089|China|Langfang|Chinanet|
-|14|67.43.236.20|12099|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|21603|Canada|Montreal|GloboTech Communications|
-|16|118.113.244.222|2324|China|Shanghai|Chinanet|
-|17|72.10.164.178|18257|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|26537|Canada|Montreal|GloboTech Communications|
-|19|118.113.245.121|2324|China|Shanghai|Chinanet|
-|20|72.10.160.93|27697|Canada|Montreal|GloboTech Communications|
+|1|49.0.87.62|8088|Thailand|Nonthaburi|AIS-Fibre|
+|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|65.1.40.47|80|India|Mumbai|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|95.159.105.21|8080|Iraq|Sulaymaniyah|7NETLAYERS|
+|9|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|10|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|103.157.78.14|1111|Indonesia|Jakarta|PT Super Media Indonesia|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|118.113.245.121|2324|China|Shanghai|Chinanet|
+|18|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
+|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|115.72.10.32|10026|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
