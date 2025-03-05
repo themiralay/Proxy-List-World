@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|3|171.4.66.70|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|72.10.160.92|4173|Canada|Montreal|GloboTech Communications|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|13|103.105.57.64|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
-|14|72.10.160.170|22409|Canada|Montreal|GloboTech Communications|
-|15|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|72.10.164.178|1991|Canada|Montreal|GloboTech Communications|
-|17|190.122.88.144|8080|Argentina|Puerto Tirol|Servicios y Telecomunicaciones S.A|
-|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|2|103.172.71.25|9090|Indonesia|Karawang|AZNET|
+|3|185.255.89.165|8080|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|6|38.41.4.166|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|7|27.147.154.170|8088|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|38.145.211.246|8899|United States|Chicago|Enzu Inc|
+|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.130.167.90|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|14|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|15|170.239.205.78|999|Colombia|Bogotá|FIBERNET|
+|16|203.138.145.62|3128|Japan|Tokyo|SIMPLEIA|
+|17|103.155.168.152|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|18|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
+|19|67.43.228.250|29805|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|14561|Canada|Montreal|GloboTech Communications|
 
 
 
