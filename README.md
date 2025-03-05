@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|38.211.25.10|8080|Indonesia|Babakangarut|PT Putra Garsel Interkoneksi|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|7|200.106.124.53|999|Peru|Tacna|Telefonica del Peru|
-|8|120.28.216.152|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|103.93.176.70|8080|India|Faridabad|Elxire Data Services Pvt. Ltd.|
-|12|72.10.160.170|5341|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|5341|Canada|Montreal|GloboTech Communications|
-|14|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|15|67.43.228.252|24265|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|23255|Canada|Montreal|GloboTech Communications|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|27.189.131.105|8089|China|Langfang|Chinanet|
-|19|72.10.160.170|5341|Canada|Montreal|GloboTech Communications|
-|20|14.225.206.26|24986|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|11|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|12|103.163.135.56|7777|Indonesia|Kalipuro|PROVITEL|
+|13|27.79.249.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|67.43.236.18|28911|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|201.91.82.155|3128|Brazil|Santos|Vivo|
+|19|72.10.160.170|16817|Canada|Montreal|GloboTech Communications|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
