@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|14.39.239.241|49200|South Korea|Eunpyeong-gu|Korea Telecom|
-|4|192.9.188.22|6344|Australia|Sydney|Oracle Corporation|
-|5|27.79.129.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|103.125.190.213|5026|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|114.231.75.195|1080|China|Nanjing|Chinanet|
-|10|27.79.232.96|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|72.10.160.90|6293|Canada|Montreal|GloboTech Communications|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|72.10.160.170|6517|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|6517|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|12533|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|25089|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6293|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|6661|Canada|Montreal|GloboTech Communications|
-|20|121.232.181.186|8089|China|Nanjing|Chinanet|
+|4|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.232.96|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|27.79.222.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|9|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|12|67.43.227.226|6661|Canada|Montreal|GloboTech Communications|
+|13|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|14|72.10.160.90|20959|Canada|Montreal|GloboTech Communications|
+|15|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|67.43.236.18|22959|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|11967|Canada|Montreal|GloboTech Communications|
+|18|147.28.145.213|9400|United States|Ashburn|Packet Host, Inc.|
+|19|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
