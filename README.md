@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4444** proxies at the latest update. Usable proxies are below.
+> Scraper found **4424** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|505|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|485|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|373|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2533|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|7|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|11|49.49.10.138|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|12|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|13|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|14|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|15|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|17|67.43.236.21|5339|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|90.156.200.4|3128|Russia|Moscow|LLC "MASTERHOST"|
-|20|67.43.236.18|8539|Canada|Montreal|GloboTech Communications|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|4|103.147.247.125|8080|Indonesia|Tangerang|PLBNET|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|101.51.102.206|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|13|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|118.113.244.184|2324|China|Shanghai|Chinanet|
+|16|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
+|17|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|18|103.245.109.51|8542|Bangladesh|Comilla|ACE IT Networks Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
