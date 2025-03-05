@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|1|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
+|4|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|38.172.167.0|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|7|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|6|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
+|11|49.49.10.138|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|12|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|14|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
 |15|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.236.21|5339|Canada|Montreal|GloboTech Communications|
-|17|117.44.64.85|655|China|Taohua|Chinanet|
-|18|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|19|103.151.30.25|6969|Bangladesh|Tongi|Bright Star Network|
-|20|67.43.236.18|15765|Canada|Montreal|GloboTech Communications|
+|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|17|67.43.236.21|5339|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|90.156.200.4|3128|Russia|Moscow|LLC "MASTERHOST"|
+|20|67.43.236.18|8539|Canada|Montreal|GloboTech Communications|
 
 
 
