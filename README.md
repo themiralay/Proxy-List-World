@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4200** proxies at the latest update. Usable proxies are below.
+> Scraper found **4240** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|428|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|478|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|329|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2447|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.168.213.168|8213|Thailand|Bangkok|TRUENET|
-|2|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|1|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|38.145.211.246|8899|United States|Chicago|Enzu Inc|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.144.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|72.10.160.170|29673|Canada|Montreal|GloboTech Communications|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|72.10.160.94|27167|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|33197|Canada|Montreal|GloboTech Communications|
-|11|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
-|12|103.240.102.233|8080|India|Chennai|Microsense Networks Private Limited|
-|13|103.180.122.105|8080|Indonesia|Kroya|PT Indo Telemedia Solusi|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|185.82.98.142|1973|Lebanon|Beirut|Protected|
-|18|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
-|19|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|5|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|67.43.236.18|6411|Canada|Montreal|GloboTech Communications|
+|9|160.22.74.110|39106|Vietnam|Quận Phú Nhuận|PHANHUUBAOSOLUTIONS|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|27.189.134.3|8089|China|Langfang|Chinanet|
+|12|67.43.236.20|29207|Canada|Montreal|GloboTech Communications|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|67.43.236.21|30989|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|11779|Canada|Montreal|GloboTech Communications|
+|16|103.153.96.147|8181|Indonesia|Serang|NITNET|
+|17|177.234.247.234|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|18|27.189.130.239|8089|China|Langfang|Chinanet|
+|19|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|67.43.236.19|18025|Canada|Montreal|GloboTech Communications|
 
 
 
