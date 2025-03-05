@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
-|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|3|18.139.226.10|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|3|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|203.202.249.2|8080|Bangladesh|Chittagong|Aamra Networks Limited|
-|11|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|67.43.228.251|30995|Canada|Montreal|GloboTech Communications|
-|16|27.189.134.201|8089|China|Langfang|Chinanet|
-|17|72.10.160.170|5231|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|25351|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.104|8089|China|Langfang|Chinanet|
+|6|8.243.28.56|999|Argentina|Valle de Anisacate|Agencia Conectividad Cordoba|
+|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|27.79.194.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|118.113.246.165|2324|China|Shanghai|Chinanet|
+|11|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
+|12|203.202.249.2|8080|Bangladesh|Chittagong|Aamra Networks Limited|
+|13|67.43.228.251|9799|Canada|Montreal|GloboTech Communications|
+|14|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|15|118.113.244.32|2324|China|Shanghai|Chinanet|
+|16|67.43.236.19|19781|Canada|Montreal|GloboTech Communications|
+|17|27.189.132.111|8089|China|Langfang|Chinanet|
+|18|201.91.82.155|3128|Brazil|Santos|Vivo|
+|19|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|20|72.10.160.91|20601|Canada|Montreal|GloboTech Communications|
 
 
 
