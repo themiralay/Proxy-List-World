@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|203.150.113.233|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|4|49.70.190.225|2324|China|Nanjing|Chinanet|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|7|27.189.129.129|8089|China|Langfang|Chinanet|
-|8|27.79.232.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|67.43.228.250|6229|Canada|Montreal|GloboTech Communications|
-|10|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|11|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|27.79.238.59|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|14|58.209.32.94|8089|China|Nanjing|China Telecom|
-|15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|16|27.189.131.56|8089|China|Langfang|Chinanet|
-|17|118.113.247.227|2324|China|Shanghai|Chinanet|
-|18|67.43.228.250|6229|Canada|Montreal|GloboTech Communications|
-|19|183.3.221.130|3128|China|Guangzhou|Chinanet|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|3|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|49.70.190.225|2324|China|Nanjing|Chinanet|
+|7|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|11|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|12|125.87.84.88|2324|China|Shanghai|China Telecom|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|15|128.199.113.85|9090|Singapore|Singapore|DigitalOcean, LLC|
+|16|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|17|72.10.164.178|3445|Canada|Montreal|GloboTech Communications|
+|18|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
