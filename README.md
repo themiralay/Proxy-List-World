@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|3|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|154.193.8.135|808|South Korea|Seoul|Octopus Web Solution Inc|
-|7|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|8|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|9|67.43.236.18|15729|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.93|11801|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|67.43.236.18|15729|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|3833|Canada|Montreal|GloboTech Communications|
-|14|27.189.128.239|8089|China|Langfang|Chinanet|
-|15|72.10.160.94|18487|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|30125|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|32997|Canada|Montreal|GloboTech Communications|
-|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|72.10.160.174|18605|Canada|Montreal|GloboTech Communications|
-|20|125.87.85.190|2324|China|Shanghai|China Telecom|
+|1|157.230.89.122|18109|United States|North Bergen|DigitalOcean, LLC|
+|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|3|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|12|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|103.242.104.233|8080|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|72.10.160.174|18605|Canada|Montreal|GloboTech Communications|
+|17|8.243.248.51|999|Venezuela|Caracas|CTL Venzuela|
+|18|67.43.236.18|29311|Canada|Montreal|GloboTech Communications|
+|19|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
