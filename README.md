@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|10|180.191.42.241|8082|Philippines|Caloocan City|Globe Telecom|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|116.254.98.30|8080|Indonesia|Jakarta|SpaceX Starlink|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|201.91.82.155|3128|Brazil|Santos|Vivo|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|192.9.188.22|8080|Australia|Sydney|Oracle Corporation|
-|18|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|72.10.160.91|7815|Canada|Montreal|GloboTech Communications|
-|20|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|1|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|6|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|176.88.175.201|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|9|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.252.50.153|3128|United States|Richmond|Alibaba Cloud LLC|
+|11|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|72.10.160.174|2979|Canada|Montreal|GloboTech Communications|
+|18|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|19|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
