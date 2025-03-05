@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4159** proxies at the latest update. Usable proxies are below.
+> Scraper found **4133** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|447|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|421|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|263|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2451|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|4|103.191.58.65|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|5|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|161.246.52.58|3128|Thailand|Lat Bua Luang|King Mongkut's Institute of Technology Ladkrabang|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|103.162.62.43|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
 |7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|103.155.196.110|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|11|208.77.131.6|8888|United States|Midland|ACD.net|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|103.131.19.30|8011|Indonesia|Lamongan|PT Global Media Data Prima|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|160.242.19.122|8080|Angola|Luanda|Paratus Telecommunications Limited|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|19|114.91.24.193|2324|China|Shanghai|China Telecom (Group)|
-|20|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|72.10.160.93|16153|Canada|Montreal|GloboTech Communications|
+|13|114.91.24.193|2324|China|Shanghai|China Telecom (Group)|
+|14|67.43.236.18|5609|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.93|16153|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|22173|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.236.21|31755|Canada|Montreal|GloboTech Communications|
+|19|125.87.93.153|2324|China|Chongqing|China Telecom|
+|20|72.10.164.178|9803|Canada|Montreal|GloboTech Communications|
 
 
 
