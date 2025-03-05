@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|27.79.249.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|67.43.228.250|30077|Canada|Montreal|GloboTech Communications|
-|9|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|10|72.10.160.90|2515|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|72.10.160.170|8095|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|4699|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|12265|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|5871|Canada|Montreal|GloboTech Communications|
-|18|27.189.134.23|8089|China|Langfang|Chinanet|
-|19|72.10.160.91|2837|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|12265|Canada|Montreal|GloboTech Communications|
+|1|103.106.228.66|3182|Japan|Tokyo|BrainStorm Network, Inc|
+|2|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|9|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|13|27.79.145.70|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|38.145.211.246|8899|United States|Chicago|Enzu Inc|
+|17|67.43.236.18|14689|Canada|Montreal|GloboTech Communications|
+|18|45.123.142.14|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|19|27.189.134.23|8089|China|Langfang|Chinanet|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
