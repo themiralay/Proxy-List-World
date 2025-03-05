@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|203.150.113.233|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|7|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|8|67.43.228.250|10885|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|22893|Canada|Montreal|GloboTech Communications|
-|10|114.220.155.244|8089|China|Nanjing|China Telecom|
-|11|27.189.128.81|8089|China|Langfang|Chinanet|
-|12|49.70.190.177|2324|China|Nanjing|Chinanet|
-|13|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|14|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|67.43.227.226|2163|Canada|Montreal|GloboTech Communications|
-|16|27.189.134.6|8089|China|Langfang|Chinanet|
-|17|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
-|18|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|19|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|4|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|38.145.211.246|8899|United States|Chicago|Enzu Inc|
+|12|45.71.15.1|9292|Brazil|Penápolis|Milanin NET|
+|13|203.150.113.233|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|14|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|117.44.64.85|655|China|Taohua|Chinanet|
+|17|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|19|67.43.228.250|3147|Canada|Montreal|GloboTech Communications|
+|20|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
 
 
 
