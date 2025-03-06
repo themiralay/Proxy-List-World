@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|3|109.205.58.20|3128|Russia|Moscow|SPRINTHOST.RU LLC|
-|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|5|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 |6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|103.145.34.170|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|13|47.128.228.142|3128|Singapore|Singapore|Amazon Technologies Inc|
-|14|3.110.131.238|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|72.10.164.178|24931|Canada|Montreal|GloboTech Communications|
-|17|27.79.159.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|218.1.197.213|2324|China|Shanghai|China Telecom (Group)|
-|19|180.97.220.151|11080|China|Nanjing|Chinanet|
-|20|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|9|3.110.131.238|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|12|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|13|192.187.127.43|3128|United States|Kansas City|Nocix, LLC|
+|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|201.49.193.249|7171|Brazil|Presidente Prudente|America-NET Ltda.|
+|19|177.234.217.62|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
 
 
 
