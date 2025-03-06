@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4627** proxies at the latest update. Usable proxies are below.
+> Scraper found **4673** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|174|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|546|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|432|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2549|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.9.27.178|10001|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|4|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|42.114.226.181|10003|Vietnam|Hanoi|FPT Telecom Company|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|3|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|4|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|6|101.255.167.242|8090|Indonesia|Jakarta|PT Remala Abadi|
 |7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|8|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|12|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|13|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|14|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|27.189.131.103|8089|China|Langfang|Chinanet|
-|17|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
-|18|67.43.236.19|6175|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|67.43.227.226|8941|Canada|Montreal|GloboTech Communications|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|101.255.165.130|1111|Indonesia|Jakarta|PT Remala Abadi|
+|13|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|14|115.72.168.208|28839|Vietnam|Vũng Tàu|VIETELmetro|
+|15|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|16|58.209.137.152|8089|China|Nanjing|China Telecom|
+|17|58.209.137.171|8089|China|Nanjing|China Telecom|
+|18|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|72.10.164.178|27833|Canada|Montreal|GloboTech Communications|
+|20|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
 
 
 
