@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|2|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|180.97.220.151|11080|China|Nanjing|Chinanet|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|118.113.247.78|2324|China|Shanghai|Chinanet|
-|10|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
-|11|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.228.250|27761|Canada|Montreal|GloboTech Communications|
+|1|103.132.181.36|1080|Bangladesh|Jamālpur|Mohammad Tawheedul Islam|
+|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|131.72.71.5|40033|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|177.81.25.226|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|8|192.135.91.19|3128|Pakistan|Karachi|Fiberlink Pvt.Ltd|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|160.25.245.12|8090|Indonesia|Ngawi|PT Jaringan Kita Bersama|
+|11|103.8.249.233|8080|India|Guwahati|Assam Electronics Development Corp Ltd|
+|12|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
 |13|72.10.160.90|13403|Canada|Montreal|GloboTech Communications|
-|14|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|72.10.160.173|15201|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|15201|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|14|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
+|15|170.239.205.78|999|Colombia|Bogotá|FIBERNET|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|49.249.83.13|8080|India|Hyderabad|TTL GSM|
+|20|1.92.79.157|7892|China|Beijing|Huawei Cloud Service data center|
 
 
 
