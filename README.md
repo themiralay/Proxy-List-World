@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|49.70.190.132|2324|China|Nanjing|Chinanet|
-|5|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|6|121.224.156.128|8089|China|Nanjing|China Telecom|
-|7|27.189.128.83|8089|China|Langfang|Chinanet|
-|8|49.149.115.137|8082|Philippines|Cotabato City|Philippine Long Distance Telephone Co.|
-|9|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|180.112.242.81|8089|China|Nanjing|Chinanet|
-|12|72.10.160.170|26841|Canada|Montreal|GloboTech Communications|
-|13|117.80.188.223|8089|China|Nanjing|China Telecom|
-|14|117.80.188.202|8089|China|Nanjing|China Telecom|
-|15|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|16|27.189.129.250|8089|China|Langfang|Chinanet|
-|17|121.232.181.138|8089|China|Nanjing|Chinanet|
-|18|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
-|20|67.43.228.250|2303|Canada|Montreal|GloboTech Communications|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|13|72.10.160.170|26841|Canada|Montreal|GloboTech Communications|
+|14|115.77.128.156|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|49.70.190.132|2324|China|Nanjing|Chinanet|
+|16|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|18|117.44.64.85|655|China|Taohua|Chinanet|
+|19|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|20|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 
 
 
