@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4461** proxies at the latest update. Usable proxies are below.
+> Scraper found **4501** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|131|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|459|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|499|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2482|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|45.239.51.169|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|3|103.160.205.230|8080|Indonesia|Timba Timuk|PRIME|
-|4|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|7|69.75.140.157|8080|United States|La Mirada|Spectrum|
-|8|27.189.129.95|8089|China|Langfang|Chinanet|
-|9|58.209.32.103|8089|China|Nanjing|China Telecom|
-|10|27.189.131.170|8089|China|Langfang|Chinanet|
-|11|67.43.236.18|27623|Canada|Montreal|GloboTech Communications|
-|12|124.106.116.34|1337|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
-|13|67.43.236.20|13275|Canada|Montreal|GloboTech Communications|
-|14|91.147.89.190|3128|Kazakhstan|Almaty Oblysy|NLS Kazakhstan LLC|
-|15|111.75.189.3|655|China|Taohua|Chinanet|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|72.10.164.178|11823|Canada|Montreal|GloboTech Communications|
-|18|175.103.36.130|3888|Indonesia|Prigen|Maxindo Mintra Solusi|
-|19|115.69.218.118|65432|Indonesia|Jagirsidosermo|DWP Customer Collocation|
-|20|42.51.69.208|11909|China|Zhengzhou|China Unicom Henan Province network|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|5|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
+|6|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|197.248.57.193|8080|Kenya|Nairobi|Safaricom Limited|
+|11|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|12|103.171.194.52|82|India|Udupi|Udupi Fastnet Private Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|27.189.128.88|8089|China|Langfang|Chinanet|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|27.189.135.78|8089|China|Langfang|Chinanet|
+|17|117.80.188.57|8089|China|Nanjing|China Telecom|
+|18|27.66.119.21|4002|Vietnam|Hanoi|Viettel Group|
+|19|27.189.131.38|8089|China|Langfang|Chinanet|
+|20|27.189.130.169|8089|China|Langfang|Chinanet|
 
 
 
