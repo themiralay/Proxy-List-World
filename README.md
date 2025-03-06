@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3981** proxies at the latest update. Usable proxies are below.
+> Scraper found **3949** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|97|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|98|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|494|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1993|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|14|201.220.112.99|999|Chile|Concepción|Telefonica del Sur S.A.|
-|15|27.79.234.96|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|114.224.79.33|8089|China|Wuxi|Chinanet|
-|19|190.211.0.11|999|Chile|Chillán|Telefonica del Sur S.A.|
-|20|72.10.160.91|28599|Canada|Montreal|GloboTech Communications|
+|1|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|112.204.118.177|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|5|103.40.8.92|8888|Singapore|Singapore|Zillion Network Inc.|
+|6|103.77.172.17|8080|Vietnam|Ho Chi Minh City|LIENVPS|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|144.48.229.33|8080|Cambodia|Phnom Penh|SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|15|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
