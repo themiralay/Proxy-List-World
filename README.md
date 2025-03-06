@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|3|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|27.54.117.222|8088|Indonesia|Legian|Indonesia Network Information Center|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|72.10.160.90|13391|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|28397|Canada|Montreal|GloboTech Communications|
-|13|58.209.137.133|8089|China|Nanjing|China Telecom|
-|14|72.10.164.178|31689|Canada|Montreal|GloboTech Communications|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|103.172.70.191|8181|Indonesia|Cimahi|AZNET|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.155.65.99|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|10|103.162.153.157|3030|Indonesia|Pangkalan Bunut|AKSIRIAU|
+|11|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|72.10.160.90|18275|Canada|Montreal|GloboTech Communications|
 |15|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|67.43.228.250|14573|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|14573|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|14573|Canada|Montreal|GloboTech Communications|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|185.200.38.213|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |19|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|20|67.43.227.226|24173|Canada|Montreal|GloboTech Communications|
+|20|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 
 
 
