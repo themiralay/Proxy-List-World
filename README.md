@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 |10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|67.43.236.18|30035|Canada|Montreal|GloboTech Communications|
-|12|180.97.220.151|11080|China|Nanjing|Chinanet|
-|13|72.10.160.90|8421|Canada|Montreal|GloboTech Communications|
-|14|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|58.209.137.142|8089|China|Nanjing|China Telecom|
-|17|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|18|67.43.227.227|25617|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|14305|Canada|Montreal|GloboTech Communications|
-|20|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|11|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|12|124.107.198.11|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|13|177.69.237.60|3128|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|14|27.79.159.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|16|103.169.254.75|6080|Indonesia|Curahjati|PT Master Star Network|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|18|192.145.206.160|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
+|19|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|185.69.153.202|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
 
 
 
