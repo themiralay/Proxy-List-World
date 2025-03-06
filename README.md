@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|3|115.72.47.63|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|5|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|115.72.174.54|10007|Vietnam|Vũng Tàu|VIETELmetro|
-|7|115.77.128.156|10008|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|17|116.109.116.114|5004|Vietnam|Hanoi|Viettel Corporation|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|35.178.50.207|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|6|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|8|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|9|115.77.128.156|10008|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|12|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|13|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|16|171.232.185.135|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|115.72.13.189|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|18|171.232.189.19|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|20|115.72.165.84|10008|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
