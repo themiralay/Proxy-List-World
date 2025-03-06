@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 |2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|148.113.174.7|3128|Canada|Beauharnois|OVH SAS|
-|4|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|5|67.43.227.228|1389|Canada|Montreal|GloboTech Communications|
-|6|27.189.129.15|8089|China|Langfang|Chinanet|
-|7|67.43.236.19|29599|Canada|Montreal|GloboTech Communications|
-|8|114.219.174.41|8089|China|Nanjing|China Telecom|
-|9|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|10|58.209.137.143|8089|China|Nanjing|China Telecom|
-|11|72.10.160.90|2223|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3509|Canada|Montreal|GloboTech Communications|
-|13|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|14|117.80.188.236|8089|China|Nanjing|China Telecom|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|27.189.130.96|8089|China|Langfang|Chinanet|
-|17|117.80.188.238|8089|China|Nanjing|China Telecom|
-|18|117.81.127.236|8089|China|Nanjing|China Telecom|
-|19|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|20|113.59.113.4|1088|China|Haikou|CNC Group CHINA169 Hainan Province Network|
+|3|223.205.187.171|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|4|72.10.164.178|3509|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.90|2223|Canada|Montreal|GloboTech Communications|
+|6|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|7|103.180.118.107|7100|Indonesia|Lamongan|PT Persada Data Multimedia|
+|8|113.59.113.4|1088|China|Haikou|CNC Group CHINA169 Hainan Province Network|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|12|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|103.171.255.188|8080|Indonesia|Sleman|ZKI|
+|18|82.213.29.203|19000|Palestine|Ramallah|Corporate -PALTEL|
+|19|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
