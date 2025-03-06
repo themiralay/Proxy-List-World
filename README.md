@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|10|115.72.37.47|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.115.239.14|1111|Indonesia|Sekupang|PT Fitrah Marina Sukses|
-|13|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|16|61.160.247.69|9999|China|Nanjing|China Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|27.189.132.98|8089|China|Langfang|Chinanet|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|6|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|7|38.253.95.106|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|8|180.97.220.151|11080|China|Nanjing|Chinanet|
+|9|38.183.146.181|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|13|102.219.231.22|8080|South Africa|Kriel|Soepa Soap Vervaardigers CC|
+|14|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|15|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|16|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|18|181.45.78.113|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
