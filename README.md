@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.189.129.54|8089|China|Langfang|Chinanet|
-|8|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|9|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
-|10|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|11|67.43.227.226|23551|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|19129|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|23551|Canada|Montreal|GloboTech Communications|
-|14|27.189.133.251|8089|China|Langfang|Chinanet|
-|15|49.84.134.9|8089|China|Nanjing|China Telecom|
-|16|27.189.134.120|8089|China|Langfang|Chinanet|
-|17|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|18|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|27.189.128.166|8089|China|Langfang|Chinanet|
+|1|27.79.181.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|3|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|4|36.92.28.34|8080|Indonesia|Manado|Telekomunikasi Indonesia|
+|5|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
+|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|14|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|186.96.68.62|999|Venezuela|Caracas|Gold Data C.A|
+|18|103.171.194.52|82|India|Udupi|Udupi Fastnet Private Limited|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
