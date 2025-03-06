@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4296** proxies at the latest update. Usable proxies are below.
+> Scraper found **4285** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|543|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|324|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2370|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.158.250.118|8787|Indonesia|Ngrance|VCDNET|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|180.191.51.58|8082|Philippines|Tarlac City|Globe Telecom|
-|5|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|194.36.59.186|1500|Ireland|Sligo|Blacknight Internet Solutions Limited|
-|12|160.19.16.29|9870|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|13|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|14|223.205.98.206|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|67.43.228.250|15601|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|180.92.239.146|8080|Bangladesh|Paltan|Information Services Network Ltd|
-|18|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|20|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
+|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|7|182.53.73.209|8080|Thailand|Uttaradit|TOT Public Company Limited|
+|8|103.158.11.64|32650|Bangladesh|Shariatpur|Ka Kha Computer|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|11|37.229.232.111|8080|Ukraine|Dnipro|Kyivstar UA|
+|12|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|16|121.232.178.7|8089|China|Nanjing|Chinanet|
+|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|18|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|27.189.131.98|8089|China|Langfang|Chinanet|
 
 
 
