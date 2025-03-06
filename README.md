@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4267** proxies at the latest update. Usable proxies are below.
+> Scraper found **4273** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|520|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|324|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2370|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|4|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|154.193.40.45|808|South Korea|Seoul|Octopus Web Solution Inc|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
-|6|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
-|9|154.193.39.212|808|South Korea|Seoul|Octopus Web Solution Inc|
-|10|154.193.39.132|808|South Korea|Seoul|Octopus Web Solution Inc|
-|11|154.193.39.138|808|South Korea|Seoul|Octopus Web Solution Inc|
-|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|13|67.43.236.19|24571|Canada|Montreal|GloboTech Communications|
-|14|154.193.40.18|808|South Korea|Seoul|Octopus Web Solution Inc|
-|15|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|27.189.128.213|8089|China|Langfang|Chinanet|
-|19|154.193.40.220|808|South Korea|Seoul|Octopus Web Solution Inc|
-|20|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|6|154.193.40.246|808|South Korea|Seoul|Octopus Web Solution Inc|
+|7|154.193.40.16|808|South Korea|Seoul|Octopus Web Solution Inc|
+|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|9|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.76.109.156|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|11|182.53.73.209|8080|Thailand|Uttaradit|TOT Public Company Limited|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|67.43.227.226|6201|Canada|Montreal|GloboTech Communications|
+|17|154.193.37.168|808|South Korea|Seoul|Octopus Web Solution Inc|
+|18|185.69.153.202|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|19|117.81.127.236|8089|China|Nanjing|China Telecom|
+|20|67.43.228.250|5733|Canada|Montreal|GloboTech Communications|
 
 
 
