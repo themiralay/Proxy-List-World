@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|38.43.150.69|999|Peru|Lima|Nextnet SAC|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|13|67.43.236.18|29591|Canada|Montreal|GloboTech Communications|
-|14|27.189.132.166|8089|China|Langfang|Chinanet|
-|15|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|16|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|17|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|18|101.255.132.211|8080|Indonesia|Gandaria Utara|PT Remala Abadi|
-|19|27.189.130.251|8089|China|Langfang|Chinanet|
-|20|185.204.171.178|3128|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
+|1|27.79.158.60|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|103.172.70.27|1111|Indonesia|Cimahi|AZNET|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|103.180.123.107|8085|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|6|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|115.72.174.54|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|15|27.189.132.166|8089|China|Langfang|Chinanet|
+|16|115.72.174.54|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|17|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|20|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
