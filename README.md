@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|181.209.111.148|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|11|38.145.211.246|8899|United States|Chicago|Enzu Inc|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|67.43.236.20|22077|Canada|Montreal|GloboTech Communications|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|103.82.39.237|15500|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|223.206.184.134|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|9|103.180.118.103|8090|Indonesia|Lamongan|PT Persada Data Multimedia|
+|10|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
+|13|190.52.100.211|999|Venezuela|Caracas|Gold Data USA Inc|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
 |16|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|18|67.43.228.251|19677|Canada|Montreal|GloboTech Communications|
-|19|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|20|103.83.97.46|7777|Indonesia|Pugeran Maguwoharjo|PT. Foxline Mediadata Indonusa|
+|17|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|18|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 
 
 
