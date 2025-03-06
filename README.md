@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.143.159|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|91.204.190.140|81|Armenia|Yerevan|BioNet LLC|
-|3|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
-|6|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|110.77.171.39|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|179.106.31.149|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|10|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|114.219.174.31|8089|China|Nanjing|China Telecom|
-|12|49.84.175.122|8089|China|Nanjing|China Telecom|
-|13|49.84.134.24|8089|China|Nanjing|China Telecom|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|72.10.160.90|22515|Canada|Montreal|GloboTech Communications|
-|17|36.66.200.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|72.10.160.170|5865|Canada|Montreal|GloboTech Communications|
-|19|49.84.175.77|8089|China|Nanjing|China Telecom|
-|20|114.219.174.55|8089|China|Nanjing|China Telecom|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|45.189.116.159|999|Peru|Lima|Conex TV E.I.R.L|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|110.77.171.39|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|91.107.163.2|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|103.82.132.206|36729|India|Faridabad|Cloudfly Corporation|
+|8|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|180.97.220.151|11080|China|Nanjing|Chinanet|
+|10|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|13|72.10.160.170|14129|Canada|Montreal|GloboTech Communications|
+|14|45.189.239.24|999|Mexico|Atlacomulco de Fabela|Miguel Amado Escobar|
+|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|72.10.160.90|22515|Canada|Montreal|GloboTech Communications|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
