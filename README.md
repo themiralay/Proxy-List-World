@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|182.253.68.150|8080|Indonesia|Jakarta|BIZNET|
-|5|124.106.116.34|1337|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
+|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|27.79.181.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|183.88.214.84|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
 |6|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|9|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|223.205.187.171|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|13|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
-|14|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
-|18|192.9.188.22|6424|Australia|Sydney|Oracle Corporation|
-|19|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
-|20|201.218.150.4|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
+|7|176.208.101.50|8080|Russia|Taman'|PJSC Rostelecom|
+|8|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|9|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|10|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|18|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|19|36.37.86.26|9812|Indonesia|Tangerang|LINTASARTA|
+|20|103.247.23.73|3125|Indonesia|Cilacap|PT wifian Solution|
 
 
 
