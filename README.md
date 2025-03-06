@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4649** proxies at the latest update. Usable proxies are below.
+> Scraper found **4596** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|495|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|442|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|563|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2515|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.253.48.112|3128|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|2|49.48.64.247|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|3|34.204.45.83|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|5|72.167.39.223|3128|United States|Tempe|GoDaddy.com, LLC|
-|6|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
-|7|34.204.45.83|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
-|9|154.16.214.14|3128|United States|Chicago|ipxo|
-|10|154.16.214.14|3128|United States|Chicago|ipxo|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|147.0.102.98|3128|United States|West Chester|Charter Communications Inc|
-|13|103.130.182.85|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
-|14|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|15|103.145.68.200|8181|Indonesia|Surabaya|ALFANET|
-|16|147.0.102.98|3128|United States|West Chester|Charter Communications Inc|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
+|2|43.204.228.133|3128|India|Mumbai|Amazon.com, Inc.|
+|3|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|4|3.110.131.238|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
+|6|43.205.117.61|3128|India|Mumbai|Amazon.com, Inc.|
+|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|154.16.214.14|3128|United States|Chicago|ipxo|
+|9|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
+|10|38.121.43.133|3128|United States|Atlanta|GTHost|
+|11|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
+|12|192.187.127.43|3128|United States|Kansas City|Nocix, LLC|
+|13|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|14|49.48.64.247|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.210.206.26|8080|India|Karur|Blue Net It Solutions Pvt Ltd|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
