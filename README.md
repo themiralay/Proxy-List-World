@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|91.107.163.2|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|91.107.163.2|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 |3|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|4|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|5|103.53.28.53|8080|Indonesia|Majalengka|PT. ANUGERAH RIZKI HEMAT BAROKAH|
-|6|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|7|179.106.31.149|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|67.43.228.250|18747|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|72.10.160.90|6151|Canada|Montreal|GloboTech Communications|
-|14|49.148.31.215|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|15|27.189.132.80|8089|China|Langfang|Chinanet|
-|16|27.189.132.85|8089|China|Langfang|Chinanet|
-|17|72.10.160.172|32745|Canada|Montreal|GloboTech Communications|
-|18|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|19|67.43.228.250|18747|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|15543|Canada|Montreal|GloboTech Communications|
+|4|45.189.116.159|999|Peru|Lima|Conex TV E.I.R.L|
+|5|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|6|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|7|72.10.160.92|13611|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.172|32745|Canada|Montreal|GloboTech Communications|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.76.105.30|8080|Indonesia|Makassar|PT Citra Prima Media|
+|11|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|12|103.164.223.51|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|67.43.227.226|27061|Canada|Montreal|GloboTech Communications|
+|16|38.172.130.211|999|Peru|Lima|Conex TV E.I.R.L.|
+|17|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|18|67.43.227.226|27061|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|14117|Canada|Montreal|GloboTech Communications|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
