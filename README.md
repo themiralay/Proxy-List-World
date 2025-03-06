@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.66.206.175|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|5|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|180.97.220.151|11080|China|Nanjing|Chinanet|
-|11|67.43.228.252|10001|Canada|Montreal|GloboTech Communications|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|27.189.129.68|8089|China|Langfang|Chinanet|
-|14|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|15|27.189.134.168|8089|China|Langfang|Chinanet|
-|16|27.189.133.197|8089|China|Langfang|Chinanet|
-|17|115.72.165.84|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|19|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
-|20|218.87.232.108|655|China|Nanchangshi|Chinanet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|27.79.197.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
+|8|103.167.170.62|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|9|180.97.220.151|11080|China|Nanjing|Chinanet|
+|10|103.86.116.83|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|11|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|12|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|182.204.182.147|1080|China|Shenyang|Chinanet|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
+|17|103.114.105.214|5002|Vietnam|Hanoi|Village 1|
+|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|19|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|20|190.52.97.27|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
