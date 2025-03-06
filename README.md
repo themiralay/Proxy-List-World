@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|27.79.177.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|201.150.119.171|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|160.25.196.17|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|7|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|177.93.59.54|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
 |12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|115.127.139.106|48134|Bangladesh|Paltan|BRACNet Limited|
-|14|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|58.209.137.140|8089|China|Nanjing|China Telecom|
-|18|27.189.134.108|8089|China|Langfang|Chinanet|
-|19|27.189.135.133|8089|China|Langfang|Chinanet|
-|20|72.10.160.170|26879|Canada|Montreal|GloboTech Communications|
+|13|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|160.19.18.75|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|15|103.174.145.46|83|India|Jalalpore|Vaidik Netsol OPC PVT LTD|
+|16|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|117.44.64.85|655|China|Taohua|Chinanet|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|20|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
 
 
 
