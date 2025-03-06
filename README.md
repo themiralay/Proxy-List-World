@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|2|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|5|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|72.10.160.92|18655|Canada|Montreal|GloboTech Communications|
-|9|102.222.62.111|8080|South Africa|Klerksdorp|Triqa Wifi|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
-|12|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|13|81.90.149.186|3128|Iran|Tehran|Afranet|
-|14|118.113.247.154|2324|China|Shanghai|Chinanet|
-|15|27.189.130.193|8089|China|Langfang|Chinanet|
-|16|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|17|27.189.131.41|8089|China|Langfang|Chinanet|
-|18|72.10.160.93|25433|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|27.189.129.142|8089|China|Langfang|Chinanet|
+|1|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|11|72.10.160.172|26107|Canada|Montreal|GloboTech Communications|
+|12|117.44.64.85|655|China|Taohua|Chinanet|
+|13|27.189.130.193|8089|China|Langfang|Chinanet|
+|14|114.223.42.66|8089|China|Wuxi|Chinanet|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|17|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
 
 
 
