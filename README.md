@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|2|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
-|3|181.78.17.78|999|Colombia|Yumbo|IFX Networks Argentina S.R.L|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|107.189.1.199|3128|Luxembourg|Roost|FranTech Solutions|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|38.224.223.248|9991|Mexico|Cunduacán|Javier Tamayo Garcia|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|41.77.13.186|53281|Malawi|Lilongwe|Globe LLW SR|
-|11|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.66.119.21|4033|Vietnam|Hanoi|Viettel Group|
-|13|72.10.160.93|10711|Canada|Montreal|GloboTech Communications|
-|14|27.189.130.97|8089|China|Langfang|Chinanet|
-|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|16|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|17|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|67.43.228.251|20703|Canada|Montreal|GloboTech Communications|
-|20|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|107.151.238.173|80|Hong Kong|Hong Kong|Ansheng Network Technology Co., Limited|
+|10|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|12|91.229.28.110|3128|Slovakia|Šurany|KOMNET, s.r.o.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|15|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|16|72.10.160.171|6061|Canada|Montreal|GloboTech Communications|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
