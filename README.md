@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|3|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|4|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|101.255.167.242|8090|Indonesia|Jakarta|PT Remala Abadi|
+|1|103.194.46.68|8090|Indonesia|Nagara Tengah|JABNET|
+|2|115.72.34.134|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 |7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|101.255.165.130|1111|Indonesia|Jakarta|PT Remala Abadi|
-|13|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
-|14|115.72.168.208|28839|Vietnam|Vũng Tàu|VIETELmetro|
-|15|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|16|58.209.137.152|8089|China|Nanjing|China Telecom|
-|17|58.209.137.171|8089|China|Nanjing|China Telecom|
-|18|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|72.10.164.178|27833|Canada|Montreal|GloboTech Communications|
-|20|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|103.163.80.70|8090|Indonesia|Ngawi|PT Data Arta Sedaya|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|12|115.69.218.118|65432|Indonesia|Jagirsidosermo|DWP Customer Collocation|
+|13|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|117.44.64.85|655|China|Taohua|Chinanet|
+|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|18|72.10.164.178|15147|Canada|Montreal|GloboTech Communications|
+|19|156.155.29.117|8080|South Africa|Durban|AxxessNetworks|
+|20|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
