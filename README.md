@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.9.37.61|3128|South Korea|Paju|Korea Telecom|
-|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|192.187.127.43|3128|United States|Kansas City|Nocix, LLC|
+|2|38.121.43.133|3128|United States|Atlanta|GTHost|
 |3|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
-|4|34.204.45.83|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
 |5|3.110.131.238|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|43.205.117.61|3128|India|Mumbai|Amazon.com, Inc.|
-|7|192.187.127.43|3128|United States|Kansas City|Nocix, LLC|
-|8|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|192.187.127.43|3128|United States|Kansas City|Nocix, LLC|
+|7|157.66.16.36|8866|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
 |10|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|11|179.43.3.5|8080|Colombia|Medellín|Planet Telecom Colombia S.A.S|
-|12|192.187.127.43|3128|United States|Kansas City|Nocix, LLC|
-|13|34.204.45.83|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|3.143.205.132|3128|United States|Dublin|Amazon.com, Inc.|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|49.48.64.247|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|38.121.43.133|3128|United States|Atlanta|GTHost|
+|13|154.16.214.14|3128|United States|Chicago|ipxo|
+|14|222.253.48.112|3128|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 |16|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|17|154.16.214.14|3128|United States|Chicago|ipxo|
-|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|19|154.16.214.14|3128|United States|Chicago|ipxo|
-|20|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
+|17|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|18|188.132.222.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
