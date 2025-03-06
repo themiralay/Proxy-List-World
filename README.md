@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.108.27.249|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|2|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|4|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|101.108.27.249|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|3|34.101.137.167|80|Indonesia|Jakarta|Google LLC|
+|4|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
 |5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|129.153.197.111|3128|United States|Phoenix|Oracle Corporation|
+|8|129.153.197.111|3128|United States|Phoenix|Oracle Corporation|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|16|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
-|17|207.244.252.110|8888|United States|St Louis|Nubes, LLC|
-|18|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|19|3.110.131.238|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|12|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|13|185.69.153.202|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|14|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
+|15|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|16|187.188.169.169|8080|Mexico|Acatzingo|Total Play Telecomunicaciones SA De CV|
+|17|157.15.41.142|8082|Indonesia|Madiun|PT Trisari Data Indonusa|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|103.169.189.124|3125|Indonesia|Magetan|Sarana Media Cemerlang|
 
 
 
