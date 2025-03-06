@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|42.114.226.181|10003|Vietnam|Hanoi|FPT Telecom Company|
-|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|7|180.97.220.151|11080|China|Nanjing|Chinanet|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|117.102.67.67|8050|Indonesia|Cilandak|BIZNET|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|72.10.160.90|19939|Canada|Montreal|GloboTech Communications|
-|14|27.189.132.191|8089|China|Langfang|Chinanet|
-|15|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|18|118.113.245.185|2324|China|Shanghai|Chinanet|
+|1|27.66.206.175|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|2|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|171.228.120.33|5101|Vietnam|Vĩnh Yên|Viettel Corporation|
+|7|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
+|8|124.83.51.94|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|111.75.189.3|655|China|Taohua|Chinanet|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|13|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|18|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
 |19|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|20|27.189.133.51|8089|China|Langfang|Chinanet|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
