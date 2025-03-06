@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
-|2|103.178.125.51|8080|Indonesia|Batang|IKI-INDONESIA|
-|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|4|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
 |5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|27.189.129.166|8089|China|Langfang|Chinanet|
-|8|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|10|27.189.129.166|8089|China|Langfang|Chinanet|
-|11|114.223.182.85|8089|China|Wuxi|Chinanet|
-|12|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|72.10.160.170|20459|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|16553|Canada|Montreal|GloboTech Communications|
-|16|27.189.129.253|8089|China|Langfang|Chinanet|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|156.155.29.117|8080|South Africa|Durban|AxxessNetworks|
-|19|72.10.160.90|21507|Canada|Montreal|GloboTech Communications|
-|20|45.188.125.33|999|Mexico|Centro Municipality|Digy Networks S.A De C.V.|
+|6|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|7|72.10.160.170|20459|Canada|Montreal|GloboTech Communications|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|10|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|103.175.240.87|8080|Indonesia|Banyumas|LDP|
+|13|36.66.242.118|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
+|15|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|67.43.227.228|23747|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|17505|Canada|Montreal|GloboTech Communications|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
 
 
 
