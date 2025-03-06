@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
-|3|45.179.166.14|3128|Venezuela|Maracaibo|Tecnoven Services CA|
+|1|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
+|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
 |4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|103.82.39.122|8080|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|84.201.150.255|1080|Russia|Mytishchi|Yandex enterprise network|
+|5|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.146.197.78|8080|Indonesia|Banyuwangi|RIYADNETWORK|
+|8|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|67.43.227.226|20361|Canada|Montreal|GloboTech Communications|
-|13|27.189.130.52|8089|China|Langfang|Chinanet|
-|14|117.80.188.20|8089|China|Nanjing|China Telecom|
-|15|121.224.156.149|8089|China|Nanjing|China Telecom|
-|16|117.80.188.238|8089|China|Nanjing|China Telecom|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.236.18|15067|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6193|Canada|Montreal|GloboTech Communications|
+|11|103.82.39.122|8080|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|67.43.236.18|29155|Canada|Montreal|GloboTech Communications|
+|14|180.97.220.151|11080|China|Nanjing|Chinanet|
+|15|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|16|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|17|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|58.209.137.188|8089|China|Nanjing|China Telecom|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|58.209.137.186|8089|China|Nanjing|China Telecom|
 
 
 
