@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|3|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 |5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|3.110.131.238|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|185.69.153.202|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|113.23.40.194|10005|Vietnam|Hanoi|FPT Telecom Company|
-|17|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|45.224.117.35|999|Ecuador|Pelileo|TELECOM|
+|9|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|10|116.108.20.74|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|116.108.251.17|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|113.23.40.190|10008|Vietnam|Hanoi|FPT Telecom Company|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|113.192.48.25|8181|Indonesia|Batu|PT.Global Media Data Prima|
+|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|117.80.188.208|8089|China|Nanjing|China Telecom|
 
 
 
