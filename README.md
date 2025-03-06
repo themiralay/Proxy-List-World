@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.181.237|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|3|38.191.161.90|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|200.125.169.142|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|4|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|5|103.63.26.119|8080|Indonesia|Tamanan|PT Global Media Data Prima|
 |6|204.157.169.238|8080|Myanmar|Yangon|Global Technology Co., Ltd.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|117.80.188.242|8089|China|Nanjing|China Telecom|
-|11|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
-|12|67.43.227.226|8817|Canada|Montreal|GloboTech Communications|
-|13|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|14|72.10.160.93|1619|Canada|Montreal|GloboTech Communications|
-|15|58.209.137.128|8089|China|Nanjing|China Telecom|
-|16|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
-|17|218.1.197.239|2324|China|Shanghai|China Telecom (Group)|
-|18|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|117.80.188.205|8089|China|Nanjing|China Telecom|
-|20|117.80.188.215|8089|China|Nanjing|China Telecom|
+|7|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|102.213.219.234|8080|Kenya|Garissa|Celcom Networks Ltd|
+|10|182.253.109.209|8080|Indonesia|Semarang|Biznet Metronet|
+|11|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|12|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|14|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|15|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|118.113.244.49|2324|China|Shanghai|Chinanet|
+|18|94.41.246.203|3128|Russia|Ufa|JSC "Ufanet"|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
 
 
 
