@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.234.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|223.207.97.253|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|138.117.110.106|8081|Colombia|Manizales|Media Commerce Partners S.A|
-|12|113.23.40.117|10022|Vietnam|Hanoi|FPT Telecom Company|
-|13|67.43.227.226|27999|Canada|Montreal|GloboTech Communications|
-|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|211.225.214.241|80|South Korea|Boeun-gun|Korea Telecom|
-|16|117.80.188.238|8089|China|Nanjing|China Telecom|
-|17|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|113.23.40.124|10022|Vietnam|Hanoi|FPT Telecom Company|
-|19|113.23.40.125|10022|Vietnam|Hanoi|FPT Telecom Company|
-|20|117.80.188.215|8089|China|Nanjing|China Telecom|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.234.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|38.145.211.246|8899|United States|Chicago|Enzu Inc|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|14|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|15|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|72.10.160.90|17569|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.228.250|30341|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
