@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|5|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|6|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|9|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|118.113.244.222|2324|China|Shanghai|Chinanet|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|27.79.188.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|16|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|72.10.160.171|14787|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.236.18|6243|Canada|Montreal|GloboTech Communications|
-|20|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|4|27.79.177.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|6|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
+|10|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|11|38.145.211.247|8899|United States|Chicago|Enzu Inc|
+|12|27.76.109.244|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|18|209.14.85.38|3128|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|19|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
