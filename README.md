@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
-|2|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|193.46.0.103|3128|United Kingdom|London|Rackdog, LLC|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|115.72.47.63|10014|Vietnam|Ho Chi Minh City|VIETELmetro|
 |6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|181.78.17.78|999|Colombia|Yumbo|IFX Networks Argentina S.R.L|
-|9|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
-|10|27.79.159.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|45.70.85.33|58080|Brazil|Tupã|B.B.S COMUNICAÇÕES LTDA ME|
-|16|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|17|65.20.188.244|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|7|115.72.37.47|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
+|8|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|115.69.218.118|65432|Indonesia|Jagirsidosermo|DWP Customer Collocation|
+|11|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|12|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|19|117.44.64.85|655|China|Taohua|Chinanet|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
