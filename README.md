@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|3|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|67.43.228.250|5733|Canada|Montreal|GloboTech Communications|
-|11|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|12|67.43.228.250|5733|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|15|67.43.228.250|5733|Canada|Montreal|GloboTech Communications|
-|16|91.229.28.105|3128|Slovakia|Šurany|KOMNET, s.r.o.|
-|17|117.44.64.85|655|China|Taohua|Chinanet|
-|18|223.205.187.171|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|19|180.97.220.151|11080|China|Nanjing|Chinanet|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|103.158.250.118|8787|Indonesia|Ngrance|VCDNET|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|180.191.51.58|8082|Philippines|Tarlac City|Globe Telecom|
+|5|27.79.187.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|194.36.59.186|1500|Ireland|Sligo|Blacknight Internet Solutions Limited|
+|12|160.19.16.29|9870|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|13|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|223.205.98.206|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|67.43.228.250|15601|Canada|Montreal|GloboTech Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|180.92.239.146|8080|Bangladesh|Paltan|Information Services Network Ltd|
+|18|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|20|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
 
 
 
