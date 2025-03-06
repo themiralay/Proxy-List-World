@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|5|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|6|27.79.194.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
 |9|47.237.13.153|10086|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|14.170.173.177|10015|Vietnam|Bắc Giang|VNPT-VNNIC|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|14|118.113.247.17|2324|China|Shanghai|Chinanet|
-|15|58.209.32.87|8089|China|Nanjing|China Telecom|
-|16|118.113.245.114|2324|China|Shanghai|Chinanet|
-|17|154.6.189.110|3128|Germany|Frankfurt am Main|haoxiangyun|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|114.219.174.32|8089|China|Nanjing|China Telecom|
-|20|58.209.137.151|8089|China|Nanjing|China Telecom|
+|10|103.184.54.244|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|11|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|103.133.26.11|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|15|124.105.17.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|223.205.187.171|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
