@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|103.11.193.67|8080|Mongolia|Ulan Bator|MCS-Univision|
+|2|27.76.97.131|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |3|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|203.150.113.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|121.224.170.253|8089|China|Nanjing|China Telecom|
-|14|118.113.244.103|2324|China|Shanghai|Chinanet|
-|15|67.43.227.226|11313|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|187.125.52.251|8080|Brazil|Lauro de Freitas|V tal|
-|18|67.43.227.229|7643|Canada|Montreal|GloboTech Communications|
-|19|157.15.166.74|8090|Indonesia|Metro|PT Kartika Siger Network|
-|20|117.80.188.200|8089|China|Nanjing|China Telecom|
+|5|182.255.0.62|3128|Indonesia|Semarang|Universitas Diponegoro|
+|6|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|67.43.228.251|7645|Canada|Montreal|GloboTech Communications|
+|15|111.125.242.34|80|India|Mumbai|NIXI|
+|16|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|91.147.89.190|3128|Kazakhstan|Almaty Oblysy|NLS Kazakhstan LLC|
+|18|115.75.99.65|8080|Vietnam|Vĩnh Long|VIETELxdsl|
+|19|154.193.39.153|808|South Korea|Seoul|Octopus Web Solution Inc|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
