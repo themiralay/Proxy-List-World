@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
-|2|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
-|3|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|18.212.233.234|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|103.167.109.171|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|8|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|38.7.100.128|999|Peru|Arequipa|Fiber Fix|
-|10|186.96.73.190|999|Panama|Panama City|Gold Data USA Inc|
-|11|45.5.116.145|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|20|27.189.131.178|8089|China|Langfang|Chinanet|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|203.150.113.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|7|177.93.58.53|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|8|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|13|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|186.121.234.93|80|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|103.61.39.197|3128|Hong Kong|Hong Kong|Cloud Computing HK Limited|
+|20|72.10.164.178|5011|Canada|Montreal|GloboTech Communications|
 
 
 
