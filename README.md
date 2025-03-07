@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.244.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|203.150.113.140|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|27.79.213.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|14|45.184.152.129|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|17|18.166.52.213|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|18|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|19|27.189.130.240|8089|China|Langfang|Chinanet|
-|20|18.139.209.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|1|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|101.109.48.10|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|17|49.70.190.241|2324|China|Nanjing|Chinanet|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
+|20|118.71.141.164|10001|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 
 
 
