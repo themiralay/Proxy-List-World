@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|160.20.165.230|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
-|9|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|10|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
-|11|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
-|12|67.43.236.18|23581|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|29941|Canada|Montreal|GloboTech Communications|
-|14|27.189.130.84|8089|China|Langfang|Chinanet|
-|15|67.43.236.18|23581|Canada|Montreal|GloboTech Communications|
-|16|121.232.181.157|8089|China|Nanjing|Chinanet|
-|17|27.189.134.197|8089|China|Langfang|Chinanet|
-|18|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
-|19|72.10.160.170|3295|Canada|Montreal|GloboTech Communications|
-|20|27.189.130.215|8089|China|Langfang|Chinanet|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|103.113.3.29|8080|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|114.9.27.158|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
+|15|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
+|16|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|17|38.121.43.133|3128|United States|Atlanta|GTHost|
+|18|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
+|19|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
 
 
 
