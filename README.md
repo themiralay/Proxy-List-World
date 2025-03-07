@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
-|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|4|42.116.115.40|18011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|103.230.81.27|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|42.116.143.77|18035|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
-|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|13|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|14|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|15|27.189.131.103|8089|China|Langfang|Chinanet|
-|16|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
-|17|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|18|67.43.228.250|32329|Canada|Montreal|GloboTech Communications|
-|19|38.121.43.133|3128|United States|Atlanta|GTHost|
-|20|121.232.181.154|8089|China|Nanjing|Chinanet|
+|2|222.127.206.145|8082|Philippines|Makati City|GLBB|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|1.55.141.228|29607|Vietnam|Hanoi|FPT Telecom Company|
+|8|118.69.26.238|18041|Vietnam|Hanoi|FPT Telecom Company|
+|9|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|10|1.54.36.156|29604|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|13|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|14|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|185.73.113.49|3128|The Netherlands|Amsterdam|NRP TEKNOLOJi LiMiTED SiRKETi - Netherlands Network|
+|17|122.225.230.190|9788|China|Hangzhou|China Telecom Next Generation Carrier Network|
+|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|19|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
 
 
 
