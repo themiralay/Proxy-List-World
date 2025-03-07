@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|2|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|3|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|1.20.169.176|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|103.166.159.199|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|2|85.214.190.195|3128|Germany|Berlin|Strato AG|
+|3|103.141.149.194|8080|Indonesia|Banda Aceh|PT Acehlink Media|
+|4|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|41.77.13.186|53281|Malawi|Lilongwe|Globe LLW SR|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|13|27.79.197.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|15|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|16|103.172.249.234|3128|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|17|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|18|122.225.230.190|9788|China|Hangzhou|China Telecom Next Generation Carrier Network|
-|19|27.66.235.125|5109|Vietnam|Hanoi|Viettel Group|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|14|122.225.230.190|9788|China|Hangzhou|China Telecom Next Generation Carrier Network|
+|15|27.189.128.112|8089|China|Langfang|Chinanet|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
