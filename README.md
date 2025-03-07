@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.211.26.94|8006|Indonesia|Madiun|PT Olean Permata Telematika|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|8|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|67.43.227.227|33193|Canada|Montreal|GloboTech Communications|
-|10|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|11|67.43.236.18|19355|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|10259|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|24457|Canada|Montreal|GloboTech Communications|
-|14|27.189.132.86|8089|China|Langfang|Chinanet|
-|15|72.10.160.171|26637|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|26637|Canada|Montreal|GloboTech Communications|
-|17|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|18|121.224.170.234|8089|China|Nanjing|China Telecom|
-|19|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|20|67.43.227.226|32457|Canada|Montreal|GloboTech Communications|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|4|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|103.173.139.89|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|7|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.231.26|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|45.162.132.9|999|Chile|Puente Alto|Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada|
+|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|18|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
