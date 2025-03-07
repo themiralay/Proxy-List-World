@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.109.60.39|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|10|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|11|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|12|190.69.157.208|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP BIC|
-|13|154.79.244.62|58792|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|115.69.218.118|65432|Indonesia|Jagirsidosermo|DWP Customer Collocation|
-|16|72.10.160.170|22131|Canada|Montreal|GloboTech Communications|
-|17|177.125.86.108|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
-|18|129.148.59.115|3128|Brazil|São Paulo|Oracle Corporation|
-|19|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|37.232.13.2|8080|Georgia|Tbilisi|JSC "Silknet"|
+|8|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|102.0.5.152|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|11|27.189.129.210|8089|China|Langfang|Chinanet|
+|12|180.112.42.250|8089|China|Nanjing|Chinanet|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|27.79.158.60|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|38.156.235.43|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|16|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|17|72.10.160.170|22131|Canada|Montreal|GloboTech Communications|
+|18|103.160.182.33|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|19|67.43.236.18|30707|Canada|Montreal|GloboTech Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
