@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4343** proxies at the latest update. Usable proxies are below.
+> Scraper found **4348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|193|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|419|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|192|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|425|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|245|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2560|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|13|103.133.61.173|3030|Indonesia|Bandar Lampung|TLINK|
-|14|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
-|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|171.238.159.11|10010|Vietnam|Quảng Ngãi|Viettel Corporation|
-|19|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|49.84.134.15|8089|China|Nanjing|China Telecom|
+|1|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|115.72.170.248|10018|Vietnam|Vũng Tàu|VIETELmetro|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|180.97.220.151|11080|China|Nanjing|Chinanet|
+|11|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|118.71.141.164|10002|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|16|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|17|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|18|115.72.47.63|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
 
 
 
