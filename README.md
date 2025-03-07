@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|1|66.54.106.56|8102|United States|Itta Bena|Mobile Communications, LLC|
+|2|66.54.106.56|8102|United States|Itta Bena|Mobile Communications, LLC|
 |3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|5|203.150.128.130|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|18.209.49.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|43.205.117.61|3128|India|Mumbai|Amazon.com, Inc.|
+|4|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|7|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
 |8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|72.10.160.90|33059|Canada|Montreal|GloboTech Communications|
-|10|47.128.228.142|3128|Singapore|Singapore|Amazon Technologies Inc|
-|11|27.189.128.204|8089|China|Langfang|Chinanet|
-|12|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|67.43.227.230|5313|Canada|Montreal|GloboTech Communications|
-|16|27.189.129.227|8089|China|Langfang|Chinanet|
-|17|67.43.227.226|23083|Canada|Montreal|GloboTech Communications|
-|18|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|19|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|20|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|9|72.10.160.90|19709|Canada|Montreal|GloboTech Communications|
+|10|185.69.153.202|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|72.10.160.170|10367|Canada|Montreal|GloboTech Communications|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|19|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|20|185.206.83.246|8080|Iraq|Erbil|DIL Technology Limited|
 
 
 
