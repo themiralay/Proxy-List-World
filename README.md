@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|5|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|6|45.174.172.210|999|Mexico|Rioverde|Azahel Enrique Garcia Salazar|
-|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|8|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.153.76.6|5000|Vietnam|Hanoi|S1-VIETSERVER|
-|10|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|11|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|170.80.234.145|8080|Brazil|Olinda|Agility Telecom Ltda|
+|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|2|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|3|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|103.153.76.6|5000|Vietnam|Hanoi|S1-VIETSERVER|
+|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|115.72.168.208|28839|Vietnam|Vũng Tàu|VIETELmetro|
+|12|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
+|13|203.190.44.230|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|14|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
 |15|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|16|18.166.52.213|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|17|18.139.209.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|101.109.60.39|8080|Thailand|Pattaya|TOT Public Company Limited|
-|20|185.73.113.49|3128|The Netherlands|Amsterdam|NRP TEKNOLOJi LiMiTED SiRKETi - Netherlands Network|
+|16|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
 
 
 
