@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.130.203|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|72.10.164.178|13633|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|28641|Canada|Montreal|GloboTech Communications|
-|13|115.72.47.63|10035|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|67.43.228.250|28641|Canada|Montreal|GloboTech Communications|
-|15|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|16|180.97.220.151|11080|China|Nanjing|Chinanet|
-|17|27.189.133.24|8089|China|Langfang|Chinanet|
-|18|67.43.228.251|28095|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|17853|Canada|Montreal|GloboTech Communications|
-|20|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|103.117.194.250|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|12|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|181.204.83.115|41890|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|110.188.37.84|2324|China|Muping|Chinanet|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
