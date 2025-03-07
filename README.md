@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.244.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|8|5.181.178.46|8080|Japan|Koto City|Lain.sh|
-|9|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.191.165.78|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|12|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|15.235.131.241|8080|Singapore|Singapore|OVH Hosting|
-|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|19|27.189.128.160|8089|China|Langfang|Chinanet|
-|20|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|177.94.225.218|8080|Brazil|Santo André|Vivo|
+|5|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|10|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|12|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|52.170.253.201|3128|United States|Boydton|Microsoft Corporation|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|103.191.165.78|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|20|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 
 
 
