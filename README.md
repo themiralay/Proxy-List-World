@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.116.143.45|28843|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|2|42.116.143.77|18035|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|115.72.170.248|10018|Vietnam|Vũng Tàu|VIETELmetro|
-|4|118.69.26.238|18041|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.116.115.40|18011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|115.74.2.190|10029|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|1.55.141.228|29607|Vietnam|Hanoi|FPT Telecom Company|
-|9|115.77.134.169|10022|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|27.147.218.18|63680|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|12|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|13|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|15|1.54.36.156|29604|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
-|17|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|18|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|113.53.61.164|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|1|115.72.170.248|10018|Vietnam|Vũng Tàu|VIETELmetro|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|42.116.115.40|18011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|1.54.36.156|29604|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|118.69.26.238|18041|Vietnam|Hanoi|FPT Telecom Company|
+|6|42.116.143.77|18035|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|115.74.2.190|10029|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|8|115.77.134.169|10022|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|1.55.141.228|29607|Vietnam|Hanoi|FPT Telecom Company|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|42.116.143.11|29651|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|14|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|15|27.79.137.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|19|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
