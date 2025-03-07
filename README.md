@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|4|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
-|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
-|7|67.43.227.230|7977|Canada|Montreal|GloboTech Communications|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|118.113.245.185|2324|China|Shanghai|Chinanet|
-|10|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|11|118.71.141.164|10005|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|118.113.244.29|2324|China|Shanghai|Chinanet|
-|13|27.189.130.134|8089|China|Langfang|Chinanet|
-|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
+|1|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|118.113.247.245|2324|China|Shanghai|Chinanet|
+|12|67.43.227.230|7977|Canada|Montreal|GloboTech Communications|
+|13|49.70.190.242|2324|China|Nanjing|Chinanet|
+|14|118.113.244.29|2324|China|Shanghai|Chinanet|
+|15|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
 |16|38.22.17.50|3128|United States|Atlanta|GTHost|
-|17|182.105.82.38|655|China|Taohua|Chinanet|
-|18|27.189.133.182|8089|China|Langfang|Chinanet|
-|19|118.113.247.25|2324|China|Shanghai|Chinanet|
-|20|177.69.237.60|3128|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|17|103.171.194.52|82|India|Udupi|Udupi Fastnet Private Limited|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 
 
 
