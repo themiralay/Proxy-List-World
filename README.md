@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.158.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|101.109.60.39|8080|Thailand|Pattaya|TOT Public Company Limited|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|16|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
-|17|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|72.10.164.178|14419|Canada|Montreal|GloboTech Communications|
-|19|182.105.82.38|655|China|Taohua|Chinanet|
-|20|67.43.228.250|22615|Canada|Montreal|GloboTech Communications|
+|1|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|6|101.109.60.39|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
+|10|58.136.169.83|8080|Thailand|Bangkok|AIS-Fibre|
+|11|182.105.82.38|655|China|Taohua|Chinanet|
+|12|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|14|122.225.230.190|9788|China|Hangzhou|China Telecom Next Generation Carrier Network|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|180.112.42.250|8089|China|Nanjing|Chinanet|
+|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|19|192.9.188.22|6179|Australia|Sydney|Oracle Corporation|
+|20|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
