@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.217.91|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.213.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|167.179.85.151|80|Japan|Sendai|The Constant Company, LLC|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|103.168.254.81|1111|Indonesia|Jepara|PT Fahasa Tri Data|
-|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|160.30.133.128|8080|Myanmar|Mandalay|T-Link Group Company Limited|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|118.113.245.167|2324|China|Shanghai|Chinanet|
-|20|117.82.227.134|8089|China|Nanjing|China Telecom|
+|4|27.79.213.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|27.79.217.91|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|14|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|176.105.220.74|3129|Ukraine|Vinnytsia|NPK Home-Net Ltd.|
+|16|177.69.237.60|3128|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|17|222.127.77.167|8082|Philippines|Lahug|INNOVE|
+|18|160.191.130.65|8080|Indonesia|Kebumen Satu|PT Jaringan Lintas Maritim|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
