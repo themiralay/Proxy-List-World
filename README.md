@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|14.39.239.241|63435|South Korea|Mapo-gu|Korea Telecom|
-|5|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|3|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.213.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
-|9|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
-|10|27.189.129.53|8089|China|Langfang|Chinanet|
-|11|67.43.227.227|6999|Canada|Montreal|GloboTech Communications|
-|12|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|89.58.35.180|3128|Germany|Nuremberg|netcup GmbH|
+|9|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|10|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|113.160.214.209|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|14|118.113.245.242|2324|China|Shanghai|Chinanet|
 |15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|27.189.130.78|8089|China|Langfang|Chinanet|
-|17|27.189.128.101|8089|China|Langfang|Chinanet|
-|18|27.189.134.8|8089|China|Langfang|Chinanet|
-|19|218.1.197.21|2324|China|Shanghai|China Telecom (Group)|
-|20|118.113.247.192|2324|China|Shanghai|Chinanet|
+|16|67.43.236.20|30987|Canada|Montreal|GloboTech Communications|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|72.10.164.178|24037|Canada|Montreal|GloboTech Communications|
+|19|125.87.94.181|2324|China|Chongqing|China Telecom|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
