@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|5|103.153.76.6|5000|Vietnam|Hanoi|S1-VIETSERVER|
-|6|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|190.52.108.248|6666|Venezuela|Caracas|Gold Data USA Inc|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|14|38.22.17.50|3128|United States|Atlanta|GTHost|
-|15|38.121.43.133|3128|United States|Atlanta|GTHost|
-|16|49.70.190.189|2324|China|Nanjing|Chinanet|
-|17|67.43.227.226|7607|Canada|Montreal|GloboTech Communications|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|42.116.143.45|28843|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|1.54.36.156|29604|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|118.69.26.238|18041|Vietnam|Hanoi|FPT Telecom Company|
+|4|1.55.141.228|29607|Vietnam|Hanoi|FPT Telecom Company|
+|5|42.116.143.11|29651|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|42.116.115.40|18011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|115.77.134.169|10022|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|115.72.170.248|10018|Vietnam|Vũng Tàu|VIETELmetro|
+|9|115.77.135.51|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|115.74.2.190|10029|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|42.116.143.77|18035|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|14|171.238.159.11|10007|Vietnam|Quảng Ngãi|Viettel Corporation|
+|15|103.242.105.111|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|16|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|18|103.153.76.6|5000|Vietnam|Hanoi|S1-VIETSERVER|
+|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
 
 
 
