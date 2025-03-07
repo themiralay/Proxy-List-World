@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4281** proxies at the latest update. Usable proxies are below.
+> Scraper found **4269** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|183|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|393|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|219|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2560|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|12|67.43.236.18|11743|Canada|Montreal|GloboTech Communications|
-|13|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
-|14|67.43.236.21|4203|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|2075|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|2579|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|32809|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|11743|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|29941|Canada|Montreal|GloboTech Communications|
-|20|113.23.98.81|8080|Vietnam|Tuy Hoa|FPT Telecom Company|
+|1|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|27.189.130.36|8089|China|Langfang|Chinanet|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
+|16|72.10.160.91|1371|Canada|Montreal|GloboTech Communications|
+|17|27.189.134.92|8089|China|Langfang|Chinanet|
+|18|67.43.227.226|20485|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.252|30863|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|20485|Canada|Montreal|GloboTech Communications|
 
 
 
