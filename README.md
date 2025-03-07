@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|8|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|67.43.227.227|3059|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|27.189.134.149|8089|China|Langfang|Chinanet|
-|15|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|16|121.224.170.225|8089|China|Nanjing|China Telecom|
-|17|72.10.164.178|29029|Canada|Montreal|GloboTech Communications|
-|18|27.189.128.130|8089|China|Langfang|Chinanet|
-|19|27.189.134.136|8089|China|Langfang|Chinanet|
-|20|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|171.238.159.11|10005|Vietnam|Quảng Ngãi|Viettel Corporation|
+|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|103.208.102.2|8080|Indonesia|Magelang|PT Tidar Lintas Nusa|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|14|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|16|101.255.164.213|8090|Indonesia|Jakarta|PT Remala Abadi|
+|17|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|18|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
+|19|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|20|102.219.208.86|3346|Kenya|Nairobi|Vijiji Connect Limited|
 
 
 
