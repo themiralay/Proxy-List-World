@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|2|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|27.79.194.27|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|134.209.102.215|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
 |5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|134.209.102.215|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|31.6.41.156|8118|Switzerland|Zurich|YHC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|72.10.160.170|23863|Canada|Montreal|GloboTech Communications|
-|15|27.189.130.175|8089|China|Langfang|Chinanet|
-|16|27.189.132.195|8089|China|Langfang|Chinanet|
-|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|18|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
-|19|67.43.236.18|7943|Canada|Montreal|GloboTech Communications|
-|20|27.189.131.141|8089|China|Langfang|Chinanet|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|67.43.228.250|20511|Canada|Montreal|GloboTech Communications|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|90.156.200.4|3128|Russia|Moscow|LLC "MASTERHOST"|
+|17|167.250.180.126|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|19|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|20|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
 
 
 
