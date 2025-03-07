@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
-|9|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|171.238.159.11|10003|Vietnam|Quảng Ngãi|Viettel Corporation|
-|13|27.189.128.128|8089|China|Langfang|Chinanet|
-|14|67.43.228.250|17265|Canada|Montreal|GloboTech Communications|
-|15|171.238.159.11|10003|Vietnam|Quảng Ngãi|Viettel Corporation|
-|16|67.43.228.252|16049|Canada|Montreal|GloboTech Communications|
-|17|171.247.234.155|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|67.43.227.226|21017|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|23401|Canada|Montreal|GloboTech Communications|
-|20|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|2|27.79.158.60|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|103.169.90.147|3128|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|13|80.73.89.78|8080|Russia|Yakutsk|Sakhatelecom|
+|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|15|103.85.117.6|8080|Indonesia|Makassar|BOSOWA|
+|16|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|17|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|92.51.122.174|8080|Georgia|Batumi|Deltanet-net Network|
+|19|115.72.47.63|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
 
 
 
