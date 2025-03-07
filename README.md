@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.163.103.238|8080|Indonesia|Jatiroto|PT Mamura Inter Media|
-|7|113.22.55.66|10006|Vietnam|Hanoi|FPT Telecom Company|
-|8|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|9|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|13|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|14|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|15|72.10.160.173|11215|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|21145|Canada|Montreal|GloboTech Communications|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|103.235.181.1|8080|Indonesia|Jakarta|PT Top Class Universal|
+|5|175.100.70.72|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|115.72.174.251|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|9|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|200.24.132.86|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.113.3.29|8080|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|15|201.159.99.37|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
+|16|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|17|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
+|18|180.97.220.151|11080|China|Nanjing|Chinanet|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
