@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 |6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|38.22.17.50|3128|United States|Atlanta|GTHost|
-|8|121.224.156.152|8089|China|Nanjing|China Telecom|
-|9|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
-|10|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|11|67.43.227.227|28659|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|26749|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|18337|Canada|Montreal|GloboTech Communications|
-|14|125.87.81.113|2324|China|Chongqing|China Telecom|
-|15|27.189.128.249|8089|China|Langfang|Chinanet|
-|16|67.43.228.251|2837|Canada|Montreal|GloboTech Communications|
-|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|18|103.129.172.90|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|19|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|20|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|7|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|67.43.228.250|31523|Canada|Montreal|GloboTech Communications|
+|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|12|200.52.157.138|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|13|178.153.182.24|8080|Qatar|Doha|Ooredoo-MBB|
+|14|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|15|157.20.98.74|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
+|16|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
+|17|110.49.53.69|8081|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|18|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
