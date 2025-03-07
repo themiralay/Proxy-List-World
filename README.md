@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
 |7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|27.189.130.36|8089|China|Langfang|Chinanet|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
-|16|72.10.160.91|1371|Canada|Montreal|GloboTech Communications|
-|17|27.189.134.92|8089|China|Langfang|Chinanet|
-|18|67.43.227.226|20485|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|30863|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|20485|Canada|Montreal|GloboTech Communications|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|3.148.74.83|3128|United States|Dublin|Amazon.com, Inc.|
+|10|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|114.224.79.62|8089|China|Wuxi|Chinanet|
+|14|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|18|114.80.37.90|3081|China|Shanghai|China Telecom (Group)|
+|19|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|20|213.134.208.187|8080|Russia|Tuapse|NewCom Port|
 
 
 
