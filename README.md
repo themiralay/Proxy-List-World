@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.235.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|5|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|11|181.198.11.204|8889|Ecuador|Guayaquil|Telconet S.A|
-|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|44.203.14.123|3128|United States|Ashburn|Amazon.com|
-|17|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|18|180.97.220.151|11080|China|Nanjing|Chinanet|
-|19|67.43.228.250|23481|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|25647|Canada|Montreal|GloboTech Communications|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
+|3|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|5|27.79.130.10|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|12|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|14|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|122.225.230.190|9788|China|Hangzhou|China Telecom Next Generation Carrier Network|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
+|18|176.105.220.74|3129|Ukraine|Vinnytsia|NPK Home-Net Ltd.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
