@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.244.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|27.79.194.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|118.71.141.164|10002|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|11|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|1|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|8|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|17|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|19|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|20|67.43.236.21|26553|Canada|Montreal|GloboTech Communications|
+|13|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|61.160.247.69|9999|China|Nanjing|China Telecom|
+|17|27.79.213.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
 
 
 
