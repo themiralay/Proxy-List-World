@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.159.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.183.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|11|27.79.231.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|13|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|14|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|18|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|103.153.149.201|8036|Indonesia|Semarang|JARINGANKU|
+|1|218.51.217.243|8080|South Korea|Suwon|SK Broadband Co Ltd|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|4|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|77.91.66.238|8080|Germany|Frankfurt am Main|Andrii Hrosh|
+|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|115.77.166.165|10001|Vietnam|Vũng Tàu|Viettel Group|
+|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|178.208.76.81|3111|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
+|20|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
 
 
 
