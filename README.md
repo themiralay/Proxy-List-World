@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4485** proxies at the latest update. Usable proxies are below.
+> Scraper found **4470** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|484|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|469|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|347|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2534|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
-|2|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|27.79.136.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |3|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|115.77.135.51|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|115.72.170.248|10018|Vietnam|Vũng Tàu|VIETELmetro|
+|7|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |11|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
 |12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|13|103.162.36.13|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|113.23.40.201|10001|Vietnam|Hanoi|FPT Telecom Company|
-|16|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|17|113.23.40.216|10001|Vietnam|Hanoi|FPT Telecom Company|
-|18|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|15|27.189.133.178|8089|China|Langfang|Chinanet|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.189.129.244|8089|China|Langfang|Chinanet|
+|19|27.189.128.187|8089|China|Langfang|Chinanet|
+|20|27.189.134.81|8089|China|Langfang|Chinanet|
 
 
 
