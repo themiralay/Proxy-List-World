@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
-|3|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
-|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|1|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|4|27.76.99.108|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|15|27.79.155.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|115.72.47.63|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
-|18|67.43.227.227|3161|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|12385|Canada|Montreal|GloboTech Communications|
-|20|115.72.47.63|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|103.163.103.238|8080|Indonesia|Jatiroto|PT Mamura Inter Media|
+|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
+|10|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
+|11|154.64.219.61|8888|United States|Jacksonville|OSNET Wireless|
+|12|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|13|163.61.30.150|3128|India|Mumbai|MS KOSI AGRICO|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|171.238.159.11|10001|Vietnam|Quảng Ngãi|Viettel Corporation|
+|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|18|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
