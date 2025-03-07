@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|6|27.79.244.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|202.169.51.46|8080|Indonesia|Tangerang|Biznet - PSN-NAP|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|177.94.225.218|8080|Brazil|Santo André|Vivo|
-|12|27.189.131.81|8089|China|Langfang|Chinanet|
-|13|27.189.130.253|8089|China|Langfang|Chinanet|
-|14|49.84.134.6|8089|China|Nanjing|China Telecom|
-|15|27.189.134.50|8089|China|Langfang|Chinanet|
-|16|67.43.228.251|11341|Canada|Montreal|GloboTech Communications|
-|17|27.189.131.147|8089|China|Langfang|Chinanet|
-|18|27.189.133.238|8089|China|Langfang|Chinanet|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|15|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|20|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
