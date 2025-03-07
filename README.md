@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|11|115.72.168.208|28839|Vietnam|Vũng Tàu|VIETELmetro|
-|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|180.97.220.151|11080|China|Nanjing|Chinanet|
-|15|110.188.37.34|2324|China|Muping|Chinanet|
-|16|118.113.244.169|2324|China|Shanghai|Chinanet|
-|17|118.113.246.165|2324|China|Shanghai|Chinanet|
-|18|118.113.244.49|2324|China|Shanghai|Chinanet|
-|19|67.43.236.21|21267|Canada|Montreal|GloboTech Communications|
-|20|27.189.132.123|8089|China|Langfang|Chinanet|
+|1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|2|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.213.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|15|27.189.128.210|8089|China|Langfang|Chinanet|
+|16|180.97.220.151|11080|China|Nanjing|Chinanet|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|202.51.196.226|8080|Indonesia|Jakarta|PT. Sejahtera Globalindo|
+|19|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
