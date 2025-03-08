@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|182.253.109.136|8080|Indonesia|Semarang|Biznet Metronet|
-|4|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|103.156.92.135|5049|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|13|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|118.71.141.164|10002|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|115.72.168.208|28839|Vietnam|Vũng Tàu|VIETELmetro|
-|16|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|148.135.42.31|31280|United States|Los Angeles|Multacom Corporation|
-|18|103.160.182.115|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|19|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|20|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|182.253.109.136|8080|Indonesia|Semarang|Biznet Metronet|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|103.156.92.135|5049|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|15|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
