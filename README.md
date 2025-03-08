@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4308** proxies at the latest update. Usable proxies are below.
+> Scraper found **4307** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|203|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|432|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|257|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
 |2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|12|49.146.177.91|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|13|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.172.71.25|9090|Indonesia|Karawang|AZNET|
-|16|118.113.246.192|2324|China|Shanghai|Chinanet|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|67.43.227.229|18699|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|1477|Canada|Montreal|GloboTech Communications|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|61.160.247.69|9999|China|Nanjing|China Telecom|
+|11|38.22.17.50|3128|United States|Atlanta|GTHost|
+|12|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|38.121.43.133|3128|United States|Atlanta|GTHost|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|16|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|19|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|20|118.71.141.164|10005|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 
 
 
