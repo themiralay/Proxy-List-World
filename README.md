@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|2|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|9|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
 |11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|15|195.34.242.88|8080|Russia|Moscow|PJSC Rostelecom|
-|16|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|43.228.86.244|8080|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|18|67.43.227.226|6159|Canada|Montreal|GloboTech Communications|
-|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|13|103.154.77.40|89|Indonesia|Sleman|T2NET|
+|14|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|15|113.192.31.69|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|16|122.154.68.50|8213|Thailand|Samut Songkhram|CAT Telecom Public Company Limited|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|19|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 |20|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
