@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|91.147.89.190|3128|Kazakhstan|Almaty Oblysy|NLS Kazakhstan LLC|
 |3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|8|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|10|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|14|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|15|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|18|67.43.236.18|25927|Canada|Montreal|GloboTech Communications|
-|19|138.0.143.119|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|20|114.229.213.198|8089|China|Nanjing|Chinanet|
+|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|12|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|15|60.188.49.53|1999|China|Taizhou|Chinanet|
+|16|118.113.244.134|2324|China|Shanghai|Chinanet|
+|17|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|18|67.43.236.18|29345|Canada|Montreal|GloboTech Communications|
+|19|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 
 
 
