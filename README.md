@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|38.172.130.221|999|Peru|Lima|Conex TV E.I.R.L.|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|103.190.171.119|8080|Indonesia|Jakarta|WMS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
-|16|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.174|23311|Canada|Montreal|GloboTech Communications|
-|20|182.106.189.115|655|China|Taohua|CHINANET Jiangx province IDC network|
+|1|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|8|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|203.190.46.159|3127|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|15|103.189.96.96|2022|Indonesia|Ngapus|Lintas Data Prima, PT|
+|16|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|72.10.160.172|17469|Canada|Montreal|GloboTech Communications|
+|20|222.68.36.25|1080|China|Shanghai|China Telecom (Group)|
 
 
 
