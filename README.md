@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|103.78.1.117|39114|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|103.165.40.85|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|180.97.220.151|11080|China|Nanjing|Chinanet|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|20|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|2|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|6|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|103.189.111.11|3125|Indonesia|Bandung|Morizt ID|
+|9|67.43.236.20|28989|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|67.43.236.21|21995|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.19|26881|Canada|Montreal|GloboTech Communications|
+|14|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|15|62.72.42.193|3128|India|Mumbai|Contabo Asia Private Limited|
+|16|49.146.177.91|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|17|103.172.197.234|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|18|202.179.69.216|58080|India|Pune|Ankhnet|
+|19|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
