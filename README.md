@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
-|14|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|15|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|18|54.163.198.98|8080|United States|Ashburn|Amazon.com, Inc.|
-|19|72.10.160.90|24945|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|16211|Canada|Montreal|GloboTech Communications|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|18|67.43.236.20|1345|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|11393|Canada|Montreal|GloboTech Communications|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
