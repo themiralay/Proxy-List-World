@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|11|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|27.189.129.213|8089|China|Langfang|Chinanet|
-|16|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|17|125.87.83.183|2324|China|Chongqing|China Telecom|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|103.164.223.51|3128|Indonesia|Jakarta|PT iForte Global Internet|
-|20|118.113.247.192|2324|China|Shanghai|Chinanet|
+|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|114.141.50.211|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|12|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|2.50.143.164|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|118.113.247.154|2324|China|Shanghai|Chinanet|
+|17|118.113.247.192|2324|China|Shanghai|Chinanet|
+|18|118.113.246.165|2324|China|Shanghai|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
