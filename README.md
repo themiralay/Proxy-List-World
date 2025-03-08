@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|38.147.106.201|3038|United States|Draper|FiberState, LLC|
-|3|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|38.147.106.201|3038|United States|Draper|FiberState, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|103.163.80.70|8090|Indonesia|Ngawi|PT Data Arta Sedaya|
+|6|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 |8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
 |10|112.201.191.192|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|19|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|15|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|16|38.7.100.152|999|Peru|Arequipa|Fiber Fix|
+|17|122.252.234.123|1313|India|Ambāla|RailTel Corporation of India Ltd.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|1.2.223.150|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
