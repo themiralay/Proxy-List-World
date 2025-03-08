@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|2|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|186.190.224.86|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|13|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|157.66.16.42|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|121.224.170.208|8089|China|Nanjing|China Telecom|
-|18|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|19|67.43.227.226|13473|Canada|Montreal|GloboTech Communications|
-|20|27.189.134.40|8089|China|Langfang|Chinanet|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|11|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|12|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
+|17|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|20|118.113.245.192|2324|China|Shanghai|Chinanet|
 
 
 
