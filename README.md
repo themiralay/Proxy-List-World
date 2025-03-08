@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|3|113.192.6.190|80|Vietnam|Thanh Xuân|BASE|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
-|11|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|12|52.15.64.91|3128|United States|Dublin|Amazon.com, Inc.|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|15|117.80.188.254|8089|China|Nanjing|China Telecom|
-|16|3.128.94.31|3128|United States|Dublin|Amazon.com, Inc.|
-|17|72.10.160.90|24449|Canada|Montreal|GloboTech Communications|
-|18|117.80.188.254|8089|China|Nanjing|China Telecom|
-|19|100.28.132.251|3128|United States|Ashburn|Amazon.com|
-|20|27.189.132.76|8089|China|Langfang|Chinanet|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|72.10.160.91|21837|Canada|Montreal|GloboTech Communications|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
+|16|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|17|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|72.10.160.173|28819|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2445|Canada|Montreal|GloboTech Communications|
 
 
 
