@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|9|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|7|61.160.247.69|9999|China|Nanjing|China Telecom|
+|8|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 |10|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|11|45.123.142.100|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|11|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
 |12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|14|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
-|15|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
-|16|8.243.163.126|3128|Colombia|Bogotá|CTL Colombia|
-|17|114.219.174.20|8089|China|Nanjing|China Telecom|
-|18|27.189.132.82|8089|China|Langfang|Chinanet|
-|19|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|13|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|14|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|15|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|188.132.150.42|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|19|27.189.128.245|8089|China|Langfang|Chinanet|
+|20|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
 
 
 
