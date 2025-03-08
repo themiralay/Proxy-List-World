@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|103.165.155.62|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|5|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|8|46.249.123.26|8080|Iran|Kerman|Didehban Net Company|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|38.156.74.249|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|189.73.53.94|8080|Brazil|Curitiba|V tal|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|27.189.132.48|8089|China|Langfang|Chinanet|
-|14|67.43.228.250|28391|Canada|Montreal|GloboTech Communications|
-|15|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|16|222.68.37.11|2324|China|Shanghai|China Telecom (Group)|
-|17|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.164.178|25833|Canada|Montreal|GloboTech Communications|
-|19|125.87.82.225|2324|China|Chongqing|China Telecom|
-|20|72.10.160.171|8903|Canada|Montreal|GloboTech Communications|
+|10|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|27.64.119.197|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|13|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|14|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|15|113.160.214.209|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|167.250.180.126|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|17|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|18|124.122.179.181|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 
 
 
