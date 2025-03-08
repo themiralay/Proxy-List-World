@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|134.209.192.30|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|103.153.96.147|8181|Indonesia|Serang|NITNET|
 |8|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|200.24.135.77|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|18|27.189.130.246|8089|China|Langfang|Chinanet|
-|19|2.50.143.164|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|20|38.22.17.50|3128|United States|Atlanta|GTHost|
+|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|14|157.66.16.42|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|103.180.123.93|8080|Indonesia|Ketanggungan|PT Indo Telemedia Solusi|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|42.115.229.16|10001|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
