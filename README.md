@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|2|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|180.190.200.33|8082|Philippines|Lahug|Globe Telecom|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|27.79.243.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|12|168.228.176.30|3137|Brazil|Tianguá|BRASILINK SERVIÇOS EIRELI|
-|13|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|16|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|17|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.189.128.11|8089|China|Langfang|Chinanet|
-|20|38.121.43.133|3128|United States|Atlanta|GTHost|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|19|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
