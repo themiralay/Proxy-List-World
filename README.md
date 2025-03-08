@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|27.79.151.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.152.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|6|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|115.72.10.32|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|15|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|72.10.160.171|4575|Canada|Montreal|GloboTech Communications|
-|17|101.109.144.185|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|18|72.10.164.178|10319|Canada|Montreal|GloboTech Communications|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|11|107.151.238.173|80|Hong Kong|Hong Kong|Ansheng Network Technology Co., Limited|
+|12|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|121.28.4.58|3083|China|Zhangjiakou|CNC Group CHINA169 Hebei Province Network|
+|14|180.112.40.166|8089|China|Nanjing|Chinanet|
+|15|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|16|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
+|17|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
+|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
 |19|67.43.228.250|27719|Canada|Montreal|GloboTech Communications|
-|20|27.189.133.248|8089|China|Langfang|Chinanet|
+|20|38.43.150.69|999|Peru|Lima|Nextnet SAC|
 
 
 
