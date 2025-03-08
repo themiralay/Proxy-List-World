@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4397** proxies at the latest update. Usable proxies are below.
+> Scraper found **4440** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|219|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|315|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2441|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
 |5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|9|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|118.113.244.127|2324|China|Shanghai|Chinanet|
-|15|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|103.122.66.220|8080|Indonesia|VILLA PERMATA HIJAU|PT. Jinom Network Indonesia|
-|19|27.189.128.124|8089|China|Langfang|Chinanet|
-|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|9|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|42.115.229.16|10001|Vietnam|Hanoi|FPT Telecom Company|
+|14|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|15|203.190.46.159|3127|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|16|160.20.165.231|8586|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|18|118.113.247.250|2324|China|Shanghai|Chinanet|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
