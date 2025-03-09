@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|121.227.109.3|8089|China|Nanjing|China Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|9|180.114.96.252|8089|China|Nanjing|Chinanet|
-|10|27.189.129.250|8089|China|Langfang|Chinanet|
-|11|27.189.129.195|8089|China|Langfang|Chinanet|
-|12|67.43.227.227|4799|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|18145|Canada|Montreal|GloboTech Communications|
-|14|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|114.223.42.78|8089|China|Wuxi|Chinanet|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|16|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|67.43.228.250|30399|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|18145|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|30399|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|24283|Canada|Montreal|GloboTech Communications|
+|17|60.174.167.40|4999|China|Hefei|Chinanet|
+|18|180.112.42.202|8089|China|Nanjing|Chinanet|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
 
 
 
