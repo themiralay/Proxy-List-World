@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|3|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|9|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|121.224.156.141|8089|China|Nanjing|China Telecom|
-|12|27.189.128.213|8089|China|Langfang|Chinanet|
-|13|118.113.244.152|2324|China|Shanghai|Chinanet|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|20|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.189.132.219|8089|China|Langfang|Chinanet|
+|11|72.10.160.91|17277|Canada|Montreal|GloboTech Communications|
+|12|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|13|61.141.226.225|3128|China|Guangzhou|Chinanet|
+|14|72.10.160.173|10975|Canada|Montreal|GloboTech Communications|
+|15|49.70.190.217|2324|China|Nanjing|Chinanet|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|125.87.86.196|2324|China|Shanghai|China Telecom|
+|18|72.10.160.174|16129|Canada|Montreal|GloboTech Communications|
+|19|27.189.134.91|8089|China|Langfang|Chinanet|
+|20|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
