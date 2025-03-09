@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|438|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|442|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|422|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2514|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|203.177.237.138|8081|Philippines|Iloilo City|Globe Telecom|
-|9|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|12|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|13|216.122.181.210|999|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|14|103.65.202.209|8080|India|Hanamkonda|Vaishnavi Online Internet Services Pvt. Ltd.|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|103.74.107.215|59645|Vietnam|Hanoi|VIETSERVER|
-|17|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|18|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
+|1|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|2|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|5|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|125.87.89.194|2324|China|Chongqing|China Telecom|
+|11|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|12|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|45.70.236.194|999|Ecuador|Ventanas|Ufinet Panama S.A.|
+|14|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|15|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|177.234.209.81|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
 |19|38.22.17.50|3128|United States|Atlanta|GTHost|
-|20|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|20|181.209.95.205|999|Argentina|Gobernador Mansilla|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
