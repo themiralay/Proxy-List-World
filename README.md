@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|4|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|12|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|13|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|180.114.15.73|8089|China|Nanjing|Chinanet|
-|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|16|35.196.118.203|3128|United States|North Charleston|Google LLC|
+|17|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|18|103.180.118.205|7777|Indonesia|Lamongan|PT Persada Data Multimedia|
+|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|20|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
 
 
 
