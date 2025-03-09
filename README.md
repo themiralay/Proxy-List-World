@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4478** proxies at the latest update. Usable proxies are below.
+> Scraper found **4481** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|229|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|232|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|387|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|422|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|2|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|27.64.119.197|4004|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|103.210.35.183|8080|Indonesia|Bantul|Diskominfo DIY|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|15|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
-|19|223.206.184.134|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|20|67.43.227.229|7527|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|6|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|7|67.43.236.18|8233|Canada|Montreal|GloboTech Communications|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|72.10.160.91|16253|Canada|Montreal|GloboTech Communications|
+|10|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|11|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|13|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|14|72.10.164.178|31119|Canada|Montreal|GloboTech Communications|
+|15|103.67.84.146|8080|Indonesia|Kertosari|PT Tujuh Fondasi Teknologi|
+|16|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|17|67.43.227.227|5659|Canada|Montreal|GloboTech Communications|
+|18|170.78.210.123|999|Mexico|Ejido San Jerónimo|Wantelco SAS de CV|
+|19|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
