@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|2|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
-|16|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|17|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.128.21|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|11|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
