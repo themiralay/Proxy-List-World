@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|4|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|9|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|45.224.152.232|999|Ecuador|La Joya de Los Sachas|Ufinet Panama S.A.|
-|11|35.196.118.203|3128|United States|North Charleston|Google LLC|
-|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|14|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|67.43.228.250|2513|Canada|Montreal|GloboTech Communications|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|67.43.228.250|2513|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17259|Canada|Montreal|GloboTech Communications|
-|20|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|3|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|12|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|15|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|16|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|17|38.52.157.87|999|Colombia|Bogotá|Giga Fibra SAS|
+|18|160.19.18.39|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|19|202.179.69.216|58080|India|Pune|Ankhnet|
+|20|113.59.113.4|1088|China|Haikou|CNC Group CHINA169 Hainan Province Network|
 
 
 
