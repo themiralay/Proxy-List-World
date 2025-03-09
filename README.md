@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|2|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|45.252.183.239|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |12|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.167.229.147|8080|Nepal|Butwāl|Fiberworld Communication Pvt. Ltd|
-|18|42.115.229.16|10001|Vietnam|Hanoi|FPT Telecom Company|
-|19|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|122.154.75.204|8080|Thailand|Samut Songkhram|CAT Telecom Public Company Limited|
+|14|200.6.136.159|8080|Brazil|Uruará|MOV TELECOM LTDA|
+|15|67.43.227.228|6701|Canada|Montreal|GloboTech Communications|
+|16|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|17|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|20|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
 
 
 
