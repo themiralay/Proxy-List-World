@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|6|18.166.52.213|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|8|41.76.220.49|8088|South Africa|Pretoria|Green Flash Trading|
-|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|44.203.14.123|3128|United States|Ashburn|Amazon.com|
-|12|124.107.208.195|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|13|38.121.43.133|3128|United States|Atlanta|GTHost|
-|14|115.77.130.175|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|17|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|18|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
+|4|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|5|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|180.97.220.151|11080|China|Nanjing|Chinanet|
+|11|54.251.144.109|8080|Singapore|Singapore|Amazon.com, Inc.|
+|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|58.209.137.181|8089|China|Nanjing|China Telecom|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.228.251|31023|Canada|Montreal|GloboTech Communications|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|61.245.9.174|8082|Philippines|Manila|Infinivan Incorporated|
+|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|103.48.71.162|84|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
