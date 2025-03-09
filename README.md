@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|2|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.168.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|12|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|35.196.118.203|3128|United States|North Charleston|Google LLC|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|6|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
+|8|186.96.68.60|999|Venezuela|Caracas|Gold Data C.A|
+|9|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|16|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|19|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
