@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|136.233.136.41|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|10|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
-|11|181.78.75.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|156.155.29.117|8080|South Africa|Durban|AxxessNetworks|
-|13|103.59.213.29|8080|India|Thāne|India Gaming Center|
-|14|180.112.201.56|8089|China|Nanjing|Chinanet|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|3.29.100.218|3128|United Arab Emirates|Dubai|Amazon Technologies Inc.|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|140.227.119.54|3128|Japan|Tokyo|InfoSphere|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|3|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|4|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|186.194.160.146|999|Colombia|Bogotá|Telenet Digital S.A.S|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|177.10.118.108|8089|Brazil|Palmeirais|SPACE NET SERV. DE TELECOMUNICAÇÃO EM INF. LTDA-ME|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|13|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|72.10.160.90|25605|Canada|Montreal|GloboTech Communications|
+|15|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|16|91.196.168.139|65432|The Netherlands|Zoetermeer|Datafiber Telecom BV|
+|17|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
+|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|20|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
