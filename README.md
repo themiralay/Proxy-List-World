@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.193.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|4|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|5|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
-|6|103.158.253.5|8080|Indonesia|Dukuhturi|Rapid Network|
-|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|6|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|27.189.128.27|8089|China|Langfang|Chinanet|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|160.19.18.143|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|16|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|17|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|18|5.202.8.163|3059|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
