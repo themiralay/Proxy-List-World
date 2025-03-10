@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|8.215.77.236|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|35.178.50.207|8181|United Kingdom|London|Amazon Technologies Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
 |8|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 |9|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|38.86.249.6|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|11|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|12|8.215.83.230|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|38.22.17.50|3128|United States|Atlanta|GTHost|
-|15|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|16|8.215.82.182|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|38.22.17.50|3128|United States|Atlanta|GTHost|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |17|49.70.190.229|2324|China|Nanjing|Chinanet|
-|18|118.113.246.209|2324|China|Shanghai|Chinanet|
-|19|118.113.245.146|2324|China|Shanghai|Chinanet|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|118.113.247.169|2324|China|Shanghai|Chinanet|
+|20|8.215.82.182|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
