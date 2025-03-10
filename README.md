@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|103.105.126.26|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|6|45.238.112.229|56789|Brazil|Fortaleza|Link Barato.com Telecomunicacoes Eireli|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
-|10|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|12|103.156.16.243|8080|Indonesia|Jatibarang|RSTNET|
-|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|180.97.220.151|11080|China|Nanjing|Chinanet|
-|15|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|16|103.85.117.6|8080|Indonesia|Makassar|BOSOWA|
-|17|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|20|125.87.94.61|2324|China|Chongqing|China Telecom|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|10|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|38.121.43.133|3128|United States|Atlanta|GTHost|
+|16|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|118.113.247.46|2324|China|Shanghai|Chinanet|
 
 
 
