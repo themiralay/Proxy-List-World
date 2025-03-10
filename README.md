@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.82.182|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|5|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|12|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
-|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|67.43.236.18|30775|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|32841|Canada|Montreal|GloboTech Communications|
-|17|103.125.190.213|5027|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|18|67.43.227.226|29523|Canada|Montreal|GloboTech Communications|
-|19|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|20|222.67.14.232|2324|China|Shanghai|China Telecom (Group)|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|38.172.154.165|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|3|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|6|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|9|38.156.74.249|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|61.160.247.69|9999|China|Nanjing|China Telecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|103.125.190.213|5775|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
+|15|67.43.236.19|3981|Canada|Montreal|GloboTech Communications|
+|16|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|103.131.219.26|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|18|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|186.167.80.236|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
