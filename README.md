@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4194** proxies at the latest update. Usable proxies are below.
+> Scraper found **4132** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|400|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
 |6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
-|8|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|11|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|12|8.215.83.230|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|38.22.17.50|3128|United States|Atlanta|GTHost|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|49.70.190.229|2324|China|Nanjing|Chinanet|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|118.113.247.169|2324|China|Shanghai|Chinanet|
-|20|8.215.82.182|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|38.86.249.30|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|8|181.118.150.14|999|Colombia|Pereira|Media Commerce Partners S.A|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|164.163.1.140|2180|Brazil|Brasília|connectx serviços de telecomunicações ltda|
+|11|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|12|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|180.97.220.151|11080|China|Nanjing|Chinanet|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|58.209.137.181|8089|China|Nanjing|China Telecom|
+|17|72.10.160.90|5143|Canada|Montreal|GloboTech Communications|
+|18|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|49.70.190.229|2324|China|Nanjing|Chinanet|
 
 
 
