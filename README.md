@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|212.111.89.204|39199|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.114.105.214|5002|Vietnam|Hanoi|Village 1|
-|13|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|61.118.38.234|60808|Japan|Tokyo|Open Computer Network|
-|16|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|17|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|27.189.132.162|8089|China|Langfang|Chinanet|
-|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|38.156.236.186|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
+|18|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|201.91.82.155|3128|Brazil|Santos|Vivo|
 
 
 
