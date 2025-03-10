@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|4|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|2|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
 |6|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|212.105.139.215|8080|Yemen|Sana'a|SpaceX Starlink|
+|7|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
-|12|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|180.97.220.151|11080|China|Nanjing|Chinanet|
-|14|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|118.113.246.44|2324|China|Shanghai|Chinanet|
-|18|121.232.181.182|8089|China|Nanjing|Chinanet|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|200.106.165.81|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|19|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|20|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
 
 
 
