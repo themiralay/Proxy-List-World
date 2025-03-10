@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 |5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|8.209.213.125|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.227.226|12303|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|33121|Canada|Montreal|GloboTech Communications|
-|14|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.160.90|16935|Canada|Montreal|GloboTech Communications|
-|16|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|19|67.43.228.251|32629|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|31845|Canada|Montreal|GloboTech Communications|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
+|8|72.10.160.170|21637|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.226|31157|Canada|Montreal|GloboTech Communications|
+|10|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|67.43.228.251|32629|Canada|Montreal|GloboTech Communications|
+|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|16|72.10.160.90|16935|Canada|Montreal|GloboTech Communications|
+|17|8.209.213.125|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|72.10.160.170|21637|Canada|Montreal|GloboTech Communications|
+|20|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 
 
 
