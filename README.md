@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.130.167.90|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|14|103.160.41.65|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|16|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|103.67.46.243|8080|Indonesia|Jakarta|PT JARINGANKU SARANA NUSANTARA|
-|18|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|19|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|20|72.10.160.93|25081|Canada|Montreal|GloboTech Communications|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|8.209.250.117|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|19|42.115.229.16|10001|Vietnam|Hanoi|FPT Telecom Company|
+|20|118.113.244.84|2324|China|Shanghai|Chinanet|
 
 
 
