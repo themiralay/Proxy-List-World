@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|171.248.220.251|30125|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|121.227.109.42|8089|China|Nanjing|China Telecom|
-|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|121.227.109.57|8089|China|Nanjing|China Telecom|
-|16|114.229.213.247|8089|China|Nanjing|Chinanet|
-|17|72.10.160.170|31973|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|121.227.109.55|8089|China|Nanjing|China Telecom|
-|20|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|67.43.236.18|24381|Canada|Montreal|GloboTech Communications|
+|16|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|17|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|156.155.29.118|8080|South Africa|Durban|AxxessNetworks|
+|20|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
 
 
 
