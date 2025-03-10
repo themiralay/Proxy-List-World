@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|7|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|67.43.227.228|12845|Canada|Montreal|GloboTech Communications|
-|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|11|67.43.227.226|11965|Canada|Montreal|GloboTech Communications|
-|12|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
-|13|27.189.134.177|8089|China|Langfang|Chinanet|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|72.10.160.172|15647|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|72.10.160.170|5523|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|9957|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|10009|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|9331|Canada|Montreal|GloboTech Communications|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|222.67.12.131|2324|China|Shanghai|China Telecom (Group)|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|185.217.198.163|3128|Russia|Moscow|First Server Limited|
+|10|103.114.105.214|5001|Vietnam|Hanoi|Village 1|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|72.10.160.90|8337|Canada|Montreal|GloboTech Communications|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|101.255.167.174|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|59.152.104.193|8080|Bangladesh|Chittagong|Earth Telecommunication ( pvt ) Limited|
+|18|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
+|19|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|20|222.127.55.155|5050|Philippines|Lahug|INNOVE|
 
 
 
