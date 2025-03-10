@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.41.122|6789|Singapore|Singapore|The Constant Company|
-|2|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|6|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|10|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|17|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|18|45.77.41.122|6789|Singapore|Singapore|The Constant Company|
-|19|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|20|67.43.236.18|17287|Canada|Montreal|GloboTech Communications|
+|1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|2|170.78.208.236|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|72.10.160.91|30185|Canada|Montreal|GloboTech Communications|
+|16|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|17|45.77.41.122|6789|Singapore|Singapore|The Constant Company|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|103.115.239.14|1111|Indonesia|Sekupang|PT Fitrah Marina Sukses|
 
 
 
