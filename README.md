@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|12|27.189.128.105|8089|China|Langfang|Chinanet|
-|13|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|14|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
-|15|72.10.160.170|5959|Canada|Montreal|GloboTech Communications|
-|16|27.189.134.157|8089|China|Langfang|Chinanet|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.160.90|9801|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|45.184.74.246|45005|Brazil|Sítio do Quinto|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|10|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|11|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|15|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|125.87.81.92|2324|China|Chongqing|China Telecom|
+|18|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
 
 
 
