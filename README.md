@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|3|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|67.43.228.250|15601|Canada|Montreal|GloboTech Communications|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|72.10.160.92|25441|Canada|Montreal|GloboTech Communications|
-|9|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|10|67.43.228.250|15601|Canada|Montreal|GloboTech Communications|
-|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|12|72.10.160.170|24293|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|33001|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|22397|Canada|Montreal|GloboTech Communications|
-|15|222.244.147.160|6893|China|Changsha|Chinanet|
-|16|67.43.227.226|9925|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|29311|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|15601|Canada|Montreal|GloboTech Communications|
-|19|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|20|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|8|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|9|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|222.244.147.160|6893|China|Changsha|Chinanet|
+|11|72.10.160.90|27709|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|9925|Canada|Montreal|GloboTech Communications|
+|13|103.184.21.102|8080|Indonesia|Puring Kulon|PT Tekling Media Telematika|
+|14|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|15|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|16|67.43.228.250|20765|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|22397|Canada|Montreal|GloboTech Communications|
+|18|60.27.21.67|3900|China|Tianjin|CNC Group CHINA169 Tianjin Province Network|
+|19|72.10.160.174|17783|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|29311|Canada|Montreal|GloboTech Communications|
 
 
 
