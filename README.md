@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|2|103.247.13.131|8080|Indonesia|Klaten|TERABIT|
 |3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|4|186.148.195.168|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|5|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|13|67.43.228.250|12705|Canada|Montreal|GloboTech Communications|
-|14|27.189.128.28|8089|China|Langfang|Chinanet|
-|15|27.189.134.18|8089|China|Langfang|Chinanet|
-|16|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|17|72.10.160.92|26701|Canada|Montreal|GloboTech Communications|
-|18|27.189.129.32|8089|China|Langfang|Chinanet|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|67.43.227.226|13229|Canada|Montreal|GloboTech Communications|
+|4|103.133.61.230|8080|Indonesia|Bandar Lampung|TLINK|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|38.86.249.30|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|8|1.2.223.150|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|15|212.111.89.204|39199|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|201.91.82.155|3128|Brazil|Santos|Vivo|
+|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
 
 
 
