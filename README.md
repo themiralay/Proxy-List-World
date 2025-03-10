@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|7|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|9|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|37.120.206.88|8080|Romania|Bucharest|M247 Europe|
-|11|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|14|45.174.172.210|999|Mexico|Rioverde|Azahel Enrique Garcia Salazar|
-|15|221.228.154.170|8089|China|Nanjing|Chinanet|
-|16|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|17|67.43.228.250|29247|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|25257|Canada|Montreal|GloboTech Communications|
-|19|58.209.137.136|8089|China|Nanjing|China Telecom|
-|20|27.189.128.10|8089|China|Langfang|Chinanet|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|5|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|7|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|8|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|9|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|180.97.220.151|11080|China|Nanjing|Chinanet|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|60.174.167.40|4999|China|Hefei|Chinanet|
+|15|118.113.244.105|2324|China|Shanghai|Chinanet|
+|16|125.87.81.202|2324|China|Chongqing|China Telecom|
+|17|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|18|125.87.84.172|2324|China|Shanghai|China Telecom|
+|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
 
 
 
