@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|4|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|5|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
-|8|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|8.211.134.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|27.189.132.72|8089|China|Langfang|Chinanet|
-|15|27.189.129.246|8089|China|Langfang|Chinanet|
-|16|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|17|27.189.135.224|8089|China|Langfang|Chinanet|
-|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|27.189.133.148|8089|China|Langfang|Chinanet|
-|20|109.205.58.20|3128|Russia|Moscow|SPRINTHOST.RU LLC|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|170.78.208.234|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|12|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
+|13|72.10.160.170|26273|Canada|Montreal|GloboTech Communications|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|18|8.211.134.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|20|45.70.236.194|999|Ecuador|Ventanas|Ufinet Panama S.A.|
 
 
 
