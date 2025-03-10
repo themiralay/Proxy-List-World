@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|103.76.105.30|8080|Indonesia|Makassar|PT Citra Prima Media|
-|9|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|10|49.70.190.235|2324|China|Nanjing|Chinanet|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|15|67.43.228.251|23011|Canada|Montreal|GloboTech Communications|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|18|222.243.174.132|81|China|Xiangtan|Chinanet|
-|19|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|20|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|1|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|85.208.253.160|8765|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
+|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|12|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|35.169.70.14|80|United States|Ashburn|Amazon.com, Inc.|
+|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|16|54.251.144.109|8081|Singapore|Singapore|Amazon.com, Inc.|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|180.97.220.151|11080|China|Nanjing|Chinanet|
+|19|49.70.190.235|2324|China|Nanjing|Chinanet|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
