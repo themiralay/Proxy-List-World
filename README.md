@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3772** proxies at the latest update. Usable proxies are below.
+> Scraper found **3794** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|287|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|424|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|446|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|200|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1935|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|3|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 |4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|5|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|13|72.10.160.172|19523|Canada|Montreal|GloboTech Communications|
-|14|38.121.43.133|3128|United States|Atlanta|GTHost|
-|15|72.10.160.91|6187|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|36.64.181.82|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|38.121.43.133|3128|United States|Atlanta|GTHost|
+|12|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|13|72.10.160.173|31309|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|16191|Canada|Montreal|GloboTech Communications|
+|15|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|46.243.9.113|8080|Russia|Georgiyevsk|SerDi TeleCom, LTD|
+|18|67.43.236.20|20029|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|120.133.37.235|1080|China|Chaowai|IDC, China Telecommunications Corporation|
 
 
 
