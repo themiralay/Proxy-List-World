@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
 |2|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|27.66.225.76|25100|Vietnam|Hanoi|Viettel Group|
-|6|8.209.250.117|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|7|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|3|27.66.225.76|25100|Vietnam|Hanoi|Viettel Group|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|8.209.250.117|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|9|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|109.237.98.200|47100|The Netherlands|Amsterdam|Aeza International LTD|
-|15|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|16|114.91.25.179|1080|China|Shanghai|China Telecom (Group)|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
-|19|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|20|125.87.95.187|2324|China|Chongqing|China Telecom|
+|13|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|14|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|103.215.187.66|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|19|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
