@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.238.67.96|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|38.86.249.18|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|5|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|67.43.236.22|8753|Canada|Montreal|GloboTech Communications|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|8|38.86.249.18|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|86.106.132.194|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
+|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|19|14.182.39.206|8080|Vietnam|Hanoi|VNPT|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
