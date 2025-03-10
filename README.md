@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|121.101.132.99|1080|Indonesia|Pugeran Maguwoharjo|PT SELARAS CITRA TERABIT|
-|10|192.145.206.160|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|13|27.189.129.158|8089|China|Langfang|Chinanet|
-|14|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|67.43.227.226|8831|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|18927|Canada|Montreal|GloboTech Communications|
-|18|14.117.217.232|8888|China|Jiangmen|Chinanet|
-|19|27.189.131.41|8089|China|Langfang|Chinanet|
-|20|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|1|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|103.175.157.72|8080|Indonesia|Cibenda|MYARSYILA|
+|5|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|10|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|1.2.223.150|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|103.133.61.230|8080|Indonesia|Bandar Lampung|TLINK|
+|13|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
+|17|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
+|18|180.191.40.45|9999|Philippines|Tarlac City|Globe Telecom|
+|19|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
