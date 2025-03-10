@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.223.142|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|6|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|51.68.175.56|1080|Germany|Limburg an der Lahn|OVH SAS|
-|8|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|212.105.139.215|8080|Yemen|Sana'a|SpaceX Starlink|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|14.153.157.176|57114|China|Shenzhen|Chinanet|
-|17|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|18|72.10.160.93|20125|Canada|Montreal|GloboTech Communications|
-|19|61.160.247.69|9999|China|Nanjing|China Telecom|
-|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|18.188.127.31|3128|United States|Dublin|Amazon.com, Inc.|
+|5|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|14.168.164.49|8080|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|16|157.20.252.109|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|17|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|19|60.27.21.67|3900|China|Tianjin|CNC Group CHINA169 Tianjin Province Network|
+|20|170.78.210.123|999|Mexico|Ejido San Jerónimo|Wantelco SAS de CV|
 
 
 
