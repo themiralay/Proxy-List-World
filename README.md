@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|2|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|12|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|11|157.15.40.250|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|12|8.209.206.119|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|27.79.203.56|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |15|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
