@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|170.239.18.106|1830|Brazil|Salvador|I B T|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|14|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|11|200.92.201.126|999|Mexico|San José Iturbide|Mega Cable, S.A. de C.V.|
+|12|48.218.201.155|3128|Japan|Tokyo|Microsoft Corporation|
+|13|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|14|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
