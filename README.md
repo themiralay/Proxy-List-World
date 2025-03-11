@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.167.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
-|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|4|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
 |5|201.150.119.171|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|11|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|14|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|16|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|103.152.93.157|8080|Indonesia|Gemiring|PT. JAYA LINTAS INDONESIA|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|180.112.242.95|8089|China|Nanjing|Chinanet|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
