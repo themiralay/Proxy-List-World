@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|2|221.158.136.11|41013|South Korea|Seo-gu|Korea Telecom|
-|3|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|5|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|6|67.43.227.226|22097|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|8067|Canada|Montreal|GloboTech Communications|
-|8|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.228.250|12179|Canada|Montreal|GloboTech Communications|
+|1|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|72.10.160.93|14297|Canada|Montreal|GloboTech Communications|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|201.91.82.155|3128|Brazil|Santos|Vivo|
+|7|67.43.228.250|20121|Canada|Montreal|GloboTech Communications|
+|8|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|27.189.135.195|8089|China|Langfang|Chinanet|
-|12|72.10.160.93|14297|Canada|Montreal|GloboTech Communications|
-|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|14|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|15|72.10.160.90|24353|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|114.218.165.57|8089|China|Nanjing|China Telecom|
-|19|67.43.228.250|12179|Canada|Montreal|GloboTech Communications|
-|20|27.189.135.242|8089|China|Langfang|Chinanet|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|67.43.228.250|20121|Canada|Montreal|GloboTech Communications|
+|18|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
