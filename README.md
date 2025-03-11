@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3857** proxies at the latest update. Usable proxies are below.
+> Scraper found **3771** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|370|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|284|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|265|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |4|130.211.99.39|3128|Belgium|Brussels|Google LLC|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.93|17647|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|10157|Canada|Montreal|GloboTech Communications|
-|20|110.188.37.102|2324|China|Muping|Chinanet|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
+|9|45.232.79.0|9292|Brazil|Planalto|Garcia Telecomunicacoes Ltda|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|12|118.113.244.163|2324|China|Shanghai|Chinanet|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|72.10.164.178|26193|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|24231|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|24231|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.254|12349|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|25083|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|17673|Canada|Montreal|GloboTech Communications|
+|20|27.189.133.141|8089|China|Langfang|Chinanet|
 
 
 
