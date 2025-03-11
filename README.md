@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|103.87.148.16|8085|Indonesia|Pundong|Lintas Data Prima, PT|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|103.101.216.38|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|181.78.211.95|999|Colombia|Espinal|IFX Networks Argentina S.R.L|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.215.21.135|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|115.127.126.185|8080|Bangladesh|Dhaka|BRACNet Limited|
-|8|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|84.22.45.25|8080|Kosovo|Ferizaj|Artmotion Sh.P.K.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|16|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|17|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
-|18|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|19|103.126.87.144|8081|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|20|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|157.20.233.184|8080|Indonesia|Kendal|PT Applewifi Selalu Lancar|
+|10|27.79.167.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|84.22.45.25|8080|Kosovo|Ferizaj|Artmotion Sh.P.K.|
+|12|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|43.249.143.242|3128|Indonesia|Bandung|SKYLINE|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|20|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
 
 
 
