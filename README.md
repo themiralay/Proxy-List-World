@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.119.54|3128|Japan|Tokyo|InfoSphere|
-|2|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|8|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
-|10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|8.209.213.118|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|181.209.111.82|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|145.224.108.136|8080|Bulgaria|Sofia|SpaceX Starlink|
-|14|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|16|67.43.236.18|27627|Canada|Montreal|GloboTech Communications|
-|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.189.129.24|8089|China|Langfang|Chinanet|
-|20|180.97.220.151|11080|China|Nanjing|Chinanet|
+|13|103.48.68.138|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|117.84.194.232|8089|China|Nanjing|Chinanet|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|180.112.242.81|8089|China|Nanjing|Chinanet|
+|20|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
