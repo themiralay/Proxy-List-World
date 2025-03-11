@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|3|27.79.224.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|103.172.196.131|2020|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|17|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|18|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|19|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|20|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|2|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|3|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|4|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|103.122.137.68|8080|Bangladesh|Nārāyanganj|SpaceNet Ltd|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.151.226.33|8080|Indonesia|Bandung|URBANACCESS|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
+|18|103.126.87.144|8081|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|19|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
