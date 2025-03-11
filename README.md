@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.191.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |2|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|9|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|103.227.187.13|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.18.77.23|1111|Indonesia|Jakarta|PT Usaha Adi Sanggoro|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.227.227|17227|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|17227|Canada|Montreal|GloboTech Communications|
+|3|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|203.128.75.196|8080|Indonesia|Jakarta|Neuviz|
+|11|156.155.29.118|8080|South Africa|Durban|AxxessNetworks|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|103.18.77.23|1111|Indonesia|Jakarta|PT Usaha Adi Sanggoro|
+|14|201.91.82.155|3128|Brazil|Santos|Vivo|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|17|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
 
 
 
