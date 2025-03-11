@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|180.97.220.151|11080|China|Nanjing|Chinanet|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|27.189.130.88|8089|China|Langfang|Chinanet|
-|13|27.189.134.67|8089|China|Langfang|Chinanet|
-|14|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|15|221.225.66.5|8089|China|Suzhou|CHINANET jiangsu province network|
-|16|27.189.129.106|8089|China|Langfang|Chinanet|
-|17|27.189.128.48|8089|China|Langfang|Chinanet|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|58.209.32.84|8089|China|Nanjing|China Telecom|
-|20|27.189.128.149|8089|China|Langfang|Chinanet|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|118.113.247.73|2324|China|Shanghai|Chinanet|
+|15|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|16|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|18|103.85.117.6|8080|Indonesia|Makassar|BOSOWA|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|61.118.38.234|60808|Japan|Tokyo|Open Computer Network|
 
 
 
