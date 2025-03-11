@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|202.138.236.133|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|8|3.128.94.31|3128|United States|Dublin|Amazon.com, Inc.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|27.189.133.168|8089|China|Langfang|Chinanet|
-|13|67.43.228.254|28363|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|33001|Canada|Montreal|GloboTech Communications|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|17|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|121.232.178.136|8089|China|Nanjing|Chinanet|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|15|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|16|67.43.236.18|17167|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.229|2607|Canada|Montreal|GloboTech Communications|
+|18|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|19|201.91.82.155|3128|Brazil|Santos|Vivo|
+|20|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
 
 
 
