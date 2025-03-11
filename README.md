@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|1|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |2|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
-|4|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|38.22.17.50|3128|United States|Atlanta|GTHost|
-|16|67.43.228.250|25559|Canada|Montreal|GloboTech Communications|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|27.189.128.95|8089|China|Langfang|Chinanet|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.101.216.38|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|10|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|84.22.45.25|8080|Kosovo|Ferizaj|Artmotion Sh.P.K.|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|168.227.10.228|8080|Brazil|Belo Horizonte|Companhia Itabirana Telecomunicações Ltda|
+|16|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|18|45.4.1.208|999|Chile|Santiago|Tlink SPA|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
 
 
 
