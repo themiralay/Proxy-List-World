@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|67.43.236.19|7423|Canada|Montreal|GloboTech Communications|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|67.43.227.226|25039|Canada|Montreal|GloboTech Communications|
-|8|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|9|67.43.227.227|3945|Canada|Montreal|GloboTech Communications|
-|10|103.114.105.214|5001|Vietnam|Hanoi|Village 1|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|72.10.160.170|18243|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|25039|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|213.207.195.178|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|67.43.227.228|31183|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|24577|Canada|Montreal|GloboTech Communications|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|109.238.176.47|8080|Iran|Bushehr|khalijfarsonline|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|212.111.89.204|39199|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|72.10.160.170|18243|Canada|Montreal|GloboTech Communications|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|18|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
