@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|67.43.228.250|17945|Canada|Montreal|GloboTech Communications|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|15|27.189.135.0|8089|China|Langfang|Chinanet|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.160.90|32591|Canada|Montreal|GloboTech Communications|
-|18|180.112.182.78|8089|China|Nanjing|Chinanet|
-|19|114.219.174.17|8089|China|Nanjing|China Telecom|
-|20|114.229.213.213|8089|China|Nanjing|Chinanet|
+|8|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
+|9|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|72.10.160.90|28477|Canada|Montreal|GloboTech Communications|
+|17|201.91.82.155|3128|Brazil|Santos|Vivo|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|201.91.82.155|3128|Brazil|Santos|Vivo|
+|20|181.119.84.87|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 
 
 
