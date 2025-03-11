@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
-|7|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|177.93.58.41|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|13|27.79.167.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|15|27.189.132.89|8089|China|Langfang|Chinanet|
-|16|72.10.160.94|19121|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|22507|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|11923|Canada|Montreal|GloboTech Communications|
-|19|103.180.119.182|8082|Indonesia|Lamongan|PT Persada Data Multimedia|
-|20|121.232.181.158|8089|China|Nanjing|Chinanet|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|6|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|38.191.146.6|999|Colombia|Santiago de Cali|Valle ISP S.A.S.|
+|10|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|120.28.139.64|8084|Philippines|Caloocan City|Globe Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|67.43.236.20|17351|Canada|Montreal|GloboTech Communications|
+|17|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|18|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
