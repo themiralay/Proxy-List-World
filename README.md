@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.119.54|3128|Japan|Tokyo|InfoSphere|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|8.215.77.236|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|31.220.42.52|11223|The Netherlands|Amsterdam|HostHatch|
-|7|27.79.203.56|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|122.52.185.72|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|186.190.224.86|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|58.209.137.160|8089|China|Nanjing|China Telecom|
-|19|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|20|72.10.160.91|28935|Canada|Montreal|GloboTech Communications|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|27.79.203.56|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|14|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.189.130.218|8089|China|Langfang|Chinanet|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.172.249.234|3128|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
