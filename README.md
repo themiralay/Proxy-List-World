@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|4|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|5|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|8|35.196.118.203|3128|United States|North Charleston|Google LLC|
-|9|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|102.176.228.219|8080|South Africa|Durban|Thusaconnect|
-|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.228.251|25695|Canada|Montreal|GloboTech Communications|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|67.43.228.250|25481|Canada|Montreal|GloboTech Communications|
-|20|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|157.20.252.221|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|11|97.79.251.186|80|United States|Dallas|Spectrum|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|103.154.77.64|89|Indonesia|Sleman|T2NET|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|67.43.228.251|25695|Canada|Montreal|GloboTech Communications|
+|16|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
