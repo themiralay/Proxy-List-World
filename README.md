@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|79.127.118.57|8080|Iran|Tehran|Asiatech Data Transmission company|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
-|14|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|27.189.128.82|8089|China|Langfang|Chinanet|
-|17|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.167.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
+|12|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|13|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
+|17|114.91.26.44|2324|China|Shanghai|China Telecom (Group)|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
