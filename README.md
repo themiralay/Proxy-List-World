@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|3|43.156.240.48|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|6|103.159.96.178|8055|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|7|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|187.19.201.217|8080|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes S.A|
-|12|45.70.236.194|999|Ecuador|Ventanas|Ufinet Panama S.A.|
-|13|27.189.128.100|8089|China|Langfang|Chinanet|
-|14|72.10.160.170|14181|Canada|Montreal|GloboTech Communications|
-|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|16|27.189.129.108|8089|China|Langfang|Chinanet|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|27.189.130.171|8089|China|Langfang|Chinanet|
-|19|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|119.95.189.247|8080|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|45.70.202.160|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
+|8|191.253.39.82|8080|Brazil|Américo Brasiliense|Desktop Sigmanet Comunicação Multimídia SA|
+|9|82.213.29.203|19000|Palestine|Ramallah|Corporate -PALTEL|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|12|103.219.75.2|8080|Indonesia|Serang|Bitech Networks|
+|13|43.156.240.48|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|8.218.30.233|3228|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 
 
 
