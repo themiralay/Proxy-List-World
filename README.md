@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|67.43.227.227|14005|Canada|Montreal|GloboTech Communications|
-|12|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.236.19|27207|Canada|Montreal|GloboTech Communications|
-|16|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|17|67.43.227.226|27323|Canada|Montreal|GloboTech Communications|
-|18|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|1|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.94.102.10|999|Mexico|Cunduacán|Alestra, S. de R.L. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|27.147.152.66|58080|Bangladesh|Tāngāil|Link3 Technologies Limited|
+|9|103.48.71.162|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|60.174.167.40|4999|China|Hefei|Chinanet|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|16|157.10.191.2|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
+|17|114.9.26.202|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|18|24.152.58.138|999|Colombia|Bucaramanga|Atenea Telecomunicaciones S.A.S|
+|19|61.118.38.234|60808|Japan|Tokyo|Open Computer Network|
+|20|38.172.130.216|999|Peru|Lima|Conex TV E.I.R.L.|
 
 
 
