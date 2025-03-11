@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|7|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|212.111.89.204|39199|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|72.10.160.91|21921|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|28467|Canada|Montreal|GloboTech Communications|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
-|18|67.43.236.18|2069|Canada|Montreal|GloboTech Communications|
-|19|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|20|103.76.105.30|8080|Indonesia|Makassar|PT Citra Prima Media|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|9|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|13|12.146.127.33|9080|United States|Rayville|AT&T Services, Inc.|
+|14|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|17|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|18|212.111.89.204|39199|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|180.112.183.212|8089|China|Nanjing|Chinanet|
+|20|67.43.227.226|28467|Canada|Montreal|GloboTech Communications|
 
 
 
