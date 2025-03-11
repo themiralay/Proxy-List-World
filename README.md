@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|23.147.112.74|8080|United States|Nogales|NGX Networks|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|14|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|103.172.120.218|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|27.189.133.230|8089|China|Langfang|Chinanet|
-|18|116.100.117.212|5010|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.227.226|27413|Canada|Montreal|GloboTech Communications|
-|20|160.22.74.110|39106|Vietnam|Quận Phú Nhuận|PHANHUUBAOSOLUTIONS|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|38.191.146.6|999|Colombia|Santiago de Cali|Valle ISP S.A.S.|
+|7|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|78.87.13.239|18888|Greece|Athens|VF GR - xCH|
+|9|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|10|23.147.112.74|8080|United States|Nogales|NGX Networks|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|201.91.82.155|3128|Brazil|Santos|Vivo|
+|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|18|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|42.115.229.16|10001|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
