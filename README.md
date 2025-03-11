@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|4|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|190.72.102.42|999|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|27.79.178.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|36.95.173.90|8899|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|14|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
-|15|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|38.86.249.6|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|1.2.223.150|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|31.211.69.52|3128|Russia|Tomsk|OOO NETCOM|
+|13|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|222.67.10.71|2324|China|Shanghai|China Telecom (Group)|
+|16|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|17|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|18|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|19|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
 
 
 
