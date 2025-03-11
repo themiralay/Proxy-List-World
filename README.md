@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
-|8|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|12|35.196.118.203|3128|United States|North Charleston|Google LLC|
-|13|191.195.118.55|8080|Brazil|Salvador|Vivo|
-|14|177.234.210.7|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|27.66.203.139|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|27.66.203.173|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|103.98.30.134|1289|Indonesia|Slawi|Pemerintah Kabupaten Tegal|
+|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|49.84.175.70|8089|China|Nanjing|China Telecom|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.189.129.37|8089|China|Langfang|Chinanet|
-|20|72.10.160.170|16287|Canada|Montreal|GloboTech Communications|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
