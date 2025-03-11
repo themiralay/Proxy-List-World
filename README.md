@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|1|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|8.211.132.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|5|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |11|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|12|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|15|8.211.132.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|17|27.66.206.231|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|18|38.172.130.219|999|Peru|Lima|Conex TV E.I.R.L.|
-|19|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|20|37.255.214.97|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|37.255.214.97|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
+|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|16|38.123.220.173|999|Mexico|Manzana Tercera de Santa Cruz Tepexpan|Cogent Communications|
+|17|96.241.182.93|80|United States|Vienna|Verizon Business|
+|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|19|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|9129|Canada|Montreal|GloboTech Communications|
 
 
 
