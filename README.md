@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|1|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|114.224.79.32|8089|China|Wuxi|Chinanet|
-|9|180.97.220.151|11080|China|Nanjing|Chinanet|
-|10|118.113.245.114|2324|China|Shanghai|Chinanet|
-|11|27.189.132.116|8089|China|Langfang|Chinanet|
-|12|27.189.134.42|8089|China|Langfang|Chinanet|
-|13|27.189.133.137|8089|China|Langfang|Chinanet|
-|14|3.115.4.138|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|8.215.21.135|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|18|103.114.105.214|5001|Vietnam|Hanoi|Village 1|
-|19|118.113.245.71|2324|China|Shanghai|Chinanet|
-|20|67.43.228.251|23547|Canada|Montreal|GloboTech Communications|
+|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|38.172.130.222|999|Peru|Lima|Conex TV E.I.R.L.|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|2.188.210.20|8080|Iran|Tabriz|Respina Networks & Beyond PJSC|
+|8|114.229.213.225|8089|China|Nanjing|Chinanet|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|45.6.1.97|999|Argentina|San Vicente|IP AMERICA TELECOM LTDA|
+|12|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|13|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|180.97.220.151|11080|China|Nanjing|Chinanet|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
