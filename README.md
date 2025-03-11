@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
-|12|52.48.78.67|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|103.101.216.38|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|14|223.205.121.126|8081|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|72.10.160.91|26111|Canada|Montreal|GloboTech Communications|
+|2|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|27.79.152.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|9|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|157.20.244.77|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
+|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|17|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|18|45.4.1.208|999|Chile|Santiago|Tlink SPA|
+|19|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
