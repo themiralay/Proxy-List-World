@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|54.242.160.14|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|72.10.160.170|8081|Canada|Montreal|GloboTech Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|72.10.164.178|5823|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|30149|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|1|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|103.18.77.23|1111|Indonesia|Jakarta|PT Usaha Adi Sanggoro|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|60.188.49.53|1999|China|Taizhou|Chinanet|
+|10|102.214.106.86|1984|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|11|27.147.218.18|63680|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|72.10.164.178|31761|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|13541|Canada|Montreal|GloboTech Communications|
+|15|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|16|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|17|103.18.77.23|1111|Indonesia|Jakarta|PT Usaha Adi Sanggoro|
+|18|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
