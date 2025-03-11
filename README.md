@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|11|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|12|38.7.23.194|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|27.79.138.191|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.35.108.244|2024|Bangladesh|Dhaka|Ranks ITT|
-|17|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
-|18|185.191.107.89|1080|Italy|Milan|Mywic Costumers|
-|19|103.97.198.253|8080|Indonesia|Temanggung|PT Borneo Global Persada|
-|20|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|182.253.137.192|8080|Indonesia|Colomadu|BIZNET|
+|13|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|103.172.120.218|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
+|15|63.34.176.150|3128|Ireland|Dublin|Amazon.com|
+|16|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|103.184.50.102|9090|Indonesia|Sragen|PT Aktech Digital Solutions|
+|18|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|19|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|103.120.76.34|8080|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
 
 
 
