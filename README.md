@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|221.158.136.11|41011|South Korea|Seo-gu|Korea Telecom|
-|9|45.232.79.0|9292|Brazil|Planalto|Garcia Telecomunicacoes Ltda|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|221.158.136.11|41013|South Korea|Seo-gu|Korea Telecom|
+|2|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.209.213.118|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|27.79.167.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |11|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|12|118.113.244.163|2324|China|Shanghai|Chinanet|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|72.10.164.178|26193|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|24231|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|24231|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|12349|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|25083|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|17673|Canada|Montreal|GloboTech Communications|
-|20|27.189.133.141|8089|China|Langfang|Chinanet|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|221.158.136.11|41013|South Korea|Seo-gu|Korea Telecom|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|67.43.228.253|25083|Canada|Montreal|GloboTech Communications|
+|18|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
+|19|125.87.93.87|2324|China|Chongqing|China Telecom|
+|20|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
