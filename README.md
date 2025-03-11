@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|27.66.206.231|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|118.113.245.114|2324|China|Shanghai|Chinanet|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|118.113.244.84|2324|China|Shanghai|Chinanet|
-|9|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|10|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.228.250|29641|Canada|Montreal|GloboTech Communications|
-|15|27.189.131.1|8089|China|Langfang|Chinanet|
-|16|67.43.236.18|21567|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|18|67.43.228.251|13769|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|38.172.130.216|999|Peru|Lima|Conex TV E.I.R.L.|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|134.199.148.190|3128|Australia|Sydney|DigitalOcean, LLC|
+|15|27.79.218.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|18|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|19|103.85.117.6|8080|Indonesia|Makassar|BOSOWA|
+|20|221.158.136.11|41013|South Korea|Seo-gu|Korea Telecom|
 
 
 
