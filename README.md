@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|27.79.155.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|12|27.189.133.78|8089|China|Langfang|Chinanet|
-|13|38.121.43.133|3128|United States|Atlanta|GTHost|
-|14|38.22.17.50|3128|United States|Atlanta|GTHost|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
-|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|121.227.109.24|8089|China|Nanjing|China Telecom|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|142.93.148.108|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|8|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|38.22.17.50|3128|United States|Atlanta|GTHost|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|15|103.114.105.214|5001|Vietnam|Hanoi|Village 1|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
