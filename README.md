@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|5|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 |6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|38.121.43.133|3128|United States|Atlanta|GTHost|
-|8|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|7|52.18.193.139|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|38.121.43.133|3128|United States|Atlanta|GTHost|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|164.163.42.7|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|38.121.43.133|3128|United States|Atlanta|GTHost|
+|13|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
+|14|45.155.226.176|3128|Hong Kong|Kwun Tong|Superhub Limited|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|27.79.229.3|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|103.152.93.157|8080|Indonesia|Gemiring|PT. JAYA LINTAS INDONESIA|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
