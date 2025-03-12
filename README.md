@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|119.93.145.82|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|103.126.86.91|1204|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|12|157.20.244.163|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|72.10.160.173|14845|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|29349|Canada|Montreal|GloboTech Communications|
-|18|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|19|72.10.160.170|17193|Canada|Montreal|GloboTech Communications|
-|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|1|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|13|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|14|114.223.42.72|8089|China|Wuxi|Chinanet|
+|15|38.183.212.14|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
+|16|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|17|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|18|82.213.29.203|19000|Palestine|Ramallah|Corporate -PALTEL|
+|19|67.43.227.229|29349|Canada|Montreal|GloboTech Communications|
+|20|44.199.166.74|80|United States|Ashburn|Amazon.com|
 
 
 
