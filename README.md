@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|8.209.212.174|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|97.74.88.174|45878|Japan|Chiyoda|GoDaddy.com, LLC|
-|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|97.74.88.174|45878|Japan|Chiyoda|GoDaddy.com, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|18|8.209.212.174|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|27.189.129.241|8089|China|Langfang|Chinanet|
-|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|8.209.212.174|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|14|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|16|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|72.10.160.170|3869|Canada|Montreal|GloboTech Communications|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
