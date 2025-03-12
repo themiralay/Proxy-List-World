@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|12|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|13|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|15|72.10.160.90|3821|Canada|Montreal|GloboTech Communications|
-|16|118.113.246.125|2324|China|Shanghai|Chinanet|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|27.189.134.90|8089|China|Langfang|Chinanet|
+|9|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|72.10.160.90|20229|Canada|Montreal|GloboTech Communications|
+|15|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
