@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|114.5.97.150|8080|Indonesia|Sidoarjo|PT. INDOSAT Tbk|
-|9|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|49.67.128.168|1080|China|Nantong|Chinanet|
-|12|72.10.160.90|27251|Canada|Montreal|GloboTech Communications|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|67.43.227.226|1963|Canada|Montreal|GloboTech Communications|
-|16|101.47.167.52|8888|Singapore|Singapore|Great Wall Broadband Network|
-|17|67.43.236.22|26481|Canada|Montreal|GloboTech Communications|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|3|8.215.89.37|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.209.211.174|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|120.28.210.205|9000|Philippines|Davao City|Globe Telecom|
+|12|67.43.228.250|11557|Canada|Montreal|GloboTech Communications|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|15|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.189.133.164|8089|China|Langfang|Chinanet|
-|20|67.43.227.226|1963|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|27251|Canada|Montreal|GloboTech Communications|
+|20|37.255.214.97|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
 
 
 
