@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|72.10.160.91|15111|Canada|Montreal|GloboTech Communications|
-|18|38.22.17.50|3128|United States|Atlanta|GTHost|
-|19|121.227.109.57|8089|China|Nanjing|China Telecom|
-|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|8.215.21.135|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|115.74.246.138|8080|Vietnam|Biên Hòa|VIETELxdsl|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
+|18|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|38.22.17.50|3128|United States|Atlanta|GTHost|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
