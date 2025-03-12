@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|45.221.96.32|80|South Africa|Sandton|Bluegate Exchange|
-|10|67.43.227.226|2509|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|1529|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|31883|Canada|Montreal|GloboTech Communications|
-|13|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|14|67.43.228.251|8547|Canada|Montreal|GloboTech Communications|
-|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|17|101.47.167.86|8888|Singapore|Singapore|Great Wall Broadband Network|
-|18|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
-|19|36.64.195.242|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|67.43.227.226|2509|Canada|Montreal|GloboTech Communications|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|9|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|12|201.91.82.155|3128|Brazil|Santos|Vivo|
+|13|103.61.240.198|9090|Bangladesh|Dhaka|HelloTech Limited|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|103.180.119.182|8082|Indonesia|Lamongan|PT Persada Data Multimedia|
+|16|222.67.10.139|2324|China|Shanghai|China Telecom (Group)|
+|17|67.43.236.18|31883|Canada|Montreal|GloboTech Communications|
+|18|185.78.150.23|9293|Poland|Chojnice|Przedsiebiorstwo Handlowo Uslugowe " Kamdex" Grzegorz Sztuczka|
+|19|203.111.253.103|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|20|152.42.170.187|9090|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
