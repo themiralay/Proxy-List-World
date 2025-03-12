@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|157.66.16.36|8866|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |6|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|11|72.10.160.90|16115|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|31629|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|16115|Canada|Montreal|GloboTech Communications|
-|14|27.189.133.72|8089|China|Langfang|Chinanet|
-|15|67.43.227.229|1593|Canada|Montreal|GloboTech Communications|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.163.102.104|3125|Indonesia|Gapurana Daya|PT Mamura Inter Media|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
 |16|72.10.164.178|4639|Canada|Montreal|GloboTech Communications|
-|17|27.189.129.131|8089|China|Langfang|Chinanet|
-|18|121.224.156.136|8089|China|Nanjing|China Telecom|
-|19|58.209.137.160|8089|China|Nanjing|China Telecom|
-|20|121.224.156.149|8089|China|Nanjing|China Telecom|
+|17|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|18|103.106.112.166|1234|Indonesia|Bandar Lampung|SMSNET|
+|19|91.107.176.84|2580|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
