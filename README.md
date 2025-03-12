@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |8|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|103.191.254.2|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
-|10|180.97.220.151|11080|China|Nanjing|Chinanet|
+|9|122.53.75.222|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|182.160.114.214|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|46.243.9.113|8080|Russia|Georgiyevsk|SerDi TeleCom, LTD|
-|17|117.84.194.230|8089|China|Nanjing|Chinanet|
-|18|58.209.32.112|8089|China|Nanjing|China Telecom|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|201.91.82.155|3128|Brazil|Santos|Vivo|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|188.247.61.234|8080|Russia|Volgograd|Unico network|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|182.160.114.214|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|102.176.228.219|8080|South Africa|Durban|Thusaconnect|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
