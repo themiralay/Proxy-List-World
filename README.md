@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|103.133.61.230|8080|Indonesia|Bandar Lampung|TLINK|
-|12|89.104.102.209|58080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|17|27.189.129.227|8089|China|Langfang|Chinanet|
-|18|72.10.160.170|4151|Canada|Montreal|GloboTech Communications|
-|19|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
-|20|110.184.210.16|2324|China|Chengdu|Chinanet|
+|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|5.160.57.36|8080|Iran|Tehran|RSPN|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|16|72.10.160.170|4151|Canada|Montreal|GloboTech Communications|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
