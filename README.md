@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|11|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|8|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|9|206.42.19.65|8080|Brazil|Vitória de Santo Antão|Brisanet Prestacao De Servicos De Internet Ltda|
+|10|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |13|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|116.254.98.184|8097|Indonesia|Jakarta|SpaceX Starlink|
 |15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|67.43.228.252|1831|Canada|Montreal|GloboTech Communications|
-|17|60.174.167.40|4999|China|Hefei|Chinanet|
-|18|72.10.164.178|2073|Canada|Montreal|GloboTech Communications|
-|19|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|20|103.189.123.110|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|16|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|17|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
 
 
 
