@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
 |8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|1.55.192.118|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|43.252.107.119|1111|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|34.132.119.108|3128|United States|Council Bluffs|Google LLC|
+|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|38.86.249.18|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|16|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
+|19|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|114.219.174.19|8089|China|Nanjing|China Telecom|
 
 
 
