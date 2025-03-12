@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|38.123.220.110|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 |7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
-|11|119.93.145.82|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|10|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|67.43.236.19|23833|Canada|Montreal|GloboTech Communications|
-|17|121.224.170.216|8089|China|Nanjing|China Telecom|
-|18|114.223.182.121|8089|China|Wuxi|Chinanet|
-|19|27.189.134.101|8089|China|Langfang|Chinanet|
-|20|67.43.227.230|27587|Canada|Montreal|GloboTech Communications|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|60.188.49.53|1999|China|Taizhou|Chinanet|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|18|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|19|27.189.128.178|8089|China|Langfang|Chinanet|
+|20|72.10.164.178|21033|Canada|Montreal|GloboTech Communications|
 
 
 
