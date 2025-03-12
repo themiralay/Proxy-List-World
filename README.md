@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|45.252.183.244|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
-|13|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|60.188.49.53|1999|China|Taizhou|Chinanet|
-|18|180.112.42.254|8089|China|Nanjing|Chinanet|
-|19|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|38.121.43.133|3128|United States|Atlanta|GTHost|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|11|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|180.112.42.254|8089|China|Nanjing|Chinanet|
+|15|103.170.64.200|1111|India|Pimpri-Chinchwad|Dream Cables|
+|16|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|17|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
+|18|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|19|38.121.43.133|3128|United States|Atlanta|GTHost|
+|20|67.43.228.250|13573|Canada|Montreal|GloboTech Communications|
 
 
 
