@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4072** proxies at the latest update. Usable proxies are below.
+> Scraper found **4289** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|489|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|478|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|361|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|589|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|130.211.99.39|3128|Belgium|Brussels|Google LLC|
 |6|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|177.234.247.234|999|Ecuador|Guanujo|Ufinet Panama S.A.|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|103.76.91.148|8080|Indonesia|Jakarta|PT Kampung Dua Net|
-|16|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|20|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|176.88.175.242|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|103.122.1.113|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|15|103.129.172.90|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|67.43.227.228|20355|Canada|Montreal|GloboTech Communications|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
