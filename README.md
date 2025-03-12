@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.215.89.37|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |5|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|125.27.24.41|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|7|103.155.196.110|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|8|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|180.178.103.67|8213|Indonesia|Jakarta|PT Hipernet Indodata|
-|11|101.128.78.202|32650|Indonesia|Jakarta|CBN|
-|12|27.189.128.27|8089|China|Langfang|Chinanet|
-|13|157.66.251.226|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|14|103.125.174.83|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|15|118.113.245.173|2324|China|Shanghai|Chinanet|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|19|27.189.129.10|8089|China|Langfang|Chinanet|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|103.155.196.110|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|8.215.89.37|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|179.1.95.213|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|19|118.113.246.78|2324|China|Shanghai|Chinanet|
+|20|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
 
 
 
