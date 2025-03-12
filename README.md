@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|11|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.227.226|3579|Canada|Montreal|GloboTech Communications|
-|16|58.209.137.187|8089|China|Nanjing|China Telecom|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|19|201.91.82.155|3128|Brazil|Santos|Vivo|
-|20|117.80.188.239|8089|China|Nanjing|China Telecom|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|10|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|45.65.172.71|8080|Brazil|Dourados|Abel F Dos Santos - ME|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
