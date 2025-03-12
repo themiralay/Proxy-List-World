@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|157.66.251.226|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
-|13|216.158.246.90|51012|United States|Taos|Kit Carson Electric Cooperative, Inc|
-|14|103.247.20.106|1111|Indonesia|Banyumas|PT Yasmin Amanah Media|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|125.27.24.41|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|125.27.24.41|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
+|13|101.128.78.202|32650|Indonesia|Jakarta|CBN|
+|14|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|15|24.152.50.34|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|83.212.126.168|3128|Greece|Athens|National Infrastructures for Research and Technology S.A.|
+|20|60.174.167.40|4999|China|Hefei|Chinanet|
 
 
 
