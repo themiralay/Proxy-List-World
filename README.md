@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|10|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|11|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|92.53.75.196|3128|Russia|St Petersburg|JSC Selectel|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|84.255.40.228|8998|Malta|Gżira|Melita plc|
+|13|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
+|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
 
 
 
