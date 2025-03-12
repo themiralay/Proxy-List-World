@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|3|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
 |4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|18.139.209.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|6|72.10.160.170|5873|Canada|Montreal|GloboTech Communications|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|121.224.170.234|8089|China|Nanjing|China Telecom|
+|5|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|67.43.236.19|26581|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|12075|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|8613|Canada|Montreal|GloboTech Communications|
-|13|49.84.175.67|8089|China|Nanjing|China Telecom|
-|14|72.10.160.171|13475|Canada|Montreal|GloboTech Communications|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|67.43.236.18|3605|Canada|Montreal|GloboTech Communications|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|27.189.132.210|8089|China|Langfang|Chinanet|
-|19|121.224.213.5|8089|China|Nanjing|China Telecom|
-|20|27.189.129.244|8089|China|Langfang|Chinanet|
+|10|60.174.167.40|4999|China|Hefei|Chinanet|
+|11|222.67.11.140|2324|China|Shanghai|China Telecom (Group)|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|201.91.82.155|3128|Brazil|Santos|Vivo|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|210.1.70.22|8085|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|59.36.239.108|21133|China|Jiangmen|Chinanet|
+|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
