@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.198.156|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|2|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |8|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
 |10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|16|75.69.60.124|8118|United States|Portsmouth|Comcast Cable Communications|
-|17|157.20.252.30|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|18|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|19|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
-|20|72.10.160.172|20189|Canada|Montreal|GloboTech Communications|
+|11|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|16|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|17|118.113.245.119|2324|China|Shanghai|Chinanet|
+|18|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|19|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|20|121.232.181.171|8089|China|Nanjing|Chinanet|
 
 
 
