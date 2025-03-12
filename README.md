@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|103.161.130.154|8080|Indonesia|Kresek|PT Jaringan Internet Nusantara|
-|5|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|103.247.23.187|8080|Indonesia|Baturaden|PT wifian Solution|
-|11|114.9.26.194|3128|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|190.61.112.115|8080|El Salvador|San Salvador|Ufinet El Salvador|
-|16|8.209.213.118|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|88.42.237.102|8080|Italy|Verona|Telecom Italia S.p.A.|
-|20|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|5|103.165.151.81|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|6|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|13|124.13.232.210|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|185.206.83.246|8080|Iraq|Erbil|DIL Technology Limited|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
