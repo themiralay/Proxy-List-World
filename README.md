@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4045** proxies at the latest update. Usable proxies are below.
+> Scraper found **4036** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|462|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|453|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|361|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
-|6|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
-|7|89.19.175.122|8019|Russia|Moscow|OJSC Comcor|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.162.222.243|8080|Indonesia|Banyuwangi|PT Cahaya Artha Daya|
 |8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|201.91.82.155|3128|Brazil|Santos|Vivo|
-|10|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|43.252.11.197|7878|Indonesia|Jakarta|QUANTUMNET|
-|13|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
-|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|186.96.73.190|999|Panama|Panama City|Gold Data USA Inc|
+|10|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
+|11|41.65.163.88|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|12|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|13|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
+|14|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|15|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|16|103.114.105.214|5001|Vietnam|Hanoi|Village 1|
+|17|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|60.188.49.53|1999|China|Taizhou|Chinanet|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
