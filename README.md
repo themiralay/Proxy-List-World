@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|72.10.160.174|8081|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|8081|Canada|Montreal|GloboTech Communications|
-|11|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|12|72.10.160.170|8081|Canada|Montreal|GloboTech Communications|
-|13|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|27.189.133.138|8089|China|Langfang|Chinanet|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|19|67.43.227.226|6267|Canada|Montreal|GloboTech Communications|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|103.226.232.164|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|7|118.113.244.222|2324|China|Shanghai|Chinanet|
+|8|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|201.91.82.155|3128|Brazil|Santos|Vivo|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|14|67.43.227.226|6267|Canada|Montreal|GloboTech Communications|
+|15|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|67.43.227.226|6267|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|113.223.214.90|8089|China|Qingyuan|Chinanet|
 
 
 
