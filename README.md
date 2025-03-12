@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|3|27.66.203.139|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|160.19.178.43|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|18|58.209.137.154|8089|China|Nanjing|China Telecom|
-|19|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|8.211.132.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|27.66.203.139|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|103.114.105.214|5000|Vietnam|Hanoi|Village 1|
+|12|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|186.148.175.118|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|121.224.156.141|8089|China|Nanjing|China Telecom|
+|19|38.123.220.11|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
