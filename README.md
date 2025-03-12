@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|5|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|2.56.179.115|3128|United Kingdom|London|Stark Industries Solutions LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
 |10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|12|190.52.100.176|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.228.251|12699|Canada|Montreal|GloboTech Communications|
-|15|27.189.131.93|8089|China|Langfang|Chinanet|
-|16|72.10.160.90|12301|Canada|Montreal|GloboTech Communications|
-|17|27.189.134.82|8089|China|Langfang|Chinanet|
-|18|67.43.236.18|4779|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.236.18|4779|Canada|Montreal|GloboTech Communications|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|177.93.58.105|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|103.101.99.45|8080|Bangladesh|Bhātāra|Pandora Technology|
+|19|67.43.236.18|5499|Canada|Montreal|GloboTech Communications|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
