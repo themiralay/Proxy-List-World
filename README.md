@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|72.10.160.90|17231|Canada|Montreal|GloboTech Communications|
-|7|170.78.208.236|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|8|72.10.160.90|17231|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|1479|Canada|Montreal|GloboTech Communications|
-|10|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|27.189.128.212|8089|China|Langfang|Chinanet|
-|12|180.114.27.31|8089|China|Nanjing|Chinanet|
-|13|180.112.242.84|8089|China|Nanjing|Chinanet|
-|14|45.70.236.194|999|Ecuador|Ventanas|Ufinet Panama S.A.|
-|15|178.46.144.14|8080|Russia|Kurgan|OJSC uralsvyazinform|
-|16|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|17|125.87.94.67|2324|China|Chongqing|China Telecom|
-|18|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|19|38.86.249.26|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|20|156.155.29.118|8080|South Africa|Durban|AxxessNetworks|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.175.240.54|9191|Indonesia|Banyumas|LDP|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|190.52.100.49|999|Venezuela|Caracas|Gold Data USA Inc|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|114.5.97.150|8080|Indonesia|Sidoarjo|PT. INDOSAT Tbk|
+|15|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|16|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|170.78.208.236|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|18|118.113.245.8|2324|China|Shanghai|Chinanet|
+|19|125.87.94.67|2324|China|Chongqing|China Telecom|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
