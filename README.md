@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
+|9|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|31.211.69.52|3128|Russia|Tomsk|OOO NETCOM|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.155.196.110|8080|Indonesia|Sukabumi|JEMBATANDATA|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|218.1.197.152|2324|China|Shanghai|China Telecom (Group)|
-|16|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|61.118.38.234|60808|Japan|Tokyo|Open Computer Network|
-|19|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|20|72.10.160.170|27933|Canada|Montreal|GloboTech Communications|
+|15|45.70.236.194|999|Ecuador|Ventanas|Ufinet Panama S.A.|
+|16|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|19|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
