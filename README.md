@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|1.33.46.197|8080|Japan|Asagayakita|NTT PC Communications, Inc.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|103.122.1.113|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|11|72.10.160.91|27807|Canada|Montreal|GloboTech Communications|
-|12|118.113.247.49|2324|China|Shanghai|Chinanet|
-|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|14|103.126.87.144|8081|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|15|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|18|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|19|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|2|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|61.160.247.69|9999|China|Nanjing|China Telecom|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|13|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|178.208.76.81|3128|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|47.245.8.212|3389|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
