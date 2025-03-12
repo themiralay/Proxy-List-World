@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|14|103.171.240.198|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|157.66.85.77|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|17|2.194.65.213|8080|Italy|Montalto di Castro|Telecom Italia Mobile|
 |18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|27.189.129.9|8089|China|Langfang|Chinanet|
-|20|58.209.137.184|8089|China|Nanjing|China Telecom|
+|19|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
 
 
 
