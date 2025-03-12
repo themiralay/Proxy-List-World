@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|27.66.203.139|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|8.211.132.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|8.211.132.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|90.174.128.42|3128|Spain|Madrid|Uni2|
-|10|54.221.178.43|8080|United States|Ashburn|Amazon Technologies Inc.|
-|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|12|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|13|201.187.68.180|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|14|67.43.228.250|21043|Canada|Montreal|GloboTech Communications|
-|15|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|67.43.228.250|21043|Canada|Montreal|GloboTech Communications|
-|18|27.189.128.231|8089|China|Langfang|Chinanet|
-|19|27.189.132.240|8089|China|Langfang|Chinanet|
-|20|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|1|45.77.41.122|6789|Singapore|Singapore|The Constant Company|
+|2|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|27.66.203.139|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
+|10|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
+|11|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|103.166.124.249|8085|Indonesia|Tuban|PT Loveika Host Nusantara|
+|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|16|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
