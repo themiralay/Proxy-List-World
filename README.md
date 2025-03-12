@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|38.183.213.248|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
-|7|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
-|11|67.43.228.253|24217|Canada|Montreal|GloboTech Communications|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
-|14|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|15|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|17|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|18|181.81.245.195|4128|Argentina|Salta|Telecom Argentina S.A.|
-|19|67.43.228.250|16523|Canada|Montreal|GloboTech Communications|
-|20|38.121.43.133|3128|United States|Atlanta|GTHost|
+|4|38.183.213.248|999|Venezuela|San Mateo|WISP TECNOGER, C.A.|
+|5|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|60.188.49.53|1999|China|Taizhou|Chinanet|
+|10|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|60.188.49.53|1999|China|Taizhou|Chinanet|
+|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|15|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|18|38.121.43.133|3128|United States|Atlanta|GTHost|
+|19|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|20|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
 
 
 
