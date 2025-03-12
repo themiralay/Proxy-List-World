@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|6|76.50.80.32|8182|United States|Tarzana|Spectrum|
-|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|67.43.236.18|7021|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|7021|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.22|23775|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|1173|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|25281|Canada|Montreal|GloboTech Communications|
-|14|117.80.188.43|8089|China|Nanjing|China Telecom|
-|15|180.105.243.78|8089|China|Lianyun|Chinanet|
-|16|72.10.160.170|12773|Canada|Montreal|GloboTech Communications|
-|17|118.113.244.168|2324|China|Shanghai|Chinanet|
-|18|121.224.156.135|8089|China|Nanjing|China Telecom|
-|19|27.189.133.56|8089|China|Langfang|Chinanet|
-|20|67.43.236.18|7021|Canada|Montreal|GloboTech Communications|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|76.50.80.32|8182|United States|Tarzana|Spectrum|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|201.91.82.155|3128|Brazil|Santos|Vivo|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|19|103.114.105.214|5001|Vietnam|Hanoi|Village 1|
+|20|60.174.167.40|4999|China|Hefei|Chinanet|
 
 
 
