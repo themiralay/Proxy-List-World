@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|31.43.52.216|41890|Ukraine|Plesets'ke|Ukrainian Telecommunication Group LLC|
-|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|10|31.177.111.6|3128|Russia|Moscow|LLC Smart Ape|
-|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|12|118.113.246.30|2324|China|Shanghai|Chinanet|
-|13|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|118.113.246.30|2324|China|Shanghai|Chinanet|
+|4|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|222.67.9.82|2324|China|Shanghai|China Telecom (Group)|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|12|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|13|201.91.82.155|3128|Brazil|Santos|Vivo|
 |14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|72.10.160.170|11887|Canada|Montreal|GloboTech Communications|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|20|45.70.202.160|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|18|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|19|182.253.109.151|8080|Indonesia|Semarang|Biznet Metronet|
+|20|86.96.115.68|3128|United Arab Emirates|Abu Dhabi|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
 
 
 
