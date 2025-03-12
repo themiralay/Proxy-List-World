@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|130.211.99.39|3128|Belgium|Brussels|Google LLC|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|61.160.247.69|9999|China|Nanjing|China Telecom|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|60.188.49.53|1999|China|Taizhou|Chinanet|
-|16|72.10.164.178|18961|Canada|Montreal|GloboTech Communications|
-|17|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|38.121.43.133|3128|United States|Atlanta|GTHost|
-|19|201.91.82.155|3128|Brazil|Santos|Vivo|
-|20|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|5|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|10|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|38.121.43.133|3128|United States|Atlanta|GTHost|
+|15|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|19|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
 
 
 
