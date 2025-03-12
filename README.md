@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|12|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|13|156.155.29.118|8080|South Africa|Durban|AxxessNetworks|
-|14|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|58.209.137.136|8089|China|Nanjing|China Telecom|
-|18|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|19|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|20|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|8.215.21.135|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|10|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
