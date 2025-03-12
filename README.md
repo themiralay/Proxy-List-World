@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.53.66|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|1|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|38.22.17.50|3128|United States|Atlanta|GTHost|
+|3|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|4|8.211.132.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
 |9|27.66.203.139|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|75.69.60.124|8118|United States|Portsmouth|Comcast Cable Communications|
-|12|67.43.227.228|27779|Canada|Montreal|GloboTech Communications|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|16|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|17|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|19|67.43.228.250|19005|Canada|Montreal|GloboTech Communications|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|14|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|170.78.208.234|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|219.135.229.203|7890|China|Guangzhou|Chinanet|
 |20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
