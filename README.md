@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|8.209.198.156|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|103.114.106.229|5167|Vietnam|Hanoi|Village 1|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|8.215.89.37|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|14.187.222.93|3925|Vietnam|Ho Chi Minh City|VNPT|
-|9|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|10|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|11|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|19|27.189.132.235|8089|China|Langfang|Chinanet|
-|20|67.43.228.250|15135|Canada|Montreal|GloboTech Communications|
+|1|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|2|130.211.99.39|3128|Belgium|Brussels|Google LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|103.114.106.229|5167|Vietnam|Hanoi|Village 1|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|13.233.69.2|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|84.46.239.104|3128|United States|Miami|Limestone Networks, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|1.55.192.118|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|84.46.239.104|3128|United States|Miami|Limestone Networks, Inc.|
+|17|72.10.164.178|16771|Canada|Montreal|GloboTech Communications|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
