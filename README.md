@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|130.211.99.39|3128|Belgium|Brussels|Google LLC|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|11|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|117.103.68.226|9941|Indonesia|Malang|NARATEL|
+|7|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|103.167.86.27|39024|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
+|9|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|10|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|11|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|27.189.133.23|8089|China|Langfang|Chinanet|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|118.113.246.30|2324|China|Shanghai|Chinanet|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|72.10.160.171|26931|Canada|Montreal|GloboTech Communications|
-|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|19|58.209.32.112|8089|China|Nanjing|China Telecom|
-|20|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|13|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|14|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|18|72.10.160.171|26931|Canada|Montreal|GloboTech Communications|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|91.107.130.145|11000|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
