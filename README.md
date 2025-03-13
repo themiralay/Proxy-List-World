@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|11|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |14|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.66.208.66|25100|Vietnam|Hanoi|Viettel Group|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|168.194.169.214|999|Peru|Lima|FASTNET|
+|16|124.248.190.213|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|17|180.97.220.151|11080|China|Nanjing|Chinanet|
+|18|103.38.54.64|83|Bangladesh|Green Model Town|Sajid Trading Limited|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|181.129.235.114|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
