@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
+|1|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|201.91.82.155|3128|Brazil|Santos|Vivo|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|67.43.228.250|27081|Canada|Montreal|GloboTech Communications|
+|3|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
