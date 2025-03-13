@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|121.224.156.135|8089|China|Nanjing|China Telecom|
-|11|121.227.179.170|8089|China|Nanjing|China Telecom|
-|12|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.189.130.186|8089|China|Langfang|Chinanet|
-|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|15|67.43.228.253|28831|Canada|Montreal|GloboTech Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|72.10.160.90|6219|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|16719|Canada|Montreal|GloboTech Communications|
-|19|121.232.178.141|8089|China|Nanjing|Chinanet|
-|20|72.10.160.170|12527|Canada|Montreal|GloboTech Communications|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.38.54.64|83|Bangladesh|Green Model Town|Sajid Trading Limited|
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|27.189.130.186|8089|China|Langfang|Chinanet|
+|18|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
