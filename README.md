@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4228** proxies at the latest update. Usable proxies are below.
+> Scraper found **4212** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|524|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|482|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|46.8.252.9|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|14|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|15|72.10.160.91|17763|Canada|Montreal|GloboTech Communications|
-|16|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|17|67.43.236.18|3563|Canada|Montreal|GloboTech Communications|
-|18|103.180.123.107|8085|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|72.10.160.170|30381|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|7431|Canada|Montreal|GloboTech Communications|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|121.224.156.135|8089|China|Nanjing|China Telecom|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
+|17|27.189.135.1|8089|China|Langfang|Chinanet|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|58.209.137.188|8089|China|Nanjing|China Telecom|
+|20|27.189.134.66|8089|China|Langfang|Chinanet|
 
 
 
