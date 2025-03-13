@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|11|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|13|103.172.196.131|2020|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|14|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|15|103.160.182.169|1080|Indonesia|Jember|PT Internusa Duta Makmur|
-|16|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|17|67.43.227.229|30633|Canada|Montreal|GloboTech Communications|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|10|124.83.51.94|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|11|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|72.10.160.170|15237|Canada|Montreal|GloboTech Communications|
+|13|27.189.129.119|8089|China|Langfang|Chinanet|
+|14|171.249.21.107|8080|Vietnam|Hanoi|Viettel Corporation|
+|15|67.43.228.250|27735|Canada|Montreal|GloboTech Communications|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|67.43.228.253|26709|Canada|Montreal|GloboTech Communications|
+|18|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|19|156.155.29.117|8080|South Africa|Durban|AxxessNetworks|
+|20|180.112.40.161|8089|China|Nanjing|Chinanet|
 
 
 
