@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|10|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|12|8.215.105.136|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|103.167.109.171|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|19|177.234.217.62|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|18|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|102.213.192.133|8082|Uganda|Kampala|Cheetahnet Solutions Limited|
+|20|116.206.242.110|3888|Indonesia|Jakarta|CBN|
 
 
 
