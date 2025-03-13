@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|12|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|17|27.189.129.29|8089|China|Langfang|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|14|59.98.3.132|8042|India|Shillong|BSNL Internet|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|19|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|20|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
