@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|103.164.235.18|8085|Indonesia|Serang|PT Bantani Media Utama|
-|6|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|18|43.252.107.119|1111|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|19|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|20|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|12|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
+|13|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|15|201.91.82.155|3128|Brazil|Santos|Vivo|
+|16|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|17|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|18|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|19|45.229.9.146|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|20|119.95.185.114|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
 
 
 
