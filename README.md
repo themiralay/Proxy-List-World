@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|12|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|45.252.183.252|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|10|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 |14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|16|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|45.224.149.15|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
+|19|176.88.175.216|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
