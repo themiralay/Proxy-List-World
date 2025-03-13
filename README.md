@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|8.209.211.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|31.220.104.84|3128|United States|Phoenix|Hostinger International Limited|
 |8|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.247.21.117|1111|Indonesia|Bekasi|PT wifian Solution|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|204.199.120.30|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|17|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
-|18|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|23.131.56.188|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|114.229.213.227|8089|China|Nanjing|Chinanet|
+|20|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
 
 
 
