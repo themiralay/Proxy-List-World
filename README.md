@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.210.45|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|4|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|5|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|181.65.191.202|999|Peru|Lima|Telefonica del Peru S.A.A|
-|11|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|103.164.235.18|8085|Indonesia|Serang|PT Bantani Media Utama|
-|18|8.209.210.45|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|19|180.114.27.57|8089|China|Nanjing|Chinanet|
-|20|67.43.228.250|29021|Canada|Montreal|GloboTech Communications|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|7|72.10.160.90|29179|Canada|Montreal|GloboTech Communications|
+|8|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|182.78.196.18|8080|India|Kolkata|Bharti Airtel|
+|12|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|72.10.160.170|5967|Canada|Montreal|GloboTech Communications|
+|15|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|16|67.43.236.18|13673|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|23253|Canada|Montreal|GloboTech Communications|
+|18|27.189.131.251|8089|China|Langfang|Chinanet|
+|19|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|27.189.135.140|8089|China|Langfang|Chinanet|
 
 
 
