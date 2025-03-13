@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|67.43.228.250|20379|Canada|Montreal|GloboTech Communications|
-|14|27.189.128.133|8089|China|Langfang|Chinanet|
-|15|201.91.82.155|3128|Brazil|Santos|Vivo|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|12|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
 
 
 
