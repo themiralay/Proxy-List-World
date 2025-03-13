@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|2|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
+|5|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|67.43.227.226|32915|Canada|Montreal|GloboTech Communications|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|72.10.160.171|13685|Canada|Montreal|GloboTech Communications|
-|12|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|180.191.36.128|8181|Philippines|Cabanatuan City|Globe Telecom|
-|18|125.87.92.100|2324|China|Chongqing|China Telecom|
-|19|58.209.137.180|8089|China|Nanjing|China Telecom|
-|20|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|27.189.133.97|8089|China|Langfang|Chinanet|
+|14|27.189.131.99|8089|China|Langfang|Chinanet|
+|15|72.10.160.171|13685|Canada|Montreal|GloboTech Communications|
+|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|17|118.113.244.222|2324|China|Shanghai|Chinanet|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|221.225.67.232|8089|China|Suzhou|CHINANET jiangsu province network|
+|20|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
 
 
 
