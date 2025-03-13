@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.215.21.135|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|27.189.128.48|8089|China|Langfang|Chinanet|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|9|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
-|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|11|27.189.134.40|8089|China|Langfang|Chinanet|
-|12|27.189.130.59|8089|China|Langfang|Chinanet|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|15|114.229.213.212|8089|China|Nanjing|Chinanet|
-|16|118.113.245.215|2324|China|Shanghai|Chinanet|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|27.189.128.51|8089|China|Langfang|Chinanet|
-|20|58.209.32.90|8089|China|Nanjing|China Telecom|
+|1|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|114.224.79.32|8089|China|Wuxi|Chinanet|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|58.209.32.115|8089|China|Nanjing|China Telecom|
+|12|186.148.175.116|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|72.10.160.170|32505|Canada|Montreal|GloboTech Communications|
+|14|27.189.128.48|8089|China|Langfang|Chinanet|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|27.189.130.59|8089|China|Langfang|Chinanet|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
