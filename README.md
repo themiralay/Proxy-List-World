@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|15|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|118.113.245.67|2324|China|Shanghai|Chinanet|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|182.53.21.98|8080|Thailand|Si Racha|TOT Public Company Limited|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|15|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|118.113.245.1|2324|China|Shanghai|Chinanet|
+|18|117.80.188.248|8089|China|Nanjing|China Telecom|
+|19|27.189.128.179|8089|China|Langfang|Chinanet|
+|20|201.91.82.155|3128|Brazil|Santos|Vivo|
 
 
 
