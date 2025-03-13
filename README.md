@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-|9|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|182.105.82.38|655|China|Taohua|Chinanet|
+|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|12|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
