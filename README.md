@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|101.255.166.185|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|192.145.205.97|8080|Brazil|Capitão Enéas|Vianet Guaraciama Eireli ME|
-|11|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|12|124.13.227.234|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|170.80.78.211|8088|Brazil|Salvador|R7R - ME|
-|16|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|20|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.121.43.133|3128|United States|Atlanta|GTHost|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|38.121.43.133|3128|United States|Atlanta|GTHost|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|11|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
+|12|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|14|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|18|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|19|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|20|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
