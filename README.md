@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|115.69.218.118|65432|Indonesia|Jagirsidosermo|DWP Customer Collocation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|103.166.159.199|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|14|121.224.156.135|8089|China|Nanjing|China Telecom|
-|15|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
-|16|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|17|27.189.129.158|8089|China|Langfang|Chinanet|
-|18|117.80.188.54|8089|China|Nanjing|China Telecom|
-|19|121.224.156.135|8089|China|Nanjing|China Telecom|
-|20|180.114.26.133|8089|China|Nanjing|Chinanet|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|103.151.246.54|7777|Indonesia|Mamuju|MANAKARRANET|
+|10|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|17|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
+|18|27.189.133.201|8089|China|Langfang|Chinanet|
+|19|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
