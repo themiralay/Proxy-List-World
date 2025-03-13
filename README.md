@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|27.66.196.186|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|79.106.108.150|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|45.179.201.33|80|Colombia|Medellín|NET&COM LTDA.|
-|17|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|18|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|19|72.10.160.170|5331|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|5449|Canada|Montreal|GloboTech Communications|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|12|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|60.188.49.53|1999|China|Taizhou|Chinanet|
+|17|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|18|201.91.82.155|3128|Brazil|Santos|Vivo|
+|19|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|20|38.255.85.145|999|Venezuela|Caracas|Galanet Solution C.A.|
 
 
 
