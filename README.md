@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|11|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|13|190.60.44.234|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
-|14|67.43.227.228|1871|Canada|Montreal|GloboTech Communications|
-|15|27.189.134.169|8089|China|Langfang|Chinanet|
-|16|201.91.82.155|3128|Brazil|Santos|Vivo|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|72.10.160.171|6739|Canada|Montreal|GloboTech Communications|
-|19|27.189.130.28|8089|China|Langfang|Chinanet|
-|20|180.191.40.45|9999|Philippines|Tarlac City|Globe Telecom|
+|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|11|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|12|67.43.227.228|1871|Canada|Montreal|GloboTech Communications|
+|13|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|60.174.167.40|4999|China|Hefei|Chinanet|
+|19|103.112.144.29|8118|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|20|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 
 
 
