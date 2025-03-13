@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|8|27.189.129.166|8089|China|Langfang|Chinanet|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|210.1.70.22|8085|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|117.80.188.39|8089|China|Nanjing|China Telecom|
-|13|27.189.129.166|8089|China|Langfang|Chinanet|
-|14|67.43.227.226|11775|Canada|Montreal|GloboTech Communications|
-|15|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|114.229.213.220|8089|China|Nanjing|Chinanet|
-|17|118.113.247.142|2324|China|Shanghai|Chinanet|
-|18|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
-|19|58.209.137.153|8089|China|Nanjing|China Telecom|
-|20|27.189.131.62|8089|China|Langfang|Chinanet|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|8.215.89.37|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|6|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|203.201.171.114|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|14|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|83.212.126.167|3128|Greece|Athens|National Infrastructures for Research and Technology S.A.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
