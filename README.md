@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|6|121.232.178.136|8089|China|Nanjing|Chinanet|
-|7|180.97.220.151|11080|China|Nanjing|Chinanet|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|27.189.129.28|8089|China|Langfang|Chinanet|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|67.43.227.226|29987|Canada|Montreal|GloboTech Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|61.118.38.234|60808|Japan|Tokyo|Open Computer Network|
-|14|103.97.140.177|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|15|103.243.177.129|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
-|16|27.189.131.34|8089|China|Langfang|Chinanet|
-|17|27.189.128.230|8089|China|Langfang|Chinanet|
-|18|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|20|27.189.134.230|8089|China|Langfang|Chinanet|
+|4|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|49.146.247.142|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|9|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|16|103.48.71.162|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|89.19.175.122|8019|Russia|Moscow|OJSC Comcor|
+|19|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|20|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
