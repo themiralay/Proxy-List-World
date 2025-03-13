@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|1|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|11|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
-|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|181.188.238.146|999|Ecuador|Quito|Otecel S.A|
+|11|68.225.17.237|4228|United States|Aliso Viejo|Cox Communications Inc.|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 |15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|181.188.238.146|999|Ecuador|Quito|Otecel S.A|
-|17|190.2.214.137|9992|Colombia|Trinidad|TV AZTECA SUCURSAL COLOMBIA|
-|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|19|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|41.174.96.38|32650|Zimbabwe|Harare|Liquid Telecommunications Operations Limited|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
