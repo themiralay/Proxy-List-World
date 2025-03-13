@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|11|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|12|181.129.252.123|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|18|190.61.90.59|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|19|101.255.166.185|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|202.47.65.146|3128|Indonesia|Jakarta|PT Filltech Antar Nusa|
+|12|124.13.227.234|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|16|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|18|38.121.43.133|3128|United States|Atlanta|GTHost|
+|19|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|20|36.91.166.98|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
 
 
 
