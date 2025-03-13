@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|8.209.196.195|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|5.181.178.46|8080|Japan|Koto City|Lain.sh|
-|15|167.250.22.106|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|16|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
-|18|190.211.4.139|999|Chile|Chillán|Telefonica del Sur S.A.|
-|19|72.10.160.173|21359|Canada|Montreal|GloboTech Communications|
-|20|60.188.49.53|1999|China|Taizhou|Chinanet|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
+|4|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|60.188.49.53|1999|China|Taizhou|Chinanet|
+|11|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.160.173|21359|Canada|Montreal|GloboTech Communications|
+|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|14|158.160.51.245|8090|Russia|Moscow|Yandex.Cloud LLC|
+|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|16|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
+|20|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
 
 
 
