@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|38.41.0.135|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.125.19.34|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|19|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|121.224.156.135|8089|China|Nanjing|China Telecom|
+|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|12|60.188.49.53|1999|China|Taizhou|Chinanet|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|17|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
+|18|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
