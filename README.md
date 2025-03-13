@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4359** proxies at the latest update. Usable proxies are below.
+> Scraper found **4277** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|617|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|520|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
-|5|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|27.189.133.97|8089|China|Langfang|Chinanet|
-|14|27.189.131.99|8089|China|Langfang|Chinanet|
-|15|72.10.160.171|13685|Canada|Montreal|GloboTech Communications|
-|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|17|118.113.244.222|2324|China|Shanghai|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|221.225.67.232|8089|China|Suzhou|CHINANET jiangsu province network|
-|20|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|1|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|101.47.153.229|8888|Singapore|Singapore|BYTEPLUS|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|9|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|11|38.121.43.133|3128|United States|Atlanta|GTHost|
+|12|200.131.32.85|3128|Brazil|Juiz de Fora|Rede Nacional de Ensino e Pesquisa|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|103.243.82.61|100|Bangladesh|Cox's Bazar|Aamra Outsourcing Ltd.|
+|15|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|58.209.137.151|8089|China|Nanjing|China Telecom|
+|18|188.125.169.92|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
