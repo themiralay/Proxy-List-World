@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|103.151.22.26|8082|Indonesia|Jakarta|TERABYTE|
-|6|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
-|7|27.79.193.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|27.79.234.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|16|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
-|18|83.217.23.36|8090|Russia|Moscow|PJSC Rostelecom|
-|19|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.147.128.25|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|113.23.200.85|8081|Malaysia|Semenyih|Extreme Broadband|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|164.163.178.61|8080|Brazil|Nova Esperança do Piriá|J M P M ALENCAR & A G F ALENCAR LTDA - ME|
 
 
 
