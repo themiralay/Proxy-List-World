@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|542|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|451|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|342|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|433|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|38.121.43.133|3128|United States|Atlanta|GTHost|
-|6|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|72.170.223.9|3128|United States|Dallas|Hughes Network Systems|
-|11|38.121.43.133|3128|United States|Atlanta|GTHost|
-|12|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|202.47.65.146|3128|Indonesia|Jakarta|PT Filltech Antar Nusa|
+|4|38.121.43.133|3128|United States|Atlanta|GTHost|
+|5|103.159.96.178|8055|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|27.79.188.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|203.190.44.230|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|11|103.134.246.71|1111|Indonesia|Wongaya Kaja|Wisuandha Network Globalindo|
+|12|103.181.255.225|1080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|13|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
 |14|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|15|27.79.236.154|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|103.120.76.94|2024|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|38.121.43.133|3128|United States|Atlanta|GTHost|
+|16|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 
 
 
