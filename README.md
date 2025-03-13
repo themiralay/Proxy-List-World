@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|9|181.212.45.228|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|92.126.239.241|8080|Russia|Krasnoyarsk|OJSC "Sibirtelecom"|
+|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|8|60.188.49.53|1999|China|Taizhou|Chinanet|
+|9|124.83.51.94|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|10|27.189.132.228|8089|China|Langfang|Chinanet|
+|11|27.189.129.72|8089|China|Langfang|Chinanet|
+|12|67.43.236.18|14525|Canada|Montreal|GloboTech Communications|
 |13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|114.219.174.23|8089|China|Nanjing|China Telecom|
-|15|114.219.174.9|8089|China|Nanjing|China Telecom|
-|16|27.189.133.188|8089|China|Langfang|Chinanet|
-|17|171.249.21.107|8080|Vietnam|Hanoi|Viettel Corporation|
-|18|180.112.42.246|8089|China|Nanjing|Chinanet|
-|19|117.80.188.35|8089|China|Nanjing|China Telecom|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|118.113.244.11|2324|China|Shanghai|Chinanet|
+|15|27.189.128.104|8089|China|Langfang|Chinanet|
+|16|38.121.43.133|3128|United States|Atlanta|GTHost|
+|17|27.189.128.54|8089|China|Langfang|Chinanet|
+|18|27.189.133.191|8089|China|Langfang|Chinanet|
+|19|27.189.128.102|8089|China|Langfang|Chinanet|
+|20|27.189.132.217|8089|China|Langfang|Chinanet|
 
 
 
