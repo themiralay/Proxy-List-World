@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|117.80.188.254|8089|China|Nanjing|China Telecom|
-|11|113.23.113.217|10004|Vietnam|Quang Minh|FPT Telecom Company|
-|12|117.80.188.43|8089|China|Nanjing|China Telecom|
-|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.236.18|33181|Canada|Montreal|GloboTech Communications|
-|16|114.219.174.6|8089|China|Nanjing|China Telecom|
-|17|118.113.246.209|2324|China|Shanghai|Chinanet|
-|18|117.80.188.43|8089|China|Nanjing|China Telecom|
-|19|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|20|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|7|8.209.200.234|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|115.72.42.66|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|12|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|113.23.113.217|10004|Vietnam|Quang Minh|FPT Telecom Company|
+|15|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
+|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|17|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|19|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
