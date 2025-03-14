@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
-|8|72.10.164.178|13533|Canada|Montreal|GloboTech Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|27.189.134.121|8089|China|Langfang|Chinanet|
-|11|67.43.236.18|16005|Canada|Montreal|GloboTech Communications|
-|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|67.43.236.18|16005|Canada|Montreal|GloboTech Communications|
-|14|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|15|27.189.129.100|8089|China|Langfang|Chinanet|
-|16|27.189.129.62|8089|China|Langfang|Chinanet|
-|17|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|18|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|190.60.44.234|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|103.110.34.146|8089|Indonesia|Jagong|PT RECONET SEMESTA INDONESIA|
+|5|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|6|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|8|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|9|117.44.64.85|655|China|Taohua|Chinanet|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|109.122.242.82|8080|Iran|Tehran|Avini cultural and Art Institute|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
+|14|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|15|209.14.119.220|999|Colombia|Prado-Sevilla|AGIS|
+|16|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|17|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|103.85.117.6|8080|Indonesia|Makassar|BOSOWA|
+|20|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
