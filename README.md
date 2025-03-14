@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.125.189.163|5000|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|5|49.145.120.246|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|6|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
 |7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|9|180.97.220.151|11080|China|Nanjing|Chinanet|
-|10|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|11|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|121.232.181.12|8089|China|Nanjing|Chinanet|
-|13|27.189.128.120|8089|China|Langfang|Chinanet|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|114.220.155.193|8089|China|Nanjing|China Telecom|
-|17|114.229.213.209|8089|China|Nanjing|Chinanet|
-|18|27.189.128.230|8089|China|Langfang|Chinanet|
-|19|114.219.174.9|8089|China|Nanjing|China Telecom|
-|20|72.10.160.170|32887|Canada|Montreal|GloboTech Communications|
+|8|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|49.145.120.246|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|10|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|11|176.88.175.170|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|13|124.13.232.210|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|15|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|182.53.21.98|8080|Thailand|Si Racha|TOT Public Company Limited|
+|18|125.87.86.114|2324|China|Shanghai|China Telecom|
+|19|82.213.29.203|19000|Palestine|Ramallah|Corporate -PALTEL|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
