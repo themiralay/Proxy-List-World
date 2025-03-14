@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|6|172.105.203.68|8181|Japan|Tokyo|Akamai Technologies|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
 |9|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|117.44.64.85|655|China|Taohua|Chinanet|
-|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|12|67.43.227.228|31537|Canada|Montreal|GloboTech Communications|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|15|72.10.160.90|16785|Canada|Montreal|GloboTech Communications|
-|16|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|19|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|20|27.189.135.222|8089|China|Langfang|Chinanet|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|13|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 
 
 
