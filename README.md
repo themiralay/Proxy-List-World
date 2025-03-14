@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|60.188.49.53|1999|China|Taizhou|Chinanet|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|15|67.43.228.251|23381|Canada|Montreal|GloboTech Communications|
-|16|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|18|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|67.43.227.226|4393|Canada|Montreal|GloboTech Communications|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|201.54.176.64|8080|Brazil|Icó|Lucas De Souza Silva|
+|14|38.86.249.26|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|15|181.115.65.194|999|Honduras|San Pedro Sula|Telgua|
+|16|58.209.137.160|8089|China|Nanjing|China Telecom|
+|17|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|19|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
