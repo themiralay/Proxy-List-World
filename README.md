@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
-|6|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|157.66.84.17|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|185.151.151.166|3128|Syria|Damascus|Syrian Telecom|
-|19|67.43.228.254|28699|Canada|Montreal|GloboTech Communications|
-|20|114.229.213.220|8089|China|Nanjing|Chinanet|
+|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|103.105.86.46|8090|Bangladesh|Bogra|Race Online Limited|
+|10|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|11|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|12|1.20.198.191|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|16|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|17|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|18|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|19|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|20|72.10.160.91|9537|Canada|Montreal|GloboTech Communications|
 
 
 
