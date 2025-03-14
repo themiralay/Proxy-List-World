@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|103.172.120.51|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|6|103.125.189.163|5000|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|7|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|10|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|11|67.43.228.250|24479|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|17059|Canada|Montreal|GloboTech Communications|
-|13|27.189.133.15|8089|China|Langfang|Chinanet|
-|14|67.43.236.22|28229|Canada|Montreal|GloboTech Communications|
-|15|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|17|103.114.106.229|5001|Vietnam|Hanoi|Village 1|
-|18|49.84.134.47|8089|China|Nanjing|China Telecom|
-|19|27.189.130.232|8089|China|Langfang|Chinanet|
-|20|68.225.17.237|4228|United States|Aliso Viejo|Cox Communications Inc.|
+|3|190.119.90.114|8080|Peru|Santiago|America Movil Peru S.A.C.|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|6|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|7|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|8|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|12|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|19|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|20|131.100.50.149|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
 
 
 
