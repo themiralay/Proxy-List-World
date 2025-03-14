@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|180.97.220.151|11080|China|Nanjing|Chinanet|
-|10|72.10.160.170|11211|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|14565|Canada|Montreal|GloboTech Communications|
-|12|27.189.133.122|8089|China|Langfang|Chinanet|
-|13|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|67.43.236.20|26565|Canada|Montreal|GloboTech Communications|
-|15|27.189.132.3|8089|China|Langfang|Chinanet|
-|16|72.10.160.170|11211|Canada|Montreal|GloboTech Communications|
-|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|18|125.87.90.172|2324|China|Chongqing|China Telecom|
-|19|67.43.228.250|12179|Canada|Montreal|GloboTech Communications|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|4|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|5|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|72.10.164.178|14565|Canada|Montreal|GloboTech Communications|
+|7|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|8|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|67.43.236.20|26565|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|6663|Canada|Montreal|GloboTech Communications|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|170.80.78.211|8088|Brazil|Salvador|R7R - ME|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|83.1.213.1|8080|Poland|Syców|Orange Polska Spolka Akcyjna|
+|18|38.183.146.83|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|20|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 
 
 
