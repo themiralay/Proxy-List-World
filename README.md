@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|190.61.112.115|8080|El Salvador|San Salvador|Ufinet El Salvador|
-|13|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|27.189.134.185|8089|China|Langfang|Chinanet|
-|17|27.189.133.98|8089|China|Langfang|Chinanet|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|58.209.137.186|8089|China|Nanjing|China Telecom|
-|20|72.10.164.178|1827|Canada|Montreal|GloboTech Communications|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|181.78.74.146|999|Colombia|Lebrija|IFX Networks Argentina S.R.L|
+|11|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|103.61.240.198|9090|Bangladesh|Dhaka|HelloTech Limited|
+|16|72.10.164.178|31449|Canada|Montreal|GloboTech Communications|
+|17|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|20|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
