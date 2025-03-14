@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|114.229.213.225|8089|China|Nanjing|Chinanet|
-|10|72.10.160.170|32545|Canada|Montreal|GloboTech Communications|
-|11|49.84.175.70|8089|China|Nanjing|China Telecom|
-|12|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|27.189.128.71|8089|China|Langfang|Chinanet|
-|14|121.224.156.176|8089|China|Nanjing|China Telecom|
-|15|218.1.197.136|2324|China|Shanghai|China Telecom (Group)|
-|16|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
-|17|125.87.89.163|2324|China|Chongqing|China Telecom|
-|18|72.10.160.90|25911|Canada|Montreal|GloboTech Communications|
-|19|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|20|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|190.119.90.114|8080|Peru|Santiago|America Movil Peru S.A.C.|
+|9|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|12|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|14|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|15|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|72.10.160.170|11399|Canada|Montreal|GloboTech Communications|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
