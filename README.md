@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.200.234|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.209.200.234|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|9|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|11|157.10.191.2|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
-|12|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|13|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|14|170.78.208.236|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|15|38.86.249.14|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|154.16.214.14|3128|United States|Chicago|ipxo|
-|18|103.119.51.158|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|20.243.174.96|3128|Japan|Tokyo|Microsoft Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.119.51.158|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 
 
 
