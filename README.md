@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.200.234|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|43.153.47.117|24100|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|38.86.249.30|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|9|45.174.249.16|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|10|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|11|113.23.113.217|10001|Vietnam|Quang Minh|FPT Telecom Company|
-|12|72.10.160.170|10275|Canada|Montreal|GloboTech Communications|
-|13|27.189.133.229|8089|China|Langfang|Chinanet|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|72.10.160.170|10275|Canada|Montreal|GloboTech Communications|
-|17|27.189.133.153|8089|China|Langfang|Chinanet|
-|18|27.189.128.18|8089|China|Langfang|Chinanet|
-|19|27.189.128.214|8089|China|Langfang|Chinanet|
-|20|124.217.107.60|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|7|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|170.78.208.236|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|12|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|201.234.196.106|9443|Ecuador|Quito|Level 3 ECUADOR LVLT S.A|
+|14|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|15|103.133.61.165|1111|Indonesia|Bandar Lampung|TLINK|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|18|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|219.135.229.203|7890|China|Guangzhou|Chinanet|
 
 
 
