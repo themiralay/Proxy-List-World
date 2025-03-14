@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|125.27.24.41|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|7|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.181.255.137|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|12|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|13|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|46.146.202.102|8080|Russia|Perm|OJSC "ER-Telecom" Perm'|
-|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|180.97.220.151|11080|China|Nanjing|Chinanet|
-|18|60.188.49.53|1999|China|Taizhou|Chinanet|
-|19|121.232.178.44|8089|China|Nanjing|Chinanet|
-|20|27.189.132.31|8089|China|Langfang|Chinanet|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.70.202.160|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|7|117.44.64.85|655|China|Taohua|Chinanet|
+|8|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|118.113.246.209|2324|China|Shanghai|Chinanet|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|94.70.195.145|8080|Greece|Marousi|Ote SA (Hellenic Telecommunications Organisation)|
+|12|38.172.130.216|999|Peru|Lima|Conex TV E.I.R.L.|
+|13|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|118.113.246.27|2324|China|Shanghai|Chinanet|
+|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|67.43.227.227|32427|Canada|Montreal|GloboTech Communications|
+|18|49.70.190.177|2324|China|Nanjing|Chinanet|
+|19|45.70.236.194|999|Ecuador|Ventanas|Ufinet Panama S.A.|
+|20|72.10.160.92|24353|Canada|Montreal|GloboTech Communications|
 
 
 
