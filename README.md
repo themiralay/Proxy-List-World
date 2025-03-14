@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|114.219.102.7|8089|China|Nanjing|China Telecom|
-|12|114.220.155.213|8089|China|Nanjing|China Telecom|
-|13|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|125.87.90.210|2324|China|Chongqing|China Telecom|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|38.22.17.50|3128|United States|Atlanta|GTHost|
 |15|114.229.213.219|8089|China|Nanjing|Chinanet|
-|16|27.189.128.95|8089|China|Langfang|Chinanet|
-|17|121.227.118.138|8089|China|Nanjing|China Telecom|
-|18|111.72.130.90|2324|China|Taohua|Chinanet|
-|19|27.189.133.116|8089|China|Langfang|Chinanet|
-|20|125.87.90.210|2324|China|Chongqing|China Telecom|
+|16|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|19|118.113.244.240|2324|China|Shanghai|Chinanet|
+|20|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
