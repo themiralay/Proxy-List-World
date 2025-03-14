@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|38.156.75.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|12|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|27.189.131.55|8089|China|Langfang|Chinanet|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|17|27.189.128.10|8089|China|Langfang|Chinanet|
-|18|103.125.190.213|5142|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|19|67.43.236.19|24913|Canada|Montreal|GloboTech Communications|
-|20|27.189.133.103|8089|China|Langfang|Chinanet|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|160.19.18.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|18|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|19|181.209.125.189|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
