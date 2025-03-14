@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|7|114.229.213.225|8089|China|Nanjing|Chinanet|
-|8|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|9|58.209.137.145|8089|China|Nanjing|China Telecom|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|67.43.227.227|14063|Canada|Montreal|GloboTech Communications|
-|12|58.209.32.93|8089|China|Nanjing|China Telecom|
-|13|121.224.156.141|8089|China|Nanjing|China Telecom|
-|14|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|15|72.10.160.170|30523|Canada|Montreal|GloboTech Communications|
-|16|27.189.132.240|8089|China|Langfang|Chinanet|
-|17|27.189.129.96|8089|China|Langfang|Chinanet|
-|18|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
-|19|27.189.133.107|8089|China|Langfang|Chinanet|
-|20|27.189.130.136|8089|China|Langfang|Chinanet|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|60.188.49.53|1999|China|Taizhou|Chinanet|
+|8|67.43.236.18|25193|Canada|Montreal|GloboTech Communications|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|72.10.160.170|9551|Canada|Montreal|GloboTech Communications|
+|11|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|12|67.43.236.18|25193|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.94|10649|Canada|Montreal|GloboTech Communications|
+|14|117.44.64.85|655|China|Taohua|Chinanet|
+|15|27.189.134.158|8089|China|Langfang|Chinanet|
+|16|67.43.236.18|25193|Canada|Montreal|GloboTech Communications|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|91.107.176.84|2580|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|27.189.133.202|8089|China|Langfang|Chinanet|
+|20|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
