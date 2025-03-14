@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|6|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|7|103.172.120.91|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|8|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|46.146.202.102|8080|Russia|Perm|OJSC "ER-Telecom" Perm'|
-|10|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|11|180.191.40.45|9999|Philippines|Tarlac City|Globe Telecom|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|27.189.130.22|8089|China|Langfang|Chinanet|
-|14|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|15|114.219.174.55|8089|China|Nanjing|China Telecom|
-|16|117.44.64.85|655|China|Taohua|Chinanet|
-|17|27.189.131.30|8089|China|Langfang|Chinanet|
-|18|27.189.133.221|8089|China|Langfang|Chinanet|
-|19|27.189.129.99|8089|China|Langfang|Chinanet|
-|20|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|1.20.198.191|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|9|122.3.41.154|8090|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|13|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|14|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|15|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|18|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|19|67.43.236.18|26163|Canada|Montreal|GloboTech Communications|
+|20|200.125.170.234|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
