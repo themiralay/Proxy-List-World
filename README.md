@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|8.209.211.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|103.144.147.18|8080|Indonesia|Tulungagung|Lexxa Data|
-|8|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|11|103.153.96.147|8181|Indonesia|Serang|NITNET|
+|4|190.235.185.20|999|Peru|Lima|TDP-GRS|
+|5|209.141.46.41|8128|United States|Las Vegas|FranTech Solutions|
+|6|36.67.99.31|7023|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|7|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|177.93.58.53|999|Colombia|Puerto Rondón|TV AZTECA SUCURSAL COLOMBIA|
+|10|46.246.1.106|3128|Sweden|Stockholm|Portlane Network|
+|11|117.103.71.77|8715|Indonesia|Malang|NARATEL|
 |12|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
 |15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|122.3.55.18|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
-|19|201.91.82.155|3128|Brazil|Santos|Vivo|
-|20|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
