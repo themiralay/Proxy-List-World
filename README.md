@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
+|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
-|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|11|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|12|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|190.52.100.80|999|Venezuela|Caracas|Gold Data USA Inc|
-|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|16|60.50.128.61|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|17|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
-|18|27.189.135.7|8089|China|Langfang|Chinanet|
-|19|27.189.128.225|8089|China|Langfang|Chinanet|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|8.217.74.245|3228|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|11|180.97.220.151|11080|China|Nanjing|Chinanet|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|15|152.166.69.34|8080|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
+|16|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|20|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
 
 
 
