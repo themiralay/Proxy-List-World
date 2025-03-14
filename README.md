@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.132.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|78.108.108.9|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
-|10|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|213.97.139.20|3128|Spain|Barcelona|Telefonica de Espana SAU|
+|1|52.194.127.176|80|Japan|Tokyo|Amazon Technologies Inc.|
+|2|8.211.132.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|103.106.79.236|7979|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|115.72.32.172|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|103.120.202.160|56640|Bangladesh|Dhaka|Carnival Internet|
+|12|8.211.132.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|18|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|67.43.236.18|2867|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|121.224.156.141|8089|China|Nanjing|China Telecom|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|67.43.236.18|19479|Canada|Montreal|GloboTech Communications|
 
 
 
