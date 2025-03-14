@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4264** proxies at the latest update. Usable proxies are below.
+> Scraper found **4298** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|456|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|490|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|586|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|1.20.198.191|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|9|122.3.41.154|8090|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|14|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|15|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|18|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|19|67.43.236.18|26163|Canada|Montreal|GloboTech Communications|
-|20|200.125.170.234|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|109.122.242.82|8080|Iran|Tehran|Avini cultural and Art Institute|
+|5|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|45.70.202.160|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|36.93.8.34|11000|Indonesia|Bogor|Telekomunikasi Indonesia|
+|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|60.188.49.53|1999|China|Taizhou|Chinanet|
+|15|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|16|27.189.135.46|8089|China|Langfang|Chinanet|
+|17|67.43.236.19|31915|Canada|Montreal|GloboTech Communications|
+|18|118.113.246.27|2324|China|Shanghai|Chinanet|
+|19|27.189.130.198|8089|China|Langfang|Chinanet|
+|20|117.44.64.85|655|China|Taohua|Chinanet|
 
 
 
