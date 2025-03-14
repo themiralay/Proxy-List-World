@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|103.125.189.163|5000|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|12|67.43.236.18|10049|Canada|Montreal|GloboTech Communications|
-|13|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|67.43.228.251|2561|Canada|Montreal|GloboTech Communications|
-|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|16|67.43.236.18|10049|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|19339|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|5671|Canada|Montreal|GloboTech Communications|
-|19|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|20|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|5|103.125.189.163|5000|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|8|188.136.142.97|8182|Iran|Tehran|Ariana Gostar Spadana|
+|9|103.239.255.36|58080|Bangladesh|Mīrpur|Carnival Internet|
+|10|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|11|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|13|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|14|67.43.228.250|28549|Canada|Montreal|GloboTech Communications|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
 
 
 
