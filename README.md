@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|38.194.233.82|999|Mexico|Tezontepec de Aldama|Ientc S De RL De CV|
-|7|103.210.35.183|8080|Indonesia|Bantul|Diskominfo DIY|
-|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|10|38.54.116.95|80|Oman|Muscat|Kaopu Cloud HK Limited|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|14|58.209.137.160|8089|China|Nanjing|China Telecom|
-|15|60.188.49.53|1999|China|Taizhou|Chinanet|
-|16|201.91.82.155|3128|Brazil|Santos|Vivo|
-|17|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|19|67.43.227.226|21163|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|26769|Canada|Montreal|GloboTech Communications|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|5|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|6|185.4.229.132|8080|Finland|Helsinki|Datalahti Oy|
+|7|103.169.255.195|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
+|10|103.106.112.166|1234|Indonesia|Bandar Lampung|SMSNET|
+|11|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|12|183.66.135.142|22222|China|Chongqing|Chinanet|
+|13|201.91.82.155|3128|Brazil|Santos|Vivo|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|16|60.188.49.53|1999|China|Taizhou|Chinanet|
+|17|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|18|181.78.79.148|999|Colombia|Cereté|IFX Networks Argentina S.R.L|
+|19|171.236.119.235|8080|Vietnam|Hanoi|Viettel Corporation|
+|20|27.189.135.135|8089|China|Langfang|Chinanet|
 
 
 
