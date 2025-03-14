@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|52.194.127.176|80|Japan|Tokyo|Amazon Technologies Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
-|9|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|11|121.101.134.214|1111|Indonesia|Boyolali|PT SELARAS CITRA TERABIT|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|160.19.17.33|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|14|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|16|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|114.220.115.89|8089|China|Nanjing|China Telecom|
-|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|217.160.221.48|3128|Germany|Frankfurt am Main|1&1 IONOS SE|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|15|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.160.170|30427|Canada|Montreal|GloboTech Communications|
+|18|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
 
 
 
