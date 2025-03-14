@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|180.250.143.189|9333|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|8.211.133.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|45.70.113.20|8080|Brazil|Itaituba|Webnet Provedor E Informatica Ltda|
-|10|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|61.29.96.146|8000|Australia|Hawthorn|AAPT Limited|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|8.211.133.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|177.125.86.108|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
+|15|219.135.229.203|7890|China|Guangzhou|Chinanet|
 |16|117.80.188.6|8089|China|Nanjing|China Telecom|
-|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|58.209.137.179|8089|China|Nanjing|China Telecom|
+|17|118.113.246.78|2324|China|Shanghai|Chinanet|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
