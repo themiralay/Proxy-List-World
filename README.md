@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|160.22.92.24|8080|Indonesia|Ketanggungan|PT Tiga Media Solusi|
-|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|10|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|175.103.36.130|3888|Indonesia|Prigen|Maxindo Mintra Solusi|
+|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
 |12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|14|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|117.80.188.57|8089|China|Nanjing|China Telecom|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|117.80.188.248|8089|China|Nanjing|China Telecom|
+|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|14|8.211.132.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|18|60.188.49.53|1999|China|Taizhou|Chinanet|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|219.135.229.203|7890|China|Guangzhou|Chinanet|
 
 
 
