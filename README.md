@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|8.211.133.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|180.250.143.189|9333|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|12|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.247.21.44|1111|Indonesia|Bekasi|PT wifian Solution|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|172.104.117.175|8181|Japan|Tokyo|Akamai Technologies|
-|17|60.188.49.53|1999|China|Taizhou|Chinanet|
-|18|27.189.133.68|8089|China|Langfang|Chinanet|
-|19|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|12|118.113.246.78|2324|China|Shanghai|Chinanet|
+|13|45.189.239.24|999|Mexico|Atlacomulco de Fabela|Miguel Amado Escobar|
+|14|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|15|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|18|121.232.181.7|8089|China|Nanjing|Chinanet|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|201.91.82.155|3128|Brazil|Santos|Vivo|
 
 
 
