@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|42.115.229.16|10010|Vietnam|Hanoi|FPT Telecom Company|
-|3|27.79.255.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.180.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|12|27.66.208.66|25100|Vietnam|Hanoi|Viettel Group|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|20|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
+|1|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|27.66.208.66|25100|Vietnam|Hanoi|Viettel Group|
+|7|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|18|27.189.128.10|8089|China|Langfang|Chinanet|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
