@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
-|4|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|103.190.60.28|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
-|10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|72.10.160.173|3149|Canada|Montreal|GloboTech Communications|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|16|72.10.160.170|2579|Canada|Montreal|GloboTech Communications|
-|17|18.139.209.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|38.86.249.6|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|19|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|6|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|7|180.97.220.151|11080|China|Nanjing|Chinanet|
+|8|45.221.96.32|80|South Africa|Sandton|Bluegate Exchange|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|12|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
+|13|27.189.130.167|8089|China|Langfang|Chinanet|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|16|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
