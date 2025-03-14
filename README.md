@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|44.199.166.74|80|United States|Ashburn|Amazon.com|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.228.251|5829|Canada|Montreal|GloboTech Communications|
-|13|27.189.135.149|8089|China|Langfang|Chinanet|
-|14|67.43.236.18|13929|Canada|Montreal|GloboTech Communications|
-|15|114.224.79.14|8089|China|Wuxi|Chinanet|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|27.189.129.23|8089|China|Langfang|Chinanet|
-|18|72.10.160.170|17361|Canada|Montreal|GloboTech Communications|
-|19|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|20|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|6|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|12|181.45.78.113|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|60.188.49.53|1999|China|Taizhou|Chinanet|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|17|177.54.229.124|9292|Brazil|Curionópolis|Aranet Comunicacao Ltda|
+|18|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|8.211.132.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
