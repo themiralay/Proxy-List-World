@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4056** proxies at the latest update. Usable proxies are below.
+> Scraper found **4052** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|446|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|442|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|388|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|6|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|7|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|27.189.133.106|8089|China|Langfang|Chinanet|
-|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|58.209.32.94|8089|China|Nanjing|China Telecom|
-|13|27.189.134.15|8089|China|Langfang|Chinanet|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|27.189.130.83|8089|China|Langfang|Chinanet|
-|16|27.189.131.155|8089|China|Langfang|Chinanet|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|1|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|114.219.102.7|8089|China|Nanjing|China Telecom|
+|12|114.220.155.213|8089|China|Nanjing|China Telecom|
+|13|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|114.229.213.219|8089|China|Nanjing|Chinanet|
+|16|27.189.128.95|8089|China|Langfang|Chinanet|
+|17|121.227.118.138|8089|China|Nanjing|China Telecom|
+|18|111.72.130.90|2324|China|Taohua|Chinanet|
+|19|27.189.133.116|8089|China|Langfang|Chinanet|
+|20|125.87.90.210|2324|China|Chongqing|China Telecom|
 
 
 
