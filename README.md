@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|5|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|180.97.220.151|11080|China|Nanjing|Chinanet|
-|9|67.43.227.227|5161|Canada|Montreal|GloboTech Communications|
-|10|121.227.109.53|8089|China|Nanjing|China Telecom|
-|11|121.224.156.185|8089|China|Nanjing|China Telecom|
-|12|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|67.43.236.18|3349|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|6285|Canada|Montreal|GloboTech Communications|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|114.229.213.236|8089|China|Nanjing|Chinanet|
-|17|114.219.174.38|8089|China|Nanjing|China Telecom|
-|18|27.189.134.237|8089|China|Langfang|Chinanet|
-|19|27.189.128.78|8089|China|Langfang|Chinanet|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|191.102.250.2|8085|Argentina|Rosario|IP·RED|
+|7|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|92.51.122.174|8080|Georgia|Batumi|Deltanet-net Network|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|67.43.228.251|21371|Canada|Montreal|GloboTech Communications|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|16|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
