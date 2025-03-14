@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|67.43.227.226|12511|Canada|Montreal|GloboTech Communications|
-|11|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|67.43.227.228|11327|Canada|Montreal|GloboTech Communications|
-|13|38.86.249.2|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|27.189.132.89|8089|China|Langfang|Chinanet|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|72.10.160.170|4669|Canada|Montreal|GloboTech Communications|
-|19|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
-|20|60.188.49.53|1999|China|Taizhou|Chinanet|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|8|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|9|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|10|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|11|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|15|60.188.49.53|1999|China|Taizhou|Chinanet|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|180.97.220.151|11080|China|Nanjing|Chinanet|
+|19|47.245.34.6|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
