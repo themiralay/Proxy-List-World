@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|38.183.212.14|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
-|8|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
-|9|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|11|175.29.199.6|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|27.189.130.172|8089|China|Langfang|Chinanet|
-|14|27.189.132.209|8089|China|Langfang|Chinanet|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|114.219.174.19|8089|China|Nanjing|China Telecom|
-|17|27.189.131.10|8089|China|Langfang|Chinanet|
-|18|58.209.137.140|8089|China|Nanjing|China Telecom|
-|19|27.189.132.244|8089|China|Langfang|Chinanet|
-|20|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|10|72.10.160.92|9133|Canada|Montreal|GloboTech Communications|
+|11|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|12|110.38.226.139|8080|Pakistan|Sahiwal|Wateen Telecom Limited|
+|13|157.20.233.184|8080|Indonesia|Kendal|PT Applewifi Selalu Lancar|
+|14|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
+|15|91.201.115.137|25217|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
+|19|103.141.105.74|55|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
