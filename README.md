@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|27.66.208.66|25100|Vietnam|Hanoi|Viettel Group|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|14|186.125.235.253|999|Argentina|Monteros|Telecom Argentina S.A.|
-|15|38.86.249.50|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|19|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|27.66.208.66|25100|Vietnam|Hanoi|Viettel Group|
+|8|8.210.232.181|7888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|44.199.166.74|80|United States|Ashburn|Amazon.com|
+|10|38.86.249.18|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|15|202.131.153.146|1111|India|Mangalore|D-Vois Broadband Pvt Ltd|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|18|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|19|49.48.66.134|8080|Thailand|Buriram|Triple T Broadband Public Company Limited|
+|20|201.91.82.155|3128|Brazil|Santos|Vivo|
 
 
 
