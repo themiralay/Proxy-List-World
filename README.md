@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |8|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|13|113.160.214.209|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
-|18|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
-|19|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|20|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|14|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|15|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|16|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|18|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|19|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|20|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
