@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|27.189.134.185|8089|China|Langfang|Chinanet|
-|11|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|27.189.134.185|8089|China|Langfang|Chinanet|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.10.160.90|5919|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|16825|Canada|Montreal|GloboTech Communications|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|38.49.149.138|999|Mexico|Cárdenas Segunda Sección|Ientc S De RL De CV|
-|19|8.211.143.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|8.211.143.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|159.223.50.89|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.106.112.166|1234|Indonesia|Bandar Lampung|SMSNET|
+|10|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|11|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|12|180.191.40.45|9999|Philippines|Tarlac City|Globe Telecom|
+|13|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|8.211.143.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|67.43.227.230|3169|Canada|Montreal|GloboTech Communications|
+|20|103.163.103.64|8080|Indonesia|Jatiroto|PT Mamura Inter Media|
 
 
 
