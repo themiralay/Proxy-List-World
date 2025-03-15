@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|13|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|192.9.188.22|8182|Australia|Sydney|Oracle Corporation|
-|18|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|19|103.165.155.161|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|1|8.209.221.4|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|14|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|15|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|19|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
