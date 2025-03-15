@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.209.210.45|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|7|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|171.244.129.3|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|38.191.208.11|999|Colombia|Bucaramanga|Netslink SAS|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|58.209.137.143|8089|China|Nanjing|China Telecom|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|20|72.10.160.172|6009|Canada|Montreal|GloboTech Communications|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|9|185.138.113.182|8080|Ireland|Limerick|Enet Telecommunications Networks Limited|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|12|103.169.187.101|6080|Indonesia|Patokan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|13|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.151.246.54|7777|Indonesia|Mamuju|MANAKARRANET|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
+|19|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|20|219.135.229.203|7890|China|Guangzhou|Chinanet|
 
 
 
