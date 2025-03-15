@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|5|160.30.133.128|8080|Myanmar|Mandalay|T-Link Group Company Limited|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|117.5.20.200|5103|Vietnam|Vĩnh Phúc|VIETTEL|
-|9|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|10|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|11|72.10.160.170|26617|Canada|Montreal|GloboTech Communications|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|14|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|15|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|16|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
-|17|36.91.166.98|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|18|195.26.255.4|3128|United States|St Louis|Nubes, LLC|
-|19|203.114.65.85|59876|Philippines|Pasay|W Network Inc.|
-|20|176.88.175.170|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|2|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|10|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|103.112.163.46|8080|Indonesia|Jakarta|24AS|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|119.18.147.179|96|Bangladesh|Chittagong|BBTS Network|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|103.180.123.93|8080|Indonesia|Ketanggungan|PT Indo Telemedia Solusi|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|117.44.64.85|655|China|Taohua|Chinanet|
 
 
 
