@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|4|182.93.82.8|8080|Nepal|Ṭikāpur|Subisu Cablenet|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|59.98.4.70|8080|India|Port Blair|BSNL Internet|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|60.188.49.53|1999|China|Taizhou|Chinanet|
-|11|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|13|103.106.112.166|1234|Indonesia|Bandar Lampung|SMSNET|
-|14|47.239.254.184|9999|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
-|16|27.189.132.171|8089|China|Langfang|Chinanet|
-|17|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
-|18|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
-|19|49.84.175.94|8089|China|Nanjing|China Telecom|
-|20|181.81.245.195|4128|Argentina|Salta|Telecom Argentina S.A.|
+|1|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.218.186.173|8080|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.125.189.163|5000|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
+|10|103.180.123.39|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|15|102.219.231.22|8080|South Africa|Kriel|Soepa Soap Vervaardigers CC|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|190.7.57.84|8080|Argentina|Resistencia|Gigared S.A|
+|18|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|41.87.77.34|32650|Nigeria|Lagos|Phase3 Telecom Limited|
+|20|117.80.188.6|8089|China|Nanjing|China Telecom|
 
 
 
