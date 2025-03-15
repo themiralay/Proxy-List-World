@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|103.165.40.85|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|7|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|8|72.10.160.170|26005|Canada|Montreal|GloboTech Communications|
-|9|117.80.188.254|8089|China|Nanjing|China Telecom|
-|10|72.10.160.171|2403|Canada|Montreal|GloboTech Communications|
-|11|27.189.130.104|8089|China|Langfang|Chinanet|
-|12|117.80.188.254|8089|China|Nanjing|China Telecom|
-|13|121.224.170.210|8089|China|Nanjing|China Telecom|
-|14|49.84.134.17|8089|China|Nanjing|China Telecom|
-|15|67.43.228.252|7221|Canada|Montreal|GloboTech Communications|
+|1|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|38.86.249.6|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|72.10.160.171|2403|Canada|Montreal|GloboTech Communications|
+|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|201.91.82.155|3128|Brazil|Santos|Vivo|
-|18|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|19|67.43.236.21|10605|Canada|Montreal|GloboTech Communications|
-|20|38.183.212.14|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
+|17|117.44.64.85|655|China|Taohua|Chinanet|
+|18|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|19|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
 
 
 
