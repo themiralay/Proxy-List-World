@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|172.104.64.80|8181|Japan|Tokyo|Akamai Technologies|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|6|45.178.55.2|999|Argentina|Posadas|Globalweb S.R.L|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|38.22.17.50|3128|United States|Atlanta|GTHost|
-|14|27.189.130.14|8089|China|Langfang|Chinanet|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|58.209.137.145|8089|China|Nanjing|China Telecom|
-|18|27.189.134.249|8089|China|Langfang|Chinanet|
-|19|72.10.160.93|25215|Canada|Montreal|GloboTech Communications|
-|20|60.188.49.53|1999|China|Taizhou|Chinanet|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|172.104.64.80|8181|Japan|Tokyo|Akamai Technologies|
+|7|87.103.135.119|4444|Russia|Kemerovo|SIBNET-IRKUTSK|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|11|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|171.249.21.107|8080|Vietnam|Hanoi|Viettel Corporation|
+|13|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|60.188.49.53|1999|China|Taizhou|Chinanet|
+|16|45.115.253.30|83|India|Mathura|Elxire Services|
+|17|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|18|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
+|19|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
