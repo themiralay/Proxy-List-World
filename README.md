@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4172** proxies at the latest update. Usable proxies are below.
+> Scraper found **4215** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|477|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|9|37.157.219.207|3128|Armenia|Yerevan|Ucom CJSC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|118.113.245.147|2324|China|Shanghai|Chinanet|
-|14|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|15|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|16|72.10.160.170|28023|Canada|Montreal|GloboTech Communications|
-|17|201.91.82.155|3128|Brazil|Santos|Vivo|
-|18|49.70.190.146|2324|China|Nanjing|Chinanet|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|38.194.236.168|3128|Mexico|Tlacolula de Matamoros|Ientc S De RL De CV|
+|1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|4|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|5|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|6|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|7|58.209.137.185|8089|China|Nanjing|China Telecom|
+|8|58.209.137.179|8089|China|Nanjing|China Telecom|
+|9|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|10|72.10.160.172|29457|Canada|Montreal|GloboTech Communications|
+|11|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
+|12|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|103.57.150.135|8080|India|Namakkal|Infonet Comm Enterprises|
+|14|49.84.175.65|8089|China|Nanjing|China Telecom|
+|15|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|16|121.232.181.44|8089|China|Nanjing|Chinanet|
+|17|27.189.135.193|8089|China|Langfang|Chinanet|
+|18|114.229.213.223|8089|China|Nanjing|Chinanet|
+|19|72.10.160.90|10735|Canada|Montreal|GloboTech Communications|
+|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 
 
 
