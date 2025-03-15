@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|8.209.211.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|67.43.236.19|6799|Canada|Montreal|GloboTech Communications|
-|12|27.189.128.147|8089|China|Langfang|Chinanet|
-|13|27.189.128.82|8089|China|Langfang|Chinanet|
-|14|72.10.164.178|11069|Canada|Montreal|GloboTech Communications|
-|15|114.229.213.200|8089|China|Nanjing|Chinanet|
-|16|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
-|17|72.10.160.172|26825|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|26825|Canada|Montreal|GloboTech Communications|
-|19|117.81.127.227|8089|China|Nanjing|China Telecom|
-|20|114.219.174.32|8089|China|Nanjing|China Telecom|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|10|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|190.60.44.233|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|15|103.141.105.74|55|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|16|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|19|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|20|67.43.236.19|6799|Canada|Montreal|GloboTech Communications|
 
 
 
