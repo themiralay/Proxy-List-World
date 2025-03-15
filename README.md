@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.207.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|155.133.7.49|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|2|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|223.204.15.103|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.189.130.241|8089|China|Langfang|Chinanet|
-|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|49.88.254.163|3328|China|Nanjing|Chinanet|
-|12|67.43.227.226|27559|Canada|Montreal|GloboTech Communications|
-|13|201.91.82.155|3128|Brazil|Santos|Vivo|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.160.94|8397|Canada|Montreal|GloboTech Communications|
-|16|117.82.93.197|8089|China|Nanjing|China Telecom|
-|17|218.1.197.193|2324|China|Shanghai|China Telecom (Group)|
-|18|8.209.207.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|218.1.197.174|2324|China|Shanghai|China Telecom (Group)|
-|20|114.229.213.219|8089|China|Nanjing|Chinanet|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|6|60.188.49.53|1999|China|Taizhou|Chinanet|
+|7|180.97.220.151|11080|China|Nanjing|Chinanet|
+|8|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|9|171.249.21.107|8080|Vietnam|Hanoi|Viettel Corporation|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|103.238.232.118|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
+|17|38.52.221.42|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|181.81.245.195|4128|Argentina|Salta|Telecom Argentina S.A.|
+|20|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
 
 
 
