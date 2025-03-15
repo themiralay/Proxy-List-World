@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4063** proxies at the latest update. Usable proxies are below.
+> Scraper found **4151** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|453|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|541|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|388|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|103.35.110.74|5020|Bangladesh|Tungipāra|Ranks ITT|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|103.48.70.161|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|87.103.135.119|4444|Russia|Kemerovo|SIBNET-IRKUTSK|
-|12|175.29.197.2|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|13|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|201.159.97.109|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
-|15|201.174.175.36|999|Mexico|Huejutla de Reyes|IP Matrix|
-|16|176.32.2.193|8080|Ukraine|Kamianets-Podilskyi|Lanet Network|
-|17|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
-|18|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
-|19|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|20|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|175.29.197.2|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|9|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|12|185.250.38.211|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|15|8.211.143.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|17|58.209.137.150|8089|China|Nanjing|China Telecom|
+|18|27.189.128.4|8089|China|Langfang|Chinanet|
+|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
