@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|4|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|7|103.97.140.177|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|8|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|9|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|10|38.22.17.50|3128|United States|Atlanta|GTHost|
-|11|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|12|67.43.227.227|10869|Canada|Montreal|GloboTech Communications|
-|13|114.220.155.206|8089|China|Nanjing|China Telecom|
-|14|67.43.227.227|10869|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.228.250|6287|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|13097|Canada|Montreal|GloboTech Communications|
-|18|27.189.131.221|8089|China|Langfang|Chinanet|
-|19|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|20|67.43.236.18|29855|Canada|Montreal|GloboTech Communications|
+|2|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
+|3|117.102.67.67|8050|Indonesia|Cilandak|BIZNET|
+|4|38.159.229.97|999|Ecuador|Vinces|Turbonet S.A.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|7|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|8|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|9|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
+|10|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|11|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|12|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|13|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|91.107.176.84|2580|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|60.188.49.53|1999|China|Taizhou|Chinanet|
+|16|117.44.64.85|655|China|Taohua|Chinanet|
+|17|213.74.115.216|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|18|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
+|19|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
