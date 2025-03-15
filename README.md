@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|195.158.24.3|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|3|167.172.30.156|3128|United States|Clifton|DigitalOcean, LLC|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|167.172.30.156|3128|United States|Clifton|DigitalOcean, LLC|
 |8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|95.216.3.236|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|117.44.64.85|655|China|Taohua|Chinanet|
-|15|171.228.146.173|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|16|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|17|67.43.227.230|10129|Canada|Montreal|GloboTech Communications|
-|18|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|19|58.209.137.161|8089|China|Nanjing|China Telecom|
-|20|103.180.119.182|8082|Indonesia|Lamongan|PT Persada Data Multimedia|
+|9|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
+|11|27.147.218.18|63680|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|60.188.49.53|1999|China|Taizhou|Chinanet|
+|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|19|67.43.227.230|23621|Canada|Montreal|GloboTech Communications|
+|20|118.69.186.65|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
