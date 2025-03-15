@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.115.106.116|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|49.48.93.31|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|103.110.9.15|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|11|176.88.175.216|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|12|103.163.102.212|8181|Indonesia|Gapurana Daya|PT Mamura Inter Media|
-|13|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|14|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
-|15|180.97.220.151|11080|China|Nanjing|Chinanet|
-|16|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|17|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|3|123.21.23.211|1014|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|102.176.228.219|8080|South Africa|Durban|Thusaconnect|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|2.138.49.5|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|12|102.207.128.2|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
+|13|212.33.205.42|8118|Iran|Tehran|Asiatech Data Transmission company|
+|14|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|115.72.167.23|10001|Vietnam|Vũng Tàu|VIETELmetro|
 |18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|19|49.70.190.168|2324|China|Nanjing|Chinanet|
-|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
+|20|124.217.107.60|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
 
 
 
