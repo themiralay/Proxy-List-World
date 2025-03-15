@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|8|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
-|9|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|10|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
-|12|67.43.227.226|23149|Canada|Montreal|GloboTech Communications|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|19|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|20|27.189.134.123|8089|China|Langfang|Chinanet|
+|1|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|116.108.125.95|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|10|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|12|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|27.189.133.65|8089|China|Langfang|Chinanet|
+|18|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|20|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
