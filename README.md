@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|180.97.220.151|11080|China|Nanjing|Chinanet|
-|12|185.78.150.23|9293|Poland|Chojnice|Przedsiebiorstwo Handlowo Uslugowe " Kamdex" Grzegorz Sztuczka|
-|13|117.80.188.12|8089|China|Nanjing|China Telecom|
-|14|171.228.146.173|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|15|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|19|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
-|20|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|6|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|10|60.188.49.53|1999|China|Taizhou|Chinanet|
+|11|38.9.48.163|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|15|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|16|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|17|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
