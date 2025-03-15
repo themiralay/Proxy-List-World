@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|38.52.220.171|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
-|10|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|12.146.127.33|9080|United States|Rayville|AT&T Services, Inc.|
-|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|15|191.102.250.2|8085|Argentina|Rosario|IP·RED|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|67.43.228.250|19825|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|2681|Canada|Montreal|GloboTech Communications|
-|19|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|20|171.245.120.32|10001|Vietnam|Hanoi|Viettel Corporation|
+|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|172.94.36.219|80|United States|Houston|Datacamp Limited|
+|7|172.94.36.219|80|United States|Houston|Datacamp Limited|
+|8|157.20.244.163|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|12|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|67.43.228.250|16849|Canada|Montreal|GloboTech Communications|
+|15|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|16|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|17|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
 
 
 
