@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.115.106.116|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|18.181.107.96|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|175.29.197.2|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|212.175.88.208|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|13|176.88.175.216|8080|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|14|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|15|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
-|16|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|17|18.181.107.96|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
-|19|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|20|72.10.160.170|22519|Canada|Montreal|GloboTech Communications|
+|5|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|113.22.55.245|10001|Vietnam|Hanoi|FPT Telecom Company|
+|8|113.22.55.19|10001|Vietnam|Hanoi|FPT Telecom Company|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|188.132.150.78|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|103.212.211.69|8080|Indonesia|Sumber|Pemerintah Kabupaten Cirebon|
+|13|103.188.173.153|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|14|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|15|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|16|18.181.107.96|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|180.97.220.151|11080|China|Nanjing|Chinanet|
+|18|72.10.160.170|32019|Canada|Montreal|GloboTech Communications|
+|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|170.205.29.76|30005|Japan|Tokyo|Advin Services LLC|
 
 
 
