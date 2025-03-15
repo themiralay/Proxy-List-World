@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|43.156.240.48|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.108.125.95|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|115.74.7.215|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|115.72.7.54|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|115.74.7.215|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|171.228.190.156|10089|Vietnam|Hanoi|Viettel Corporation|
-|11|43.156.240.48|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
-|13|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
-|14|1.54.92.12|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|19|115.72.7.54|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|20|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|14|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|19|124.104.149.53|8081|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|20|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
 
 
 
