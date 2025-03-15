@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|115.72.34.5|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|191.102.104.163|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|1|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|171.225.112.124|31866|Vietnam|Hải Lăng|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|9|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|59.103.33.17|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|11|8.209.196.172|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|103.125.154.176|8080|India|Tirupur|Live Fibernet|
+|13|27.147.218.18|63680|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|67.43.227.227|17067|Canada|Montreal|GloboTech Communications|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
