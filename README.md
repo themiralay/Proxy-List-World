@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|171.245.120.32|10001|Vietnam|Hanoi|Viettel Corporation|
-|8|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|9|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|119.95.230.179|8081|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|13|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|14|72.10.164.178|4491|Canada|Montreal|GloboTech Communications|
-|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|72.10.160.90|21859|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|20|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|14.176.47.146|24463|Vietnam|Hanoi|VNPT|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|12|49.49.56.187|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|180.97.220.151|11080|China|Nanjing|Chinanet|
+|19|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|20|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
 
 
 
