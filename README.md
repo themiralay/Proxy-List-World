@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|154.82.131.39|8080|Philippines|Manila|Gigafiber Corp|
-|9|103.133.24.51|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
-|10|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|11|157.66.16.35|8855|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|12|103.148.44.155|8085|Indonesia|Sarolangun|PT BUANA VISUALNET SENTRA|
-|13|38.7.3.1|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|14|186.211.157.19|8080|Brazil|Campo Grande|BR.Digital Provider|
-|15|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|17|58.11.14.105|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|18|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|19|37.229.232.111|8080|Ukraine|Dnipro|Kyivstar UA|
-|20|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|49.48.145.123|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|13|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|114.229.213.225|8089|China|Nanjing|Chinanet|
+|16|60.188.49.53|1999|China|Taizhou|Chinanet|
+|17|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|18|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|19|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
