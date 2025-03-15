@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|103.231.236.26|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|4|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|11|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|12|60.188.49.53|1999|China|Taizhou|Chinanet|
-|13|103.36.11.183|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|16|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|17|118.113.245.242|2324|China|Shanghai|Chinanet|
-|18|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|20|72.10.160.170|11815|Canada|Montreal|GloboTech Communications|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|11|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|72.10.160.170|4509|Canada|Montreal|GloboTech Communications|
+|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|14|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|103.125.190.213|5002|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
+|17|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|20|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
