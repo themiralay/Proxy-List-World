@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|58.209.32.115|8089|China|Nanjing|China Telecom|
-|8|8.209.202.87|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|9|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|12|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|14|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
-|15|58.209.32.115|8089|China|Nanjing|China Telecom|
-|16|117.80.188.219|8089|China|Nanjing|China Telecom|
-|17|27.189.130.52|8089|China|Langfang|Chinanet|
-|18|27.189.128.134|8089|China|Langfang|Chinanet|
-|19|117.80.188.214|8089|China|Nanjing|China Telecom|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|123.21.23.211|1014|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|180.97.220.151|11080|China|Nanjing|Chinanet|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|16|181.81.245.195|4128|Argentina|Salta|Telecom Argentina S.A.|
+|17|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|18|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|19|103.124.197.29|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|20|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
