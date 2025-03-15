@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|11|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|12|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|13|38.66.207.1|999|Venezuela|Valencia|Wifi-prado C.A|
-|14|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|117.80.188.12|8089|China|Nanjing|China Telecom|
-|17|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|20|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|42.113.34.221|10001|Vietnam|Hanoi|FPT Telecom Company|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|118.113.244.184|2324|China|Shanghai|Chinanet|
+|10|180.97.220.151|11080|China|Nanjing|Chinanet|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|201.91.82.155|3128|Brazil|Santos|Vivo|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|67.43.227.226|5789|Canada|Montreal|GloboTech Communications|
 
 
 
