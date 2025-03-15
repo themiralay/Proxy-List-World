@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|103.76.109.112|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|4|183.88.214.84|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
-|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|168.228.44.66|999|United States|Bridgeport|CABLE NACIONAL, S.A|
-|7|187.62.222.73|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
-|10|157.66.2.153|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
-|11|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|14|38.172.131.64|999|Peru|Lima|Conex TV E.I.R.L.|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|45.4.148.69|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
-|17|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|69.10.35.42|3128|United States|Secaucus|Interserver, Inc|
-|19|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|20|180.97.220.151|11080|China|Nanjing|Chinanet|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|119.93.64.216|8082|Philippines|San Pedro|Philippine Long Distance Telephone Co.|
+|7|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|9|45.191.47.4|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|157.66.2.153|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|14|187.1.16.36|92|Brazil|Barueri|America-NET Ltda.|
+|15|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|18|45.77.249.199|1236|Singapore|Singapore|The Constant Company|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
