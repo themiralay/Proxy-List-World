@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|171.245.120.32|10001|Vietnam|Hanoi|Viettel Corporation|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|123.19.9.224|7001|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|116.108.125.95|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|5|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|6|8.211.132.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.97.140.177|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|171.224.27.161|5105|Vietnam|Thái Bình|Viettel Corporation|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|61.118.38.234|60808|Japan|Tokyo|Open Computer Network|
-|19|116.104.176.148|10000|Vietnam|Hanoi|Viettel Corporation|
-|20|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|9|97.79.251.186|80|United States|Dallas|Spectrum|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|13|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|14|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|15|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|16|171.224.29.186|5104|Vietnam|Thái Bình|Viettel Corporation|
+|17|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|20|116.102.111.115|10001|Vietnam|Can Tho|Viettel Corporation|
 
 
 
