@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.197.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|120.28.216.152|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|202.51.196.226|8080|Indonesia|Jakarta|PT. Sejahtera Globalindo|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|103.228.243.29|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|202.52.48.46|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
-|17|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
-|19|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|20|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.209.197.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|43.250.182.11|1234|Indonesia|Ketanggungan|PT Aris Media Globalindo|
+|13|202.51.196.226|8080|Indonesia|Jakarta|PT. Sejahtera Globalindo|
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|120.28.216.152|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|186.225.60.74|8089|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|117.44.64.85|655|China|Taohua|Chinanet|
 
 
 
