@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|58.209.137.181|8089|China|Nanjing|China Telecom|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|49.84.134.11|8089|China|Nanjing|China Telecom|
-|16|72.10.160.92|30451|Canada|Montreal|GloboTech Communications|
-|17|27.189.134.246|8089|China|Langfang|Chinanet|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|27.189.132.136|8089|China|Langfang|Chinanet|
-|20|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|9|87.103.135.119|4444|Russia|Kemerovo|SIBNET-IRKUTSK|
+|10|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|11|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|15|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|16|120.28.212.32|8080|Philippines|Davao City|Globe Telecom|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|20|75.69.60.124|8118|United States|Portsmouth|Comcast Cable Communications|
 
 
 
