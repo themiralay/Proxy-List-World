@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|115.72.34.5|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|171.247.234.155|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.247.21.236|8080|Indonesia|Purbalingga|PT wifian Solution|
-|11|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|171.225.112.124|31866|Vietnam|Hải Lăng|Viettel Corporation|
-|13|181.129.158.133|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|16|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|103.125.154.161|8080|India|Tirupur|Live Fibernet|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|121.224.156.136|8089|China|Nanjing|China Telecom|
-|20|117.80.188.240|8089|China|Nanjing|China Telecom|
+|7|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|15|185.208.102.157|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|117.5.20.200|5103|Vietnam|Vĩnh Phúc|VIETTEL|
+|18|117.44.64.85|655|China|Taohua|Chinanet|
+|19|103.172.197.223|8089|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|20|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
 
 
 
