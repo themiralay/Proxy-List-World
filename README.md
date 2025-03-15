@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |6|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.181.13.208|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
-|12|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|13|38.123.220.173|999|Mexico|Manzana Tercera de Santa Cruz Tepexpan|Cogent Communications|
-|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
-|17|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|18|204.216.152.229|3128|Brazil|Vinhedo|Oracle Corporation|
-|19|202.154.18.180|8090|Indonesia|Pagerwojo|DIGITNET|
-|20|103.63.26.75|3128|Indonesia|Tamanan|PT Global Media Data Prima|
+|8|38.194.254.30|999|Mexico|Zapopan|Ientc S De RL De CV|
+|9|103.156.248.173|3128|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
+|10|27.79.180.207|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|12|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|13|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|17|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|20|201.91.82.155|3128|Brazil|Santos|Vivo|
 
 
 
