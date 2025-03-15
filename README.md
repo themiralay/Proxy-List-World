@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|97.79.251.186|80|United States|Dallas|Spectrum|
-|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.76.91.148|8080|Indonesia|Jakarta|PT Kampung Dua Net|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.159.96.178|8055|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|15|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|121.232.178.9|8089|China|Nanjing|Chinanet|
-|17|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|18|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|19|8.209.210.45|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|20|72.10.160.92|27993|Canada|Montreal|GloboTech Communications|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|200.106.165.81|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|17|118.113.244.184|2324|China|Shanghai|Chinanet|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|20|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
 
 
 
