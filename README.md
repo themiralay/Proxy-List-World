@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|60.188.49.53|1999|China|Taizhou|Chinanet|
-|6|180.97.220.151|11080|China|Nanjing|Chinanet|
-|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|9|67.43.228.254|30237|Canada|Montreal|GloboTech Communications|
+|1|27.79.184.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|4|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|6|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|7|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|60.188.49.53|1999|China|Taizhou|Chinanet|
 |10|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|27.189.130.54|8089|China|Langfang|Chinanet|
-|13|168.126.74.132|80|South Korea|Seongbuk-gu|Korea Telecom|
-|14|103.180.119.105|8090|Indonesia|Lamongan|PT Persada Data Multimedia|
-|15|27.189.131.64|8089|China|Langfang|Chinanet|
-|16|27.189.134.157|8089|China|Langfang|Chinanet|
-|17|121.232.181.28|8089|China|Nanjing|Chinanet|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|49.88.254.186|3328|China|Nanjing|Chinanet|
+|11|180.97.220.151|11080|China|Nanjing|Chinanet|
+|12|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|202.57.25.152|8080|Indonesia|Semarang|announced of WINET|
+|15|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|124.13.232.210|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|17|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|114.219.174.35|8089|China|Nanjing|China Telecom|
+|20|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
