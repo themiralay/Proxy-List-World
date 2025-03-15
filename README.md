@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4289** proxies at the latest update. Usable proxies are below.
+> Scraper found **4236** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|470|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.181.107.96|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|3.115.106.116|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|171.245.120.32|10001|Vietnam|Hanoi|Viettel Corporation|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
-|15|103.254.106.156|8010|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|16|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|18|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|67.43.228.252|19515|Canada|Montreal|GloboTech Communications|
-|20|201.91.82.155|3128|Brazil|Santos|Vivo|
+|8|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|116.99.230.30|5102|Vietnam|Hanoi|Viettel Corporation|
+|10|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|190.52.100.195|999|Venezuela|Caracas|Gold Data USA Inc|
+|13|119.95.189.247|8080|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|14|38.188.178.246|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|15|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
