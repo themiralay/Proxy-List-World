@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
-|4|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|5|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|6|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
-|7|27.189.135.72|8089|China|Langfang|Chinanet|
-|8|156.155.29.118|8080|South Africa|Durban|AxxessNetworks|
-|9|67.43.228.252|10799|Canada|Montreal|GloboTech Communications|
-|10|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|172.104.77.102|8181|Japan|Tokyo|Akamai Technologies|
-|12|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|13|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|27.189.131.142|8089|China|Langfang|Chinanet|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|27.189.129.12|8089|China|Langfang|Chinanet|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|67.43.228.250|10799|Canada|Montreal|GloboTech Communications|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|27.189.133.201|8089|China|Langfang|Chinanet|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|7|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|9|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|124.13.232.210|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|11|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|12|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|13|8.209.214.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|16|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|17|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|152.166.69.34|8080|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
+|20|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
