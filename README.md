@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4090** proxies at the latest update. Usable proxies are below.
+> Scraper found **4233** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|467|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|372|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|3.115.106.116|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|18.181.107.96|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
+|4|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|116.99.230.30|5102|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
-|11|157.66.50.118|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|12|201.91.82.155|3128|Brazil|Santos|Vivo|
-|13|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|14|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
-|15|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|204.216.152.229|3128|Brazil|Vinhedo|Oracle Corporation|
-|18|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|20|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|58.147.187.20|8080|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|8.209.214.11|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|67.43.228.254|23253|Canada|Montreal|GloboTech Communications|
+|10|27.189.134.93|8089|China|Langfang|Chinanet|
+|11|72.10.160.173|6817|Canada|Montreal|GloboTech Communications|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|67.43.228.250|2363|Canada|Montreal|GloboTech Communications|
+|14|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|67.43.236.18|12323|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|26611|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18413|Canada|Montreal|GloboTech Communications|
+|20|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
