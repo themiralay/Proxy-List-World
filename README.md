@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|2|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|5|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
-|6|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|181.81.245.195|4128|Argentina|Salta|Telecom Argentina S.A.|
-|8|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
-|9|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
-|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|12|67.43.227.227|11425|Canada|Montreal|GloboTech Communications|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|67.43.236.18|21897|Canada|Montreal|GloboTech Communications|
-|15|118.113.247.49|2324|China|Shanghai|Chinanet|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|121.227.109.23|8089|China|Nanjing|China Telecom|
-|18|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|8.209.214.229|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|4|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|202.93.245.54|8080|Indonesia|Jagirsidosermo|DWPNAP|
+|8|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|10|103.133.61.197|8181|Indonesia|Bandar Lampung|TLINK|
+|11|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|14|8.209.201.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|20|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
