@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|191.97.96.208|8080|Argentina|General Roca|Vision NET|
-|12|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.65.234.102|7001|Vietnam|Ho Chi Minh City|Viet Digital Technology Liability Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|59.103.33.17|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|1|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|8|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.243.238.166|31912|Bangladesh|Dhaka|Circle Network|
+|13|115.72.7.54|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|119.95.182.180|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
 
 
 
