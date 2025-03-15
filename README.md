@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.209.214.11|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|103.166.159.199|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|11|45.224.149.15|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|14|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|72.10.160.91|4739|Canada|Montreal|GloboTech Communications|
-|17|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|18|103.125.190.213|5772|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
-|19|118.113.245.141|2324|China|Shanghai|Chinanet|
-|20|27.189.130.151|8089|China|Langfang|Chinanet|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|11|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
+|12|67.43.228.251|3101|Canada|Montreal|GloboTech Communications|
+|13|201.91.82.155|3128|Brazil|Santos|Vivo|
+|14|72.10.164.178|2111|Canada|Montreal|GloboTech Communications|
+|15|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|17|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|18|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
