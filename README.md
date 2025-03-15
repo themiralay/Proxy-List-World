@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.210.45|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|7|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|189.50.45.105|1995|Brazil|Barro Alto|Total Telecom LTDA-ME|
-|11|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
-|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|13|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|67.43.228.250|5009|Canada|Montreal|GloboTech Communications|
-|16|27.189.128.122|8089|China|Langfang|Chinanet|
-|17|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|18|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|19|218.1.197.57|2324|China|Shanghai|China Telecom (Group)|
-|20|117.44.64.85|655|China|Taohua|Chinanet|
+|1|8.209.208.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.227.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|6|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|13|103.79.155.210|8080|Indonesia|Depok|MORATELINDO|
+|14|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|15|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|17|103.227.187.3|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|49.48.88.187|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
