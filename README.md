@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|5|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|9|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|10|27.189.131.83|8089|China|Langfang|Chinanet|
-|11|121.232.181.147|8089|China|Nanjing|Chinanet|
-|12|118.113.247.191|2324|China|Shanghai|Chinanet|
-|13|27.189.135.25|8089|China|Langfang|Chinanet|
-|14|111.72.128.138|2324|China|Hutian|Chinanet|
-|15|92.51.122.174|8080|Georgia|Batumi|Deltanet-net Network|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|201.91.82.155|3128|Brazil|Santos|Vivo|
-|19|67.43.228.250|16825|Canada|Montreal|GloboTech Communications|
-|20|159.223.50.89|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|49.146.177.91|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
+|3|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
+|4|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|5|119.93.87.65|8080|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|6|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|179.43.8.16|8088|Brazil|Jaicós|Voex Telecom Ltda|
+|9|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|201.174.175.36|999|Mexico|Huejutla de Reyes|IP Matrix|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.48.70.185|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|19|27.189.129.158|8089|China|Langfang|Chinanet|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
