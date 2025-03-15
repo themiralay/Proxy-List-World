@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|1|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|180.97.220.151|11080|China|Nanjing|Chinanet|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|61.198.89.92|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|13|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|14|121.232.181.138|8089|China|Nanjing|Chinanet|
-|15|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|8.209.200.234|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.90|17473|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|12641|Canada|Montreal|GloboTech Communications|
-|20|103.125.190.213|5084|Vietnam|Hanoi|Hypernet Vietnam Technology Company Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|10|8.209.200.234|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|144.76.237.52|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|118.113.245.112|2324|China|Shanghai|Chinanet|
+|14|67.43.227.226|3905|Canada|Montreal|GloboTech Communications|
+|15|115.72.32.172|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|60.174.167.40|4999|China|Hefei|Chinanet|
+|17|72.10.160.171|4909|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.227.226|3905|Canada|Montreal|GloboTech Communications|
+|20|118.113.245.218|2324|China|Shanghai|Chinanet|
 
 
 
