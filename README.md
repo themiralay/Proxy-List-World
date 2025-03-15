@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|7|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|8|58.209.137.181|8089|China|Nanjing|China Telecom|
-|9|180.97.220.151|11080|China|Nanjing|Chinanet|
-|10|38.172.130.216|999|Peru|Lima|Conex TV E.I.R.L.|
-|11|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|201.91.82.155|3128|Brazil|Santos|Vivo|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|27.189.130.74|8089|China|Langfang|Chinanet|
-|16|114.219.102.56|8089|China|Nanjing|China Telecom|
-|17|27.189.131.161|8089|China|Langfang|Chinanet|
-|18|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|19|58.209.137.181|8089|China|Nanjing|China Telecom|
-|20|27.189.135.219|8089|China|Langfang|Chinanet|
+|1|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|115.72.32.172|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|60.188.49.53|1999|China|Taizhou|Chinanet|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|12|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|13|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|14|190.52.100.80|999|Venezuela|Caracas|Gold Data USA Inc|
+|15|114.31.15.190|2024|Bangladesh|Dimla|BDCOM Online Limited|
+|16|177.125.86.108|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|17|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|18|1.54.92.31|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|154.90.49.84|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|164.70.117.222|3128|Japan|Chiyoda|InfoSphere|
 
 
 
