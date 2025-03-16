@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|103.99.27.146|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|49.84.134.24|8089|China|Nanjing|China Telecom|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.227.230|14697|Canada|Montreal|GloboTech Communications|
-|20|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|2|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|3|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.22.17.50|3128|United States|Atlanta|GTHost|
+|11|36.92.146.125|8080|Indonesia|Malang|Telekomunikasi Indonesia|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|15|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
+|16|38.22.17.50|3128|United States|Atlanta|GTHost|
+|17|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|45.5.116.145|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
 
 
 
