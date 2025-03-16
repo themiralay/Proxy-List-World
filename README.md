@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4070** proxies at the latest update. Usable proxies are below.
+> Scraper found **4074** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|542|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|546|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|556|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|7|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|11|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|12.165.234.253|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|17|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|18|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|115.72.32.172|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|4|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|202.65.227.62|8080|Indonesia|Jakarta|SpaceX Starlink|
+|8|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|9|27.66.199.179|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|114.219.174.58|8089|China|Nanjing|China Telecom|
 
 
 
