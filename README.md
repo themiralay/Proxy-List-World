@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|7|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|8.209.205.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|103.76.201.246|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
-|13|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|8.209.210.45|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|16|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|27.189.133.200|8089|China|Langfang|Chinanet|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|10|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
+|16|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
