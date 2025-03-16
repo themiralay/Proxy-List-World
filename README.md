@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3877** proxies at the latest update. Usable proxies are below.
+> Scraper found **3996** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|391|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|536|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|5|103.156.75.41|8181|Indonesia|Banjar Taman|PT Trika Global Media|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|8.211.142.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |7|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|8|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|181.204.183.251|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|19|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|13|90.188.37.75|1778|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
+|14|2.63.255.183|8080|Russia|Vinogradnyy|JSC Rostelecom . Moscow|
+|15|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|212.98.139.70|8080|Lebanon|Beirut|TerraNet sal|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|58.209.137.145|8089|China|Nanjing|China Telecom|
 
 
 
