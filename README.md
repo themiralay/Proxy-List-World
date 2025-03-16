@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|5|27.66.199.179|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|27.66.199.179|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|60.174.167.40|4999|China|Hefei|Chinanet|
-|15|27.66.199.179|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|16|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|17|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|19|59.103.35.147|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|118.113.245.101|2324|China|Shanghai|Chinanet|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|27.66.199.179|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|14|72.10.160.92|20077|Canada|Montreal|GloboTech Communications|
+|15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|16|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|17|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
