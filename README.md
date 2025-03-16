@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|8|8.209.197.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
-|10|1.32.48.212|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|11|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|8.211.136.103|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|114.229.213.221|8089|China|Nanjing|Chinanet|
-|14|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|8.209.245.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.18|23105|Canada|Montreal|GloboTech Communications|
-|18|121.232.181.174|8089|China|Nanjing|Chinanet|
-|19|72.10.160.172|31207|Canada|Montreal|GloboTech Communications|
-|20|8.215.21.135|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|103.156.86.107|8080|Indonesia|Palopo|PT Chacha Networking System|
+|3|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|8.209.245.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|78.38.99.74|8080|Iran|Gorgan|Iran Telecommunication Company PJS|
+|9|139.5.155.97|57413|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.158.11.64|32650|Bangladesh|Shariatpur|Ka Kha Computer|
+|12|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|8.209.197.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|8.211.136.103|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
