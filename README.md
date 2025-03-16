@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
 |6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|60.188.49.53|1999|China|Taizhou|Chinanet|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|67.43.236.18|7595|Canada|Montreal|GloboTech Communications|
-|16|27.189.131.222|8089|China|Langfang|Chinanet|
-|17|49.84.134.24|8089|China|Nanjing|China Telecom|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|20|72.10.160.171|17631|Canada|Montreal|GloboTech Communications|
+|7|114.229.213.210|8089|China|Nanjing|Chinanet|
+|8|49.84.134.24|8089|China|Nanjing|China Telecom|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|41.73.158.87|8080|Ghana|Accra|Dimension Data Ltd|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|60.174.167.40|4999|China|Hefei|Chinanet|
+|16|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|17|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|113.192.31.139|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
