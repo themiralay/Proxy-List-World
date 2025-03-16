@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|8|45.189.239.24|999|Mexico|Atlacomulco de Fabela|Miguel Amado Escobar|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
 |14|49.70.190.235|2324|China|Nanjing|Chinanet|
-|15|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
-|16|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|18|81.4.241.44|8080|Russia|Moscow|TTK-NN|
-|19|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|20|201.91.82.155|3128|Brazil|Santos|Vivo|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|17|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|58.209.32.65|8089|China|Nanjing|China Telecom|
 
 
 
