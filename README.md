@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|45.4.1.208|999|Chile|Santiago|Tlink SPA|
-|9|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|60.51.51.89|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|171.249.21.107|8080|Vietnam|Hanoi|Viettel Corporation|
-|15|41.66.245.30|3128|Ghana|Accra|Vodafone Ghana|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|117.44.64.85|655|China|Taohua|Chinanet|
-|18|190.52.100.80|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|67.43.227.227|21829|Canada|Montreal|GloboTech Communications|
-|20|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|12|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|13|112.198.178.194|8082|Philippines|Nasugbu|Globe Telecom|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|16|201.91.82.155|3128|Brazil|Santos|Vivo|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|20|72.10.160.90|23433|Canada|Montreal|GloboTech Communications|
 
 
 
