@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
-|5|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|6|103.177.189.29|8090|Indonesia|Taman|PT Selaras Citra Artmedia|
-|7|120.28.210.205|9000|Philippines|Davao City|Globe Telecom|
-|8|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|9|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|10|117.80.188.43|8089|China|Nanjing|China Telecom|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|103.254.106.156|8010|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|13|103.115.20.114|8182|Indonesia|Subang|PMYNET|
-|14|117.44.64.85|655|China|Taohua|Chinanet|
-|15|72.10.160.170|13159|Canada|Montreal|GloboTech Communications|
-|16|38.183.212.14|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
-|17|114.219.174.55|8089|China|Nanjing|China Telecom|
-|18|213.74.115.216|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|19|118.113.245.185|2324|China|Shanghai|Chinanet|
-|20|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|36.95.27.225|8080|Indonesia|Cilegon|PT. Telekomunikasi Indonesia|
+|6|109.238.181.53|8083|Iran|Bushehr|KOL IP|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|12|118.113.245.185|2324|China|Shanghai|Chinanet|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|190.60.44.234|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|17|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|18|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|101.255.150.253|8080|Indonesia|Bogor|PT Remala Abadi|
 
 
 
