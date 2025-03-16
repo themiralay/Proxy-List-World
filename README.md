@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4293** proxies at the latest update. Usable proxies are below.
+> Scraper found **4267** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|494|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|468|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|577|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|9|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|38.22.17.50|3128|United States|Atlanta|GTHost|
-|12|27.189.135.245|8089|China|Langfang|Chinanet|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|15|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
-|16|117.80.188.43|8089|China|Nanjing|China Telecom|
-|17|201.234.186.194|8081|Colombia|Bogotá|Level 3 Colombia S.A|
-|18|89.19.175.122|8017|Russia|Moscow|OJSC Comcor|
-|19|58.209.137.137|8089|China|Nanjing|China Telecom|
-|20|14.143.130.210|80|India|Delhi|Tata Communications Limited|
+|3|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|60.188.49.53|1999|China|Taizhou|Chinanet|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|67.43.236.18|7595|Canada|Montreal|GloboTech Communications|
+|16|27.189.131.222|8089|China|Langfang|Chinanet|
+|17|49.84.134.24|8089|China|Nanjing|China Telecom|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|72.10.160.171|17631|Canada|Montreal|GloboTech Communications|
 
 
 
