@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.153.96.147|8181|Indonesia|Serang|NITNET|
-|5|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.76.201.126|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
-|10|200.233.147.14|3128|Brazil|Ribeirão Preto|ALGAR TELECOM S/A|
-|11|186.96.71.108|999|Venezuela|Caracas|Gold Data C.A|
-|12|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|16|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|19|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
-|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|2|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|14|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
