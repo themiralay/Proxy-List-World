@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|8|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
-|9|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|10|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
-|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|12|67.43.236.18|29919|Canada|Montreal|GloboTech Communications|
-|13|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|14|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
-|16|223.204.32.4|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|17|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|45.228.235.10|999|Guatemala|Guatemala City|Infinitum S.A.|
-|19|103.247.23.181|1111|Indonesia|Baturaden|PT wifian Solution|
-|20|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
+|8|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
+|9|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|190.97.239.25|999|Venezuela|Caracas||
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|103.247.23.231|1111|Indonesia|Baturaden|PT wifian Solution|
+|16|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|17|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|18|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
 
 
 
