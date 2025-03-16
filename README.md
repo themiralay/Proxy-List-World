@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4159** proxies at the latest update. Usable proxies are below.
+> Scraper found **4008** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|464|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|447|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|473|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|103.77.62.134|8080|Bangladesh|Mīrpur|Orange Communication (The Sky Traders Ltd)|
-|9|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|191.52.236.39|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|103.131.219.26|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|8|49.70.190.235|2324|China|Nanjing|Chinanet|
+|9|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|10|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|103.83.0.14|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|15|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|19|60.174.167.40|4999|China|Hefei|Chinanet|
+|20|157.90.194.35|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
