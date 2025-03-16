@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|9|27.189.131.107|8089|China|Langfang|Chinanet|
-|10|67.43.228.250|5449|Canada|Montreal|GloboTech Communications|
-|11|171.228.181.0|5106|Vietnam|Hanoi|Viettel Corporation|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|27.189.132.45|8089|China|Langfang|Chinanet|
-|14|27.189.134.236|8089|China|Langfang|Chinanet|
-|15|27.189.135.137|8089|China|Langfang|Chinanet|
-|16|67.43.228.252|31501|Canada|Montreal|GloboTech Communications|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|96.30.79.84|8081|Thailand|Chon Buri|Symphony Communication Public Company Limited|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.165.155.22|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |17|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|18|72.10.160.170|27045|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23379|Canada|Montreal|GloboTech Communications|
-|20|27.189.128.129|8089|China|Langfang|Chinanet|
+|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|118.113.247.178|2324|China|Shanghai|Chinanet|
+|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
