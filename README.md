@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|6|27.189.133.12|8089|China|Langfang|Chinanet|
-|7|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|38.22.17.50|3128|United States|Atlanta|GTHost|
-|9|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|10|72.10.160.170|29875|Canada|Montreal|GloboTech Communications|
-|11|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|15|125.87.83.5|22563|China|Chongqing|China Telecom|
-|16|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
-|20|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|2|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|7|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|191.7.195.230|8080|Brazil|Guaraciaba do Norte|Online Telecomunicacoes Ltda|
+|12|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|13|72.10.160.170|29875|Canada|Montreal|GloboTech Communications|
+|14|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|38.22.17.50|3128|United States|Atlanta|GTHost|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
 
 
 
