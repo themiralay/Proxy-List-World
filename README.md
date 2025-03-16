@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4162** proxies at the latest update. Usable proxies are below.
+> Scraper found **4115** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|549|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|642|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|27.189.130.136|8089|China|Langfang|Chinanet|
-|11|27.189.135.95|8089|China|Langfang|Chinanet|
-|12|27.189.128.60|8089|China|Langfang|Chinanet|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|49.84.175.70|8089|China|Nanjing|China Telecom|
-|15|45.167.126.105|999|Colombia|Santander de Quilichao|Sepcom Comunicaciones SAS|
-|16|67.43.236.19|15235|Canada|Montreal|GloboTech Communications|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|67.43.228.250|23373|Canada|Montreal|GloboTech Communications|
-|20|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|103.149.239.105|8080|Indonesia|Mojosari|PT BITNIAGA CIPTA GEMILANG|
+|5|168.196.112.1|56000|Argentina|Cruz del Eje|SAN GABRIEL VIDEO CABLE COLOR S.A.|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.20.244.89|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|27.189.135.209|8089|China|Langfang|Chinanet|
+|9|27.189.130.74|8089|China|Langfang|Chinanet|
+|10|67.43.228.251|27721|Canada|Montreal|GloboTech Communications|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|27.189.128.48|8089|China|Langfang|Chinanet|
+|13|117.82.93.208|8089|China|Nanjing|China Telecom|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|58.209.32.84|8089|China|Nanjing|China Telecom|
+|16|67.43.228.250|30925|Canada|Montreal|GloboTech Communications|
+|17|27.189.129.192|8089|China|Langfang|Chinanet|
+|18|67.43.227.227|31601|Canada|Montreal|GloboTech Communications|
+|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
