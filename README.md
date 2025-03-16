@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4117** proxies at the latest update. Usable proxies are below.
+> Scraper found **4159** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|422|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|464|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|473|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|6|103.209.250.70|8080|Indonesia|Jakarta|Indonesia Network Information Center|
-|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|10|103.155.199.104|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|11|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
-|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|13|202.131.153.146|1111|India|Mangalore|D-Vois Broadband Pvt Ltd|
-|14|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
-|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|77.243.15.83|3246|Russia|Kursk|Sovtest-Internet|
-|18|157.66.16.36|8866|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|20|45.228.235.10|999|Guatemala|Guatemala City|Infinitum S.A.|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|103.77.62.134|8080|Bangladesh|Mīrpur|Orange Communication (The Sky Traders Ltd)|
+|9|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|191.52.236.39|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|103.228.243.144|8085|Indonesia|Jakarta|SpaceX Starlink|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
