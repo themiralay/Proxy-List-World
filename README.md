@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|8.211.142.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|12|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
-|13|117.80.188.46|8089|China|Nanjing|China Telecom|
-|14|72.10.160.171|1063|Canada|Montreal|GloboTech Communications|
-|15|121.224.156.174|8089|China|Nanjing|China Telecom|
-|16|121.224.170.199|8089|China|Nanjing|China Telecom|
-|17|72.10.160.174|10609|Canada|Montreal|GloboTech Communications|
-|18|118.113.244.119|2324|China|Shanghai|Chinanet|
-|19|67.43.227.226|6853|Canada|Montreal|GloboTech Communications|
-|20|58.209.137.186|8089|China|Nanjing|China Telecom|
+|7|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|120.28.139.29|8081|Philippines|Caloocan City|Globe Telecom|
+|9|89.19.175.122|8019|Russia|Moscow|OJSC Comcor|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|181.204.183.251|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|13|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|14|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|16|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|19|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
