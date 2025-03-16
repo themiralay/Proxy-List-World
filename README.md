@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
-|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
-|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|67.43.228.250|19839|Canada|Montreal|GloboTech Communications|
-|17|118.113.245.167|2324|China|Shanghai|Chinanet|
-|18|72.10.160.90|18591|Canada|Montreal|GloboTech Communications|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|72.10.164.178|6643|Canada|Montreal|GloboTech Communications|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|10|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|12|67.43.227.226|5965|Canada|Montreal|GloboTech Communications|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|67.43.228.250|5779|Canada|Montreal|GloboTech Communications|
 
 
 
