@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|202.131.153.146|1111|India|Mangalore|D-Vois Broadband Pvt Ltd|
-|11|45.184.152.161|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.236.20|3957|Canada|Montreal|GloboTech Communications|
-|15|27.189.134.217|8089|China|Langfang|Chinanet|
-|16|72.10.160.170|12427|Canada|Montreal|GloboTech Communications|
-|17|27.189.134.20|8089|China|Langfang|Chinanet|
-|18|72.10.160.171|33163|Canada|Montreal|GloboTech Communications|
-|19|115.72.163.175|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|20|149.86.159.4|8080|Türkiye|Antakya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|103.75.96.142|1111|Indonesia|Utan|MORATELINDO|
+|11|156.155.29.118|8080|South Africa|Durban|AxxessNetworks|
+|12|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
+|13|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|16|103.90.156.248|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|17|185.78.150.23|9293|Poland|Chojnice|Przedsiebiorstwo Handlowo Uslugowe " Kamdex" Grzegorz Sztuczka|
+|18|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|19|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
