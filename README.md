@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
-|4|38.22.17.50|3128|United States|Atlanta|GTHost|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|38.22.17.50|3128|United States|Atlanta|GTHost|
-|7|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|8|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|201.91.82.155|3128|Brazil|Santos|Vivo|
-|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|38.22.17.50|3128|United States|Atlanta|GTHost|
-|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|20|171.249.21.107|8080|Vietnam|Hanoi|Viettel Corporation|
+|1|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|223.25.110.104|1056|Indonesia|Prapen|SinergiNet|
+|6|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|38.22.17.50|3128|United States|Atlanta|GTHost|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|38.22.17.50|3128|United States|Atlanta|GTHost|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|103.96.116.246|8090|Indonesia|Medan|PT Media Alvina Sejati|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|154.16.214.14|3128|United States|Chicago|ipxo|
 
 
 
