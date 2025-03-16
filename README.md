@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|121.232.178.136|8089|China|Nanjing|Chinanet|
-|8|72.10.164.178|27627|Canada|Montreal|GloboTech Communications|
-|9|58.209.137.145|8089|China|Nanjing|China Telecom|
-|10|72.10.160.170|24403|Canada|Montreal|GloboTech Communications|
-|11|118.113.245.101|2324|China|Shanghai|Chinanet|
-|12|27.189.130.10|8089|China|Langfang|Chinanet|
-|13|117.44.64.85|655|China|Taohua|Chinanet|
-|14|117.80.188.43|8089|China|Nanjing|China Telecom|
-|15|8.209.197.202|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|114.229.213.227|8089|China|Nanjing|Chinanet|
+|5|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|186.194.160.146|999|Colombia|Bogotá|Telenet Digital S.A.S|
+|8|202.148.15.90|8080|Indonesia|Surabaya|PT. Dutakom Wibawa Putra|
+|9|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|11|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|16|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|17|45.228.235.10|999|Guatemala|Guatemala City|Infinitum S.A.|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
