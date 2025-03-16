@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|8|38.22.17.50|3128|United States|Atlanta|GTHost|
-|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|103.133.61.165|1111|Indonesia|Bandar Lampung|TLINK|
+|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
-|12|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|23.131.24.81|3128|Japan|Tokyo|WebHorizon Internet Services|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
 |17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|60.188.49.53|1999|China|Taizhou|Chinanet|
-|20|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|18|49.84.134.24|8089|China|Nanjing|China Telecom|
+|19|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|20|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
 
 
 
