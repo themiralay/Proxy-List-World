@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|4|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|190.60.41.70|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
-|7|103.153.96.147|8181|Indonesia|Serang|NITNET|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|103.175.46.13|8080|Indonesia|Indramayu|PT Internet Keluarga Indonesia|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|16|67.43.227.227|10641|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|20305|Canada|Montreal|GloboTech Communications|
-|18|27.189.132.48|8089|China|Langfang|Chinanet|
-|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|20|67.43.236.18|28737|Canada|Montreal|GloboTech Communications|
+|1|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|103.180.123.107|8085|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|14|202.137.155.184|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|15|45.188.125.49|999|Mexico|Centro Municipality|Digy Networks S.A De C.V.|
+|16|60.174.167.40|4999|China|Hefei|Chinanet|
+|17|186.115.202.103|8080|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
