@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|149.113.84.36|8080|Indonesia|Sleman|Linknet-Fastnet ASN|
-|4|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
-|7|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|8|18.139.209.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|9|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|12|67.43.228.250|14289|Canada|Montreal|GloboTech Communications|
-|13|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|14|121.224.156.185|8089|China|Nanjing|China Telecom|
-|15|118.113.246.214|2324|China|Shanghai|Chinanet|
-|16|67.43.236.18|29591|Canada|Montreal|GloboTech Communications|
-|17|114.229.213.218|8089|China|Nanjing|Chinanet|
-|18|118.113.245.227|2324|China|Shanghai|Chinanet|
-|19|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|13|102.219.208.86|3346|Kenya|Nairobi|Vijiji Connect Limited|
+|14|77.242.24.49|8089|Albania|Tirana|Abissnet ISP|
+|15|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|17|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|18|8.211.142.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
