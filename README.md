@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|115.69.218.118|65432|Indonesia|Jagirsidosermo|DWP Customer Collocation|
-|10|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|45.184.152.161|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|13|188.136.208.253|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|15|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|16|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|17|27.189.130.126|8089|China|Langfang|Chinanet|
-|18|112.198.179.242|8080|Philippines|Carmona|Globe Telecom|
-|19|58.209.32.105|8089|China|Nanjing|China Telecom|
-|20|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|118.179.101.130|9990|Bangladesh|Dhaka|Dhakacom Limited|
+|10|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|12|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|13|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|67.43.228.251|5493|Canada|Montreal|GloboTech Communications|
+|15|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|103.127.220.78|3125|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
