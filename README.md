@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|175.29.199.6|63312|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|118.113.247.232|2324|China|Shanghai|Chinanet|
-|19|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|8.211.143.198|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|190.8.34.211|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
+|6|103.247.14.51|9285|Indonesia|Klaten|TERABIT|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|103.156.86.107|8080|Indonesia|Palopo|PT Chacha Networking System|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|11|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|12|185.4.229.132|8080|Finland|Helsinki|Datalahti Oy|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|118.113.245.77|2324|China|Shanghai|Chinanet|
+|17|118.113.246.168|2324|China|Shanghai|Chinanet|
+|18|158.140.191.185|8080|Indonesia|South Tangerang|PT. Eka Mas Republik|
+|19|118.113.246.136|2324|China|Shanghai|Chinanet|
+|20|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
 
 
 
