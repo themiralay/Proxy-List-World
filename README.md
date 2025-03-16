@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3946** proxies at the latest update. Usable proxies are below.
+> Scraper found **4015** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|461|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|536|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|77.242.24.49|8089|Albania|Tirana|Abissnet ISP|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|206.189.134.250|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|27.189.134.213|8089|China|Langfang|Chinanet|
-|15|49.70.190.172|2324|China|Nanjing|Chinanet|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|118.113.245.218|2324|China|Shanghai|Chinanet|
-|18|27.189.131.219|8089|China|Langfang|Chinanet|
-|19|189.51.168.106|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|20|72.10.160.90|12539|Canada|Montreal|GloboTech Communications|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.209.210.241|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|12|103.146.184.134|8080|Indonesia|Ponorogo|YAMNET|
+|13|117.80.188.46|8089|China|Nanjing|China Telecom|
+|14|72.10.160.171|1063|Canada|Montreal|GloboTech Communications|
+|15|121.224.156.174|8089|China|Nanjing|China Telecom|
+|16|121.224.170.199|8089|China|Nanjing|China Telecom|
+|17|72.10.160.174|10609|Canada|Montreal|GloboTech Communications|
+|18|118.113.244.119|2324|China|Shanghai|Chinanet|
+|19|67.43.227.226|6853|Canada|Montreal|GloboTech Communications|
+|20|58.209.137.186|8089|China|Nanjing|China Telecom|
 
 
 
