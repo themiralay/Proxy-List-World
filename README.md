@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|13|8.209.202.13|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|14|67.43.227.227|20281|Canada|Montreal|GloboTech Communications|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|103.186.90.133|3125|Indonesia|Jepara|PT Akses Data Internusa|
+|5|65.1.244.232|80|India|Mumbai|Amazon.com|
+|6|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
+|12|103.162.36.13|8080|Indonesia|Bandung|PT Lintas Satu Visi|
+|13|114.229.213.225|8089|China|Nanjing|Chinanet|
+|14|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 |15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|16|72.10.160.90|11619|Canada|Montreal|GloboTech Communications|
-|17|27.189.128.190|8089|China|Langfang|Chinanet|
-|18|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|180.97.220.151|11080|China|Nanjing|Chinanet|
+|17|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|18|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|190.60.44.234|999|Colombia|Santa Catalina|IFX NETWORKS COLOMBIA|
 
 
 
