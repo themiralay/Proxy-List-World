@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.156.86.85|7777|Indonesia|Palopo|PT Chacha Networking System|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|13|60.188.49.53|1999|China|Taizhou|Chinanet|
+|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|117.80.188.34|8089|China|Nanjing|China Telecom|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|60.188.49.53|1999|China|Taizhou|Chinanet|
 
 
 
