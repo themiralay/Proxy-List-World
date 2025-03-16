@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|7|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|15|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|16|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|58.209.32.84|8089|China|Nanjing|China Telecom|
-|20|121.224.170.210|8089|China|Nanjing|China Telecom|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|45.252.183.244|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|10|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|11|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|12|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|67.43.228.252|8551|Canada|Montreal|GloboTech Communications|
+|15|121.232.181.142|8089|China|Nanjing|Chinanet|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|72.10.160.91|15883|Canada|Montreal|GloboTech Communications|
+|19|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|20|14.163.6.248|8080|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
