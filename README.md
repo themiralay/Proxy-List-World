@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|8.211.133.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|8.211.133.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|13|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|37.157.219.207|3128|Armenia|Yerevan|Ucom CJSC|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|45.221.96.32|80|South Africa|Sandton|Bluegate Exchange|
-|18|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|20|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|15|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|27.66.199.179|25100|Vietnam|Hà Tĩnh|Viettel Group|
 
 
 
