@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|6|103.76.201.246|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|9|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|10|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.160.172|20275|Canada|Montreal|GloboTech Communications|
-|15|27.189.132.22|8089|China|Langfang|Chinanet|
-|16|67.43.236.19|23803|Canada|Montreal|GloboTech Communications|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|20|72.10.160.170|31607|Canada|Montreal|GloboTech Communications|
+|3|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|8.211.143.198|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|176.213.141.107|8080|Russia|Severnyy|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|9|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|10|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|72.10.160.170|21371|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15299|Canada|Montreal|GloboTech Communications|
+|19|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|20|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
 
 
 
