@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |7|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|13|89.151.129.168|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|19|18.139.209.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
+|11|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
+|12|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|103.76.201.246|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
+|14|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
+|17|89.151.129.168|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
+|18|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
