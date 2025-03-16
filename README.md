@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|8.209.214.229|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|160.19.18.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|7|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|45.226.225.96|999|Argentina|Pocito|CORTEZ RAUL OMAR (ZETRO INTERNET)|
-|14|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|8.209.214.229|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|103.120.202.160|56640|Bangladesh|Dhaka|Carnival Internet|
-|20|8.209.202.192|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|8.209.214.229|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|103.171.194.52|83|India|Udupi|Udupi Fastnet Private Limited|
+|9|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|8.209.202.192|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|8.209.214.229|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|103.175.46.13|8080|Indonesia|Indramayu|PT Internet Keluarga Indonesia|
+|15|122.3.116.9|8082|Philippines|Pasig-bo|Philippine Long Distance Telephone Co.|
+|16|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|20|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 
 
 
