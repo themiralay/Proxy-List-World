@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|42.113.34.221|10001|Vietnam|Hanoi|FPT Telecom Company|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|8|212.174.44.2|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|10|27.189.129.144|8089|China|Langfang|Chinanet|
-|11|171.228.146.173|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
-|12|114.220.155.193|8089|China|Nanjing|China Telecom|
-|13|67.43.236.19|33233|Canada|Montreal|GloboTech Communications|
-|14|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|114.219.174.47|8089|China|Nanjing|China Telecom|
-|17|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|27.189.132.254|8089|China|Langfang|Chinanet|
-|19|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|58.209.137.140|8089|China|Nanjing|China Telecom|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|14.163.6.248|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|190.211.163.20|999|Chile|San Fernando|INTERNEXA Chile S.A.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|14|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|38.86.249.34|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|67.43.227.226|7519|Canada|Montreal|GloboTech Communications|
+|20|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
