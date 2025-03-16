@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|182.160.114.214|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|103.155.199.104|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|9|103.106.112.166|1234|Indonesia|Bandar Lampung|SMSNET|
-|10|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|11|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|12|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|14|27.189.130.218|8089|China|Langfang|Chinanet|
-|15|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|6|103.209.250.70|8080|Indonesia|Jakarta|Indonesia Network Information Center|
+|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|24.144.94.90|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|10|103.155.199.104|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|11|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
+|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|13|202.131.153.146|1111|India|Mangalore|D-Vois Broadband Pvt Ltd|
+|14|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 |16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|59.103.35.147|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|117.81.238.99|8089|China|Nanjing|China Telecom|
-|19|27.75.194.197|30101|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|20|49.70.190.215|2324|China|Nanjing|Chinanet|
+|17|77.243.15.83|3246|Russia|Kursk|Sovtest-Internet|
+|18|157.66.16.36|8866|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|19|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|20|45.228.235.10|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
