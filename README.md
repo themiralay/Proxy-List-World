@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4357** proxies at the latest update. Usable proxies are below.
+> Scraper found **4465** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|663|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
 |10|38.22.17.50|3128|United States|Atlanta|GTHost|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|58.209.137.136|8089|China|Nanjing|China Telecom|
-|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|19|209.14.98.5|8080|Colombia|Sabanagrande|AGIS|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|113.172.147.124|10001|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
 
 
 
