@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.202.87|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.209.242.121|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|8.209.211.59|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|149.86.159.4|8080|Türkiye|Antakya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|7|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|117.80.188.47|8089|China|Nanjing|China Telecom|
-|9|27.189.131.20|8089|China|Langfang|Chinanet|
-|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.189.135.78|8089|China|Langfang|Chinanet|
-|12|72.10.160.170|21451|Canada|Montreal|GloboTech Communications|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|27.189.128.209|8089|China|Langfang|Chinanet|
-|16|72.10.160.94|3615|Canada|Montreal|GloboTech Communications|
-|17|121.224.170.208|8089|China|Nanjing|China Telecom|
-|18|27.189.128.108|8089|China|Langfang|Chinanet|
-|19|27.189.129.221|8089|China|Langfang|Chinanet|
-|20|67.43.236.18|16785|Canada|Montreal|GloboTech Communications|
+|1|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|103.158.11.64|32650|Bangladesh|Shariatpur|Ka Kha Computer|
+|5|14.225.253.54|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|114.219.174.12|8089|China|Nanjing|China Telecom|
+|14|110.188.37.15|2324|China|Muping|Chinanet|
+|15|182.93.82.8|8080|Nepal|Ṭikāpur|Subisu Cablenet|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|201.91.82.155|3128|Brazil|Santos|Vivo|
+|18|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|32.140.234.250|83|United States|Dallas|AT&T Services, Inc.|
 
 
 
