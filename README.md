@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|60.188.49.53|1999|China|Taizhou|Chinanet|
-|8|38.51.232.93|1986|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|9|46.243.9.113|8080|Russia|Georgiyevsk|SerDi TeleCom, LTD|
-|10|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
-|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|12|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
-|13|113.23.70.17|10000|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|15|139.185.42.86|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|16|67.43.236.20|13423|Canada|Montreal|GloboTech Communications|
-|17|27.189.128.171|8089|China|Langfang|Chinanet|
-|18|103.254.106.156|8010|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|19|27.189.135.14|8089|China|Langfang|Chinanet|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
+|8|60.188.49.53|1999|China|Taizhou|Chinanet|
+|9|180.97.220.151|11080|China|Nanjing|Chinanet|
+|10|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|11|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|12|186.96.74.140|999|Panama|Panama City|Gold Data USA Inc|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|125.87.83.5|22563|China|Chongqing|China Telecom|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|27.79.236.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|72.10.160.91|14969|Canada|Montreal|GloboTech Communications|
 
 
 
