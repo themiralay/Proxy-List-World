@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|103.156.93.178|5050|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|38.22.17.50|3128|United States|Atlanta|GTHost|
-|13|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|2|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|9|38.22.17.50|3128|United States|Atlanta|GTHost|
+|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|203.128.75.196|8080|Indonesia|Jakarta|Neuviz|
+|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|13|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|18|36.91.15.241|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|207.177.122.144|8080|United States|Burlington|Aureon Network Services|
+|17|8.243.163.126|3128|Colombia|Bogotá|CTL Colombia|
+|18|157.66.84.17|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|19|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|20|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
 
 
 
