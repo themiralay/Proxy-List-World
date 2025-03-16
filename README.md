@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|38.86.249.26|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
 |4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|17|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|60.174.167.40|4999|China|Hefei|Chinanet|
-|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|106.225.164.39|655|China|Beijing|China Telecom|
+|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|8|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|9|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|10|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|11|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|13|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|103.166.9.110|8080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|15|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
+|16|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|118.113.244.205|2324|China|Shanghai|Chinanet|
 
 
 
