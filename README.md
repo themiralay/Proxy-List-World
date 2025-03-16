@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|190.61.61.66|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|103.222.255.161|8055|Indonesia|Jakarta|PT Iktiar Doa Tawakal|
-|9|171.228.146.173|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|10|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.243.177.129|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
-|15|125.87.83.5|22563|China|Chongqing|China Telecom|
-|16|203.76.151.50|49200|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|17|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|18|27.189.129.99|8089|China|Langfang|Chinanet|
+|8|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|14|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |19|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
