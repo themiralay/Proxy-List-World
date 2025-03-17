@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|2|8.211.140.156|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|8.211.141.238|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|42.113.34.221|10001|Vietnam|Hanoi|FPT Telecom Company|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|180.97.220.151|11080|China|Nanjing|Chinanet|
-|14|67.43.227.226|5825|Canada|Montreal|GloboTech Communications|
-|15|27.147.169.66|888|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|27.189.128.109|8089|China|Langfang|Chinanet|
-|17|27.189.130.246|8089|China|Langfang|Chinanet|
-|18|27.189.128.45|8089|China|Langfang|Chinanet|
-|19|106.227.5.2|655|China|Shanghai|CHINANET Jiangx province IDC network|
-|20|27.189.130.49|8089|China|Langfang|Chinanet|
+|9|8.211.141.238|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
+|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|15|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
