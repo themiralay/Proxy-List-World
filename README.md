@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.23.40.69|10012|Vietnam|Hanoi|FPT Telecom Company|
-|2|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|38.45.242.120|999|Mexico|San Diego de la Unión|Wifimax Connection S.a.s De C.V|
-|5|103.180.118.103|8090|Indonesia|Lamongan|PT Persada Data Multimedia|
-|6|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|7|103.166.178.221|8080|Indonesia|Sangkalputung|PT Gaf Solusindo Media|
-|8|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|14|155.93.182.201|3128|South Africa|Johannesburg|CISPIP5|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|8.211.140.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|38.45.242.120|999|Mexico|San Diego de la Unión|Wifimax Connection S.a.s De C.V|
+|1|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|113.23.40.69|10012|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|103.159.96.195|2117|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|5|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|6|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|9|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|12|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|103.203.234.75|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|14|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|16|155.93.182.201|3128|South Africa|Johannesburg|CISPIP5|
+|17|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|18|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|8.211.140.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
