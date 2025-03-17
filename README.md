@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|8.209.205.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|11|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|82.200.205.126|8081|Kazakhstan|Ekibastuz|JSC Kazakhtelecom|
-|13|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|14|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
-|15|36.92.28.34|8080|Indonesia|Manado|Telekomunikasi Indonesia|
-|16|192.9.188.22|8182|Australia|Sydney|Oracle Corporation|
-|17|41.32.39.118|3128|Egypt|Cairo|TE Data|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|8|94.155.175.135|8080|Bulgaria|Sofia|Bulgarian Telecommunication Group EOOD|
+|9|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|10|187.190.0.144|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|159.89.239.166|18098|United States|North Bergen|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|103.82.246.43|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|20|8.209.205.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
