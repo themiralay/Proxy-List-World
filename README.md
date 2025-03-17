@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|190.52.100.248|999|Venezuela|Caracas|Gold Data USA Inc|
-|6|8.211.143.198|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|67.43.227.229|2037|Canada|Montreal|GloboTech Communications|
-|11|27.189.131.107|8089|China|Langfang|Chinanet|
-|12|94.136.185.125|3128|India|Mumbai|Contabo Asia Private Limited|
-|13|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|15|27.189.131.36|8089|China|Langfang|Chinanet|
-|16|67.43.228.250|29045|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|29045|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|27321|Canada|Montreal|GloboTech Communications|
-|19|106.225.164.39|655|China|Beijing|China Telecom|
-|20|27.189.129.0|8089|China|Langfang|Chinanet|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|182.253.177.159|8080|Indonesia|Jakarta|BIZNET|
+|9|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|15|106.12.111.83|9103|China|Beijing|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|67.43.228.251|21461|Canada|Montreal|GloboTech Communications|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|143.244.143.71|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
