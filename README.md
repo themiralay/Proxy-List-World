@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.211.141.238|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|6|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|10|67.43.227.228|25637|Canada|Montreal|GloboTech Communications|
-|11|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|67.43.228.250|2797|Canada|Montreal|GloboTech Communications|
-|14|58.209.39.3|8089|China|Nanjing|Chinanet|
-|15|27.189.132.190|8089|China|Langfang|Chinanet|
-|16|67.43.228.250|2797|Canada|Montreal|GloboTech Communications|
-|17|114.219.102.63|8089|China|Nanjing|China Telecom|
-|18|27.189.131.26|8089|China|Langfang|Chinanet|
-|19|114.219.174.2|8089|China|Nanjing|China Telecom|
-|20|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.211.141.238|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|8.211.133.84|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|160.20.55.235|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
+|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|12|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|118.113.245.192|2324|China|Shanghai|Chinanet|
+|15|121.101.133.220|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|16|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
