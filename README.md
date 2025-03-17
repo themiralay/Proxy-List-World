@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.23.40.69|10012|Vietnam|Hanoi|FPT Telecom Company|
-|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|171.245.120.32|10001|Vietnam|Hanoi|Viettel Corporation|
-|8|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|9|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|10|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|155.93.182.201|3128|South Africa|Johannesburg|CISPIP5|
-|14|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|17|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|18|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
-|20|201.91.82.155|3128|Brazil|Santos|Vivo|
+|1|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|113.23.40.69|10012|Vietnam|Hanoi|FPT Telecom Company|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|13|186.167.80.235|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|45.225.25.192|8080|Brazil|Joinville|Binario Cloud SER De Computacao E Informatica Ltda|
+|15|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|17|38.180.116.106|1080|The Netherlands|Amsterdam|Scalaxy B.V.|
+|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
