@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|8|27.189.135.145|8089|China|Langfang|Chinanet|
-|9|60.174.167.40|4999|China|Hefei|Chinanet|
-|10|121.232.181.39|8089|China|Nanjing|Chinanet|
-|11|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|72.10.160.93|25975|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|22201|Canada|Montreal|GloboTech Communications|
-|15|49.70.190.168|2324|China|Nanjing|Chinanet|
-|16|218.1.197.63|2324|China|Shanghai|China Telecom (Group)|
-|17|67.43.227.230|12989|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|32091|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|27.189.134.169|8089|China|Langfang|Chinanet|
+|1|8.211.137.68|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|115.74.6.170|10006|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|9|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|12|27.25.142.68|7890|China|Shizishan|China Telecom|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|15|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|190.2.214.137|9992|Colombia|Trinidad|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.209.187.98|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
+|19|182.105.82.38|655|China|Taohua|Chinanet|
+|20|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
