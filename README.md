@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|6|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|7|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|49.70.190.153|2324|China|Nanjing|Chinanet|
-|11|27.189.128.105|8089|China|Langfang|Chinanet|
-|12|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.189.133.242|8089|China|Langfang|Chinanet|
+|3|8.211.141.238|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|10|188.125.169.67|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|168.227.10.228|8080|Brazil|Belo Horizonte|Companhia Itabirana Telecomunicações Ltda|
 |14|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|15|27.189.131.137|8089|China|Langfang|Chinanet|
-|16|67.43.228.250|31827|Canada|Montreal|GloboTech Communications|
-|17|111.72.132.72|2324|China|Taohua|Chinanet|
-|18|27.189.129.152|8089|China|Langfang|Chinanet|
-|19|67.43.236.18|22041|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|16|124.248.190.213|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|17|27.189.133.242|8089|China|Langfang|Chinanet|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|8.211.141.238|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.228.251|5275|Canada|Montreal|GloboTech Communications|
 
 
 
