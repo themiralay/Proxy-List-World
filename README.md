@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|119.95.243.229|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|6|115.74.3.99|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|9|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|114.219.174.9|8089|China|Nanjing|China Telecom|
-|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|13|72.10.160.90|11089|Canada|Montreal|GloboTech Communications|
-|14|58.209.137.186|8089|China|Nanjing|China Telecom|
-|15|114.219.174.43|8089|China|Nanjing|China Telecom|
-|16|114.219.102.15|8089|China|Nanjing|China Telecom|
-|17|72.10.160.171|11805|Canada|Montreal|GloboTech Communications|
-|18|121.224.156.142|8089|China|Nanjing|China Telecom|
-|19|72.10.160.92|5449|Canada|Montreal|GloboTech Communications|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|115.74.6.170|10006|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|15|118.113.245.245|2324|China|Shanghai|Chinanet|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|18|118.113.246.49|2324|China|Shanghai|Chinanet|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
