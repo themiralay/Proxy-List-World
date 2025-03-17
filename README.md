@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|14.39.239.241|56922|South Korea|Mapo-gu|Korea Telecom|
-|13|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|117.80.188.239|8089|China|Nanjing|China Telecom|
-|17|154.16.214.14|3128|United States|Chicago|ipxo|
-|18|27.189.135.249|8089|China|Langfang|Chinanet|
-|19|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|20|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|97.79.251.186|80|United States|Dallas|Spectrum|
+|9|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|11|67.43.227.227|12533|Canada|Montreal|GloboTech Communications|
+|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|13|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|14|175.42.33.136|8119|China|Fuzhou|China Unicom Fujian Province Network|
+|15|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|16|121.232.181.171|8089|China|Nanjing|Chinanet|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|19|161.35.101.71|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|117.80.188.232|8089|China|Nanjing|China Telecom|
 
 
 
