@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.211.141.79|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|94.136.185.125|3128|India|Mumbai|Contabo Asia Private Limited|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|88.222.244.158|3128|India|Mumbai|Hostinger International Limited|
+|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|7|94.136.185.125|3128|India|Mumbai|Contabo Asia Private Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|199.19.105.144|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|88.222.244.158|3128|India|Mumbai|Hostinger International Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|38.44.237.156|999|Peru|Lima|Latin Cable|
-|15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |19|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
 
 
 
