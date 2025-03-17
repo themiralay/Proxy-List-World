@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|8|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|103.141.105.74|55|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|10|157.15.66.100|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|11|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|15|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|16|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|17|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|18|45.236.105.138|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
+|12|61.29.96.146|80|Australia|Hawthorn|AAPT Limited|
+|13|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|14|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
+|15|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|18|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
