@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|27.147.218.18|63680|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|5|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|217.88.64.234|8080|Germany|Traunstein|Deutsche Telekom AG|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|103.76.201.126|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
-|10|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
-|11|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|101.230.11.146|11959|China|Huamu|China Telecom (Group)|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|16|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|175.103.36.130|3888|Indonesia|Prigen|Maxindo Mintra Solusi|
-|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|19|72.10.164.178|17691|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|23777|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|101.255.149.202|8080|Indonesia|Bogor|PT Remala Abadi|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|8|103.76.201.126|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
+|9|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|8.222.246.18|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|15|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|16|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|17|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
