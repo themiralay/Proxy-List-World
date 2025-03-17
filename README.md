@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.136.103|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.211.137.68|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|8.211.133.84|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|72.10.160.171|12405|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|19187|Canada|Montreal|GloboTech Communications|
-|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|18|72.10.160.173|15895|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|19187|Canada|Montreal|GloboTech Communications|
-|20|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|188.125.169.67|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|11|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|17|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|18|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|19|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
