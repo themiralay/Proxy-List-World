@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
 |5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|8.211.139.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|8.211.143.198|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|11|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|12|8.211.137.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|114.224.142.70|8089|China|Wuxi|Chinanet|
-|18|171.228.181.0|5105|Vietnam|Hanoi|Viettel Corporation|
-|19|27.189.132.145|8089|China|Langfang|Chinanet|
-|20|27.189.134.29|8089|China|Langfang|Chinanet|
+|6|14.176.47.53|24463|Vietnam|Hanoi|VNPT|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|8.211.139.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|8.211.143.198|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|14|8.211.137.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|19|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 
 
 
