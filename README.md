@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.241.76|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|8.209.241.76|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|8.209.207.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |6|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|38.180.116.106|1080|The Netherlands|Amsterdam|Scalaxy B.V.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|9|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|157.20.244.163|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|15|8.209.241.76|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|171.228.181.0|5107|Vietnam|Hanoi|Viettel Corporation|
-|17|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|171.228.181.0|5107|Vietnam|Hanoi|Viettel Corporation|
+|9|8.209.202.87|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|10|38.180.116.106|8080|The Netherlands|Amsterdam|Scalaxy B.V.|
+|11|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|91.132.132.188|3128|Armenia|Yerevan|Stark Industries Solutions LTD|
+|13|8.209.245.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|18|171.228.181.0|5107|Vietnam|Hanoi|Viettel Corporation|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
