@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|8.211.137.68|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|10|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|11|114.219.102.15|8089|China|Nanjing|China Telecom|
-|12|27.189.133.29|8089|China|Langfang|Chinanet|
-|13|121.227.118.141|8089|China|Nanjing|China Telecom|
-|14|72.10.160.93|16609|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|22201|Canada|Montreal|GloboTech Communications|
-|16|58.209.39.39|8089|China|Nanjing|Chinanet|
-|17|67.43.227.228|11561|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|8.211.137.68|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|8.211.136.103|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|6|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|9|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|8.211.136.103|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|103.153.96.147|8181|Indonesia|Serang|NITNET|
+|18|67.43.236.18|26107|Canada|Montreal|GloboTech Communications|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
