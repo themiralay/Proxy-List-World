@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|4|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|115.74.3.99|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|13|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|14|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|15|125.87.81.46|2324|China|Chongqing|China Telecom|
-|16|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|17|27.189.135.246|8089|China|Langfang|Chinanet|
-|18|67.43.227.226|25309|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|1|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|8.209.202.192|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|5|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|11|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|67.43.227.226|15381|Canada|Montreal|GloboTech Communications|
+|17|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|43.248.101.232|9999|China|Zhenjiang|China Mobile Communications Corporation|
+|19|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
