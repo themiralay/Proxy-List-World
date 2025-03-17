@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|3.99.131.31|3128|Canada|Toronto|Amazon Technologies Inc.|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|7|157.20.252.30|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|8|186.0.144.141|9595|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.52.16.91|8081|Indonesia|Jakarta|PT Inti Bangun Sejahtera, tbk|
-|11|208.67.28.27|58090|United States|Eagle River|SonicNet Inc.|
-|12|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|13|114.9.52.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|114.220.155.213|8089|China|Nanjing|China Telecom|
-|17|190.52.100.8|999|Venezuela|Caracas|Gold Data USA Inc|
-|18|67.43.236.20|1913|Canada|Montreal|GloboTech Communications|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|45.83.21.114|3128|Iceland|Reykjavik|Stark Industries Solutions LTD|
+|8|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|9|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|10|3.99.131.31|3128|Canada|Toronto|Amazon Technologies Inc.|
+|11|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|94.136.185.125|3128|India|Mumbai|Contabo Asia Private Limited|
+|14|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|17|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|19|27.189.128.239|8089|China|Langfang|Chinanet|
+|20|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
 
 
 
