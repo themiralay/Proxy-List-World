@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|3|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|27.189.134.253|8089|China|Langfang|Chinanet|
-|9|49.70.172.131|8089|China|Nanjing|Chinanet|
-|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|67.43.236.19|32623|Canada|Montreal|GloboTech Communications|
-|12|121.232.181.59|8089|China|Nanjing|Chinanet|
-|13|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|121.227.109.53|8089|China|Nanjing|China Telecom|
-|15|27.189.134.120|8089|China|Langfang|Chinanet|
-|16|121.224.156.188|8089|China|Nanjing|China Telecom|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|67.43.227.226|21707|Canada|Montreal|GloboTech Communications|
-|19|121.224.170.230|8089|China|Nanjing|China Telecom|
-|20|27.189.133.237|8089|China|Langfang|Chinanet|
+|6|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|10|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|11|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|12|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|13|110.188.37.68|2324|China|Muping|Chinanet|
+|14|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|15|8.211.130.31|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.227.226|12887|Canada|Montreal|GloboTech Communications|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|24.152.58.138|999|Colombia|Bucaramanga|Atenea Telecomunicaciones S.A.S|
+|19|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|20|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
