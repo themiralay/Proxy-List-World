@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|14|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|15|106.225.164.39|655|China|Beijing|China Telecom|
-|16|45.224.149.15|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
-|17|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|125.25.43.129|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|11|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|196.250.239.229|8787|South Africa|Thohoyandou|West Indian Ocean Cable Company|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|14.102.155.233|3128|Indonesia|Bandung|Skyline Semesta, PT|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|19|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
