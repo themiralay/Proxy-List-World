@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.154.230.180|8080|Indonesia|Lamongan|DIGITNET|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|118.175.30.26|80|Thailand|Bangkok|TOT Public Company Limited|
-|8|181.78.3.170|999|Colombia|Sopetrán|IFX Networks Argentina S.R.L|
-|9|115.74.6.170|10002|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|23.132.28.133|3128|Canada|Montreal|Technologies Elixior|
-|17|67.43.227.227|10725|Canada|Montreal|GloboTech Communications|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|72.10.160.90|23853|Canada|Montreal|GloboTech Communications|
-|20|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|6|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|7|103.164.229.173|8085|Indonesia|Kudus|PT Muria Data Utama|
+|8|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
+|16|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|19|27.189.131.132|8089|China|Langfang|Chinanet|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
