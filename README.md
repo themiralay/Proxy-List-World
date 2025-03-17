@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.205.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|6|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|74.48.127.26|3128|United States|Los Angeles|Multacom Corporation|
+|8|45.236.105.138|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|11|8.211.136.103|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|16|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|10|74.48.127.26|3128|United States|Los Angeles|Multacom Corporation|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
+|15|190.121.207.161|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|16|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
