@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.211.128.71|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.244.167|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|10|23.128.168.9|999|Puerto Rico|Guaynabo|Thundernet Wireless|
-|11|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|27.79.237.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|43.245.249.22|7878|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|45.186.240.44|8080|Brazil|Curitiba|VG NET SERVIÇOS DE TELECOM|
-|19|8.209.206.233|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|8.209.206.233|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|171.228.181.0|5104|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|18|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|8.209.201.182|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
