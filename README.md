@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|5|27.79.157.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|121.101.134.202|8080|Indonesia|Boyolali|PT SELARAS CITRA TERABIT|
-|12|38.22.17.50|3128|United States|Atlanta|GTHost|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|72.10.164.178|14661|Canada|Montreal|GloboTech Communications|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
-|19|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|72.10.160.170|3013|Canada|Montreal|GloboTech Communications|
+|16|118.113.244.79|2324|China|Shanghai|Chinanet|
+|17|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|18|72.10.160.94|27559|Canada|Montreal|GloboTech Communications|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
