@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|8.211.136.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|10|47.84.50.195|8888|Singapore|Singapore|Alibaba.com LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|15|178.175.135.18|8888|Moldova|Chisinau|Trabia SRL|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|132.145.141.34|8888|United States|Ashburn|Oracle Corporation|
-|20|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|2|47.84.50.195|8888|Singapore|Singapore|Alibaba.com LLC|
+|3|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|178.175.135.18|8888|Moldova|Chisinau|Trabia SRL|
+|14|27.79.220.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|49.48.53.163|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|16|132.145.141.34|8888|United States|Ashburn|Oracle Corporation|
+|17|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|84.201.134.130|8090|Russia|Moscow|Yandex enterprise network|
+|20|27.79.220.9|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
