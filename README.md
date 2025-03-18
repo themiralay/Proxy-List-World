@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3720** proxies at the latest update. Usable proxies are below.
+> Scraper found **3669** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|85|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|417|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|366|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|296|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|98.97.148.19|7979|Argentina|Buenos Aires|SpaceX Starlink|
-|5|101.255.104.38|1080|Indonesia|Jakarta|PT Remala Abadi|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|219.135.229.203|7890|China|Guangzhou|Chinanet|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
-|19|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|219.135.229.203|7890|China|Guangzhou|Chinanet|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|201.91.82.155|3128|Brazil|Santos|Vivo|
+|15|49.70.172.44|2324|China|Nanjing|Chinanet|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|8.209.202.87|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|18|185.35.130.81|58911|Russia|Nazran|Plazmatelekom LLC|
+|19|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|20|67.43.236.19|4409|Canada|Montreal|GloboTech Communications|
 
 
 
