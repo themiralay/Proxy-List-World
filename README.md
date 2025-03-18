@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|9|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|5.34.208.167|41187|Latvia|Riga|SIA VEESP|
-|14|67.43.227.226|18099|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|12671|Canada|Montreal|GloboTech Communications|
-|16|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
-|17|67.43.236.18|19499|Canada|Montreal|GloboTech Communications|
-|18|27.189.128.40|8089|China|Langfang|Chinanet|
-|19|67.43.228.250|19981|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|22453|Canada|Montreal|GloboTech Communications|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|7|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|38.172.154.165|999|Dominican Republic|El Caimito|INVERSIONES SOINPRO, S.R.L.|
+|9|27.79.165.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|12|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
+|20|72.10.160.173|12671|Canada|Montreal|GloboTech Communications|
 
 
 
