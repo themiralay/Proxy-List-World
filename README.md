@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|27.79.235.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|115.72.170.55|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|10|45.252.183.245|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|11|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|8.211.140.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|27.79.212.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
-|15|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|16|8.211.140.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|122.52.109.3|8081|Philippines|Maasim|Philippine Long Distance Telephone Co.|
-|18|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
-|19|72.10.164.178|12507|Canada|Montreal|GloboTech Communications|
-|20|207.188.11.31|80|United States|San Antonio|H5 Data Centers|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|94.141.106.2|3128|Russia|Moscow|JSC Mastertel|
+|16|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|17|27.79.212.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|45.123.142.20|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|19|180.178.103.70|8213|Indonesia|Jakarta|PT Hipernet Indodata|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
