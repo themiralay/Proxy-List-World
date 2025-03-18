@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|4|8.209.200.30|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|12|8.211.139.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|84.201.134.130|8090|Russia|Moscow|Yandex enterprise network|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|178.175.135.18|8888|Moldova|Chisinau|Trabia SRL|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|27.79.165.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.84.50.195|8888|Singapore|Singapore|Alibaba.com LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|132.145.141.34|8888|United States|Ashburn|Oracle Corporation|
+|14|8.211.135.194|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|19|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
