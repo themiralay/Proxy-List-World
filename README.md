@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|8|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|10|38.22.17.50|3128|United States|Atlanta|GTHost|
-|11|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
-|12|67.43.228.250|22193|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|22193|Canada|Montreal|GloboTech Communications|
-|14|27.189.130.36|8089|China|Langfang|Chinanet|
-|15|67.43.227.226|18473|Canada|Montreal|GloboTech Communications|
-|16|117.80.188.57|8089|China|Nanjing|China Telecom|
-|17|72.10.160.173|6001|Canada|Montreal|GloboTech Communications|
-|18|190.85.34.139|999|Colombia|Medellín|Telmex Colombia S.A.|
-|19|67.43.228.250|22193|Canada|Montreal|GloboTech Communications|
-|20|45.191.7.250|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|10|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|12|72.10.160.94|15739|Canada|Montreal|GloboTech Communications|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|15|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|16|67.43.228.250|7893|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|5105|Canada|Montreal|GloboTech Communications|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|67.43.236.19|26137|Canada|Montreal|GloboTech Communications|
 
 
 
