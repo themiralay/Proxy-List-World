@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.137.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|103.18.77.23|1111|Indonesia|Jakarta|PT Usaha Adi Sanggoro|
-|8|8.209.248.237|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|9|103.203.234.75|8080|Indonesia|Ungaran|PT Nesta Indo Media|
-|10|8.211.137.26|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|8.209.211.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|103.77.62.134|8080|Bangladesh|Mīrpur|Orange Communication (The Sky Traders Ltd)|
-|13|8.211.135.153|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|37.114.192.104|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|19|38.45.246.210|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
-|20|190.8.34.211|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|103.18.77.23|1111|Indonesia|Jakarta|PT Usaha Adi Sanggoro|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|9|8.209.207.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|8.211.137.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|27.79.212.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|8.209.211.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|38.22.17.50|3128|United States|Atlanta|GTHost|
+|16|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
+|17|38.22.17.50|3128|United States|Atlanta|GTHost|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|8.209.241.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
