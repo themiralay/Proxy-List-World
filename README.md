@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|2|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.211.137.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.211.135.153|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|8.211.137.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|8.211.135.153|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |7|103.78.1.117|39114|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|27.79.236.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|8.211.137.26|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |12|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|13|8.211.137.26|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|15|27.66.27.16|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|122.52.141.182|8080|Philippines|Marawi City|Philippine Long Distance Telephone Co.|
-|18|8.211.135.153|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|8.209.201.168|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|16|38.86.249.6|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|8.211.135.153|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
