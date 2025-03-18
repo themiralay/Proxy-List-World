@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
-|10|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.76.201.246|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|115.77.135.98|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|45.55.123.126|8080|United States|Clifton|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|114.9.26.238|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|154.16.214.14|3128|United States|Chicago|ipxo|
+|16|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
+|17|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|67.43.236.18|21591|Canada|Montreal|GloboTech Communications|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|103.243.177.129|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
 
 
 
