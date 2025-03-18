@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|8.209.202.87|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|10|85.192.61.6|18482|Finland|Helsinki|Aeza International LTD|
-|11|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|12|8.211.143.107|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|187.251.130.156|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
-|14|121.224.170.242|8089|China|Nanjing|China Telecom|
-|15|27.189.130.231|8089|China|Langfang|Chinanet|
-|16|27.189.134.111|8089|China|Langfang|Chinanet|
-|17|67.43.228.251|20165|Canada|Montreal|GloboTech Communications|
-|18|58.209.32.113|8089|China|Nanjing|China Telecom|
-|19|114.219.102.56|8089|China|Nanjing|China Telecom|
-|20|114.219.174.15|8089|China|Nanjing|China Telecom|
+|9|27.79.165.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|8.209.202.87|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|8.211.143.107|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|16|67.43.228.251|24173|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|72.10.160.170|30865|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.220.23.111|8090|Indonesia|Surabaya|CV. LINTAS MEDIA|
 
 
 
