@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|59.17.116.71|3131|South Korea|Incheon|Korea Telecom|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|27.79.198.163|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|85.192.61.6|18482|Finland|Helsinki|Aeza International LTD|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.240.7.222|10427|Vietnam|Quận Hai|Giza Network Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|14|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|15|194.87.227.4|3121|Germany|Frankfurt am Main|Baxet Group Inc.|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|118.113.246.49|2324|China|Shanghai|Chinanet|
-|20|27.189.132.80|8089|China|Langfang|Chinanet|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|118.103.140.114|8080|Bhutan|Thimphu|Tashi InfoComm Limited|
+|9|85.192.61.6|18482|Finland|Helsinki|Aeza International LTD|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|103.46.4.93|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|12|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|38.41.4.129|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
