@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|27.79.180.48|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|27.79.157.183|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|16|27.79.212.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|20|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.76.201.246|8080|Indonesia|Utan|PT. Arjuna Global Teknologi Indonesia|
+|11|5.53.23.106|8080|Russia|Surgut|Metroset Ltd|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|14|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
