@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|27.79.212.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.157.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.211.135.194|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|27.79.165.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |11|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
-|12|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|13|27.189.128.94|8089|China|Langfang|Chinanet|
-|14|125.87.81.212|2324|China|Chongqing|China Telecom|
-|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|16|118.113.246.168|2324|China|Shanghai|Chinanet|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|27.189.128.134|8089|China|Langfang|Chinanet|
-|19|114.220.155.230|8089|China|Nanjing|China Telecom|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|8.211.135.194|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|17|61.145.214.107|65533|China|Guangzhou|Chinanet|
+|18|103.156.233.63|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|19|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|20|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
