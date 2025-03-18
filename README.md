@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.211.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|59.17.116.71|3131|South Korea|Incheon|Korea Telecom|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|27.79.198.163|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|85.192.61.6|18482|Finland|Helsinki|Aeza International LTD|
-|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|14|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|15|190.12.0.66|8080|Ecuador|Guayaquil|Puntonet S.A.|
-|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|8.209.211.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|19|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|27.79.198.163|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|27.79.235.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|27.79.212.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|8.211.133.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|85.192.61.6|18482|Finland|Helsinki|Aeza International LTD|
+|16|8.209.211.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|8.209.245.73|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|19|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
