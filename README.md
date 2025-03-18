@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|9|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|13|8.211.139.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|17|61.19.145.66|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|8.211.140.186|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|43.252.107.119|1111|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|27.79.165.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|20|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
 
 
 
