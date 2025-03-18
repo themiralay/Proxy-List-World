@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|149.54.20.78|8080|Afghanistan|Kabul|Government Communications Network|
-|9|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|118.113.246.44|2324|China|Shanghai|Chinanet|
-|11|67.43.227.226|8383|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|25351|Canada|Montreal|GloboTech Communications|
-|13|27.189.129.213|8089|China|Langfang|Chinanet|
-|14|27.189.128.97|8089|China|Langfang|Chinanet|
-|15|72.10.160.90|19727|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|27871|Canada|Montreal|GloboTech Communications|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|72.10.160.170|6403|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|31249|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|29013|Canada|Montreal|GloboTech Communications|
+|8|203.138.197.13|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.220.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|67.43.227.226|8383|Canada|Montreal|GloboTech Communications|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
 
 
 
