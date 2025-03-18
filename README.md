@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|2|8.211.141.141|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|14|66.94.108.138|3128|United States|Orangeburg|Nubes, LLC|
-|15|165.16.92.193|8104|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|19|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|20|27.189.128.131|8089|China|Langfang|Chinanet|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|27.79.180.48|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|8.211.141.141|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|66.94.108.138|3128|United States|Orangeburg|Nubes, LLC|
+|16|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|17|58.11.14.161|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|18|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|19|27.79.180.48|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
