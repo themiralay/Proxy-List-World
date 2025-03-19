@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.209.207.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|47.245.60.210|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|6|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|38.43.150.76|999|Peru|Lima|Nextnet SAC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|27.66.199.254|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|72.10.160.91|1313|Canada|Montreal|GloboTech Communications|
-|18|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
-|19|67.43.227.226|26567|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|26567|Canada|Montreal|GloboTech Communications|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|11|8.209.207.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|8.211.129.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
