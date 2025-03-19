@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|103.153.39.37|8082|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|5|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|27.79.201.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
 |6|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
-|7|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|8|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|9|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|11|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|12|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|13|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|19|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|27.189.130.62|8089|China|Langfang|Chinanet|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|10|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|11|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|14|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|15|116.254.98.184|8097|Indonesia|Jakarta|SpaceX Starlink|
+|16|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|140.227.119.19|3128|Japan|Tokyo|InfoSphere|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 
 
 
