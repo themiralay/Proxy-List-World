@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|7|8.209.202.251|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|192.9.152.73|8080|United States|San Jose|Oracle Corporation|
-|10|192.9.152.73|8080|United States|San Jose|Oracle Corporation|
-|11|167.99.64.248|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|160.19.18.209|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|15|27.76.2.115|26403|Vietnam|Thái Nguyên|Newass2011xDSLHCMC|
-|16|27.64.155.166|12021|Vietnam|Sóc Trăng|Viettel Group|
-|17|119.18.147.179|96|Bangladesh|Chittagong|BBTS Network|
-|18|72.10.160.171|11393|Canada|Montreal|GloboTech Communications|
-|19|27.189.128.51|8089|China|Langfang|Chinanet|
-|20|27.189.131.120|8089|China|Langfang|Chinanet|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|123.202.99.111|8081|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|12|3.135.219.18|3128|United States|Dublin|Amazon.com, Inc.|
+|13|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|8.209.210.222|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|15|3.135.219.18|3128|United States|Dublin|Amazon.com, Inc.|
+|16|167.99.64.248|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
