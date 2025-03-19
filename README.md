@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3938** proxies at the latest update. Usable proxies are below.
+> Scraper found **3924** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|121|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|542|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.211.131.47|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|88.222.244.158|3128|India|Mumbai|Hostinger International Limited|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|27.79.220.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|27.79.235.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|8.211.140.186|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|45.189.116.214|8889|Peru|Lima|Conex TV E.I.R.L|
-|18|8.211.131.47|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.242.105.111|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|8|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|27.79.235.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|72.10.160.91|12037|Canada|Montreal|GloboTech Communications|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|178.175.135.18|8888|Moldova|Chisinau|Trabia SRL|
+|15|27.189.133.99|8089|China|Langfang|Chinanet|
+|16|118.113.245.245|2324|China|Shanghai|Chinanet|
+|17|27.79.220.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|67.43.227.226|1419|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|28145|Canada|Montreal|GloboTech Communications|
+|20|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
 
 
 
