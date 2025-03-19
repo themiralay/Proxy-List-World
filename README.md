@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|14|8.209.209.136|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|16|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|41.65.162.72|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|19|8.211.140.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|47.245.62.91|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
+|4|8.211.140.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|6|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|192.145.205.97|8080|Brazil|Capitão Enéas|Vianet Guaraciama Eireli ME|
+|20|101.108.7.227|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
