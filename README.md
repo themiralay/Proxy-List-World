@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|3|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|114.219.102.35|8089|China|Nanjing|China Telecom|
-|13|117.44.64.85|655|China|Taohua|Chinanet|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|60.249.94.59|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|201.159.20.177|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
 |14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.228.250|29989|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|32999|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|29989|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|21677|Canada|Montreal|GloboTech Communications|
-|19|114.229.213.212|8089|China|Nanjing|Chinanet|
-|20|118.113.245.147|2324|China|Shanghai|Chinanet|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|17|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|36.69.160.201|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 
 
 
