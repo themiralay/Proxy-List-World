@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|8.211.138.60|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|8.209.196.172|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|12|201.234.186.194|8081|Colombia|Bogotá|Level 3 Colombia S.A|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|113.23.40.219|10005|Vietnam|Hanoi|FPT Telecom Company|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|47.245.62.83|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|8.209.196.172|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|181.78.79.148|999|Colombia|Cereté|IFX Networks Argentina S.R.L|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|8.211.136.44|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|8.211.139.218|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
