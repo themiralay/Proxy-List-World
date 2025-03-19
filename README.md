@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|192.9.152.73|8080|United States|San Jose|Oracle Corporation|
-|15|123.202.99.111|8081|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|19|84.201.134.130|8090|Russia|Moscow|Yandex enterprise network|
-|20|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|45.191.4.253|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|84.201.134.130|8090|Russia|Moscow|Yandex enterprise network|
+|16|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|17|103.151.226.148|8080|Indonesia|Bandung|URBANACCESS|
+|18|72.10.160.90|30209|Canada|Montreal|GloboTech Communications|
+|19|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
