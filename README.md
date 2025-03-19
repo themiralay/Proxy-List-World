@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|8.211.143.198|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|8.211.140.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|49.72.9.33|8089|China|Nanjing|Chinanet|
-|15|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|67.43.227.229|15505|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|16077|Canada|Montreal|GloboTech Communications|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|41.65.160.174|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|9|8.211.140.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|17|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|178.175.135.18|8888|Moldova|Chisinau|Trabia SRL|
+|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
 
 
 
