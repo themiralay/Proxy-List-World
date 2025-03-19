@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
-|2|113.23.40.146|10022|Vietnam|Hanoi|FPT Telecom Company|
-|3|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|6|27.79.196.73|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|140.245.235.20|3128|India|Hyderabad|Oracle Corporation|
-|12|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|15|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|19|8.209.202.251|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|20|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|140.245.235.20|3128|India|Hyderabad|Oracle Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|12|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|168.121.242.66|999|Mexico|San Felipe|Wifimax Connection S.a.s De C.V|
+|19|81.94.150.212|1080|Russia|Moscow|OOO WestCall Ltd|
+|20|79.100.2.191|3128|Bulgaria|Sofia|BTC-BROADBAND|
 
 
 
