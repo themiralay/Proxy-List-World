@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|27.79.201.41|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|54.165.71.220|1080|United States|Ashburn|Amazon.com, Inc.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|46.21.250.191|1080|The Netherlands|Amsterdam|Zomro B.V.|
-|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|54.165.71.220|1080|United States|Ashburn|Amazon.com, Inc.|
-|12|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
-|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|19|203.189.96.232|80|Japan|Chiyoda|GMO Internet Group, Inc.|
-|20|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|54.165.71.220|1080|United States|Ashburn|Amazon.com, Inc.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|51.144.23.80|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|54.75.56.49|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|54.165.71.220|1080|United States|Ashburn|Amazon.com, Inc.|
+|11|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|12|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|13|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|14|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
