@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|8.209.207.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|124.6.168.26|80|Philippines|Lahug|INNOVE|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
-|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|27.79.165.197|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
