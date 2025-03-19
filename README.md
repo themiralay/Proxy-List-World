@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|8.211.140.186|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|8.211.131.47|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|171.228.146.173|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|8|8.209.208.99|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|8.211.140.20|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
-|11|208.67.28.29|58090|United States|Eagle River|SonicNet Inc.|
-|12|185.213.139.150|3128|Russia|Vidnoye|Skynetcom ram/vsk|
-|13|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|14|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|8.209.200.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|49.249.83.13|8080|India|Hyderabad|TTL GSM|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|160.191.180.159|7777|Indonesia|Grogol|PT.Global Media Data Prima|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.209.247.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|27.79.235.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.176.7.244|8080|Vietnam|Hanoi|VNPT|
+|8|8.211.131.47|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|8.209.205.251|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|180.180.209.34|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|11|41.32.39.118|3128|Egypt|Cairo|TE Data|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|8.211.140.186|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|177.93.36.46|999|Colombia|Belén|TV AZTECA SUCURSAL COLOMBIA|
+|18|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|19|103.166.32.221|1111|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
