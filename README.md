@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|8|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
-|12|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|14|67.43.236.19|31267|Canada|Montreal|GloboTech Communications|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|52.15.64.91|3128|United States|Dublin|Amazon.com, Inc.|
-|17|27.189.131.221|8089|China|Langfang|Chinanet|
-|18|72.10.160.91|28939|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|31785|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11827|Canada|Montreal|GloboTech Communications|
+|7|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|10|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|11|103.160.205.86|8080|Indonesia|Timba Timuk|PRIME|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|103.130.83.6|8080|Indonesia|Bengkalis|PT Central Digital Network|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|72.10.160.91|28939|Canada|Montreal|GloboTech Communications|
+|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
 
 
 
