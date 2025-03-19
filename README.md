@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|72.10.164.178|14475|Canada|Montreal|GloboTech Communications|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
-|17|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|18|72.10.160.170|1995|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|25969|Canada|Montreal|GloboTech Communications|
-|20|114.219.102.7|8089|China|Nanjing|China Telecom|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|14|72.10.160.170|20227|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|3683|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|20227|Canada|Montreal|GloboTech Communications|
+|17|223.25.100.235|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|20|103.46.11.92|8080|Indonesia|Malang|Lintas Data Prima, PT|
 
 
 
