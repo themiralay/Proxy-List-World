@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3918** proxies at the latest update. Usable proxies are below.
+> Scraper found **4121** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|138|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|360|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|457|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|27.79.220.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|103.147.77.166|8082|Indonesia|Magetan|TRIDATA|
-|11|186.31.140.219|999|Colombia|Bogotá|ETB - Colombia|
-|12|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
-|13|27.79.201.41|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|17|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|8.209.209.176|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|186.31.140.219|999|Colombia|Bogotá|ETB - Colombia|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|10|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|12|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|13|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|16|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|5.161.121.186|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|45.90.121.13|8081|Germany|Karlsruhe|Contabo GmbH|
+|20|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
 
 
 
