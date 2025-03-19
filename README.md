@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.207.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|8.209.200.237|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.227.226|19905|Canada|Montreal|GloboTech Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|114.220.115.121|8089|China|Nanjing|China Telecom|
-|13|130.36.36.29|443|United States|Lake Bluff|Abbott Laboratories|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|113.23.40.146|10022|Vietnam|Hanoi|FPT Telecom Company|
-|19|72.10.160.92|12703|Canada|Montreal|GloboTech Communications|
-|20|27.189.135.28|8089|China|Langfang|Chinanet|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|8.209.207.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|84.201.134.130|8090|Russia|Moscow|Yandex enterprise network|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|8.209.197.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 
 
 
