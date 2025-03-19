@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|187.103.105.22|8999|Brazil|Florianópolis|BR.Digital Provider|
-|18|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
-|19|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
+|10|171.5.139.42|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|13|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
+|14|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|15|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
 
 
 
