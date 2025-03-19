@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|69.75.140.157|8080|United States|La Mirada|Spectrum|
-|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|116.58.239.6|8080|Thailand|Hua Hin|CAT Telecom Public Company Limited|
-|11|125.87.82.244|2324|China|Chongqing|China Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|72.10.160.90|25109|Canada|Montreal|GloboTech Communications|
-|14|27.189.132.50|8089|China|Langfang|Chinanet|
-|15|118.113.245.89|2324|China|Shanghai|Chinanet|
-|16|67.43.236.18|25875|Canada|Montreal|GloboTech Communications|
-|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.226|26611|Canada|Montreal|GloboTech Communications|
-|19|47.245.55.38|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|27.79.196.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|160.22.206.35|8080|Indonesia|Bekasi|PT Teradata Bintang Selaras|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|15|27.79.201.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|117.44.64.85|655|China|Taohua|Chinanet|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
 |20|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
 
 
