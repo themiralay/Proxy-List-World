@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.209.242.121|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|81.94.150.212|1080|Russia|Moscow|OOO WestCall Ltd|
+|5|170.78.208.242|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|6|8.211.140.166|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|9|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|10|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|15|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|16|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
-|17|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|18|187.217.194.178|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|20|89.36.161.50|3128|Latvia|Riga|Melbikomas UAB|
+|8|81.94.150.212|1080|Russia|Moscow|OOO WestCall Ltd|
+|9|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|12|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|190.109.1.34|999|Colombia|Turbaná|Lazus Medellin|
+|16|8.209.242.121|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|110.76.145.5|8090|Indonesia|Surabaya|PT Pika Media Komunika|
+|19|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|20|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
