@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|202.154.18.160|8087|Indonesia|Pagerwojo|DIGITNET|
-|5|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|13|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|60.53.115.29|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|15|103.148.131.177|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|16|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|6|204.199.140.14|999|Chile|Santiago|Ingbell Chile SPA|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|177.38.72.38|9292|Brazil|Jales|MELFINET - National Telecom SCM Ltda|
+|14|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|15|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|17|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
+|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
