@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|47.245.62.91|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|1|47.245.62.91|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|8|27.66.199.254|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|27.66.199.254|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|27.189.131.54|8089|China|Langfang|Chinanet|
-|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|177.94.225.218|8080|Brazil|Santo André|Vivo|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|3.135.219.18|3128|United States|Dublin|Amazon.com, Inc.|
+|20|38.22.17.50|3128|United States|Atlanta|GTHost|
 
 
 
