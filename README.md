@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.209.248.237|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |4|222.254.93.219|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|8.211.135.120|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.209.248.237|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|8.209.248.36|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.228.250|20551|Canada|Montreal|GloboTech Communications|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|113.195.172.194|655|China|Nanchang|China Unicom CHINA169 Network|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|8.211.170.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|38.7.1.118|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|10|8.211.170.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|103.217.216.61|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|27.185.27.44|10020|China|Shijiazhuang|Chinanet|
+|18|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|27.79.235.137|16000|Vietnam|Hanoi|Viettel Corporation|
 |20|106.225.164.39|655|China|Beijing|China Telecom|
 
 
