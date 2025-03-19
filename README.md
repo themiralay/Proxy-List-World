@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|34.245.158.128|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|13|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|27.189.133.42|8089|China|Langfang|Chinanet|
-|16|72.10.164.178|19049|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|32077|Canada|Montreal|GloboTech Communications|
-|18|117.80.188.224|8089|China|Nanjing|China Telecom|
-|19|8.209.201.163|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|38.159.229.72|999|Ecuador|Vinces|Turbonet S.A.|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|14|138.186.166.250|48088|Brazil|Ijuí|Vero S.A|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|18|67.43.227.226|22961|Canada|Montreal|GloboTech Communications|
+|19|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
