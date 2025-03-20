@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.250.94|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|1|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.209.207.12|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|103.212.211.69|8080|Indonesia|Sumber|Pemerintah Kabupaten Cirebon|
-|11|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|8.209.207.123|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|103.126.119.246|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|19|72.10.160.170|30763|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2297|Canada|Montreal|GloboTech Communications|
+|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|7|8.209.247.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|12|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|13|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|14|202.176.1.25|4343|India|Chandauli|RailTel Corporation|
+|15|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|19|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|20|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
 
 
 
