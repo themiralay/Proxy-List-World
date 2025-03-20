@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.138.145.64|3128|Japan|Chiyoda|SIMPLEIA|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|43.224.225.18|3128|Hong Kong|Mong Kok|Arosscloud Inc.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|16|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|19|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|203.138.145.64|3128|Japan|Chiyoda|SIMPLEIA|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|12|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|65.109.195.148|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|18|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|19|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
