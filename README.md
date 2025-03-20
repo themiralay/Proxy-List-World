@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|7|27.66.195.78|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|8|8.211.131.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|157.10.97.119|8181|Indonesia|Pulau Temiang|PT Lintas Jaringan Nusantara|
-|10|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|8.211.141.29|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|190.60.57.42|3128|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|5|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|6|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|9|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|81.94.150.212|1080|Russia|Moscow|OOO WestCall Ltd|
+|17|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|18|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|19|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
 
 
 
