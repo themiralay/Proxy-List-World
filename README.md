@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.138.145.64|3128|Japan|Chiyoda|SIMPLEIA|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|115.77.175.30|10014|Vietnam|Vũng Tàu|Viettel Group|
-|6|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|7|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|9|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|10|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|12|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|13|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|4|8.209.209.131|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|8|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|16|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|17|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|18|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|19|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|20|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|20|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
 
 
 
