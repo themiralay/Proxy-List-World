@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|8|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|183.96.222.70|18572|South Korea|Seoul|Korea Telecom|
-|12|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
-|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|10|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|103.173.165.2|7777|Indonesia|Babatan|PT Pusat Net Media|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|16|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|8.209.202.251|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|18|149.113.84.36|8080|Indonesia|Sleman|Linknet-Fastnet ASN|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
