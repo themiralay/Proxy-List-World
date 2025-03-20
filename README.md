@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|3|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|4|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|5|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|13|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
-|14|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|9|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|10|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|11|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|87.103.135.119|4444|Russia|Kemerovo|SIBNET-IRKUTSK|
+|14|186.190.224.86|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |15|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|16|190.97.228.46|465|Venezuela|Caracas|Viginet C.A|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|90.156.202.59|3128|Russia|Moscow|.masterhost|
-|19|165.16.27.43|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|20|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
+|18|185.151.151.166|3128|Syria|Damascus|Syrian Telecom|
+|19|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
