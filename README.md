@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.82.37.41|8888|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
-|9|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|103.156.86.107|8080|Indonesia|Palopo|PT Chacha Networking System|
-|13|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|114.219.102.18|8089|China|Nanjing|China Telecom|
-|17|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|19|67.43.228.250|23373|Canada|Montreal|GloboTech Communications|
-|20|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|7|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
+|20|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
