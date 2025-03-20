@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|103.13.204.89|8083|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|10|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.209.218.24|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|8|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|15|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 |16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|201.76.9.115|8080|Brazil|Criciúma|Contato Internet EIRELI|
+|20|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
 
 
 
