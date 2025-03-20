@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|171.228.142.76|1001|Vietnam|Hanoi|Viettel Corporation|
-|6|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|7|115.245.89.250|8080|India|Chennai|Reliance Jio Infocomm Limited|
-|8|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
-|9|27.64.212.129|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|13|8.209.200.126|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|15|160.19.17.33|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|103.166.32.226|1111|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|115.77.159.26|1005|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|8.211.138.106|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|8.211.142.152|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|24.106.221.230|53281|United States|Leland|Spectrum|
+|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
