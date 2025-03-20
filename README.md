@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|2|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|202.176.1.25|4343|India|Chandauli|RailTel Corporation|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|117.102.81.4|53281|Indonesia|Jakarta|Biznet Networks|
-|9|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|13|89.19.175.122|8019|Russia|Moscow|OJSC Comcor|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|121.227.109.52|8089|China|Nanjing|China Telecom|
-|16|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|17|72.10.160.92|15217|Canada|Montreal|GloboTech Communications|
-|18|27.189.130.149|8089|China|Langfang|Chinanet|
-|19|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|4|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|38.156.13.75|999|Colombia|Bogotá|Web Master Colombia|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|12|177.93.51.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
