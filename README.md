@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|222.70.145.9|1080|China|Shanghai|China Telecom (Group)|
-|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|19|114.224.141.172|8089|China|Wuxi|Chinanet|
-|20|114.219.174.22|8089|China|Nanjing|China Telecom|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|8|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|9|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|10|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|13|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|14|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|15|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|18|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|20|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
 
 
 
