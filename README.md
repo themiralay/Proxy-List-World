@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|12|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.227.227|22273|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|23455|Canada|Montreal|GloboTech Communications|
-|17|121.227.109.50|8089|China|Nanjing|China Telecom|
-|18|121.227.109.55|8089|China|Nanjing|China Telecom|
-|19|27.189.132.12|8089|China|Langfang|Chinanet|
-|20|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|8.211.136.41|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|103.147.73.35|3088|Indonesia|Depok|ALFATINDO|
+|11|170.81.77.132|2222|Brazil|João Pessoa|Sigtel Servicos De Telecomunicacoes Ltda|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|18|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
