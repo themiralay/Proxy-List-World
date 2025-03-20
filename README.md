@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|6|102.165.58.199|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|7|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|160.242.19.122|8080|Angola|Luanda|Paratus Telecommunications Limited|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|115.77.159.26|1004|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
-|17|115.77.159.26|1004|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|202.212.71.109|3128|Japan|Katsushika|SIMPLEIA|
-|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|27.131.248.143|8081|Indonesia|Jakarta|SpaceX Starlink|
+|18|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|202.212.71.109|3128|Japan|Katsushika|SIMPLEIA|
+|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
