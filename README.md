@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|172.96.137.143|3128|United States|Dallas|Shock Hosting LLC|
-|7|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|8.209.209.136|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|13|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|186.148.181.66|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|67.43.227.226|3115|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|171.6.186.171|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|3|8.209.197.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|148.251.66.167|8520|Germany|Falkenstein|Hetzner Online GmbH|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|10|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|13|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|14|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|18|8.209.208.74|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|20|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
