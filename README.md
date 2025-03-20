@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.209.211.110|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.211.140.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.211.140.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|16|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|7|8.209.201.188|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|47.245.63.154|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|12|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|13|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|8.209.208.13|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|16|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|17|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|18|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
