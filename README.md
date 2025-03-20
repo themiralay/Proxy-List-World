@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|8.209.211.108|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.57.39.151|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|9|8.211.140.117|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|8.209.203.77|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|15|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|17|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|18|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|8|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
+|9|60.50.128.61|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|190.139.5.202|3388|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|15|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|16|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|118.113.246.196|2324|China|Shanghai|Chinanet|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
