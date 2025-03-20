@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.206|3128|Japan|Chiyoda|SIMPLEIA|
-|2|203.138.145.118|3128|Japan|Chiyoda|SIMPLEIA|
+|1|203.138.145.118|3128|Japan|Chiyoda|SIMPLEIA|
+|2|203.138.145.206|3128|Japan|Chiyoda|SIMPLEIA|
 |3|203.138.145.131|3128|Japan|Chiyoda|SIMPLEIA|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|7|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|14|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|15|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|16|47.245.60.210|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|17|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|18|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|19|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|10|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|11|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|12|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|18|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|19|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|20|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
