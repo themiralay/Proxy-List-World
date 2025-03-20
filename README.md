@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|96.30.79.84|8081|Thailand|Chon Buri|Symphony Communication Public Company Limited|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|2|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|7|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|13|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|14|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|15|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|16|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|17|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|18|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|19|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|14|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|18|177.234.211.95|999|Ecuador|Quito|VUELATECHNOLOGY|
+|19|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|20|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
