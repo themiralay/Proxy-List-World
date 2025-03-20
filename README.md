@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|7|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|14|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|15|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|16|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|17|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|18|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|19|81.94.150.212|1080|Russia|Moscow|OOO WestCall Ltd|
-|20|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|81.94.150.212|1080|Russia|Moscow|OOO WestCall Ltd|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
+|9|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|11|8.211.141.221|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|14|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|203.138.145.215|3128|Japan|Chiyoda|SIMPLEIA|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|19|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
