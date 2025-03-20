@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|8.211.165.226|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|14|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|15|47.245.55.140|3389|Japan|Tokyo|Alibaba Cloud LLC|
-|16|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|19|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|10|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|13|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|14|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|17|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|18|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|47.245.55.140|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
