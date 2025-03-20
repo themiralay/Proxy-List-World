@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|13|79.106.226.202|8989|Albania|Sarandë|ONE ALBANIA SH.A.|
-|14|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|15|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|18|8.211.133.213|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|4|8.211.170.7|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|8.209.247.209|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|8.209.205.39|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|14|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|16|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|17|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|18|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|19|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|20|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
