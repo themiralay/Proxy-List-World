@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|7|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|10|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|11|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|7|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|8|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|9|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|10|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |13|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|14|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|15|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|14|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|15|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
 |16|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|17|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|18|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
-|19|206.189.231.227|999|United States|North Bergen|DigitalOcean, LLC|
-|20|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|17|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|18|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|19|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
