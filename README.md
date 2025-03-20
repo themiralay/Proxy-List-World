@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|3|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|6|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|7|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|10|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|11|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|12|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|13|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|16|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|19|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|6|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|10|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|11|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|12|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|15|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|16|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|17|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|18|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|19|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|20|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
