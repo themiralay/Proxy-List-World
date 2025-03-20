@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.39.239.79|65053|South Korea|Mapo-gu|Korea Telecom|
-|2|8.218.29.240|8989|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
-|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|13|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|187.137.36.210|999|Mexico|Ciudad Obregón|Uninet S.A. de C.V.|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|8.209.205.252|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|11|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|12|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|15|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|16|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|8.209.200.187|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|190.43.232.131|999|Peru|Lima|Telefonica del Perú|
 
 
 
