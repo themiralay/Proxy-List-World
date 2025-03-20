@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|8.209.216.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|10|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|13|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|14|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
-|15|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|16|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|17|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|3|47.245.38.217|3389|Japan|Tokyo|Alibaba Cloud LLC|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|123.16.27.82|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|8.209.216.230|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|13|185.228.236.20|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|14|115.127.139.106|48134|Bangladesh|Paltan|BRACNet Limited|
+|15|45.149.77.50|1080|Iran|Tehran|Pars Parva System LLC|
+|16|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|20|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|19|103.125.174.62|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|20|138.185.225.174|999|Mexico|Saltillo|Spectro Networks Telecomunicaciones, S. de R.L. de C.V.|
 
 
 
