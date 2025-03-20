@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|6|36.91.15.241|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|9|8.209.201.125|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|38.171.6.216|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|9|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|10|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|11|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|12|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|13|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|14|8.209.200.203|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|16|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
+|17|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|18|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|19|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
 |20|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
