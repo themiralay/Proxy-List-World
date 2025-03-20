@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.218|3128|Japan|Chiyoda|SIMPLEIA|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.209.250.94|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|16|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|18|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|19|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|20|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|115.77.175.30|10009|Vietnam|Vũng Tàu|Viettel Group|
 
 
 
